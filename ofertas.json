@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-11T17:06:45.353Z",
+  "atualizado": "2026-11-11T19:27:32.193Z",
   "ofertas": [
+    {
+      "id": "2v8czf3",
+      "nome": "Creatina Soldiers Nutrition em pó Sem sabor x 1kg",
+      "categoria": "Suplementos",
+      "preco": 68.9,
+      "link": "https://meli.la/2v8czf3",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/creatina-soldiers-nutrition-em-po-sem-sabor-x-1kg/p/MLB18725310",
+      "precoDe": 239.9,
+      "postado": "2026-11-11T19:27:32.190Z",
+      "conferido": "2026-11-11",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2v8czf3.jpg"
+    },
     {
       "id": "25xiP2j",
       "nome": "Processador AMD Ryzen 5 5500 3.6GHz 4.2GHz Max Turbo Cache 16MB AM4",
