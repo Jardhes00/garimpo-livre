@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-11T19:40:02.831Z",
+  "atualizado": "2026-11-11T19:41:47.268Z",
   "ofertas": [
+    {
+      "id": "32Lkajy",
+      "nome": "Kit Starlink Mini X – Internet via Satélite com Antena Mini e Roteador Wi-Fi 6",
+      "categoria": "Diversos",
+      "preco": 424.15,
+      "link": "https://meli.la/32Lkajy",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-starlink-mini-x-internet-via-satelite-com-antena-mini-e-roteador-wi-fi-6/p/MLB65276331",
+      "precoDe": 699,
+      "pix": true,
+      "parcelas": "R$ 499 em 9x de R$ 55,44 sem juros",
+      "postado": "2026-11-11T19:41:47.266Z",
+      "conferido": "2026-11-11",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-32Lkajy.jpg"
+    },
     {
       "id": "18eHdRz",
       "nome": "Máscara de Reconstrução Profunda para Cabelos Danificados, Força e Elasticidade Résistance Thérapiste Kérastase 200ml",
