@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-11T19:41:47.268Z",
+  "atualizado": "2026-11-11T19:43:17.478Z",
   "ofertas": [
+    {
+      "id": "19Rcp2d",
+      "nome": "Kit 10 Cuecas Boxer Lupo Algodão Confortável Box Original",
+      "categoria": "Moda",
+      "preco": 159.99,
+      "link": "https://meli.la/19Rcp2d",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-1473758753-kit-10-cuecas-boxer-lupo-algodo-confortavel-box-original-_JM",
+      "precoDe": 449.99,
+      "postado": "2026-11-11T19:43:17.477Z",
+      "conferido": "2026-11-11",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-19Rcp2d.jpg"
+    },
     {
       "id": "32Lkajy",
       "nome": "Kit Starlink Mini X – Internet via Satélite com Antena Mini e Roteador Wi-Fi 6",
