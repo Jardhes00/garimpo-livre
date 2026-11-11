@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-11T19:46:47.547Z",
+  "atualizado": "2026-11-11T19:48:33.108Z",
   "ofertas": [
+    {
+      "id": "22oTEju",
+      "nome": "Impressora Multifuncional HP Smart Tank 584 - Preta",
+      "categoria": "Tech",
+      "preco": 714.6,
+      "link": "https://meli.la/22oTEju",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/impressora-multifuncional-hp-smart-tank-584-preta/p/MLB34801962",
+      "precoDe": 1363,
+      "pix": true,
+      "parcelas": "R$ 794 em 10x de R$ 79,40 sem juros",
+      "postado": "2026-11-11T19:48:33.106Z",
+      "conferido": "2026-11-11",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-22oTEju.jpg"
+    },
     {
       "id": "26QJ1V6",
       "nome": "Fritadeira Elétrica AFON-12L-BG Forno Oven 12 Litros Preto Mondial",
