@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-11T19:44:47.552Z",
+  "atualizado": "2026-11-11T19:46:47.547Z",
   "ofertas": [
+    {
+      "id": "26QJ1V6",
+      "nome": "Fritadeira Elétrica AFON-12L-BG Forno Oven 12 Litros Preto Mondial",
+      "categoria": "Casa",
+      "preco": 436.4,
+      "link": "https://meli.la/26QJ1V6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fritadeira-eletrica-afon-12l-bg-forno-oven-12-litros-preto-mondial/p/MLB45070708",
+      "precoDe": 899,
+      "pix": true,
+      "parcelas": "R$ 449,90 em 8x de R$ 56,24 sem juros",
+      "postado": "2026-11-11T19:46:47.544Z",
+      "conferido": "2026-11-11",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-26QJ1V6.jpg"
+    },
     {
       "id": "1VK1irW",
       "nome": "Caixa de Som Boombox Plus AIWA BBS-01-LBL 200W Bluetooth 30H IP66 USB RGB",
