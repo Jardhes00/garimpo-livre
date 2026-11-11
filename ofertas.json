@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-11T19:43:17.478Z",
+  "atualizado": "2026-11-11T19:44:47.552Z",
   "ofertas": [
+    {
+      "id": "1VK1irW",
+      "nome": "Caixa de Som Boombox Plus AIWA BBS-01-LBL 200W Bluetooth 30H IP66 USB RGB",
+      "categoria": "Tech",
+      "preco": 1195,
+      "link": "https://meli.la/1VK1irW",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-boombox-plus-aiwa-bbs-01-lbl-200w-bluetooth-30h-ip66-usb-rgb/p/MLB38520699",
+      "precoDe": 2299,
+      "parcelas": "10x de R$ 119,50 sem juros",
+      "postado": "2026-11-11T19:44:47.549Z",
+      "conferido": "2026-11-11",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1VK1irW.jpg"
+    },
     {
       "id": "19Rcp2d",
       "nome": "Kit 10 Cuecas Boxer Lupo Algodão Confortável Box Original",
