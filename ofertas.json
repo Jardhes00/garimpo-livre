@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-11T19:33:17.215Z",
+  "atualizado": "2026-11-11T19:35:02.369Z",
   "ofertas": [
+    {
+      "id": "2opYHai",
+      "nome": "Conj de Panelas 8 Peças Ceramic Life Smart Plus Vanilla - Brinox",
+      "categoria": "Casa",
+      "preco": 479.9,
+      "link": "https://meli.la/2opYHai",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/conj-de-panelas-8-pecas-ceramic-life-smart-plus-vanilla-brinox/p/MLB32717965",
+      "precoDe": 1099,
+      "parcelas": "9x de R$ 53,32 sem juros",
+      "postado": "2026-11-11T19:35:02.365Z",
+      "conferido": "2026-11-11",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2opYHai.jpg"
+    },
     {
       "id": "2FY3Zut",
       "nome": "Parafusadeira Furadeira De Impacto The Black Tools Profissional TB-21PX 2 Baterias Com Maleta 60Hz Amarelo",
