@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-11T19:48:33.108Z",
+  "atualizado": "2026-11-11T19:50:17.831Z",
   "ofertas": [
+    {
+      "id": "2mpeb9v",
+      "nome": "SSD Kingston NV3 500GB M.2 2280 NVMe PCIe 4.0",
+      "categoria": "Tech",
+      "preco": 649.9,
+      "link": "https://meli.la/2mpeb9v",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ssd-kingston-nv3-500gb-m2-2280-nvme-pcie-40/p/MLB39410080",
+      "precoDe": 1226,
+      "parcelas": "10x de R$ 64,99 sem juros",
+      "postado": "2026-11-11T19:50:17.829Z",
+      "conferido": "2026-11-11",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2mpeb9v.jpg"
+    },
     {
       "id": "22oTEju",
       "nome": "Impressora Multifuncional HP Smart Tank 584 - Preta",
