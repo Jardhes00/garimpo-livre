@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-11T19:30:47.075Z",
+  "atualizado": "2026-11-11T19:32:02.146Z",
   "ofertas": [
+    {
+      "id": "2xqLGyo",
+      "nome": "Tênis Flyer Runner Mesh Bdp Puma",
+      "categoria": "Moda",
+      "preco": 179.99,
+      "link": "https://meli.la/2xqLGyo",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-3806655487-tnis-flyer-runner-mesh-bdp-puma-_JM",
+      "precoDe": 349.99,
+      "parcelas": "5x de R$ 36 sem juros",
+      "postado": "2026-11-11T19:32:02.144Z",
+      "conferido": "2026-11-11",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2xqLGyo.jpg"
+    },
     {
       "id": "2pz14wW",
       "nome": "Cetaphil Loção Hidratante Corporal e Facial para Pele Sensível, Normal a Seca 1L - Hidratação 48h",
