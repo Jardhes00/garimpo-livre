@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-11T19:36:47.247Z",
+  "atualizado": "2026-11-11T19:38:47.137Z",
   "ofertas": [
+    {
+      "id": "1rKjBqU",
+      "nome": "Smartphone Motorola Moto G06 4g 6.9pol 128gb 4gb Câmera 50mp Azul",
+      "categoria": "Tech",
+      "preco": 689,
+      "link": "https://meli.la/1rKjBqU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g06-4g-69pol-128gb-4gb-camera-50mp-azul/p/MLB62405543",
+      "precoDe": 1544,
+      "parcelas": "12x de R$ 66,63",
+      "postado": "2026-11-11T19:38:47.136Z",
+      "conferido": "2026-11-11",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1rKjBqU.jpg"
+    },
     {
       "id": "1wVjte7",
       "nome": "Câmera Inteligente Intelbras iM5SC con Wi-Fi Full HD color Branca",
