@@ -34,6 +34,7 @@ function iniciarPostador({ client, grupoId, cfg, store, log, avisar, teste = fal
       else await client.sendMessage(grupoId, legenda);
 
       store.salvar(item.oferta, { media, autor: "bot" });
+      store.agendarPublicacao(); // manda para o site no ar (GitHub) junto com os próximos posts
       fila.marcarPostado(item.id);
       if (item.foto) { try { fs.unlinkSync(item.foto); } catch (e) {} }
       const resto = fila.ler().length;
