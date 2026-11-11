@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-11T19:29:32.424Z",
+  "atualizado": "2026-11-11T19:30:47.075Z",
   "ofertas": [
+    {
+      "id": "2pz14wW",
+      "nome": "Cetaphil Loção Hidratante Corporal e Facial para Pele Sensível, Normal a Seca 1L - Hidratação 48h",
+      "categoria": "Beleza",
+      "preco": 109.9,
+      "link": "https://meli.la/2pz14wW",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cetaphil-locao-hidratante-corporal-e-facial-para-pele-sensivel-normal-a-seca-1l-hidratacao-48h/p/MLB55232692",
+      "precoDe": 205.9,
+      "parcelas": "4x de R$ 27,48 sem juros",
+      "postado": "2026-11-11T19:30:47.072Z",
+      "conferido": "2026-11-11",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2pz14wW.jpg"
+    },
     {
       "id": "2wUGn6L",
       "nome": "Smartwatch Samsung Galaxy Watch8 LTE de 44mm com Galaxy AI, Grafite",
