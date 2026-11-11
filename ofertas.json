@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-11T19:27:32.193Z",
+  "atualizado": "2026-11-11T19:29:32.424Z",
   "ofertas": [
+    {
+      "id": "2wUGn6L",
+      "nome": "Smartwatch Samsung Galaxy Watch8 LTE de 44mm com Galaxy AI, Grafite",
+      "categoria": "Tech",
+      "preco": 1215,
+      "link": "https://meli.la/2wUGn6L",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smartwatch-samsung-galaxy-watch8-lte-de-44mm-com-galaxy-ai-grafite/p/MLB52915893",
+      "precoDe": 3099,
+      "pix": true,
+      "parcelas": "R$ 1.350 em 10x de R$ 135 sem juros",
+      "postado": "2026-11-11T19:29:32.422Z",
+      "conferido": "2026-11-11",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2wUGn6L.jpg"
+    },
     {
       "id": "2v8czf3",
       "nome": "Creatina Soldiers Nutrition em pó Sem sabor x 1kg",
