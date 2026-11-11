@@ -1,0 +1,22 @@
+{
+  "name": "garimpo-livre-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lê as ofertas postadas no grupo do WhatsApp e atualiza o site Garimpo Livre.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "testar": "node index.js --teste",
+    "adicionar-fila": "node adicionar-fila.js",
+    "test": "node test-parser.js && node test-store.js && node test-garimpo.js && node test-fila.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "puppeteer": "24.38.0",
+    "qrcode": "1.5.4",
+    "qrcode-terminal": "0.12.0",
+    "whatsapp-web.js": "github:wwebjs/whatsapp-web.js#064a3d5a5a3dce1281a6a12740b5a7051339d154"
+  }
+}

@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>QR do bot Garimpo Livre</title>
+<style>
+  body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: #2a1259; color: #fff; font: 18px system-ui, sans-serif; text-align: center; }
+  img { width: min(80vmin, 560px); background: #fff; border-radius: 16px; padding: 8px; }
+  b { color: #ffc92e; }
+  p { max-width: 560px; line-height: 1.5; }
+</style>
+</head>
+<body>
+<div>
+  <img id="qr" src="qr.png" alt="QR Code do bot">
+  <p>No celular do chip, no <b>WhatsApp Business</b>: <b>⋮ &gt; Aparelhos conectados &gt; Conectar um aparelho</b> e aponte para este QR.<br>
+  Ele se atualiza sozinho. Quando o bot conectar, o QR some.</p>
+</div>
+<script>
+  // recarrega a imagem a cada 2 s, porque o WhatsApp troca o QR a cada ~20 s
+  const img = document.getElementById("qr");
+  img.onerror = () => { img.style.visibility = "hidden"; };
+  img.onload = () => { img.style.visibility = "visible"; };
+  setInterval(() => { img.src = "qr.png?t=" + Date.now(); }, 2000);
+</script>
+</body>
+</html>

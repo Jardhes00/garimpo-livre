@@ -1,0 +1,24 @@
+{
+  "grupo": "Garimpo Livre",
+  "canal": "https://whatsapp.com/channel/0029Vb9VSeT72WTwAyTD8Y3t",
+  "numeroBot": "",
+  "avisarNumero": "",
+  "autorizados": [],
+  "pastaSite": "..",
+  "diasNoArquivo": 2,
+  "recuperarUltimas": 60,
+  "git": {
+    "ativo": false,
+    "esperarSegundos": 60
+  },
+  "postagem": {
+    "intervaloMinutos": [
+      1,
+      2
+    ],
+    "janela": [
+      "08:00",
+      "22:30"
+    ]
+  }
+}

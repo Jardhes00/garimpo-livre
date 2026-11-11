@@ -1,0 +1,17 @@
+# Nunca publicar: login do WhatsApp do bot, configuração com números, dependências
+bot/.sessao/
+bot/.wwebjs_cache/
+bot/node_modules/
+bot/config.json
+bot/estado.json
+bot/historico.json
+bot/qr.png
+bot/.ml-perfil/
+*.log
+ofertas.json.tmp
+bot/codigo.txt
+bot/fila.json
+bot/fila-fotos/
+bot/bot.log
+bot/fila.json.tmp
+video/
