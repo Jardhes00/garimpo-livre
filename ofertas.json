@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-11T19:35:02.369Z",
+  "atualizado": "2026-11-11T19:36:47.247Z",
   "ofertas": [
+    {
+      "id": "1wVjte7",
+      "nome": "Câmera Inteligente Intelbras iM5SC con Wi-Fi Full HD color Branca",
+      "categoria": "Diversos",
+      "preco": 200.7,
+      "link": "https://meli.la/1wVjte7",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/camera-inteligente-intelbras-im5sc-con-wi-fi-full-hd-color-branca/p/MLB27705742",
+      "precoDe": 299.9,
+      "pix": true,
+      "parcelas": "R$ 223 em 6x de R$ 37,17 sem juros",
+      "postado": "2026-11-11T19:36:47.243Z",
+      "conferido": "2026-11-11",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1wVjte7.jpg"
+    },
     {
       "id": "2opYHai",
       "nome": "Conj de Panelas 8 Peças Ceramic Life Smart Plus Vanilla - Brinox",
