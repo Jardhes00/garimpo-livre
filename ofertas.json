@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T14:32:14.235Z",
+  "atualizado": "2026-11-12T14:33:59.356Z",
   "ofertas": [
+    {
+      "id": "1rfA9hR",
+      "nome": "Aspirador De Pó e Água Wap Gtw 10 Compacto 1400w 10 Litros Amarelo",
+      "categoria": "Casa",
+      "preco": 246.9,
+      "link": "https://meli.la/1rfA9hR",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB8923630",
+      "precoDe": 399,
+      "pix": true,
+      "parcelas": "R$259,90 em outros meios",
+      "postado": "2026-11-12T14:33:59.355Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1rfA9hR.jpg"
+    },
     {
       "id": "1rMAMK2",
       "nome": "Bicicleta ergométrica spinning ITS Fitness Pro 818 cor preto laranja",
