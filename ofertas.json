@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-12T14:15:00.516Z",
+  "atualizado": "2026-11-12T14:16:58.687Z",
   "ofertas": [
+    {
+      "id": "2fLAgVs",
+      "nome": "Smart Tv Philco 50 P50vik 4k Uhd Led Roku Dolby Audio Wi-fi Hdr10 110/220v",
+      "categoria": "Tech",
+      "preco": 2221.11,
+      "link": "https://meli.la/2fLAgVs",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB67267597",
+      "precoDe": 3499,
+      "parcelas": "10x de R$222,11 sem juros",
+      "postado": "2026-11-12T14:16:58.686Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2fLAgVs.jpg"
+    },
     {
       "id": "2gh8KZE",
       "nome": "Creatina Growth Supplements Monohidratada em pó Sem sabor x 250g",
