@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-12T19:01:14.248Z",
+  "atualizado": "2026-11-12T19:03:14.497Z",
   "ofertas": [
+    {
+      "id": "2PX1j26",
+      "nome": "Ecozendsy Colchão Inflável Casal Queen Size com Bomba Recarregável Embutida para Camping 200x154x43cm",
+      "categoria": "Casa",
+      "preco": 349.99,
+      "link": "https://meli.la/2PX1j26",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB77319644",
+      "precoDe": 598,
+      "postado": "2026-11-12T19:03:14.495Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2PX1j26.jpg"
+    },
     {
       "id": "1uYHtE2",
       "nome": "Aspirador de Pó Vertical e Portátil WAP High Speed Plus 1350W 3 em 1",
