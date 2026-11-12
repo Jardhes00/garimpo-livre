@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T15:00:45.145Z",
+  "atualizado": "2026-11-12T15:02:00.321Z",
   "ofertas": [
+    {
+      "id": "238c33U",
+      "nome": "Motosserra Elétrica Brushless 16 Polegadas 2 Bateria 3600w Vermelho 110 V / 127 V / 220 V",
+      "categoria": "Ferramentas",
+      "preco": 279.65,
+      "link": "https://meli.la/238c33U",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/motosserra-eletrica-brushless-16-polegadas-2-bateria-3600w-vermelho-110-v-127-v-220-v/p/MLB73570557",
+      "precoDe": 900,
+      "pix": true,
+      "parcelas": "R$ 329 em outros meios",
+      "postado": "2026-11-12T15:02:00.320Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-238c33U.jpg"
+    },
     {
       "id": "18r16tQ",
       "nome": "Kit Com 2 Câmeras De Segurança Ip Wifi A8 Full Hd Icsee Ptz 355° Com Visão Noturna Áudio Bidirecional Ip66 Monitoramento Remoto Para Celular Android E iPhone",
