@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-12T14:28:29.136Z",
+  "atualizado": "2026-11-12T14:30:14.690Z",
   "ofertas": [
+    {
+      "id": "2F1hqbL",
+      "nome": "Esmerilhadeira Bosch 4,5\" 220V 710W GWS 700",
+      "categoria": "Ferramentas",
+      "preco": 259.9,
+      "link": "https://meli.la/2F1hqbL",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB19109935",
+      "precoDe": 413.5,
+      "postado": "2026-11-12T14:30:14.689Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2F1hqbL.jpg"
+    },
     {
       "id": "2TNbKMw",
       "nome": "Fritadeira Air Fryer 4,5l Widemax Com Interior De Alumínio 1500w Midea",
