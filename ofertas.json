@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-12T19:03:14.497Z",
+  "atualizado": "2026-11-12T19:04:44.625Z",
   "ofertas": [
+    {
+      "id": "1ccVwSj",
+      "nome": "Ring Light LED Lumi de 33cm com Tripé 2,10m e Luz Ajustável para Maquiagem e Vídeos",
+      "categoria": "Beleza",
+      "preco": 102,
+      "link": "https://meli.la/1ccVwSj",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB34075437",
+      "precoDe": 279.98,
+      "postado": "2026-11-12T19:04:44.623Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ccVwSj.jpg"
+    },
     {
       "id": "2PX1j26",
       "nome": "Ecozendsy Colchão Inflável Casal Queen Size com Bomba Recarregável Embutida para Camping 200x154x43cm",
