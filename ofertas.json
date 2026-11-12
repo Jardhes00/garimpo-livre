@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-12T14:33:59.356Z",
+  "atualizado": "2026-11-12T14:35:29.358Z",
   "ofertas": [
+    {
+      "id": "29A5UcH",
+      "nome": "Lavadora de Alta Pressão Kärcher Compacta 1.500 PSI 1400W 300L/h com Aplicador de Detergente 220v",
+      "categoria": "Diversos",
+      "preco": 299,
+      "link": "https://meli.la/29A5UcH",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB25371983",
+      "precoDe": 499.9,
+      "postado": "2026-11-12T14:35:29.356Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-29A5UcH.jpg"
+    },
     {
       "id": "1rfA9hR",
       "nome": "Aspirador De Pó e Água Wap Gtw 10 Compacto 1400w 10 Litros Amarelo",
