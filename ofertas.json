@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-12T15:20:15.684Z",
+  "atualizado": "2026-11-12T15:21:45.624Z",
   "ofertas": [
+    {
+      "id": "1cXtEsX",
+      "nome": "Câmera Segurança Wi-Fi Tapo C320WS TP-Link 2K Externa IP66",
+      "categoria": "Diversos",
+      "preco": 215.1,
+      "link": "https://meli.la/1cXtEsX",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/camera-seguranca-wi-fi-tapo-c320ws-tp-link-2k-externa-ip66/p/MLB19693785",
+      "precoDe": 329.99,
+      "pix": true,
+      "parcelas": "R$ 239 em 3x de R$ 79,67 sem juros",
+      "relampago": true,
+      "postado": "2026-11-12T15:21:45.623Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1cXtEsX.jpg"
+    },
     {
       "id": "1VkeNUh",
       "nome": "O Boticário Liz Flora Desodorante Colônia 100ml",
