@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-12T14:13:00.830Z",
+  "atualizado": "2026-11-12T14:15:00.516Z",
   "ofertas": [
+    {
+      "id": "2gh8KZE",
+      "nome": "Creatina Growth Supplements Monohidratada em pó Sem sabor x 250g",
+      "categoria": "Suplementos",
+      "preco": 34.9,
+      "link": "https://meli.la/2gh8KZE",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB19603205",
+      "precoDe": 64.9,
+      "cupomAnuncio": "Compre R$200 e ganhe R$10 OFF por seguir a loja",
+      "postado": "2026-11-12T14:15:00.514Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2gh8KZE.jpg"
+    },
     {
       "id": "1RGuZ92",
       "nome": "Fone De Ouvido Soundcore by Anker P20i Bluetooth 5.3 30H de Reprodução Resistência à Água Cor Preto",
