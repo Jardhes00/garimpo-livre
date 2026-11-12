@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-12T18:59:29.839Z",
+  "atualizado": "2026-11-12T19:01:14.248Z",
   "ofertas": [
+    {
+      "id": "1uYHtE2",
+      "nome": "Aspirador de Pó Vertical e Portátil WAP High Speed Plus 1350W 3 em 1",
+      "categoria": "Casa",
+      "preco": 142.9,
+      "link": "https://meli.la/1uYHtE2",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB22511808",
+      "precoDe": 207,
+      "postado": "2026-11-12T19:01:14.247Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1uYHtE2.jpg"
+    },
     {
       "id": "1SBYuKJ",
       "nome": "Lixeira Inteligente Sensor Automático 16l Cinza Smart Recarregável Para Banheiro E Cozinha",
