@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T13:56:43.842Z",
+  "atualizado": "2026-11-12T13:58:13.494Z",
   "ofertas": [
+    {
+      "id": "1ZViVpP",
+      "nome": "Máquina de Acabamento ITAN Kemei Max5090 Cortador de Cabelo Bivolt",
+      "categoria": "Diversos",
+      "preco": 84.04,
+      "link": "https://meli.la/1ZViVpP",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB62560818",
+      "precoDe": 145,
+      "pix": true,
+      "parcelas": "R$91,35 em outros meios",
+      "postado": "2026-11-12T13:58:13.492Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ZViVpP.jpg"
+    },
     {
       "id": "1RZ89VL",
       "nome": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
