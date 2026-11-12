@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T19:16:31.087Z",
+  "atualizado": "2026-11-12T20:23:23.528Z",
   "ofertas": [
+    {
+      "id": "1xBkM4P",
+      "nome": "Celular Samsung Galaxy A57 5G 256GB, 8GB RAM, Recursos AI - Cinza",
+      "categoria": "Tech",
+      "preco": 2249.1,
+      "link": "https://meli.la/1xBkM4P",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB68212479",
+      "precoDe": 4299,
+      "pix": true,
+      "parcelas": "R$2.499 em 10x R$249,90 sem juros",
+      "postado": "2026-11-12T20:23:23.526Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1xBkM4P.jpg"
+    },
     {
       "id": "1iev5rt",
       "nome": "Piscina Playground Centro 522L Dinosaur Land Pvc Espessado Piscina Inflavel Infantil Presente Dia das Crianças Festa Infantil Escorregador Infantil",
