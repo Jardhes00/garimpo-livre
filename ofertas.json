@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T19:04:44.625Z",
+  "atualizado": "2026-11-12T19:06:14.550Z",
   "ofertas": [
+    {
+      "id": "1fh5jSf",
+      "nome": "Escova Progressiva 150g - Fashion Gold",
+      "categoria": "Diversos",
+      "preco": 71.2,
+      "link": "https://meli.la/1fh5jSf",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB52363091",
+      "precoDe": 116.9,
+      "pix": true,
+      "parcelas": "R$79,11 em 3x R$26,37 sem juros",
+      "postado": "2026-11-12T19:06:14.549Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1fh5jSf.jpg"
+    },
     {
       "id": "1ccVwSj",
       "nome": "Ring Light LED Lumi de 33cm com Tripé 2,10m e Luz Ajustável para Maquiagem e Vídeos",
