@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-12T15:02:00.321Z",
+  "atualizado": "2026-11-12T15:03:30.584Z",
   "ofertas": [
+    {
+      "id": "1sBUDzm",
+      "nome": "Suporte Starlink Mini Ventosa Com 4 Ventosa Vácuo Para Carro Branco Branco",
+      "categoria": "Auto",
+      "preco": 93.52,
+      "link": "https://meli.la/1sBUDzm",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/suporte-starlink-mini-ventosa-com-4-ventosa-vacuo-para-carro-branco/up/MLBU4114375676",
+      "precoDe": 173.2,
+      "parcelas": "3x de R$ 31,17 sem juros",
+      "postado": "2026-11-12T15:03:30.582Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1sBUDzm.jpg"
+    },
     {
       "id": "238c33U",
       "nome": "Motosserra Elétrica Brushless 16 Polegadas 2 Bateria 3600w Vermelho 110 V / 127 V / 220 V",
