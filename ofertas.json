@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-12T15:56:01.687Z",
+  "atualizado": "2026-11-12T15:57:31.622Z",
   "ofertas": [
+    {
+      "id": "1BPKLnP",
+      "nome": "Fone de Ouvido Bluetooth 5.4 soundcore P30i da Anker, Cancelamento de Ruído Adaptativo, Graves Poderosos, 45H de Reprodução, Estojo 2-em-1 com Suporte para Celular, IP54, Fone sem fio TWS, Preto",
+      "categoria": "Tech",
+      "preco": 196,
+      "link": "https://meli.la/1BPKLnP",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB38176139",
+      "precoDe": 389,
+      "parcelas": "6x de R$32,67 sem juros",
+      "postado": "2026-11-12T15:57:31.621Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1BPKLnP.jpg"
+    },
     {
       "id": "2V8vGMX",
       "nome": "Smart Tv 32 Philco P32vik Roku Led Dolby Audio Hdr Wi-fi 110/220v",
