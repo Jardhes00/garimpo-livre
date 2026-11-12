@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-12T18:54:14.716Z",
+  "atualizado": "2026-11-12T18:56:14.501Z",
   "ofertas": [
+    {
+      "id": "1w9sFy9",
+      "nome": "Cadeira Escritório Ergonômica Genebra B500 NR-17 Luvinco Cor Preto Com Suporte Lombar Estofado Mesh",
+      "categoria": "Diversos",
+      "preco": 549.9,
+      "link": "https://meli.la/1w9sFy9",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB46220740",
+      "precoDe": 906.53,
+      "parcelas": "10x de R$54,99 sem juros",
+      "postado": "2026-11-12T18:56:14.499Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1w9sFy9.jpg"
+    },
     {
       "id": "26Jx3wq",
       "nome": "Smart Tv Philco 58 P58vik 4k Uhd Led Roku Dolby Audio Wi-fi Hdr10 110/220v",
