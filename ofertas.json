@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-12T16:08:02.150Z",
+  "atualizado": "2026-11-12T16:09:47.282Z",
   "ofertas": [
+    {
+      "id": "34j9Tic",
+      "nome": "Kit Principia para Rotina de Skincare Pele Sensível com Protetor Solar FPS 60",
+      "categoria": "Beleza",
+      "preco": 93.71,
+      "link": "https://meli.la/34j9Tic",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB53618239",
+      "precoDe": 137,
+      "pix": true,
+      "parcelas": "R$98,64 em outros meios",
+      "cupomAnuncio": "R$87,15 com Cupom por seguir a loja",
+      "postado": "2026-11-12T16:09:47.281Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-34j9Tic.jpg"
+    },
     {
       "id": "1kyNjMV",
       "nome": "Secador De Cabelos Philco psc3500 4 Em 1 dobrável motor bldc Prateado",
