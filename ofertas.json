@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-12T14:35:29.358Z",
+  "atualizado": "2026-11-12T14:36:44.376Z",
   "ofertas": [
+    {
+      "id": "1haomu6",
+      "nome": "Soundbar Jbl Cinema 2.1 Hdmi Arc Bluetooth 110w Rms Preto",
+      "categoria": "Tech",
+      "preco": 793.41,
+      "link": "https://meli.la/1haomu6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB63738371",
+      "precoDe": 1099,
+      "postado": "2026-11-12T14:36:44.375Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1haomu6.jpg"
+    },
     {
       "id": "29A5UcH",
       "nome": "Lavadora de Alta Pressão Kärcher Compacta 1.500 PSI 1400W 300L/h com Aplicador de Detergente 220v",
