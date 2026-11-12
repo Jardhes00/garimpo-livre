@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T14:19:49.612Z",
+  "atualizado": "2026-11-12T14:21:43.854Z",
   "ofertas": [
+    {
+      "id": "1xgm9zx",
+      "nome": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Rosé",
+      "categoria": "Tech",
+      "preco": 159.3,
+      "link": "https://meli.la/1xgm9zx",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB34506161",
+      "precoDe": 499,
+      "pix": true,
+      "parcelas": "R$177 em 2x R$88,50 sem juros",
+      "postado": "2026-11-12T14:21:43.853Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1xgm9zx.jpg"
+    },
     {
       "id": "1SByKDs",
       "nome": "Mini Compressor Digital Portátil Bomba De Encher Pneus Com Calibrador De Ar Preto",
