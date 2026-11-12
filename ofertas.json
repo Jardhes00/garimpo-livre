@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-12T14:24:59.028Z",
+  "atualizado": "2026-11-12T14:26:58.932Z",
   "ofertas": [
+    {
+      "id": "1KGB3xV",
+      "nome": "Floratta Flores Secretas 75ml O Boticário Feminino",
+      "categoria": "Diversos",
+      "preco": 86.9,
+      "link": "https://meli.la/1KGB3xV",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB62797467",
+      "precoDe": 174.9,
+      "parcelas": "3x de R$28,97 sem juros",
+      "postado": "2026-11-12T14:26:58.930Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1KGB3xV.jpg"
+    },
     {
       "id": "3187KMw",
       "nome": "Inversor Veicular IF-378 350W 12V com USB e LED Defqual",
