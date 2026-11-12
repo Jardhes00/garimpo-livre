@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T15:15:15.688Z",
+  "atualizado": "2026-11-12T15:17:00.508Z",
   "ofertas": [
+    {
+      "id": "16aLLRP",
+      "nome": "Ar-condicionado Split 9000 Btu/h Prime Air 9qc Quente E Frio Branco",
+      "categoria": "Casa",
+      "preco": 1499,
+      "link": "https://meli.la/16aLLRP",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-split-9000-btuh-prime-air-9qc-quente-e-frio-branco/p/MLB59605532",
+      "precoDe": 2299,
+      "pix": true,
+      "parcelas": "R$ 1.629 em 10x de R$ 162,99 sem juros",
+      "postado": "2026-11-12T15:17:00.507Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-16aLLRP.jpg"
+    },
     {
       "id": "1gyCbKD",
       "nome": "Kit 2 Câmeras Segurança Ip Interna Externa Wifi iCSee Infravermelho Prova D’Água - HW",
