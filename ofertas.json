@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T14:08:58.616Z",
+  "atualizado": "2026-11-12T14:10:58.987Z",
   "ofertas": [
+    {
+      "id": "1LRVYbu",
+      "nome": "Liquidificador Philco 1200W 3L 12 Velocidades Preto PH900",
+      "categoria": "Casa",
+      "preco": 99.9,
+      "link": "https://meli.la/1LRVYbu",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB15578941",
+      "precoDe": 265,
+      "pix": true,
+      "parcelas": "R$105,16 em outros meios",
+      "postado": "2026-11-12T14:10:58.985Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1LRVYbu.jpg"
+    },
     {
       "id": "29fWHcU",
       "nome": "O Boticário Quasar Blue Desodorante Colônia 100ml",
