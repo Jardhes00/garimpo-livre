@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T15:54:31.778Z",
+  "atualizado": "2026-11-12T15:56:01.687Z",
   "ofertas": [
+    {
+      "id": "2V8vGMX",
+      "nome": "Smart Tv 32 Philco P32vik Roku Led Dolby Audio Hdr Wi-fi 110/220v",
+      "categoria": "Tech",
+      "preco": 999,
+      "link": "https://meli.la/2V8vGMX",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB63036814",
+      "precoDe": 1499,
+      "pix": true,
+      "parcelas": "R$1.085,87 em 10x R$108,59 sem juros",
+      "postado": "2026-11-12T15:56:01.685Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2V8vGMX.jpg"
+    },
     {
       "id": "1pstbMk",
       "nome": "Smartphone Samsung Galaxy A27 5G 128GB 6GB, Super Amoled 6.7'', Câmera Tripla 50MP Selfie 12MP, 5000 mAh, Ip67, NFC, Dual Sim, Recursos IA - Azul",
