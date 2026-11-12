@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T14:04:03.541Z",
+  "atualizado": "2026-11-12T14:05:32.028Z",
   "ofertas": [
+    {
+      "id": "23uU52z",
+      "nome": "Smartphone Samsung Galaxy A36 5g 128gb 6gb Ram Câmera Tripla De Até 50mp Selfie De 12mp Ip67 Super Amoled 6.7'' Nfc",
+      "categoria": "Tech",
+      "preco": 1359,
+      "link": "https://meli.la/23uU52z",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB47113437",
+      "precoDe": 2212.86,
+      "pix": true,
+      "parcelas": "R$1.510 em 10x R$151 sem juros",
+      "postado": "2026-11-12T14:05:32.026Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-23uU52z.jpg"
+    },
     {
       "id": "2P4XBdj",
       "nome": "Air Fryer Oven Philco PAF15C 15L 220V Preta",
