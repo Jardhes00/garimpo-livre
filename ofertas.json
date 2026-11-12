@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T16:06:17.231Z",
+  "atualizado": "2026-11-12T16:08:02.150Z",
   "ofertas": [
+    {
+      "id": "1kyNjMV",
+      "nome": "Secador De Cabelos Philco psc3500 4 Em 1 dobrável motor bldc Prateado",
+      "categoria": "Beleza",
+      "preco": 384.75,
+      "link": "https://meli.la/1kyNjMV",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB49652036",
+      "precoDe": 599,
+      "pix": true,
+      "parcelas": "R$405 em outros meios",
+      "postado": "2026-11-12T16:08:02.149Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1kyNjMV.jpg"
+    },
     {
       "id": "19FV6PA",
       "nome": "Câmera de Segurança Wi-Fi A28B 4K Dupla Lente Visão Noturna Colorida Full Hd Externa Prova D'água Ip66 Sensor Movimento iCSee DUOSEG",
