@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-12T14:36:44.376Z",
+  "atualizado": "2026-11-12T14:38:14.311Z",
   "ofertas": [
+    {
+      "id": "1CDczMY",
+      "nome": "Proteína Growth Supplements Basic Whey em pó sabor Chocolate x 1kg",
+      "categoria": "Suplementos",
+      "preco": 69.9,
+      "link": "https://meli.la/1CDczMY",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB18725403",
+      "precoDe": 104.9,
+      "cupomAnuncio": "Compre R$200 e ganhe R$10 OFF por seguir a loja",
+      "postado": "2026-11-12T14:38:14.310Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1CDczMY.jpg"
+    },
     {
       "id": "1haomu6",
       "nome": "Soundbar Jbl Cinema 2.1 Hdmi Arc Bluetooth 110w Rms Preto",
