@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-12T14:23:13.985Z",
+  "atualizado": "2026-11-12T14:24:59.028Z",
   "ofertas": [
+    {
+      "id": "3187KMw",
+      "nome": "Inversor Veicular IF-378 350W 12V com USB e LED Defqual",
+      "categoria": "Auto",
+      "preco": 89,
+      "link": "https://meli.la/3187KMw",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB62888640",
+      "precoDe": 249.98,
+      "postado": "2026-11-12T14:24:59.026Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-3187KMw.jpg"
+    },
     {
       "id": "2Nub3FA",
       "nome": "Mochila Reforçada Jiesipote Para Viagem Com Compartimento Para Notebook 15.6 E À Prova D'água Preto Liso",
