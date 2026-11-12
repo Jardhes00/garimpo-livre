@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T14:43:14.525Z",
+  "atualizado": "2026-11-12T14:45:14.480Z",
   "ofertas": [
+    {
+      "id": "16EyzXq",
+      "nome": "Cooktop 4 Bocas a Gás Electrolux Mesa de Vidro Efficient Grade de Aço Fosco (KE4GR) Bivolt",
+      "categoria": "Diversos",
+      "preco": 417.05,
+      "link": "https://meli.la/16EyzXq",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB50661985",
+      "precoDe": 619,
+      "pix": true,
+      "parcelas": "R$439 em outros meios",
+      "postado": "2026-11-12T14:45:14.478Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-16EyzXq.jpg"
+    },
     {
       "id": "2eC8C1B",
       "nome": "Batedeira Planetária Philco 900W 5L Preta 12 Velocidades Turbo PBP90A",
