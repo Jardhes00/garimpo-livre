@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-12T14:10:58.987Z",
+  "atualizado": "2026-11-12T14:13:00.830Z",
   "ofertas": [
+    {
+      "id": "1RGuZ92",
+      "nome": "Fone De Ouvido Soundcore by Anker P20i Bluetooth 5.3 30H de Reprodução Resistência à Água Cor Preto",
+      "categoria": "Tech",
+      "preco": 129,
+      "link": "https://meli.la/1RGuZ92",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB24028629",
+      "precoDe": 299,
+      "parcelas": "4x de R$32,25 sem juros",
+      "postado": "2026-11-12T14:13:00.829Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1RGuZ92.jpg"
+    },
     {
       "id": "1LRVYbu",
       "nome": "Liquidificador Philco 1200W 3L 12 Velocidades Preto PH900",
