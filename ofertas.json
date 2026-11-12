@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T15:52:31.908Z",
+  "atualizado": "2026-11-12T15:54:31.778Z",
   "ofertas": [
+    {
+      "id": "1pstbMk",
+      "nome": "Smartphone Samsung Galaxy A27 5G 128GB 6GB, Super Amoled 6.7'', Câmera Tripla 50MP Selfie 12MP, 5000 mAh, Ip67, NFC, Dual Sim, Recursos IA - Azul",
+      "categoria": "Tech",
+      "preco": 1199,
+      "link": "https://meli.la/1pstbMk",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB75638608",
+      "precoDe": 2399,
+      "pix": true,
+      "parcelas": "R$1.362,50 em 10x R$136,25 sem juros",
+      "postado": "2026-11-12T15:54:31.777Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1pstbMk.jpg"
+    },
     {
       "id": "1XFxbQN",
       "nome": "Smartphone Motorola Edge 70 Fusion 5g - 256gb 12gb Ram + 12gb Ram Boost, Camera 50mp Sony Lytia 710, Tela 1.5k Extreme Amoled 144hz - Branco",
