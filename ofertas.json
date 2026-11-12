@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-12T16:03:47.129Z",
+  "atualizado": "2026-11-12T16:05:02.084Z",
   "ofertas": [
+    {
+      "id": "2ztU294",
+      "nome": "Cafeteira Nescafé Dolce Gusto Genio S Basic Grafite",
+      "categoria": "Casa",
+      "preco": 399.9,
+      "link": "https://meli.la/2ztU294",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB79391419",
+      "precoDe": 679.9,
+      "parcelas": "7x de R$57,13 sem juros",
+      "postado": "2026-11-12T16:05:02.083Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ztU294.jpg"
+    },
     {
       "id": "1mrFrTg",
       "nome": "Jogo De Panelas Induçao Antiaderente Cerâmica 10 Peças Ppg Pfoa Free Baunilha",
