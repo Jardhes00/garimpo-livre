@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-12T13:59:43.530Z",
+  "atualizado": "2026-11-12T14:00:58.208Z",
   "ofertas": [
+    {
+      "id": "2ecHwVi",
+      "nome": "Câmera Inteligente iM3 C Black Intelbras",
+      "categoria": "Diversos",
+      "preco": 149,
+      "link": "https://meli.la/2ecHwVi",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB18596029",
+      "precoDe": 248.28,
+      "parcelas": "4x de R$37,25 sem juros",
+      "postado": "2026-11-12T14:00:58.206Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ecHwVi.jpg"
+    },
     {
       "id": "1WD44P7",
       "nome": "Fone Bluetooth Capacete Moto V10 Resistência Água Ipx6",
