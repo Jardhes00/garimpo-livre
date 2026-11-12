@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T14:41:44.652Z",
+  "atualizado": "2026-11-12T14:43:14.525Z",
   "ofertas": [
+    {
+      "id": "2eC8C1B",
+      "nome": "Batedeira Planetária Philco 900W 5L Preta 12 Velocidades Turbo PBP90A",
+      "categoria": "Diversos",
+      "preco": 259.11,
+      "link": "https://meli.la/2eC8C1B",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB49822923",
+      "precoDe": 470,
+      "pix": true,
+      "parcelas": "R$287,90 em outros meios",
+      "postado": "2026-11-12T14:43:14.524Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2eC8C1B.jpg"
+    },
     {
       "id": "1zQKRw7",
       "nome": "Chaveiro Localizador Smart Tag Kit 4 Rastreador Compatível Com iPhone Cor Preto",
