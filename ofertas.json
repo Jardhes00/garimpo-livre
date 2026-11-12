@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T14:02:13.407Z",
+  "atualizado": "2026-11-12T14:04:03.541Z",
   "ofertas": [
+    {
+      "id": "2P4XBdj",
+      "nome": "Air Fryer Oven Philco PAF15C 15L 220V Preta",
+      "categoria": "Casa",
+      "preco": 498.9,
+      "link": "https://meli.la/2P4XBdj",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB66275098",
+      "precoDe": 827.14,
+      "pix": true,
+      "parcelas": "R$525,16 em outros meios",
+      "postado": "2026-11-12T14:04:03.540Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2P4XBdj.jpg"
+    },
     {
       "id": "22Cvvv2",
       "nome": "Smartphone Motorola Moto G Max 5g - 256gb 8gb Ram + 16gb Ram Boost, Câmera 200mp, Ois, Tela 1.5k Extreme Amoled 120hz, Ip68 E Ip69 - Azul Claro",
