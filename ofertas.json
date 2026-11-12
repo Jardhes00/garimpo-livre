@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-12T14:05:32.028Z",
+  "atualizado": "2026-11-12T14:07:13.726Z",
   "ofertas": [
+    {
+      "id": "2rDhATC",
+      "nome": "Philips OneBlade Aparador e Barbeador Elétrico com Pente Ajustável 5 em 1",
+      "categoria": "Beleza",
+      "preco": 159.28,
+      "link": "https://meli.la/2rDhATC",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB64322156",
+      "precoDe": 212.38,
+      "parcelas": "5x de R$35,80 sem juros",
+      "postado": "2026-11-12T14:07:13.725Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2rDhATC.jpg"
+    },
     {
       "id": "23uU52z",
       "nome": "Smartphone Samsung Galaxy A36 5g 128gb 6gb Ram Câmera Tripla De Até 50mp Selfie De 12mp Ip67 Super Amoled 6.7'' Nfc",
