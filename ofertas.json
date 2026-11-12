@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-12T14:16:58.687Z",
+  "atualizado": "2026-11-12T14:18:28.854Z",
   "ofertas": [
+    {
+      "id": "2YiwcVs",
+      "nome": "Kit 4 Refletores LED 400W Blackone Bivolt IP67 Branco Frio 6500K Externo",
+      "categoria": "Diversos",
+      "preco": 69,
+      "link": "https://meli.la/2YiwcVs",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB61669854",
+      "precoDe": 157.98,
+      "parcelas": "3x de R$23 sem juros",
+      "postado": "2026-11-12T14:18:28.853Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2YiwcVs.jpg"
+    },
     {
       "id": "2fLAgVs",
       "nome": "Smart Tv Philco 50 P50vik 4k Uhd Led Roku Dolby Audio Wi-fi Hdr10 110/220v",
