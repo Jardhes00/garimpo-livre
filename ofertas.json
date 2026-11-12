@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-12T16:11:17.387Z",
+  "atualizado": "2026-11-12T16:12:47.285Z",
   "ofertas": [
+    {
+      "id": "2V21bcm",
+      "nome": "Proteína Max Titanium Whey Pro Concentrado Em Pó Sabor Baunilha X 1kg",
+      "categoria": "Suplementos",
+      "preco": 83.42,
+      "link": "https://meli.la/2V21bcm",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB6087974",
+      "precoDe": 179.84,
+      "postado": "2026-11-12T16:12:47.283Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2V21bcm.jpg"
+    },
     {
       "id": "2opXkHa",
       "nome": "Parafusadeira e Furadeira de Impacto 3/8\" WAP K21 ID02 2000 mAh",
