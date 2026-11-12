@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T14:30:14.690Z",
+  "atualizado": "2026-11-12T14:32:14.235Z",
   "ofertas": [
+    {
+      "id": "1rMAMK2",
+      "nome": "Bicicleta ergométrica spinning ITS Fitness Pro 818 cor preto laranja",
+      "categoria": "Esporte",
+      "preco": 716.57,
+      "link": "https://meli.la/1rMAMK2",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB63549012",
+      "precoDe": 1299,
+      "pix": true,
+      "parcelas": "R$778,88 em 10x R$77,89 sem juros",
+      "postado": "2026-11-12T14:32:14.234Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1rMAMK2.jpg"
+    },
     {
       "id": "2F1hqbL",
       "nome": "Esmerilhadeira Bosch 4,5\" 220V 710W GWS 700",
