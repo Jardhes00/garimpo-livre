@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-12T14:45:14.480Z",
+  "atualizado": "2026-11-12T14:56:15.264Z",
   "ofertas": [
+    {
+      "id": "1uqLpRD",
+      "nome": "Monitor Portátil 15.6'' Tela Externa Hdr Ips 1080p Ultrafino Preto 127/220v",
+      "categoria": "Tech",
+      "preco": 396.5,
+      "link": "https://meli.la/1uqLpRD",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/monitor-portatil-156-tela-externa-hdr-ips-1080p-ultrafino/up/MLBU2939238991",
+      "precoDe": 650,
+      "parcelas": "12x R$ 38,79",
+      "postado": "2026-11-12T14:56:15.263Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1uqLpRD.jpg"
+    },
     {
       "id": "16EyzXq",
       "nome": "Cooktop 4 Bocas a Gás Electrolux Mesa de Vidro Efficient Grade de Aço Fosco (KE4GR) Bivolt",
