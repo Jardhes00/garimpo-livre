@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T15:57:31.622Z",
+  "atualizado": "2026-11-12T15:59:32.020Z",
   "ofertas": [
+    {
+      "id": "2zmDhVU",
+      "nome": "Monitor PC Gamer LG 27” - IPS, 100Hz Full HD, HDMI 2x, Preto-27MS500",
+      "categoria": "Tech",
+      "preco": 630.46,
+      "link": "https://meli.la/2zmDhVU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB41863403",
+      "precoDe": 1019.9,
+      "pix": true,
+      "parcelas": "R$663,64 em 10x R$66,36 sem juros",
+      "postado": "2026-11-12T15:59:32.018Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2zmDhVU.jpg"
+    },
     {
       "id": "1BPKLnP",
       "nome": "Fone de Ouvido Bluetooth 5.4 soundcore P30i da Anker, Cancelamento de Ruído Adaptativo, Graves Poderosos, 45H de Reprodução, Estojo 2-em-1 com Suporte para Celular, IP54, Fone sem fio TWS, Preto",
