@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T19:12:00.207Z",
+  "atualizado": "2026-11-12T19:13:30.066Z",
   "ofertas": [
+    {
+      "id": "2mQFioq",
+      "nome": "Arvore Natal 1,5 Metros 600 Galhos Volumosa Pinheiro Natalino Verde Base de Metal Reforçada e Resistente",
+      "categoria": "Diversos",
+      "preco": 137.91,
+      "link": "https://meli.la/2mQFioq",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB79485810",
+      "precoDe": 209.9,
+      "pix": true,
+      "parcelas": "R$149,90 em outros meios",
+      "postado": "2026-11-12T19:13:30.063Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2mQFioq.jpg"
+    },
     {
       "id": "2YTvxEv",
       "nome": "Lanterna Mais Forte Do Mundo Recarregável Tática Potente T9 - Apfer",
