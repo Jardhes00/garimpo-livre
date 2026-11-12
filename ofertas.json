@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-12T14:38:14.311Z",
+  "atualizado": "2026-11-12T14:39:29.488Z",
   "ofertas": [
+    {
+      "id": "1Q7maG9",
+      "nome": "Kit Facial Kokeshi Completo 3 Passos Olhos de Gueixa, Pele de Porcelana e Gota de Colágeno",
+      "categoria": "Suplementos",
+      "preco": 44.91,
+      "link": "https://meli.la/1Q7maG9",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB68956726",
+      "precoDe": 80.9,
+      "postado": "2026-11-12T14:39:29.487Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Q7maG9.jpg"
+    },
     {
       "id": "1CDczMY",
       "nome": "Proteína Growth Supplements Basic Whey em pó sabor Chocolate x 1kg",
