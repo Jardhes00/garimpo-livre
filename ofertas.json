@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T15:11:30.454Z",
+  "atualizado": "2026-11-12T15:13:30.850Z",
   "ofertas": [
+    {
+      "id": "1nZGkdr",
+      "nome": "Smartphone Motorola Moto G86 5G Tela 6.7 pOLED 256GB 8GB RAM Câmera 50MP 4K IP69 Desbloqueado",
+      "categoria": "Tech",
+      "preco": 1442,
+      "link": "https://meli.la/1nZGkdr",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g86-5g-tela-67-poled-256gb-8gb-ram-camera-50mp-4k-ip69-desbloqueado/p/MLB51340616",
+      "precoDe": 2999,
+      "pix": true,
+      "parcelas": "R$ 1.602 em 10x de R$ 160,24 sem juros",
+      "postado": "2026-11-12T15:13:30.849Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1nZGkdr.jpg"
+    },
     {
       "id": "2CQvMEQ",
       "nome": "Tenda Gazebo 3x3 Sanfonado Retrátil Praia Pesca Camping C/ Bolsa De Transporte Marca Usd",
