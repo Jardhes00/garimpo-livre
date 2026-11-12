@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T14:21:43.854Z",
+  "atualizado": "2026-11-12T14:23:13.985Z",
   "ofertas": [
+    {
+      "id": "2Nub3FA",
+      "nome": "Mochila Reforçada Jiesipote Para Viagem Com Compartimento Para Notebook 15.6 E À Prova D'água Preto Liso",
+      "categoria": "Tech",
+      "preco": 75.14,
+      "link": "https://meli.la/2Nub3FA",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB80245753",
+      "precoDe": 269,
+      "pix": true,
+      "parcelas": "R$79,10 em 3x R$26,37 sem juros",
+      "postado": "2026-11-12T14:23:13.984Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Nub3FA.jpg"
+    },
     {
       "id": "1xgm9zx",
       "nome": "Smartwatch Samsung Galaxy Fit3 Display 1.6\" Rosé",
