@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-12T15:06:45.383Z",
+  "atualizado": "2026-11-12T15:08:00.429Z",
   "ofertas": [
+    {
+      "id": "1EoG3kk",
+      "nome": "Jogo De Toalhas Banho Village Com 4 Peças Buddemeyer",
+      "categoria": "Games",
+      "preco": 156.75,
+      "link": "https://meli.la/1EoG3kk",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/jogo-de-toalhas-banho-village-com-4-pecas-buddemeyer/p/MLB50178106",
+      "precoDe": 309.9,
+      "pix": true,
+      "parcelas": "R$ 209 em 6x de R$ 34,83 sem juros",
+      "relampago": true,
+      "postado": "2026-11-12T15:08:00.428Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1EoG3kk.jpg"
+    },
     {
       "id": "28M2NJX",
       "nome": "Notebook ASUS Vivobook Go 15 E1504 AMD RYZEN 5 7520U 8GB Ram 256GB SSD Linux KeepOS 15,6” FHD Black E1504FA-NJ731",
