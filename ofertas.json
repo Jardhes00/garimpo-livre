@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T19:13:30.066Z",
+  "atualizado": "2026-11-12T19:15:00.124Z",
   "ofertas": [
+    {
+      "id": "2QQ7ao3",
+      "nome": "Adora Bebê Reborn Bonecas Realista De Silicone Menina 48 Cm",
+      "categoria": "Bebê",
+      "preco": 114.31,
+      "link": "https://meli.la/2QQ7ao3",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB65579852",
+      "precoDe": 239,
+      "pix": true,
+      "parcelas": "R$127,01 em outros meios",
+      "postado": "2026-11-12T19:15:00.121Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2QQ7ao3.jpg"
+    },
     {
       "id": "2mQFioq",
       "nome": "Arvore Natal 1,5 Metros 600 Galhos Volumosa Pinheiro Natalino Verde Base de Metal Reforçada e Resistente",
