@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-12T19:10:30.286Z",
+  "atualizado": "2026-11-12T19:12:00.207Z",
   "ofertas": [
+    {
+      "id": "2YTvxEv",
+      "nome": "Lanterna Mais Forte Do Mundo Recarregável Tática Potente T9 - Apfer",
+      "categoria": "Casa",
+      "preco": 47.04,
+      "link": "https://meli.la/2YTvxEv",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB59160016",
+      "precoDe": 79,
+      "postado": "2026-11-12T19:12:00.205Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2YTvxEv.jpg"
+    },
     {
       "id": "2u2bS5B",
       "nome": "Roçadeira A Gasolina Nakasaki 75cc 5 Em 1 3,6hp",
