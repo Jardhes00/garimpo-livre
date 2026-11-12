@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T16:14:47.329Z",
+  "atualizado": "2026-11-12T18:52:30.783Z",
   "ofertas": [
+    {
+      "id": "2YwfzxM",
+      "nome": "Celular Samsung Galaxy A56 5g 256gb 8gb Ram Cinza",
+      "categoria": "Tech",
+      "preco": 2199,
+      "link": "https://meli.la/2YwfzxM",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB47114363",
+      "precoDe": 3999,
+      "pix": true,
+      "parcelas": "R$2.498,86 em 10x R$249,89 sem juros",
+      "postado": "2026-11-12T18:52:30.779Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2YwfzxM.jpg"
+    },
     {
       "id": "2hGGLax",
       "nome": "VITAMINA C 1000mg - Fórmula Concentrada e 100% PURA - 60 Doses",
