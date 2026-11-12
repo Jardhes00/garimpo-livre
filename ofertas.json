@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T15:26:45.925Z",
+  "atualizado": "2026-11-12T15:52:31.908Z",
   "ofertas": [
+    {
+      "id": "1XFxbQN",
+      "nome": "Smartphone Motorola Edge 70 Fusion 5g - 256gb 12gb Ram + 12gb Ram Boost, Camera 50mp Sony Lytia 710, Tela 1.5k Extreme Amoled 144hz - Branco",
+      "categoria": "Tech",
+      "preco": 1998.9,
+      "link": "https://meli.la/1XFxbQN",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB74346728",
+      "precoDe": 3499,
+      "pix": true,
+      "parcelas": "R$2.221 em 10x R$222,10 sem juros",
+      "postado": "2026-11-12T15:52:31.907Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1XFxbQN.jpg"
+    },
     {
       "id": "2FCrVC2",
       "nome": "Kit 10 Pote De Vidro Marmita Hermético 370ml Freezer Vitrex",
