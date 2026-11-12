@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T14:56:15.264Z",
+  "atualizado": "2026-11-12T14:58:00.257Z",
   "ofertas": [
+    {
+      "id": "1mATf5R",
+      "nome": "Kemei Maquina Km 2299 Profissional Cor Black",
+      "categoria": "Diversos",
+      "preco": 71.04,
+      "link": "https://meli.la/1mATf5R",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kemei-maquina-km-2299-profissional-cor-black/p/MLB57473901",
+      "precoDe": 184.9,
+      "pix": true,
+      "parcelas": "R$ 78,93 em outros meios",
+      "postado": "2026-11-12T14:58:00.256Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1mATf5R.jpg"
+    },
     {
       "id": "1uqLpRD",
       "nome": "Monitor Portátil 15.6'' Tela Externa Hdr Ips 1080p Ultrafino Preto 127/220v",
