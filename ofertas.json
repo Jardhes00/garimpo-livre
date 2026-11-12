@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-12T18:56:14.501Z",
+  "atualizado": "2026-11-12T18:57:44.358Z",
   "ofertas": [
+    {
+      "id": "2uB1hvy",
+      "nome": "Panela De Pressão Fechamento Externo Presscook Marmol 6,8l - Mimo Style",
+      "categoria": "Casa",
+      "preco": 179,
+      "link": "https://meli.la/2uB1hvy",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB58330078",
+      "precoDe": 312.6,
+      "postado": "2026-11-12T18:57:44.351Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2uB1hvy.jpg"
+    },
     {
       "id": "1w9sFy9",
       "nome": "Cadeira Escritório Ergonômica Genebra B500 NR-17 Luvinco Cor Preto Com Suporte Lombar Estofado Mesh",
