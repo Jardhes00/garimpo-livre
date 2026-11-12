@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-11T19:50:17.831Z",
+  "atualizado": "2026-11-12T13:56:43.842Z",
   "ofertas": [
+    {
+      "id": "1RZ89VL",
+      "nome": "Creatina Monohidratada 1kg 100% Pura - Dark Lab",
+      "categoria": "Suplementos",
+      "preco": 69.99,
+      "link": "https://meli.la/1RZ89VL",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB25929487",
+      "precoDe": 159.9,
+      "cupomAnuncio": "Compre R$150 e ganhe R$20 OFF",
+      "postado": "2026-11-12T13:56:43.840Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1RZ89VL.jpg"
+    },
     {
       "id": "2mpeb9v",
       "nome": "SSD Kingston NV3 500GB M.2 2280 NVMe PCIe 4.0",
