@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-12T14:58:00.257Z",
+  "atualizado": "2026-11-12T14:59:30.169Z",
   "ofertas": [
+    {
+      "id": "13pRRxN",
+      "nome": "Principia Kit Protetor Cor 3.0 + Limpeza + Hidrata",
+      "categoria": "Diversos",
+      "preco": 68,
+      "link": "https://meli.la/13pRRxN",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/principia-kit-protetor-cor-30-limpeza-hidrata/p/MLB65857044",
+      "precoDe": 142,
+      "pix": true,
+      "parcelas": "R$ 85 em outros meios",
+      "cupomAnuncio": "R$63,24 com Cupom por seguir a loja",
+      "postado": "2026-11-12T14:59:30.168Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-13pRRxN.jpg"
+    },
     {
       "id": "1mATf5R",
       "nome": "Kemei Maquina Km 2299 Profissional Cor Black",
