@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-12T18:57:44.358Z",
+  "atualizado": "2026-11-12T18:59:29.839Z",
   "ofertas": [
+    {
+      "id": "1SBYuKJ",
+      "nome": "Lixeira Inteligente Sensor Automático 16l Cinza Smart Recarregável Para Banheiro E Cozinha",
+      "categoria": "Casa",
+      "preco": 61.99,
+      "link": "https://meli.la/1SBYuKJ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB61702083",
+      "precoDe": 157.98,
+      "postado": "2026-11-12T18:59:29.837Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1SBYuKJ.jpg"
+    },
     {
       "id": "2uB1hvy",
       "nome": "Panela De Pressão Fechamento Externo Presscook Marmol 6,8l - Mimo Style",
