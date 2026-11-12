@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T14:00:58.208Z",
+  "atualizado": "2026-11-12T14:02:13.407Z",
   "ofertas": [
+    {
+      "id": "22Cvvv2",
+      "nome": "Smartphone Motorola Moto G Max 5g - 256gb 8gb Ram + 16gb Ram Boost, Câmera 200mp, Ois, Tela 1.5k Extreme Amoled 120hz, Ip68 E Ip69 - Azul Claro",
+      "categoria": "Tech",
+      "preco": 1619,
+      "link": "https://meli.la/22Cvvv2",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB69700673",
+      "precoDe": 2355.71,
+      "pix": true,
+      "parcelas": "R$1.798,89 em 10x R$179,89 sem juros",
+      "postado": "2026-11-12T14:02:13.406Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-22Cvvv2.jpg"
+    },
     {
       "id": "2ecHwVi",
       "nome": "Câmera Inteligente iM3 C Black Intelbras",
