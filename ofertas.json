@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T15:17:00.508Z",
+  "atualizado": "2026-11-12T15:18:15.587Z",
   "ofertas": [
+    {
+      "id": "264T6Vv",
+      "nome": "Celular Samsung Galaxy A17 Com Ia, 128gb, 4gb Ram, Câm De 50mp, Tela De 6.7\", Nfc, Ip54 - Preto",
+      "categoria": "Tech",
+      "preco": 899.05,
+      "link": "https://meli.la/264T6Vv",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a17-com-ia-128gb-4gb-ram-cam-de-50mp-tela-de-67-nfc-ip54-preto/p/MLB65114795",
+      "precoDe": 1499,
+      "pix": true,
+      "parcelas": "R$ 998,95 em 10x de R$ 99,90 sem juros",
+      "postado": "2026-11-12T15:18:15.586Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-264T6Vv.jpg"
+    },
     {
       "id": "16aLLRP",
       "nome": "Ar-condicionado Split 9000 Btu/h Prime Air 9qc Quente E Frio Branco",
