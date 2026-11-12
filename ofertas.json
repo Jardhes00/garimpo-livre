@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-12T19:08:59.158Z",
+  "atualizado": "2026-11-12T19:10:30.286Z",
   "ofertas": [
+    {
+      "id": "2u2bS5B",
+      "nome": "Roçadeira A Gasolina Nakasaki 75cc 5 Em 1 3,6hp",
+      "categoria": "Diversos",
+      "preco": 367.99,
+      "link": "https://meli.la/2u2bS5B",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB2104313919",
+      "precoDe": 999.99,
+      "pix": true,
+      "parcelas": "R$399,99 em outros meios",
+      "cupomAnuncio": "R$358,79 com Cupom por seguir a loja",
+      "postado": "2026-11-12T19:10:30.282Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2u2bS5B.jpg"
+    },
     {
       "id": "1h9kh6R",
       "nome": "VITAMINA D3 + K2 Menaquinona-7 - Fórmula com Máxima Concentração e Biodisponibilidade - 60 Cápsulas",
