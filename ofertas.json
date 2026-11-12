@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T20:23:23.528Z",
+  "atualizado": "2026-11-12T20:25:08.595Z",
   "ofertas": [
+    {
+      "id": "1HNUWqa",
+      "nome": "Smartphone JOVI T1 5G 256GB 8GB + 8GB RAM Expansível Bateria 6500mAh Câmera 50MP 4K - Preto Titânio",
+      "categoria": "Tech",
+      "preco": 1452.65,
+      "link": "https://meli.la/1HNUWqa",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB68938678",
+      "precoDe": 2799,
+      "pix": true,
+      "parcelas": "R$1.709 em 10x R$170,90 sem juros",
+      "postado": "2026-11-12T20:25:08.594Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1HNUWqa.jpg"
+    },
     {
       "id": "1xBkM4P",
       "nome": "Celular Samsung Galaxy A57 5G 256GB, 8GB RAM, Recursos AI - Cinza",
