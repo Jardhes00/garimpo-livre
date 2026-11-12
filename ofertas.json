@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T14:26:58.932Z",
+  "atualizado": "2026-11-12T14:28:29.136Z",
   "ofertas": [
+    {
+      "id": "2TNbKMw",
+      "nome": "Fritadeira Air Fryer 4,5l Widemax Com Interior De Alumínio 1500w Midea",
+      "categoria": "Casa",
+      "preco": 193.9,
+      "link": "https://meli.la/2TNbKMw",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB51032488",
+      "precoDe": 289,
+      "pix": true,
+      "parcelas": "R$199,90 em outros meios",
+      "postado": "2026-11-12T14:28:29.135Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2TNbKMw.jpg"
+    },
     {
       "id": "1KGB3xV",
       "nome": "Floratta Flores Secretas 75ml O Boticário Feminino",
