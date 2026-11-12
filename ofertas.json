@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-12T15:25:00.821Z",
+  "atualizado": "2026-11-12T15:26:45.925Z",
   "ofertas": [
+    {
+      "id": "2FCrVC2",
+      "nome": "Kit 10 Pote De Vidro Marmita Hermético 370ml Freezer Vitrex",
+      "categoria": "Casa",
+      "preco": 67.69,
+      "link": "https://meli.la/2FCrVC2",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-10-pote-de-vidro-marmita-hermetico-370ml-freezer-vitrex/p/MLB78457348",
+      "precoDe": 140,
+      "cupomAnuncio": "Compre R$200 e ganhe 5% OFF por seguir a loja",
+      "postado": "2026-11-12T15:26:45.924Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2FCrVC2.jpg"
+    },
     {
       "id": "1yDCznM",
       "nome": "Smart Tv 43 Philco P43vik Roku Led Dolby Audio Wi-fi Hdmi Hdr Full Hd 110/220v",
