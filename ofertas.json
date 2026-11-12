@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T15:13:30.850Z",
+  "atualizado": "2026-11-12T15:15:15.688Z",
   "ofertas": [
+    {
+      "id": "1gyCbKD",
+      "nome": "Kit 2 Câmeras Segurança Ip Interna Externa Wifi iCSee Infravermelho Prova D’Água - HW",
+      "categoria": "Diversos",
+      "preco": 158.09,
+      "link": "https://meli.la/1gyCbKD",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-2-cameras-seguranca-ip-interna-externa-wifi-icsee-infravermelho-prova-dagua-hw/p/MLB46836439",
+      "precoDe": 349,
+      "pix": true,
+      "parcelas": "R$ 185,99 em outros meios",
+      "postado": "2026-11-12T15:15:15.687Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1gyCbKD.jpg"
+    },
     {
       "id": "1nZGkdr",
       "nome": "Smartphone Motorola Moto G86 5G Tela 6.7 pOLED 256GB 8GB RAM Câmera 50MP 4K IP69 Desbloqueado",
