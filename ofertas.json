@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-12T13:58:13.494Z",
+  "atualizado": "2026-11-12T13:59:43.530Z",
   "ofertas": [
+    {
+      "id": "1WD44P7",
+      "nome": "Fone Bluetooth Capacete Moto V10 Resistência Água Ipx6",
+      "categoria": "Tech",
+      "preco": 38.47,
+      "link": "https://meli.la/1WD44P7",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB54242764",
+      "precoDe": 141.9,
+      "postado": "2026-11-12T13:59:43.528Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1WD44P7.jpg"
+    },
     {
       "id": "1ZViVpP",
       "nome": "Máquina de Acabamento ITAN Kemei Max5090 Cortador de Cabelo Bivolt",
