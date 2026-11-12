@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-12T15:18:15.587Z",
+  "atualizado": "2026-11-12T15:20:15.684Z",
   "ofertas": [
+    {
+      "id": "1VkeNUh",
+      "nome": "O Boticário Liz Flora Desodorante Colônia 100ml",
+      "categoria": "Diversos",
+      "preco": 71.9,
+      "link": "https://meli.la/1VkeNUh",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/o-boticario-liz-flora-desodorante-colonia-100ml/p/MLB36136752",
+      "precoDe": 179.9,
+      "parcelas": "3x de R$ 23,97 sem juros",
+      "postado": "2026-11-12T15:20:15.683Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1VkeNUh.jpg"
+    },
     {
       "id": "264T6Vv",
       "nome": "Celular Samsung Galaxy A17 Com Ia, 128gb, 4gb Ram, Câm De 50mp, Tela De 6.7\", Nfc, Ip54 - Preto",
