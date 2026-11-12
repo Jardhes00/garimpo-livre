@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T16:09:47.282Z",
+  "atualizado": "2026-11-12T16:11:17.387Z",
   "ofertas": [
+    {
+      "id": "2opXkHa",
+      "nome": "Parafusadeira e Furadeira de Impacto 3/8\" WAP K21 ID02 2000 mAh",
+      "categoria": "Ferramentas",
+      "preco": 170.1,
+      "link": "https://meli.la/2opXkHa",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB28765604",
+      "precoDe": 260,
+      "pix": true,
+      "parcelas": "R$189 em outros meios",
+      "postado": "2026-11-12T16:11:17.386Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2opXkHa.jpg"
+    },
     {
       "id": "34j9Tic",
       "nome": "Kit Principia para Rotina de Skincare Pele Sensível com Protetor Solar FPS 60",
