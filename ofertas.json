@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-12T16:12:47.285Z",
+  "atualizado": "2026-11-12T16:14:47.329Z",
   "ofertas": [
+    {
+      "id": "2hGGLax",
+      "nome": "VITAMINA C 1000mg - Fórmula Concentrada e 100% PURA - 60 Doses",
+      "categoria": "Suplementos",
+      "preco": 48.77,
+      "link": "https://meli.la/2hGGLax",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB43057757",
+      "precoDe": 85.77,
+      "cupomAnuncio": "R$34,14 com Cupom",
+      "postado": "2026-11-12T16:14:47.328Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2hGGLax.jpg"
+    },
     {
       "id": "2V21bcm",
       "nome": "Proteína Max Titanium Whey Pro Concentrado Em Pó Sabor Baunilha X 1kg",
