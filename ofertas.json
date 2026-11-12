@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T18:52:30.783Z",
+  "atualizado": "2026-11-12T18:54:14.716Z",
   "ofertas": [
+    {
+      "id": "26Jx3wq",
+      "nome": "Smart Tv Philco 58 P58vik 4k Uhd Led Roku Dolby Audio Wi-fi Hdr10 110/220v",
+      "categoria": "Tech",
+      "preco": 2399,
+      "link": "https://meli.la/26Jx3wq",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB67275824",
+      "precoDe": 3999,
+      "pix": true,
+      "parcelas": "R$2.726,14 em 10x R$272,61 sem juros",
+      "postado": "2026-11-12T18:54:14.714Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-26Jx3wq.jpg"
+    },
     {
       "id": "2YwfzxM",
       "nome": "Celular Samsung Galaxy A56 5g 256gb 8gb Ram Cinza",
