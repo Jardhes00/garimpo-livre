@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-12T15:21:45.624Z",
+  "atualizado": "2026-11-12T15:23:30.848Z",
   "ofertas": [
+    {
+      "id": "2t4Lg64",
+      "nome": "Creatina Dark Lab Premium Pure em pó Sem sabor x 500g",
+      "categoria": "Suplementos",
+      "preco": 44.99,
+      "link": "https://meli.la/2t4Lg64",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/creatina-dark-lab-premium-pure-em-po-sem-sabor-x-500g/p/MLB26796581",
+      "precoDe": 99.8,
+      "extra": "R$ 20 OFF com cupom no anúncio",
+      "cupomAnuncio": "Compre R$150 e ganhe R$20 OFF",
+      "postado": "2026-11-12T15:23:30.847Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2t4Lg64.jpg"
+    },
     {
       "id": "1cXtEsX",
       "nome": "Câmera Segurança Wi-Fi Tapo C320WS TP-Link 2K Externa IP66",
