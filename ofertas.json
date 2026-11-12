@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-12T14:18:28.854Z",
+  "atualizado": "2026-11-12T14:19:49.612Z",
   "ofertas": [
+    {
+      "id": "1SByKDs",
+      "nome": "Mini Compressor Digital Portátil Bomba De Encher Pneus Com Calibrador De Ar Preto",
+      "categoria": "Ferramentas",
+      "preco": 65,
+      "link": "https://meli.la/1SByKDs",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB57490795",
+      "precoDe": 157.98,
+      "postado": "2026-11-12T14:19:49.611Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1SByKDs.jpg"
+    },
     {
       "id": "2YiwcVs",
       "nome": "Kit 4 Refletores LED 400W Blackone Bivolt IP67 Branco Frio 6500K Externo",
