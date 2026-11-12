@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-12T14:07:13.726Z",
+  "atualizado": "2026-11-12T14:08:58.616Z",
   "ofertas": [
+    {
+      "id": "29fWHcU",
+      "nome": "O Boticário Quasar Blue Desodorante Colônia 100ml",
+      "categoria": "Diversos",
+      "preco": 74.9,
+      "link": "https://meli.la/29fWHcU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB39016247",
+      "precoDe": 189.9,
+      "parcelas": "3x de R$24,97 sem juros",
+      "postado": "2026-11-12T14:08:58.614Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-29fWHcU.jpg"
+    },
     {
       "id": "2rDhATC",
       "nome": "Philips OneBlade Aparador e Barbeador Elétrico com Pente Ajustável 5 em 1",
