@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-12T15:59:32.020Z",
+  "atualizado": "2026-11-12T16:01:17.400Z",
   "ofertas": [
+    {
+      "id": "1VQnoj2",
+      "nome": "Carregador Portátil Power Bank Basike 20000mAh 22.5W Rápido Cabos Embutidos Tipo C iPhone Samsung",
+      "categoria": "Tech",
+      "preco": 189.9,
+      "link": "https://meli.la/1VQnoj2",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB52327865",
+      "precoDe": 311.25,
+      "cupomAnuncio": "R$142,42 com Cupom",
+      "postado": "2026-11-12T16:01:17.399Z",
+      "conferido": "2026-11-12",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1VQnoj2.jpg"
+    },
     {
       "id": "2zmDhVU",
       "nome": "Monitor PC Gamer LG 27” - IPS, 100Hz Full HD, HDMI 2x, Preto-27MS500",
