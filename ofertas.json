@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-13T14:07:00.279Z",
+  "atualizado": "2026-11-13T14:09:00.281Z",
   "ofertas": [
+    {
+      "id": "2LG3dMQ",
+      "nome": "Amplificador Taramps TS 800x4 800W 4 Canais para Som Automotivo",
+      "categoria": "Auto",
+      "preco": 256.08,
+      "link": "https://meli.la/2LG3dMQ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB21562564",
+      "precoDe": 396,
+      "parcelas": "6x de R$42,68 sem juros",
+      "postado": "2026-11-13T14:09:00.279Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2LG3dMQ.jpg"
+    },
     {
       "id": "2KrwX8H",
       "nome": "Caixa De Som Bluetooth Potente 140w Basike Boombox Portátil Sem Fio Bateria 12000mAh Com A Prova D'agua,Luz Led Rgb, Bass Graves Potentes Para Festa Churrasco Praia Viagem Ba-MD337B Azul",
