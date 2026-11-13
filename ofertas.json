@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-13T19:10:16.824Z",
+  "atualizado": "2026-11-13T19:14:31.645Z",
   "ofertas": [
+    {
+      "id": "2DiNCA3",
+      "nome": "Camisa Térmica Voker Academia Proteção Solar Uv Dry Fit",
+      "categoria": "Moda",
+      "preco": 25.89,
+      "link": "https://meli.la/2DiNCA3",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-2178289241-camisa-termica-voker-academia-proteco-solar-uv-dry-fit-_JM",
+      "precoDe": 49.9,
+      "cupomAnuncio": "R$24,89 com Cupom por seguir a loja",
+      "relampago": true,
+      "postado": "2026-11-13T19:14:31.643Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2DiNCA3.jpg"
+    },
     {
       "id": "2T9x4nY",
       "nome": "Tênis Nike Sb Force 58 Masculino",
