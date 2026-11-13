@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-13T20:18:18.309Z",
+  "atualizado": "2026-11-13T20:22:33.461Z",
   "ofertas": [
+    {
+      "id": "1yQXksa",
+      "nome": "Kit 4 Camiseta Dry-fit Sandrini Masculina Academia Caminhada",
+      "categoria": "Moda",
+      "preco": 54.99,
+      "link": "https://meli.la/1yQXksa",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-4592320910-kit-4-camiseta-dry-fit-sandrini-masculina-academia-caminhada-_JM",
+      "precoDe": 135.41,
+      "postado": "2026-11-13T20:22:33.460Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1yQXksa.jpg"
+    },
     {
       "id": "2GxQMVe",
       "nome": "Omegafor Plus 120 Cápsulas Ômega 3 Vitafor",
