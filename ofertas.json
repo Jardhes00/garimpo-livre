@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-13T14:02:45.141Z",
+  "atualizado": "2026-11-13T14:04:30.144Z",
   "ofertas": [
+    {
+      "id": "21hLQj6",
+      "nome": "Smartwatch HUAWEI WATCH FIT 5 AMOLED de 1,82\" Design Leve Mini Treino Bateria com Até 10 Dias 64 GB Gerenciamento Avançado da Saúde Monitor do Sono SpO2 GPS Compatível com iOS e Android Preto",
+      "categoria": "Tech",
+      "preco": 699,
+      "link": "https://meli.la/21hLQj6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB67714386",
+      "precoDe": 1499,
+      "parcelas": "10x de R$69,90 sem juros",
+      "postado": "2026-11-13T14:04:30.143Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-21hLQj6.jpg"
+    },
     {
       "id": "2mXjjgE",
       "nome": "Monitor 21.4 Acer 100hz Led Mk221q Bi",
