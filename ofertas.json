@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-13T21:56:06.648Z",
+  "atualizado": "2026-11-13T22:00:21.357Z",
   "ofertas": [
+    {
+      "id": "1QHsp3J",
+      "nome": "Auxiliar de Partida Carregador Bateria e Compressor de Ar Portátil 6 em 1 Inteligente para Carro, Moto e Bicicleta com Lanterna e Power Bank",
+      "categoria": "Tech",
+      "preco": 148.66,
+      "link": "https://meli.la/1QHsp3J",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB75836344",
+      "precoDe": 300,
+      "pix": true,
+      "parcelas": "R$174,90 em outros meios",
+      "postado": "2026-11-13T22:00:21.356Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1QHsp3J.jpg"
+    },
     {
       "id": "2LBbxaT",
       "nome": "Parafusadeira Furadeira Impacto Sem Fio 2 Baterias Recarregável 48v Bivolt Velocidade Ajustavel Com Travas Mandril Resistente Woosh",
