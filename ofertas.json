@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-13T21:17:50.329Z",
+  "atualizado": "2026-11-13T21:22:05.042Z",
   "ofertas": [
+    {
+      "id": "2eYNbFx",
+      "nome": "Smartphone Samsung Galaxy A36 5G 128GB 6GB RAM Câmera Tripla de até 50MP Selfie de 12MP IP67 Super AMOLED 6.7'' NFC Recursos AI Android e Segurança Snapdragon - Branco",
+      "categoria": "Tech",
+      "preco": 1499.4,
+      "link": "https://meli.la/2eYNbFx",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB47109375",
+      "precoDe": 2212.86,
+      "pix": true,
+      "parcelas": "R$1.666 em 10x R$166,60 sem juros",
+      "postado": "2026-11-13T21:22:05.041Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2eYNbFx.jpg"
+    },
     {
       "id": "2m3eVRX",
       "nome": "Kit 10 Pares Meia Lupo Original Masculina Cano Médio Algodão",
