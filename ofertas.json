@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-13T20:48:04.396Z",
+  "atualizado": "2026-11-13T20:52:19.398Z",
   "ofertas": [
+    {
+      "id": "1DkwMfV",
+      "nome": "Perfume Armaf Club De Nuit Intense 105ml Edt",
+      "categoria": "Beleza",
+      "preco": 193,
+      "link": "https://meli.la/1DkwMfV",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/perfume-armaf-club-de-nuit-intense-105ml-edt/up/MLBU5099426354",
+      "precoDe": 320,
+      "parcelas": "12x R$ 19,11",
+      "postado": "2026-11-13T20:52:19.396Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1DkwMfV.jpg"
+    },
     {
       "id": "15d7FFS",
       "nome": "Refletor Solar Led 3 Cabeças Ajustavel Sensor Movimento 50w Branco 1pcs",
