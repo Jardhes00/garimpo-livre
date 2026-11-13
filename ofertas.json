@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-13T21:39:06.255Z",
+  "atualizado": "2026-11-13T21:43:20.825Z",
   "ofertas": [
+    {
+      "id": "2azDXNa",
+      "nome": "Body Splash Masculino Vibration 200ml - Primacial Perfume Bergamota Fresco",
+      "categoria": "Beleza",
+      "preco": 37.07,
+      "link": "https://meli.la/2azDXNa",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB70449712",
+      "precoDe": 69.9,
+      "postado": "2026-11-13T21:43:20.824Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2azDXNa.jpg"
+    },
     {
       "id": "2XarFvw",
       "nome": "Escova Rotativa Mondial Ceramica Tourmaline Ion 3x1 Erb-01 Rosa 127/220v",
