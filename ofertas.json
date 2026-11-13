@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-13T21:47:35.967Z",
+  "atualizado": "2026-11-13T21:51:51.127Z",
   "ofertas": [
+    {
+      "id": "322Y6kf",
+      "nome": "TESTO ESSENCIAL para MULHERES - Fórmula Exclusiva com Feno Grego + Boro + Arginina + ZMA + Biotina + Vitaminas B6 e B12 - 60 Cápsulas",
+      "categoria": "Suplementos",
+      "preco": 52.77,
+      "link": "https://meli.la/322Y6kf",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB70523626",
+      "precoDe": 104.77,
+      "cupomAnuncio": "R$36,94 com Cupom",
+      "postado": "2026-11-13T21:51:51.125Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-322Y6kf.jpg"
+    },
     {
       "id": "1sdad4S",
       "nome": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Baunilha",
