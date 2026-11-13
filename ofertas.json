@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-13T22:25:52.276Z",
+  "atualizado": "2026-11-13T22:30:07.399Z",
   "ofertas": [
+    {
+      "id": "2LJuKf8",
+      "nome": "Cafeteira Nescafé Dolce Gusto Mini Me 2.0",
+      "categoria": "Casa",
+      "preco": 358.71,
+      "link": "https://meli.la/2LJuKf8",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB81300766",
+      "precoDe": 599.9,
+      "pix": true,
+      "parcelas": "R$389,90 em outros meios",
+      "postado": "2026-11-13T22:30:07.398Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2LJuKf8.jpg"
+    },
     {
       "id": "2AnTVTc",
       "nome": "Jogo De Panelas Smart Plus Vanilla Indução Cerâmico 5peças Brinox 4774/101",
