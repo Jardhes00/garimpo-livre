@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-13T14:12:00.512Z",
+  "atualizado": "2026-11-13T14:13:45.591Z",
   "ofertas": [
+    {
+      "id": "2SDW2V7",
+      "nome": "Cooktop De Indução Britânia 6000w Bcte40a",
+      "categoria": "Diversos",
+      "preco": 735.91,
+      "link": "https://meli.la/2SDW2V7",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB60985896",
+      "precoDe": 1379.9,
+      "pix": true,
+      "parcelas": "R$799,90 em 10x R$79,99 sem juros",
+      "postado": "2026-11-13T14:13:45.590Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2SDW2V7.jpg"
+    },
     {
       "id": "2QwLzmk",
       "nome": "Multiprocessador Philco 1700W 9 em 1 Preto PMP1600P",
