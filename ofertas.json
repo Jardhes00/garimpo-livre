@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-13T20:01:17.997Z",
+  "atualizado": "2026-11-13T20:05:33.602Z",
   "ofertas": [
+    {
+      "id": "1CPVVme",
+      "nome": "Tênis Nike Air Max Alpha Trainer 6 Masculino",
+      "categoria": "Moda",
+      "preco": 429.99,
+      "link": "https://meli.la/1CPVVme",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-4962090958-tnis-nike-air-max-alpha-trainer-6-masculino-_JM",
+      "precoDe": 799.99,
+      "parcelas": "10x R$ 43 sem juros",
+      "postado": "2026-11-13T20:05:33.601Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1CPVVme.jpg"
+    },
     {
       "id": "2SiCUiZ",
       "nome": "Kit Tupia Manual Laminadora 30000r/m,800w + 15peças Cortador",
