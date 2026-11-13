@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-13T20:09:48.281Z",
+  "atualizado": "2026-11-13T20:14:03.435Z",
   "ofertas": [
+    {
+      "id": "1CTwRsd",
+      "nome": "Pisca Pisca Cascata Natal 400 Leds 10m 8 Funções Luz Quente",
+      "categoria": "Diversos",
+      "preco": 60.8,
+      "link": "https://meli.la/1CTwRsd",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/pisca-pisca-cascata-natal-400-leds-10m-8-funcoes-luz-quente/up/MLBU5148600495",
+      "precoDe": 219.99,
+      "parcelas": "12x R$ 5,99",
+      "extra": "10% OFF com cupom no anúncio",
+      "cupomAnuncio": "Compre R$219 e ganhe 10% OFF",
+      "postado": "2026-11-13T20:14:03.434Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1CTwRsd.jpg"
+    },
     {
       "id": "2c6H1rx",
       "nome": "Roçadeira Aparador Grama A Bateria Recarregável 21v 800w",
