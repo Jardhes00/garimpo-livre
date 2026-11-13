@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-13T22:21:37.242Z",
+  "atualizado": "2026-11-13T22:25:52.276Z",
   "ofertas": [
+    {
+      "id": "2AnTVTc",
+      "nome": "Jogo De Panelas Smart Plus Vanilla Indução Cerâmico 5peças Brinox 4774/101",
+      "categoria": "Games",
+      "preco": 332.99,
+      "link": "https://meli.la/2AnTVTc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB32675228",
+      "precoDe": 869.99,
+      "pix": true,
+      "parcelas": "R$369,99 em outros meios",
+      "postado": "2026-11-13T22:25:52.275Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2AnTVTc.jpg"
+    },
     {
       "id": "2CnLUDc",
       "nome": "Cascata Natal Luz Fixa 400 Leds 10 Metros Branco Quente Extensível Macho Fêmea A Prova D'agua área interna e externa LARUNO",
