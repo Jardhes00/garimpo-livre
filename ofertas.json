@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-13T21:00:49.630Z",
+  "atualizado": "2026-11-13T21:05:05.070Z",
   "ofertas": [
+    {
+      "id": "1gaisBL",
+      "nome": "Roteador Huawei AX2S WiFi 6 Mesh+ Banda Dupla AX1500 com Controle Parental e 4 Antenas Externas",
+      "categoria": "Games",
+      "preco": 169,
+      "link": "https://meli.la/1gaisBL",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/roteador-huawei-ax2s-wifi-6-mesh-banda-dupla-ax1500-com-controle-parental-e-4-antenas-externas/p/MLB36213556",
+      "precoDe": 499,
+      "parcelas": "12x R$ 16,70",
+      "postado": "2026-11-13T21:05:05.069Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1gaisBL.jpg"
+    },
     {
       "id": "1j2DLrG",
       "nome": "Fritadeira Air Fryer Oven 11 Litros 1800w 8 Funções Philco PAF11B",
