@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-13T14:27:46.061Z",
+  "atualizado": "2026-11-13T14:29:16.011Z",
   "ofertas": [
+    {
+      "id": "23K89BY",
+      "nome": "Deo Colônia Natura Hoje Masculino 100ml",
+      "categoria": "Diversos",
+      "preco": 67.56,
+      "link": "https://meli.la/23K89BY",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB19380821",
+      "precoDe": 168.9,
+      "parcelas": "3x de R$22,52 sem juros",
+      "postado": "2026-11-13T14:29:16.010Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-23K89BY.jpg"
+    },
     {
       "id": "1akNMKC",
       "nome": "Kit Wella Nutri Enrich Shampoo + Condicionador 1l + Válvulas",
