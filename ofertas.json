@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-13T14:10:30.367Z",
+  "atualizado": "2026-11-13T14:12:00.512Z",
   "ofertas": [
+    {
+      "id": "2QwLzmk",
+      "nome": "Multiprocessador Philco 1700W 9 em 1 Preto PMP1600P",
+      "categoria": "Casa",
+      "preco": 281.91,
+      "link": "https://meli.la/2QwLzmk",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB14523112",
+      "precoDe": 482.9,
+      "parcelas": "6x de R$46,99 sem juros",
+      "postado": "2026-11-13T14:12:00.511Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2QwLzmk.jpg"
+    },
     {
       "id": "2zhuU9a",
       "nome": "Máquina de Lavar Consul 14Kg Branca com Modo Eco - CWN14AB",
