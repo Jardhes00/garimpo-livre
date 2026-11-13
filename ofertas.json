@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-13T13:59:45.250Z",
+  "atualizado": "2026-11-13T14:01:00.252Z",
   "ofertas": [
+    {
+      "id": "1nMQxux",
+      "nome": "Notebook Positivo Vision N15M Intel N100 8GB RAM 128GB SSD, Windows 11 Home e Tela 15.6\" Full HD IPS Antirreflexo",
+      "categoria": "Tech",
+      "preco": 2150.1,
+      "link": "https://meli.la/1nMQxux",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB63236522",
+      "precoDe": 3855.71,
+      "pix": true,
+      "parcelas": "R$2.389 em 10x R$238,90 sem juros",
+      "postado": "2026-11-13T14:01:00.250Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1nMQxux.jpg"
+    },
     {
       "id": "18J8A2o",
       "nome": "Smart TV PRO LG 50'' 4K Ultra HD AI 50UN85C",
