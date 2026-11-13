@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-13T21:22:05.042Z",
+  "atualizado": "2026-11-13T21:26:20.229Z",
   "ofertas": [
+    {
+      "id": "1hq8Ghs",
+      "nome": "SSD 240GB Adata 2.5 SU650 ASU650SS-240GT-R 240GB preto",
+      "categoria": "Tech",
+      "preco": 275.31,
+      "link": "https://meli.la/1hq8Ghs",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB15749699",
+      "precoDe": 399,
+      "postado": "2026-11-13T21:26:20.228Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1hq8Ghs.jpg"
+    },
     {
       "id": "2eYNbFx",
       "nome": "Smartphone Samsung Galaxy A36 5G 128GB 6GB RAM Câmera Tripla de até 50MP Selfie de 12MP IP67 Super AMOLED 6.7'' NFC Recursos AI Android e Segurança Snapdragon - Branco",
