@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-13T14:26:00.904Z",
+  "atualizado": "2026-11-13T14:27:46.061Z",
   "ofertas": [
+    {
+      "id": "1akNMKC",
+      "nome": "Kit Wella Nutri Enrich Shampoo + Condicionador 1l + Válvulas",
+      "categoria": "Beleza",
+      "preco": 303.51,
+      "link": "https://meli.la/1akNMKC",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB62664301",
+      "precoDe": 500,
+      "pix": true,
+      "parcelas": "R$329,90 em outros meios",
+      "postado": "2026-11-13T14:27:46.060Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1akNMKC.jpg"
+    },
     {
       "id": "2PoVWZ9",
       "nome": "Kit 2 Luminaria Solar Externa Com Sensor Refletor E Led 3800W",
