@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-13T13:48:31.740Z",
+  "atualizado": "2026-11-13T13:49:59.593Z",
   "ofertas": [
+    {
+      "id": "2UQkkma",
+      "nome": "TP-Link Tapo C210 Câmera de Segurança Wi-Fi Interna 2K 3MP, Rotação 360°, Babá Eletrônica com Detecção de Choro, Visão Noturna até 9 m, Áudio Bidirecional e MicroSD até 512 GB",
+      "categoria": "Diversos",
+      "preco": 142.42,
+      "link": "https://meli.la/2UQkkma",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB19663400",
+      "precoDe": 219.9,
+      "pix": true,
+      "parcelas": "R$189,90 em 7x R$27,13 sem juros",
+      "postado": "2026-11-13T13:49:59.591Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2UQkkma.jpg"
+    },
     {
       "id": "1QDXfgF",
       "nome": "JAGUARIDE Patinete Eletrico Scooter Adulto Xm01 500w Velocidade Máxima De 32 Km/h 25 Km De Autonomia Corpo Em Liga De Alumínio Com App Bluetooth Preto",
