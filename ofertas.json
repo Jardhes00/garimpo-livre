@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-13T14:19:15.625Z",
+  "atualizado": "2026-11-13T14:21:00.940Z",
   "ofertas": [
+    {
+      "id": "1qy2BLG",
+      "nome": "Parafusadeira Furadeira Impacto Sem Fio 2 Baterias Recarregável 21V Bivolt + Kit Acessórios 136 Peças The Black Tools",
+      "categoria": "Ferramentas",
+      "preco": 268,
+      "link": "https://meli.la/1qy2BLG",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB70032048",
+      "precoDe": 559.9,
+      "parcelas": "10x de R$26,80 sem juros",
+      "postado": "2026-11-13T14:21:00.939Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1qy2BLG.jpg"
+    },
     {
       "id": "2zUBFPC",
       "nome": "Colcha Solteiro Buddemeyer In Design 100% Algodão Bege",
