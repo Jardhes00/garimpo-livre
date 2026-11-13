@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-13T13:49:59.593Z",
+  "atualizado": "2026-11-13T13:51:29.755Z",
   "ofertas": [
+    {
+      "id": "2G63JkP",
+      "nome": "Jogo de Toalhas Buddemeyer Atena Fio Penteado Banho Verde/Verde Claro 4 peças",
+      "categoria": "Games",
+      "preco": 149.25,
+      "link": "https://meli.la/2G63JkP",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB51335107",
+      "precoDe": 309.9,
+      "pix": true,
+      "parcelas": "R$199 em 3x R$66,33 sem juros",
+      "cupomAnuncio": "R$138 com Cupom",
+      "postado": "2026-11-13T13:51:29.753Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2G63JkP.jpg"
+    },
     {
       "id": "2UQkkma",
       "nome": "TP-Link Tapo C210 Câmera de Segurança Wi-Fi Interna 2K 3MP, Rotação 360°, Babá Eletrônica com Detecção de Choro, Visão Noturna até 9 m, Áudio Bidirecional e MicroSD até 512 GB",
