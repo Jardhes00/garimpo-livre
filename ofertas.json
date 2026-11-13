@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-13T20:56:34.579Z",
+  "atualizado": "2026-11-13T21:00:49.630Z",
   "ofertas": [
+    {
+      "id": "1j2DLrG",
+      "nome": "Fritadeira Air Fryer Oven 11 Litros 1800w 8 Funções Philco PAF11B",
+      "categoria": "Casa",
+      "preco": 382.14,
+      "link": "https://meli.la/1j2DLrG",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fritadeira-air-fryer-oven-11-litros-1800w-8-funcoes-philco-paf11b/p/MLB56550237",
+      "precoDe": 579,
+      "pix": true,
+      "parcelas": "R$ 434,25 em 8x R$ 54,28 sem juros",
+      "postado": "2026-11-13T21:00:49.628Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1j2DLrG.jpg"
+    },
     {
       "id": "2GDw2fo",
       "nome": "Controle joystick sem fio Sony PlayStation DualSense PS5 cosmic red",
