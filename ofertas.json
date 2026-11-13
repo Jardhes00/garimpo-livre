@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-13T21:05:05.070Z",
+  "atualizado": "2026-11-13T21:09:19.833Z",
   "ofertas": [
+    {
+      "id": "1gBeSWi",
+      "nome": "NAC 600mg - Fórmula Exclusiva com Máxima Concentração e Pureza - N-Acetil L-Cisteína - 60 Cápsulas",
+      "categoria": "Pet",
+      "preco": 45,
+      "link": "https://meli.la/1gBeSWi",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/nac-600mg-formula-exclusiva-com-maxima-concentracao-e-pureza-n-acetil-l-cisteina-60-capsulas/p/MLB58579835",
+      "precoDe": 89.77,
+      "cupomAnuncio": "R$31,50 com Cupom",
+      "postado": "2026-11-13T21:09:19.831Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1gBeSWi.jpg"
+    },
     {
       "id": "1gaisBL",
       "nome": "Roteador Huawei AX2S WiFi 6 Mesh+ Banda Dupla AX1500 com Controle Parental e 4 Antenas Externas",
