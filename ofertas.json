@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-13T13:53:29.956Z",
+  "atualizado": "2026-11-13T13:55:29.906Z",
   "ofertas": [
+    {
+      "id": "2h8wPQy",
+      "nome": "Celular Samsung Galaxy A17 5g Com Ia, 256gb, 8gb Ram, Câm De 50mp, Tela De 6.7 , Nfc, Ip54 - Azul",
+      "categoria": "Tech",
+      "preco": 1349.1,
+      "link": "https://meli.la/2h8wPQy",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB55025159",
+      "precoDe": 2749,
+      "pix": true,
+      "parcelas": "R$1.499 em 2x R$749,50 sem juros",
+      "postado": "2026-11-13T13:55:29.905Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2h8wPQy.jpg"
+    },
     {
       "id": "1Vu3vag",
       "nome": "Smart Tv H5000f Hd 32 Polegadas 2025 Preto Samsung Bivolt",
