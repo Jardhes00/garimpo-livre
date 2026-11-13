@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-13T20:22:33.461Z",
+  "atualizado": "2026-11-13T20:26:48.573Z",
   "ofertas": [
+    {
+      "id": "2aAQP65",
+      "nome": "Proteína Adaptogen Science Tasty Whey Gourmet em pó Sem sabor x 900g",
+      "categoria": "Suplementos",
+      "preco": 227,
+      "link": "https://meli.la/2aAQP65",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/proteina-adaptogen-science-tasty-whey-gourmet-em-po-sem-sabor-x-900g/p/MLB19592785",
+      "precoDe": 449.9,
+      "parcelas": "12x R$ 22,47",
+      "postado": "2026-11-13T20:26:48.572Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2aAQP65.jpg"
+    },
     {
       "id": "1yQXksa",
       "nome": "Kit 4 Camiseta Dry-fit Sandrini Masculina Academia Caminhada",
