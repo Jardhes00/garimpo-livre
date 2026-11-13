@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-13T14:09:00.281Z",
+  "atualizado": "2026-11-13T14:10:30.367Z",
   "ofertas": [
+    {
+      "id": "2zhuU9a",
+      "nome": "Máquina de Lavar Consul 14Kg Branca com Modo Eco - CWN14AB",
+      "categoria": "Diversos",
+      "preco": 1496.72,
+      "link": "https://meli.la/2zhuU9a",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB66484708",
+      "precoDe": 2302.68,
+      "pix": true,
+      "parcelas": "R$1.575,50 em outros meios",
+      "postado": "2026-11-13T14:10:30.365Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2zhuU9a.jpg"
+    },
     {
       "id": "2LG3dMQ",
       "nome": "Amplificador Taramps TS 800x4 800W 4 Canais para Som Automotivo",
