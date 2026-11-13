@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-13T20:14:03.435Z",
+  "atualizado": "2026-11-13T20:18:18.309Z",
   "ofertas": [
+    {
+      "id": "2GxQMVe",
+      "nome": "Omegafor Plus 120 Cápsulas Ômega 3 Vitafor",
+      "categoria": "Diversos",
+      "preco": 121,
+      "link": "https://meli.la/2GxQMVe",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/omegafor-plus-120-capsulas-mega-3-vitafor/p/MLB21961479",
+      "precoDe": 240,
+      "parcelas": "12x R$ 11,96",
+      "postado": "2026-11-13T20:18:18.308Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2GxQMVe.jpg"
+    },
     {
       "id": "1CTwRsd",
       "nome": "Pisca Pisca Cascata Natal 400 Leds 10m 8 Funções Luz Quente",
