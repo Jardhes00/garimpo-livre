@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-13T20:31:04.170Z",
+  "atualizado": "2026-11-13T20:35:18.823Z",
   "ofertas": [
+    {
+      "id": "1WxAtwU",
+      "nome": "Hidratante Corporal Cuide-se Bem Deleite Caramelo 400ml",
+      "categoria": "Beleza",
+      "preco": 38.9,
+      "link": "https://meli.la/1WxAtwU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/hidratante-corporal-cuide-se-bem-deleite-caramelo-400ml/p/MLB68025909",
+      "precoDe": 78.9,
+      "postado": "2026-11-13T20:35:18.822Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1WxAtwU.jpg"
+    },
     {
       "id": "31G82Qn",
       "nome": "Espelho Orgânico 70cm Decoração Lapidado Design Moderno Luxo E05 70x30",
