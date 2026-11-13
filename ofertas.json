@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-13T21:13:35.009Z",
+  "atualizado": "2026-11-13T21:17:50.329Z",
   "ofertas": [
+    {
+      "id": "2m3eVRX",
+      "nome": "Kit 10 Pares Meia Lupo Original Masculina Cano Médio Algodão",
+      "categoria": "Moda",
+      "preco": 89.9,
+      "link": "https://meli.la/2m3eVRX",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-1230533155-kit-10-pares-meia-lupo-original-masculina-cano-medio-algodo-_JM",
+      "precoDe": 179.22,
+      "parcelas": "12x R$ 8,85",
+      "cupomAnuncio": "R$86,90 com Cupom por seguir a loja",
+      "postado": "2026-11-13T21:17:50.327Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2m3eVRX.jpg"
+    },
     {
       "id": "2sRjU6x",
       "nome": "Lixeira Inteligente Automática Branca Universal Com Sensor Lumi Recarregável Anti Odor 16L",
