@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-13T20:52:19.398Z",
+  "atualizado": "2026-11-13T20:56:34.579Z",
   "ofertas": [
+    {
+      "id": "2GDw2fo",
+      "nome": "Controle joystick sem fio Sony PlayStation DualSense PS5 cosmic red",
+      "categoria": "Games",
+      "preco": 407.14,
+      "link": "https://meli.la/2GDw2fo",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/controle-joystick-sem-fio-sony-playstation-dualsense-ps5-cosmic-red/p/MLB18010994",
+      "precoDe": 699,
+      "pix": true,
+      "parcelas": "R$ 478,99 em 9x R$ 53,22 sem juros",
+      "postado": "2026-11-13T20:56:34.578Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2GDw2fo.jpg"
+    },
     {
       "id": "1DkwMfV",
       "nome": "Perfume Armaf Club De Nuit Intense 105ml Edt",
