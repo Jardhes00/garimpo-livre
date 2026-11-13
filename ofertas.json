@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-13T14:17:45.592Z",
+  "atualizado": "2026-11-13T14:19:15.625Z",
   "ofertas": [
+    {
+      "id": "2zUBFPC",
+      "nome": "Colcha Solteiro Buddemeyer In Design 100% Algodão Bege",
+      "categoria": "Casa",
+      "preco": 150.48,
+      "link": "https://meli.la/2zUBFPC",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB24148900",
+      "precoDe": 239.9,
+      "pix": true,
+      "parcelas": "R$188,10 em 6x R$31,35 sem juros",
+      "postado": "2026-11-13T14:19:15.623Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2zUBFPC.jpg"
+    },
     {
       "id": "1qnN8g1",
       "nome": "Robô aspirador Robot W90 varre aspira e passa pano 30w Wap cor preto",
