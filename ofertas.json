@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-13T19:52:47.671Z",
+  "atualizado": "2026-11-13T19:57:02.698Z",
   "ofertas": [
+    {
+      "id": "1CPhqZz",
+      "nome": "Creatina Monohidratada 500g Pouch - Growth Supplements Sem Sabor",
+      "categoria": "Suplementos",
+      "preco": 59.9,
+      "link": "https://meli.la/1CPhqZz",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/creatina-monohidratada-500g-pouch-growth-supplements/up/MLBU5177324326",
+      "precoDe": 139.9,
+      "parcelas": "12x R$ 5,90",
+      "cupomAnuncio": "Compre R$200 e ganhe R$10 OFF por seguir a loja",
+      "postado": "2026-11-13T19:57:02.697Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1CPhqZz.jpg"
+    },
     {
       "id": "1RsCcU9",
       "nome": "Cerveja Amstel Ultra Sem Glúten Lata 269ml - 12 Unidades",
