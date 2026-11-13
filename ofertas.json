@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-13T22:08:51.884Z",
+  "atualizado": "2026-11-13T22:13:06.863Z",
   "ofertas": [
+    {
+      "id": "14SLcHC",
+      "nome": "Hoverboard Skate Elétrico 6.5 Polegadas Com Led E Bluetooth",
+      "categoria": "Diversos",
+      "preco": 446.99,
+      "link": "https://meli.la/14SLcHC",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB65362213",
+      "precoDe": 1299,
+      "postado": "2026-11-13T22:13:06.862Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-14SLcHC.jpg"
+    },
     {
       "id": "1kftqCj",
       "nome": "Cadeira Gamer Reclinável Ergonômica Com Apoio Para Pés e Cabeça de Couro Sintético Cinza Sweet Studio",
