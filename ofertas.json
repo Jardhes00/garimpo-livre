@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-13T22:00:21.357Z",
+  "atualizado": "2026-11-13T22:04:36.986Z",
   "ofertas": [
+    {
+      "id": "2UwugqL",
+      "nome": "Chuveiro Ducha Lorenzetti Loren Shower Eletrônico Branco 6800w 220V",
+      "categoria": "Diversos",
+      "preco": 91.08,
+      "link": "https://meli.la/2UwugqL",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB19765518",
+      "precoDe": 399.7,
+      "pix": true,
+      "parcelas": "R$95,87 em outros meios",
+      "postado": "2026-11-13T22:04:36.984Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2UwugqL.jpg"
+    },
     {
       "id": "1QHsp3J",
       "nome": "Auxiliar de Partida Carregador Bateria e Compressor de Ar Portátil 6 em 1 Inteligente para Carro, Moto e Bicicleta com Lanterna e Power Bank",
