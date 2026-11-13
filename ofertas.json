@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-13T14:29:16.011Z",
+  "atualizado": "2026-11-13T14:30:31.265Z",
   "ofertas": [
+    {
+      "id": "16JNGbc",
+      "nome": "Uomini Spirit Desodorante Colônia 100ml",
+      "categoria": "Diversos",
+      "preco": 103.9,
+      "link": "https://meli.la/16JNGbc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB40336256",
+      "precoDe": 209.9,
+      "parcelas": "4x de R$25,98 sem juros",
+      "postado": "2026-11-13T14:30:31.264Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-16JNGbc.jpg"
+    },
     {
       "id": "23K89BY",
       "nome": "Deo Colônia Natura Hoje Masculino 100ml",
