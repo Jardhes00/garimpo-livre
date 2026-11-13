@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-13T20:35:18.823Z",
+  "atualizado": "2026-11-13T20:39:34.034Z",
   "ofertas": [
+    {
+      "id": "2viX6ey",
+      "nome": "Power Bank 20000mah Carregador Portátil Turbo Rápido 22.5w Display Digital Preto",
+      "categoria": "Tech",
+      "preco": 77.34,
+      "link": "https://meli.la/2viX6ey",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/power-bank-20000mah-carregador-portatil-turbo-rapido-225w-display-digital-preto/p/MLB66497052",
+      "precoDe": 119,
+      "parcelas": "12x R$ 7,62",
+      "postado": "2026-11-13T20:39:34.033Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2viX6ey.jpg"
+    },
     {
       "id": "1WxAtwU",
       "nome": "Hidratante Corporal Cuide-se Bem Deleite Caramelo 400ml",
