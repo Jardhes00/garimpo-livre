@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-13T22:04:36.986Z",
+  "atualizado": "2026-11-13T22:08:51.884Z",
   "ofertas": [
+    {
+      "id": "1kftqCj",
+      "nome": "Cadeira Gamer Reclinável Ergonômica Com Apoio Para Pés e Cabeça de Couro Sintético Cinza Sweet Studio",
+      "categoria": "Games",
+      "preco": 459,
+      "link": "https://meli.la/1kftqCj",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB68289607",
+      "precoDe": 900,
+      "cupomAnuncio": "R$453 com Cupom por seguir a loja",
+      "postado": "2026-11-13T22:08:51.882Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1kftqCj.jpg"
+    },
     {
       "id": "2UwugqL",
       "nome": "Chuveiro Ducha Lorenzetti Loren Shower Eletrônico Branco 6800w 220V",
