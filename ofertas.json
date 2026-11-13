@@ -1,6 +1,26 @@
 {
-  "atualizado": "2026-11-13T19:35:59.270Z",
+  "atualizado": "2026-11-13T19:40:02.310Z",
   "ofertas": [
+    {
+      "id": "2b1Kd9o",
+      "nome": "Balança Corporal De Bioimpedância Digital Bluetooth Aparelho Alta Capacidade Balança De Banheiro Academia Nutricionista App Para Android E Para Ios Cor Preto Marca Chrome Technology",
+      "categoria": "Esporte",
+      "preco": 24.73,
+      "link": "https://meli.la/2b1Kd9o",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/balanca-corporal-de-bioimpedancia-digital-bluetooth-aparelho-alta-capacidade-balanca-de-banheiro-academia-nutricionista-app-para-android-e-para-ios-cor-preto-marca-chrome-technology/p/MLB80508559",
+      "precoDe": 39.99,
+      "pix": true,
+      "parcelas": "R$ 28,10 em outros meios",
+      "cupomAnuncio": "Compre R$106 e ganhe 5% OFF por seguir a loja",
+      "relampago": true,
+      "postado": "2026-11-13T19:40:02.308Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2b1Kd9o.jpg"
+    },
     {
       "id": "2YwBr8M",
       "nome": "Philco PAF15C Fritadeira Air Fryer Oven 15 Litros Revestimento Redstone Porta Removível Luz Interna 10 Funções Preta",
@@ -2844,41 +2864,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-18eHdRz.jpg"
-    },
-    {
-      "id": "1rKjBqU",
-      "nome": "Smartphone Motorola Moto G06 4g 6.9pol 128gb 4gb Câmera 50mp Azul",
-      "categoria": "Tech",
-      "preco": 689,
-      "link": "https://meli.la/1rKjBqU",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g06-4g-69pol-128gb-4gb-camera-50mp-azul/p/MLB62405543",
-      "precoDe": 1544,
-      "parcelas": "12x de R$ 66,63",
-      "postado": "2026-11-11T19:38:47.136Z",
-      "conferido": "2026-11-11",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1rKjBqU.jpg"
-    },
-    {
-      "id": "1wVjte7",
-      "nome": "Câmera Inteligente Intelbras iM5SC con Wi-Fi Full HD color Branca",
-      "categoria": "Diversos",
-      "preco": 200.7,
-      "link": "https://meli.la/1wVjte7",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/camera-inteligente-intelbras-im5sc-con-wi-fi-full-hd-color-branca/p/MLB27705742",
-      "precoDe": 299.9,
-      "pix": true,
-      "parcelas": "R$ 223 em 6x de R$ 37,17 sem juros",
-      "postado": "2026-11-11T19:36:47.243Z",
-      "conferido": "2026-11-11",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1wVjte7.jpg"
     }
   ]
 }
