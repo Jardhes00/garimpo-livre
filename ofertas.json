@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-13T19:40:02.310Z",
+  "atualizado": "2026-11-13T19:44:18.602Z",
   "ofertas": [
+    {
+      "id": "2wbqzh3",
+      "nome": "Cozedor de Ovos Elétrico Micgeek a Vapor para 7 Ovos com Desligamento Automático",
+      "categoria": "Diversos",
+      "preco": 37.98,
+      "link": "https://meli.la/2wbqzh3",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cozedor-de-ovos-eletrico-micgeek-a-vapor-para-7-ovos-com-desligamento-automatico/p/MLB77835608",
+      "precoDe": 51.4,
+      "postado": "2026-11-13T19:44:18.600Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2wbqzh3.jpg"
+    },
     {
       "id": "2b1Kd9o",
       "nome": "Balança Corporal De Bioimpedância Digital Bluetooth Aparelho Alta Capacidade Balança De Banheiro Academia Nutricionista App Para Android E Para Ios Cor Preto Marca Chrome Technology",
@@ -2812,58 +2828,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1VK1irW.jpg"
-    },
-    {
-      "id": "19Rcp2d",
-      "nome": "Kit 10 Cuecas Boxer Lupo Algodão Confortável Box Original",
-      "categoria": "Moda",
-      "preco": 159.99,
-      "link": "https://meli.la/19Rcp2d",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://produto.mercadolivre.com.br/MLB-1473758753-kit-10-cuecas-boxer-lupo-algodo-confortavel-box-original-_JM",
-      "precoDe": 449.99,
-      "postado": "2026-11-11T19:43:17.477Z",
-      "conferido": "2026-11-11",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-19Rcp2d.jpg"
-    },
-    {
-      "id": "32Lkajy",
-      "nome": "Kit Starlink Mini X – Internet via Satélite com Antena Mini e Roteador Wi-Fi 6",
-      "categoria": "Diversos",
-      "preco": 424.15,
-      "link": "https://meli.la/32Lkajy",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit-starlink-mini-x-internet-via-satelite-com-antena-mini-e-roteador-wi-fi-6/p/MLB65276331",
-      "precoDe": 699,
-      "pix": true,
-      "parcelas": "R$ 499 em 9x de R$ 55,44 sem juros",
-      "postado": "2026-11-11T19:41:47.266Z",
-      "conferido": "2026-11-11",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-32Lkajy.jpg"
-    },
-    {
-      "id": "18eHdRz",
-      "nome": "Máscara de Reconstrução Profunda para Cabelos Danificados, Força e Elasticidade Résistance Thérapiste Kérastase 200ml",
-      "categoria": "Diversos",
-      "preco": 199,
-      "link": "https://meli.la/18eHdRz",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/mascara-de-reconstrucao-profunda-para-cabelos-danificados-forca-e-elasticidade-resistance-therapiste-kerastase-200ml/p/MLB19462412",
-      "precoDe": 399.9,
-      "parcelas": "12x de R$ 19,70",
-      "extra": "R$ 100 OFF com cupom no anúncio",
-      "postado": "2026-11-11T19:40:02.828Z",
-      "conferido": "2026-11-11",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-18eHdRz.jpg"
     }
   ]
 }
