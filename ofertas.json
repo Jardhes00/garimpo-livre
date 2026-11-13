@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-13T20:26:48.573Z",
+  "atualizado": "2026-11-13T20:31:04.170Z",
   "ofertas": [
+    {
+      "id": "31G82Qn",
+      "nome": "Espelho Orgânico 70cm Decoração Lapidado Design Moderno Luxo E05 70x30",
+      "categoria": "Pet",
+      "preco": 56.42,
+      "link": "https://meli.la/31G82Qn",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/espelho-organico-70cm-decoracao-lapidado-design-moderno-luxo/up/MLBU3460372802",
+      "precoDe": 139.99,
+      "parcelas": "12x R$ 5,56",
+      "cupomAnuncio": "Compre R$100 e ganhe 5% OFF por seguir a loja",
+      "relampago": true,
+      "postado": "2026-11-13T20:31:04.169Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-31G82Qn.jpg"
+    },
     {
       "id": "2aAQP65",
       "nome": "Proteína Adaptogen Science Tasty Whey Gourmet em pó Sem sabor x 900g",
