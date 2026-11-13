@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-13T13:55:29.906Z",
+  "atualizado": "2026-11-13T13:56:44.761Z",
   "ofertas": [
+    {
+      "id": "1pRQotk",
+      "nome": "Celular Samsung Galaxy S25 Fe 5g, 128gb, 8gb Ram, Câmera Tripla De 50+12+8, Tela Grande De 6.7 Jetblack",
+      "categoria": "Tech",
+      "preco": 2699.1,
+      "link": "https://meli.la/1pRQotk",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB61692896",
+      "precoDe": 4499,
+      "pix": true,
+      "parcelas": "R$2.999 em 10x R$299,90 sem juros",
+      "postado": "2026-11-13T13:56:44.760Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1pRQotk.jpg"
+    },
     {
       "id": "2h8wPQy",
       "nome": "Celular Samsung Galaxy A17 5g Com Ia, 256gb, 8gb Ram, Câm De 50mp, Tela De 6.7 , Nfc, Ip54 - Azul",
