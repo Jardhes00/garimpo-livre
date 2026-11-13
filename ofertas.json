@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-13T19:14:31.645Z",
+  "atualizado": "2026-11-13T19:18:46.636Z",
   "ofertas": [
+    {
+      "id": "111Vvsq",
+      "nome": "Kit 6 Cuecas Boxer Lupo Sem Costura Box Microfibra Original",
+      "categoria": "Moda",
+      "preco": 120.05,
+      "link": "https://meli.la/111Vvsq",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-2794030545-kit-6-cuecas-boxer-lupo-sem-costura-box-microfibra-original-_JM",
+      "precoDe": 299.98,
+      "pix": true,
+      "parcelas": "R$ 137,99 em outros meios",
+      "cupomAnuncio": "Compre R$200 e ganhe 5% OFF por seguir a loja",
+      "postado": "2026-11-13T19:18:46.634Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-111Vvsq.jpg"
+    },
     {
       "id": "2DiNCA3",
       "nome": "Camisa Térmica Voker Academia Proteção Solar Uv Dry Fit",
