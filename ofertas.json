@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-13T13:56:44.761Z",
+  "atualizado": "2026-11-13T13:58:15.335Z",
   "ofertas": [
+    {
+      "id": "19ShHie",
+      "nome": "Smartphone OPPO A6t 128GB 12GB RAM (4GB + 8GB RAM Virtual) Bateria Gigante 6500 mAh Câmera AI Violeta",
+      "categoria": "Tech",
+      "preco": 799,
+      "link": "https://meli.la/19ShHie",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB75697418",
+      "precoDe": 1299,
+      "pix": true,
+      "parcelas": "R$887,78 em 3x R$295,93 sem juros",
+      "postado": "2026-11-13T13:58:15.334Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-19ShHie.jpg"
+    },
     {
       "id": "1pRQotk",
       "nome": "Celular Samsung Galaxy S25 Fe 5g, 128gb, 8gb Ram, Câmera Tripla De 50+12+8, Tela Grande De 6.7 Jetblack",
