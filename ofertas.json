@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-13T13:58:15.335Z",
+  "atualizado": "2026-11-13T13:59:45.250Z",
   "ofertas": [
+    {
+      "id": "18J8A2o",
+      "nome": "Smart TV PRO LG 50'' 4K Ultra HD AI 50UN85C",
+      "categoria": "Tech",
+      "preco": 2004.68,
+      "link": "https://meli.la/18J8A2o",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB74962073",
+      "precoDe": 3455,
+      "pix": true,
+      "parcelas": "R$2.179 em outros meios",
+      "postado": "2026-11-13T13:59:45.249Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-18J8A2o.jpg"
+    },
     {
       "id": "19ShHie",
       "nome": "Smartphone OPPO A6t 128GB 12GB RAM (4GB + 8GB RAM Virtual) Bateria Gigante 6500 mAh Câmera AI Violeta",
