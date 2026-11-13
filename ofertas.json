@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-13T21:43:20.825Z",
+  "atualizado": "2026-11-13T21:47:35.967Z",
   "ofertas": [
+    {
+      "id": "1sdad4S",
+      "nome": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Baunilha",
+      "categoria": "Suplementos",
+      "preco": 78.9,
+      "link": "https://meli.la/1sdad4S",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB19373961",
+      "precoDe": 129.9,
+      "cupomAnuncio": "Compre R$150 e ganhe R$20 OFF",
+      "postado": "2026-11-13T21:47:35.965Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1sdad4S.jpg"
+    },
     {
       "id": "2azDXNa",
       "nome": "Body Splash Masculino Vibration 200ml - Primacial Perfume Bergamota Fresco",
