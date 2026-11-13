@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-13T14:24:01.027Z",
+  "atualizado": "2026-11-13T14:26:00.904Z",
   "ofertas": [
+    {
+      "id": "2PoVWZ9",
+      "nome": "Kit 2 Luminaria Solar Externa Com Sensor Refletor E Led 3800W",
+      "categoria": "Diversos",
+      "preco": 188,
+      "link": "https://meli.la/2PoVWZ9",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB81796505",
+      "precoDe": 599,
+      "postado": "2026-11-13T14:26:00.903Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2PoVWZ9.jpg"
+    },
     {
       "id": "1aHKLh3",
       "nome": "Pistola De Pintura E Pulverizadora Elétrica Portátil Hvlp 1.250l C/5 Bicos E Acessórios 600w Tpp150 The Black Tools",
