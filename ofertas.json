@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-13T14:15:30.967Z",
+  "atualizado": "2026-11-13T14:17:45.592Z",
   "ofertas": [
+    {
+      "id": "1qnN8g1",
+      "nome": "Robô aspirador Robot W90 varre aspira e passa pano 30w Wap cor preto",
+      "categoria": "Casa",
+      "preco": 299.9,
+      "link": "https://meli.la/1qnN8g1",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB19731776",
+      "precoDe": 514.14,
+      "pix": true,
+      "parcelas": "R$333,22 em outros meios",
+      "postado": "2026-11-13T14:17:45.591Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1qnN8g1.jpg"
+    },
     {
       "id": "13fRT9j",
       "nome": "Extratora de Sujeira Portátil WAP Spot Cleaner W3 Borrifa Esfrega e Extrai 1450W de Potência e Bico de Autolimpeza",
