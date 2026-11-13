@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-13T13:51:29.755Z",
+  "atualizado": "2026-11-13T13:53:29.956Z",
   "ofertas": [
+    {
+      "id": "1Vu3vag",
+      "nome": "Smart Tv H5000f Hd 32 Polegadas 2025 Preto Samsung Bivolt",
+      "categoria": "Tech",
+      "preco": 1029,
+      "link": "https://meli.la/1Vu3vag",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB48954912",
+      "precoDe": 1499,
+      "postado": "2026-11-13T13:53:29.954Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Vu3vag.jpg"
+    },
     {
       "id": "2G63JkP",
       "nome": "Jogo de Toalhas Buddemeyer Atena Fio Penteado Banho Verde/Verde Claro 4 peças",
