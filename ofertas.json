@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-13T20:39:34.034Z",
+  "atualizado": "2026-11-13T20:43:49.460Z",
   "ofertas": [
+    {
+      "id": "1KLWA5t",
+      "nome": "Projetor Portátil 4k Hd Android 11.0 Smart Wifi 5g Bluetooth Branco 127/220v",
+      "categoria": "Diversos",
+      "preco": 170.9,
+      "link": "https://meli.la/1KLWA5t",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/projetor-portatil-4k-hd-android-110-smart-wifi-5g-bluetooth/up/MLBU767944712",
+      "precoDe": 349.9,
+      "pix": true,
+      "parcelas": "R$ 179,90 em outros meios",
+      "postado": "2026-11-13T20:43:49.458Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1KLWA5t.jpg"
+    },
     {
       "id": "2viX6ey",
       "nome": "Power Bank 20000mah Carregador Portátil Turbo Rápido 22.5w Display Digital Preto",
