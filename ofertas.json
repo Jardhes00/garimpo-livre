@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-13T20:05:33.602Z",
+  "atualizado": "2026-11-13T20:09:48.281Z",
   "ofertas": [
+    {
+      "id": "2c6H1rx",
+      "nome": "Roçadeira Aparador Grama A Bateria Recarregável 21v 800w",
+      "categoria": "Diversos",
+      "preco": 129.99,
+      "link": "https://meli.la/2c6H1rx",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/rocadeira-aparador-grama-a-bateria-recarregavel-21v-800w/up/MLBU4980281960",
+      "precoDe": 329.99,
+      "parcelas": "4x R$ 32,50 sem juros",
+      "postado": "2026-11-13T20:09:48.280Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2c6H1rx.jpg"
+    },
     {
       "id": "1CPVVme",
       "nome": "Tênis Nike Air Max Alpha Trainer 6 Masculino",
