@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-13T19:27:17.178Z",
+  "atualizado": "2026-11-13T19:31:32.057Z",
   "ofertas": [
+    {
+      "id": "1kbZXkA",
+      "nome": "Kit Cobre Leito Casal 3 Peças Colcha 400 Fios Dupla Face",
+      "categoria": "Casa",
+      "preco": 113.9,
+      "link": "https://meli.la/1kbZXkA",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-5175298228-kit-cobre-leito-casal-3-pecas-colcha-400-fios-dupla-face-_JM",
+      "precoDe": 176.77,
+      "pix": true,
+      "parcelas": "R$ 119,90 em outros meios",
+      "cupomAnuncio": "R$109,15 com Cupom por seguir a loja",
+      "postado": "2026-11-13T19:31:32.055Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1kbZXkA.jpg"
+    },
     {
       "id": "2sRtKGT",
       "nome": "Kit 10 Pote De Vidro Marmita Hermético 640ml Freezer Fitness Vitrex",
@@ -2895,57 +2914,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2xqLGyo.jpg"
-    },
-    {
-      "id": "2pz14wW",
-      "nome": "Cetaphil Loção Hidratante Corporal e Facial para Pele Sensível, Normal a Seca 1L - Hidratação 48h",
-      "categoria": "Beleza",
-      "preco": 109.9,
-      "link": "https://meli.la/2pz14wW",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cetaphil-locao-hidratante-corporal-e-facial-para-pele-sensivel-normal-a-seca-1l-hidratacao-48h/p/MLB55232692",
-      "precoDe": 205.9,
-      "parcelas": "4x de R$ 27,48 sem juros",
-      "postado": "2026-11-11T19:30:47.072Z",
-      "conferido": "2026-11-11",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2pz14wW.jpg"
-    },
-    {
-      "id": "2wUGn6L",
-      "nome": "Smartwatch Samsung Galaxy Watch8 LTE de 44mm com Galaxy AI, Grafite",
-      "categoria": "Tech",
-      "preco": 1215,
-      "link": "https://meli.la/2wUGn6L",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/smartwatch-samsung-galaxy-watch8-lte-de-44mm-com-galaxy-ai-grafite/p/MLB52915893",
-      "precoDe": 3099,
-      "pix": true,
-      "parcelas": "R$ 1.350 em 10x de R$ 135 sem juros",
-      "postado": "2026-11-11T19:29:32.422Z",
-      "conferido": "2026-11-11",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2wUGn6L.jpg"
-    },
-    {
-      "id": "2v8czf3",
-      "nome": "Creatina Soldiers Nutrition em pó Sem sabor x 1kg",
-      "categoria": "Suplementos",
-      "preco": 68.9,
-      "link": "https://meli.la/2v8czf3",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/creatina-soldiers-nutrition-em-po-sem-sabor-x-1kg/p/MLB18725310",
-      "precoDe": 239.9,
-      "postado": "2026-11-11T19:27:32.190Z",
-      "conferido": "2026-11-11",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2v8czf3.jpg"
     }
   ]
 }
