@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-13T22:13:06.863Z",
+  "atualizado": "2026-11-13T22:17:21.928Z",
   "ofertas": [
+    {
+      "id": "1LbiXo3",
+      "nome": "Casa De Boneca Barbie Dream Land Com Escorregador Multicolor",
+      "categoria": "Diversos",
+      "preco": 899.9,
+      "link": "https://meli.la/1LbiXo3",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB69331466",
+      "precoDe": 1699.99,
+      "parcelas": "10x de R$89,99 sem juros",
+      "cupomAnuncio": "R$764,91 com Cupom",
+      "postado": "2026-11-13T22:17:21.926Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1LbiXo3.jpg"
+    },
     {
       "id": "14SLcHC",
       "nome": "Hoverboard Skate Elétrico 6.5 Polegadas Com Led E Bluetooth",
