@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-13T14:22:30.973Z",
+  "atualizado": "2026-11-13T14:24:01.027Z",
   "ofertas": [
+    {
+      "id": "1aHKLh3",
+      "nome": "Pistola De Pintura E Pulverizadora Elétrica Portátil Hvlp 1.250l C/5 Bicos E Acessórios 600w Tpp150 The Black Tools",
+      "categoria": "Diversos",
+      "preco": 196.81,
+      "link": "https://meli.la/1aHKLh3",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB55899349",
+      "precoDe": 299.9,
+      "postado": "2026-11-13T14:24:01.026Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1aHKLh3.jpg"
+    },
     {
       "id": "1wQLdze",
       "nome": "Compressor Portátil Verunto Digital 150psi USB Type-C para Carro e Moto",
