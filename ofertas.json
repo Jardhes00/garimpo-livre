@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-13T19:23:01.882Z",
+  "atualizado": "2026-11-13T19:27:17.178Z",
   "ofertas": [
+    {
+      "id": "2sRtKGT",
+      "nome": "Kit 10 Pote De Vidro Marmita Hermético 640ml Freezer Fitness Vitrex",
+      "categoria": "Casa",
+      "preco": 88.56,
+      "link": "https://meli.la/2sRtKGT",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-10-pote-de-vidro-marmita-hermetico-640ml-freezer-fitness-vitrex/p/MLB65269789",
+      "precoDe": 198.87,
+      "pix": true,
+      "parcelas": "R$ 93,22 em outros meios",
+      "cupomAnuncio": "Compre R$100 e ganhe 5% OFF por seguir a loja",
+      "postado": "2026-11-13T19:27:17.176Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2sRtKGT.jpg"
+    },
     {
       "id": "1acBiQX",
       "nome": "Lixeira Inteligente Automática Preta Universal Com Sensor Lumi Recarregável Anti Odor 16l",
