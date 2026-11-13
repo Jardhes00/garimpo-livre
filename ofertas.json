@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-13T21:30:35.608Z",
+  "atualizado": "2026-11-13T21:34:50.740Z",
   "ofertas": [
+    {
+      "id": "1RRiyFu",
+      "nome": "Secador Taiff Tourmaline Íon 2100W – Alta Performance Preto",
+      "categoria": "Beleza",
+      "preco": 260.98,
+      "link": "https://meli.la/1RRiyFu",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB23888631",
+      "precoDe": 499.9,
+      "pix": true,
+      "parcelas": "R$307,04 em outros meios",
+      "postado": "2026-11-13T21:34:50.739Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1RRiyFu.jpg"
+    },
     {
       "id": "1D2Y1bX",
       "nome": "Balança De Bioimpedância 8 Sensores Relaxmedic Digital Preto",
