@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-13T19:57:02.698Z",
+  "atualizado": "2026-11-13T20:01:17.997Z",
   "ofertas": [
+    {
+      "id": "2SiCUiZ",
+      "nome": "Kit Tupia Manual Laminadora 30000r/m,800w + 15peças Cortador",
+      "categoria": "Diversos",
+      "preco": 175.75,
+      "link": "https://meli.la/2SiCUiZ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-4210396111-kit-tupia-manual-laminadora-30000rm800w-15pecas-cortador-_JM",
+      "precoDe": 309,
+      "pix": true,
+      "parcelas": "R$ 185 em outros meios",
+      "postado": "2026-11-13T20:01:17.995Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2SiCUiZ.jpg"
+    },
     {
       "id": "1CPhqZz",
       "nome": "Creatina Monohidratada 500g Pouch - Growth Supplements Sem Sabor",
