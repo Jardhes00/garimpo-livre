@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-13T21:26:20.229Z",
+  "atualizado": "2026-11-13T21:30:35.608Z",
   "ofertas": [
+    {
+      "id": "1D2Y1bX",
+      "nome": "Balança De Bioimpedância 8 Sensores Relaxmedic Digital Preto",
+      "categoria": "Diversos",
+      "preco": 379.95,
+      "link": "https://meli.la/1D2Y1bX",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB64134227",
+      "precoDe": 999.9,
+      "postado": "2026-11-13T21:30:35.607Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1D2Y1bX.jpg"
+    },
     {
       "id": "1hq8Ghs",
       "nome": "SSD 240GB Adata 2.5 SU650 ASU650SS-240GT-R 240GB preto",
