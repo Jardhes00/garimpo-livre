@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-13T19:44:18.602Z",
+  "atualizado": "2026-11-13T19:48:32.527Z",
   "ofertas": [
+    {
+      "id": "2GGVcix",
+      "nome": "Tênis Grand Court Base 3.0 adidas",
+      "categoria": "Moda",
+      "preco": 185.99,
+      "link": "https://meli.la/2GGVcix",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-5997713980-tnis-grand-court-base-30-adidas-_JM",
+      "precoDe": 349.99,
+      "parcelas": "6x R$ 31 sem juros",
+      "postado": "2026-11-13T19:48:32.525Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2GGVcix.jpg"
+    },
     {
       "id": "2wbqzh3",
       "nome": "Cozedor de Ovos Elétrico Micgeek a Vapor para 7 Ovos com Desligamento Automático",
@@ -2793,41 +2810,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-22oTEju.jpg"
-    },
-    {
-      "id": "26QJ1V6",
-      "nome": "Fritadeira Elétrica AFON-12L-BG Forno Oven 12 Litros Preto Mondial",
-      "categoria": "Casa",
-      "preco": 436.4,
-      "link": "https://meli.la/26QJ1V6",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/fritadeira-eletrica-afon-12l-bg-forno-oven-12-litros-preto-mondial/p/MLB45070708",
-      "precoDe": 899,
-      "pix": true,
-      "parcelas": "R$ 449,90 em 8x de R$ 56,24 sem juros",
-      "postado": "2026-11-11T19:46:47.544Z",
-      "conferido": "2026-11-11",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-26QJ1V6.jpg"
-    },
-    {
-      "id": "1VK1irW",
-      "nome": "Caixa de Som Boombox Plus AIWA BBS-01-LBL 200W Bluetooth 30H IP66 USB RGB",
-      "categoria": "Tech",
-      "preco": 1195,
-      "link": "https://meli.la/1VK1irW",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-boombox-plus-aiwa-bbs-01-lbl-200w-bluetooth-30h-ip66-usb-rgb/p/MLB38520699",
-      "precoDe": 2299,
-      "parcelas": "10x de R$ 119,50 sem juros",
-      "postado": "2026-11-11T19:44:47.549Z",
-      "conferido": "2026-11-11",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1VK1irW.jpg"
     }
   ]
 }
