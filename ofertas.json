@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-13T14:21:00.940Z",
+  "atualizado": "2026-11-13T14:22:30.973Z",
   "ofertas": [
+    {
+      "id": "1wQLdze",
+      "nome": "Compressor Portátil Verunto Digital 150psi USB Type-C para Carro e Moto",
+      "categoria": "Ferramentas",
+      "preco": 69.7,
+      "link": "https://meli.la/1wQLdze",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB58359033",
+      "precoDe": 157.98,
+      "parcelas": "3x de R$23,23 sem juros",
+      "postado": "2026-11-13T14:22:30.971Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1wQLdze.jpg"
+    },
     {
       "id": "1qy2BLG",
       "nome": "Parafusadeira Furadeira Impacto Sem Fio 2 Baterias Recarregável 21V Bivolt + Kit Acessórios 136 Peças The Black Tools",
