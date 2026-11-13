@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-13T19:48:32.527Z",
+  "atualizado": "2026-11-13T19:52:47.671Z",
   "ofertas": [
+    {
+      "id": "1RsCcU9",
+      "nome": "Cerveja Amstel Ultra Sem Glúten Lata 269ml - 12 Unidades",
+      "categoria": "Diversos",
+      "preco": 38.99,
+      "link": "https://meli.la/1RsCcU9",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cerveja-amstel-ultra-sem-gluten-lata-269ml-12-unidades/p/MLB19537834",
+      "precoDe": 83.9,
+      "postado": "2026-11-13T19:52:47.669Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1RsCcU9.jpg"
+    },
     {
       "id": "2GGVcix",
       "nome": "Tênis Grand Court Base 3.0 adidas",
@@ -2775,41 +2791,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1RZ89VL.jpg"
-    },
-    {
-      "id": "2mpeb9v",
-      "nome": "SSD Kingston NV3 500GB M.2 2280 NVMe PCIe 4.0",
-      "categoria": "Tech",
-      "preco": 649.9,
-      "link": "https://meli.la/2mpeb9v",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ssd-kingston-nv3-500gb-m2-2280-nvme-pcie-40/p/MLB39410080",
-      "precoDe": 1226,
-      "parcelas": "10x de R$ 64,99 sem juros",
-      "postado": "2026-11-11T19:50:17.829Z",
-      "conferido": "2026-11-11",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2mpeb9v.jpg"
-    },
-    {
-      "id": "22oTEju",
-      "nome": "Impressora Multifuncional HP Smart Tank 584 - Preta",
-      "categoria": "Tech",
-      "preco": 714.6,
-      "link": "https://meli.la/22oTEju",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/impressora-multifuncional-hp-smart-tank-584-preta/p/MLB34801962",
-      "precoDe": 1363,
-      "pix": true,
-      "parcelas": "R$ 794 em 10x de R$ 79,40 sem juros",
-      "postado": "2026-11-11T19:48:33.106Z",
-      "conferido": "2026-11-11",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-22oTEju.jpg"
     }
   ]
 }
