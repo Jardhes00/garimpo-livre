@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-13T19:31:32.057Z",
+  "atualizado": "2026-11-13T19:35:59.270Z",
   "ofertas": [
+    {
+      "id": "2YwBr8M",
+      "nome": "Philco PAF15C Fritadeira Air Fryer Oven 15 Litros Revestimento Redstone Porta Removível Luz Interna 10 Funções Preta",
+      "categoria": "Casa",
+      "preco": 492.91,
+      "link": "https://meli.la/2YwBr8M",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/philco-paf15c-fritadeira-air-fryer-oven-15-litros-revestimento-redstone-porta-removivel-luz-interna-10-funcoes-preta/p/MLB66271625",
+      "precoDe": 827.14,
+      "pix": true,
+      "parcelas": "R$ 579,90 em outros meios",
+      "postado": "2026-11-13T19:35:59.267Z",
+      "conferido": "2026-11-13",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2YwBr8M.jpg"
+    },
     {
       "id": "1kbZXkA",
       "nome": "Kit Cobre Leito Casal 3 Peças Colcha 400 Fios Dupla Face",
@@ -2861,59 +2879,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1wVjte7.jpg"
-    },
-    {
-      "id": "2opYHai",
-      "nome": "Conj de Panelas 8 Peças Ceramic Life Smart Plus Vanilla - Brinox",
-      "categoria": "Casa",
-      "preco": 479.9,
-      "link": "https://meli.la/2opYHai",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/conj-de-panelas-8-pecas-ceramic-life-smart-plus-vanilla-brinox/p/MLB32717965",
-      "precoDe": 1099,
-      "parcelas": "9x de R$ 53,32 sem juros",
-      "postado": "2026-11-11T19:35:02.365Z",
-      "conferido": "2026-11-11",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2opYHai.jpg"
-    },
-    {
-      "id": "2FY3Zut",
-      "nome": "Parafusadeira Furadeira De Impacto The Black Tools Profissional TB-21PX 2 Baterias Com Maleta 60Hz Amarelo",
-      "categoria": "Ferramentas",
-      "preco": 121.71,
-      "link": "https://meli.la/2FY3Zut",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/parafusadeira-furadeira-de-impacto-the-black-tools-profissional-tb-21px-2-baterias-com-maleta-60hz-amarelo/p/MLB30144703",
-      "precoDe": 259.9,
-      "pix": true,
-      "parcelas": "R$ 139,90 em outros meios",
-      "extra": "10% OFF com cupom no anúncio",
-      "postado": "2026-11-11T19:33:17.212Z",
-      "conferido": "2026-11-11",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2FY3Zut.jpg"
-    },
-    {
-      "id": "2xqLGyo",
-      "nome": "Tênis Flyer Runner Mesh Bdp Puma",
-      "categoria": "Moda",
-      "preco": 179.99,
-      "link": "https://meli.la/2xqLGyo",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://produto.mercadolivre.com.br/MLB-3806655487-tnis-flyer-runner-mesh-bdp-puma-_JM",
-      "precoDe": 349.99,
-      "parcelas": "5x de R$ 36 sem juros",
-      "postado": "2026-11-11T19:32:02.144Z",
-      "conferido": "2026-11-11",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2xqLGyo.jpg"
     }
   ]
 }
