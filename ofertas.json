@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-14T16:53:55.106Z",
+  "atualizado": "2026-11-14T16:55:25.185Z",
   "ofertas": [
+    {
+      "id": "1Xi4Kmb",
+      "nome": "O Boticário Clash Desodorante Colônia 100ml",
+      "categoria": "Diversos",
+      "preco": 129.9,
+      "link": "https://meli.la/1Xi4Kmb",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB46220624",
+      "precoDe": 179.9,
+      "parcelas": "4x de R$32,48 sem juros",
+      "postado": "2026-11-14T16:55:25.184Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Xi4Kmb.jpg"
+    },
     {
       "id": "22VJeLe",
       "nome": "Kit Dumont Feminino Lady Dourado - Du2036mfs/k4c",
