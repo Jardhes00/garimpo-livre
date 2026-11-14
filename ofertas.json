@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T19:46:33.617Z",
+  "atualizado": "2026-11-14T19:50:48.614Z",
   "ofertas": [
+    {
+      "id": "27R8B3Z",
+      "nome": "Ar-condicionado Split Inverter 12000 Btu/h Prime Air F 12fc Cor Branco",
+      "categoria": "Casa",
+      "preco": 1609.99,
+      "link": "https://meli.la/27R8B3Z",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-split-inverter-12000-bt",
+      "precoDe": 2299.9,
+      "pix": true,
+      "parcelas": "R$1.749,99 em 10x R$175 sem juros",
+      "postado": "2026-11-14T19:50:48.613Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-27R8B3Z.jpg"
+    },
     {
       "id": "22QSFiu",
       "nome": "Lanterna De Led Tática Grande Com Luz Forte Tipo Farolete 100000 Lúmens Recarga Usb E Solar Power Bank 7 Modos Ideal Para Uso Rural Camping Trilha Pesca Emergência E Segurança Noturna",
