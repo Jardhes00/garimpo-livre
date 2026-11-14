@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-14T16:38:39.792Z",
+  "atualizado": "2026-11-14T16:39:54.792Z",
   "ofertas": [
+    {
+      "id": "2k8qi8S",
+      "nome": "Purificador de água Philco Branco PPU12A Bivolt",
+      "categoria": "Diversos",
+      "preco": 389.9,
+      "link": "https://meli.la/2k8qi8S",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB56547110",
+      "precoDe": 549,
+      "parcelas": "10x de R$38,99 sem juros",
+      "postado": "2026-11-14T16:39:54.791Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2k8qi8S.jpg"
+    },
     {
       "id": "24sxi1M",
       "nome": "Forno de Embutir Elétrico Electrolux 80L OE8EL",
