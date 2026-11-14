@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T20:41:55.087Z",
+  "atualizado": "2026-11-14T20:43:10.372Z",
   "ofertas": [
+    {
+      "id": "1CYRjRS",
+      "nome": "2 Em1 Estacao De Solda Pistola De Calor Lcd E Ferro De Solda",
+      "categoria": "Diversos",
+      "preco": 160.45,
+      "link": "https://meli.la/1CYRjRS",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-4101428453-2-em1-estacao-de-solda-pistola-de-calor-lcd-e-ferro-de-solda-_JM",
+      "precoDe": 399,
+      "pix": true,
+      "parcelas": "R$ 168,90 em outros meios",
+      "postado": "2026-11-14T20:43:10.370Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1CYRjRS.jpg"
+    },
     {
       "id": "2mTEzej",
       "nome": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP",
