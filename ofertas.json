@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T20:55:10.365Z",
+  "atualizado": "2026-11-14T20:56:25.024Z",
   "ofertas": [
+    {
+      "id": "2fn33Kb",
+      "nome": "Shampoo Antiqueda Estimulante com Aminexil, Dercos Energy+ Vichy, 400g",
+      "categoria": "Beleza",
+      "preco": 117.13,
+      "link": "https://meli.la/2fn33Kb",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/shampoo-antiqueda-estimulante-com-aminexil-dercos-energy-vichy-400g/p/MLB19315994",
+      "precoDe": 186.9,
+      "extra": "10% OFF com cupom no anúncio",
+      "cupomAnuncio": "Compre R$399 e ganhe 10% OFF",
+      "postado": "2026-11-14T20:56:25.023Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2fn33Kb.jpg"
+    },
     {
       "id": "19qZuFt",
       "nome": "Bolsa Tote Daily Clear Gocase - Leve, Moderna E Minimalista",
