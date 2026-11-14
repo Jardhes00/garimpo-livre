@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-14T18:55:32.128Z",
+  "atualizado": "2026-11-14T18:59:47.063Z",
   "ofertas": [
+    {
+      "id": "1NGrdnw",
+      "nome": "Vinho Chileno Branco Concha Y Toro Reservado Sauvignon Blanc 750ml",
+      "categoria": "Diversos",
+      "preco": 22.9,
+      "link": "https://meli.la/1NGrdnw",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/vinho-chileno-branco-concha-y-toro-rese",
+      "precoDe": 39.36,
+      "cupomAnuncio": "R$17,17 com Cupom",
+      "postado": "2026-11-14T18:59:47.062Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1NGrdnw.jpg"
+    },
     {
       "id": "2Yg7Cyd",
       "nome": "Papai Noel Inflável com LED e Bala de Cana de 1,2 m para Decoração Impermeável e Durável",
@@ -3381,55 +3398,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1uYHtE2.jpg"
-    },
-    {
-      "id": "1SBYuKJ",
-      "nome": "Lixeira Inteligente Sensor Automático 16l Cinza Smart Recarregável Para Banheiro E Cozinha",
-      "categoria": "Casa",
-      "preco": 61.99,
-      "link": "https://meli.la/1SBYuKJ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB61702083",
-      "precoDe": 157.98,
-      "postado": "2026-11-12T18:59:29.837Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1SBYuKJ.jpg"
-    },
-    {
-      "id": "2uB1hvy",
-      "nome": "Panela De Pressão Fechamento Externo Presscook Marmol 6,8l - Mimo Style",
-      "categoria": "Casa",
-      "preco": 179,
-      "link": "https://meli.la/2uB1hvy",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB58330078",
-      "precoDe": 312.6,
-      "postado": "2026-11-12T18:57:44.351Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2uB1hvy.jpg"
-    },
-    {
-      "id": "1w9sFy9",
-      "nome": "Cadeira Escritório Ergonômica Genebra B500 NR-17 Luvinco Cor Preto Com Suporte Lombar Estofado Mesh",
-      "categoria": "Diversos",
-      "preco": 549.9,
-      "link": "https://meli.la/1w9sFy9",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB46220740",
-      "precoDe": 906.53,
-      "parcelas": "10x de R$54,99 sem juros",
-      "postado": "2026-11-12T18:56:14.499Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1w9sFy9.jpg"
     }
   ]
 }
