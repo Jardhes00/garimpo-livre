@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-14T15:22:52.588Z",
+  "atualizado": "2026-11-14T15:24:52.826Z",
   "ofertas": [
+    {
+      "id": "14VpZ34",
+      "nome": "Parafusadeira Furadeira De Precisão C/ 2 Baterias Maleta Kit Completo Led Eixo Flexível Vários Níveis Torque Hardline",
+      "categoria": "Ferramentas",
+      "preco": 98.99,
+      "link": "https://meli.la/14VpZ34",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/parafusadeira-furadeira-de-precisao-c-2-baterias-maleta-kit-completo-led-eixo-flexivel-varios-niveis-torque-hardline/p/MLB81754706",
+      "precoDe": 199,
+      "parcelas": "12x R$ 9,75",
+      "postado": "2026-11-14T15:24:52.825Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-14VpZ34.jpg"
+    },
     {
       "id": "1wYoGo2",
       "nome": "Smartphone Motorola Edge 70 Fusion 5g Fifa World Cup Collection - 256gb 8gb Ram + 16gb Ram Boost, Camera 50mp Sony Lytia 710, Tela 1.5k Extreme Amoled - Grafite",
@@ -2909,24 +2926,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1yDCznM.jpg"
-    },
-    {
-      "id": "2t4Lg64",
-      "nome": "Creatina Dark Lab Premium Pure em pó Sem sabor x 500g",
-      "categoria": "Suplementos",
-      "preco": 44.99,
-      "link": "https://meli.la/2t4Lg64",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/creatina-dark-lab-premium-pure-em-po-sem-sabor-x-500g/p/MLB26796581",
-      "precoDe": 99.8,
-      "extra": "R$ 20 OFF com cupom no anúncio",
-      "cupomAnuncio": "Compre R$150 e ganhe R$20 OFF",
-      "postado": "2026-11-12T15:23:30.847Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2t4Lg64.jpg"
     }
   ]
 }
