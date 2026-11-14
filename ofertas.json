@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-14T20:21:34.757Z",
+  "atualizado": "2026-11-14T20:25:50.099Z",
   "ofertas": [
+    {
+      "id": "1Y7EHK2",
+      "nome": "Aparelho De Jantar 30 Peças - Pratos, Copos E Talheres",
+      "categoria": "Diversos",
+      "preco": 65.9,
+      "link": "https://meli.la/1Y7EHK2",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aparelho-de-jantar-30-pecas-pratos-copo",
+      "precoDe": 159.9,
+      "postado": "2026-11-14T20:25:50.097Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Y7EHK2.jpg"
+    },
     {
       "id": "2gg7KVa",
       "nome": "Vinho Tinto Italiano Masserie Primitivo Puglia 750ml Codici",
@@ -3525,42 +3541,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1P3oLgV.jpg"
-    },
-    {
-      "id": "1HNUWqa",
-      "nome": "Smartphone JOVI T1 5G 256GB 8GB + 8GB RAM Expansível Bateria 6500mAh Câmera 50MP 4K - Preto Titânio",
-      "categoria": "Tech",
-      "preco": 1452.65,
-      "link": "https://meli.la/1HNUWqa",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB68938678",
-      "precoDe": 2799,
-      "pix": true,
-      "parcelas": "R$1.709 em 10x R$170,90 sem juros",
-      "postado": "2026-11-12T20:25:08.594Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1HNUWqa.jpg"
-    },
-    {
-      "id": "1xBkM4P",
-      "nome": "Celular Samsung Galaxy A57 5G 256GB, 8GB RAM, Recursos AI - Cinza",
-      "categoria": "Tech",
-      "preco": 2249.1,
-      "link": "https://meli.la/1xBkM4P",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB68212479",
-      "precoDe": 4299,
-      "pix": true,
-      "parcelas": "R$2.499 em 10x R$249,90 sem juros",
-      "postado": "2026-11-12T20:23:23.526Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1xBkM4P.jpg"
     }
   ]
 }
