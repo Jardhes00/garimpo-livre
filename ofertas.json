@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T19:16:47.849Z",
+  "atualizado": "2026-11-14T19:21:03.148Z",
   "ofertas": [
+    {
+      "id": "1vrNDjQ",
+      "nome": "Baú Bege Colchão Núvia Airtech Superpocket Ortobom Viúva",
+      "categoria": "Casa",
+      "preco": 1319.99,
+      "link": "https://meli.la/1vrNDjQ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bau-bege-colchao-nuvia-airtech-superpoc",
+      "precoDe": 2199,
+      "parcelas": "10x de R$132 sem juros",
+      "cupomAnuncio": "R$1.269,99 com Cupom por seguir a loja",
+      "postado": "2026-11-14T19:21:03.146Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1vrNDjQ.jpg"
+    },
     {
       "id": "2fetjwo",
       "nome": "Câmera Dupla Segurança Ip Wifi Externa Lente 6mp App Yoosee",
