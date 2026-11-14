@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T20:39:54.693Z",
+  "atualizado": "2026-11-14T20:41:55.087Z",
   "ofertas": [
+    {
+      "id": "2mTEzej",
+      "nome": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP",
+      "categoria": "Tech",
+      "preco": 1456,
+      "link": "https://meli.la/2mTEzej",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a37-5g-128gb-6gb-ram-camera-50mp/p/MLB68230300",
+      "precoDe": 3499,
+      "pix": true,
+      "parcelas": "R$ 1.618 em 8x R$ 202,34 sem juros",
+      "postado": "2026-11-14T20:41:55.086Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2mTEzej.jpg"
+    },
     {
       "id": "1q7njuZ",
       "nome": "Parafusadeira E Furadeira Sem Fio Bateria 3/8 10mm Com Maleta E Acessorios The Black Tools",
