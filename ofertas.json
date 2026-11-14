@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-14T19:12:32.855Z",
+  "atualizado": "2026-11-14T19:16:47.849Z",
   "ofertas": [
+    {
+      "id": "2fetjwo",
+      "nome": "Câmera Dupla Segurança Ip Wifi Externa Lente 6mp App Yoosee",
+      "categoria": "Diversos",
+      "preco": 123.48,
+      "link": "https://meli.la/2fetjwo",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/camera-dupla-seguranca-ip-wifi-externa-",
+      "precoDe": 204.6,
+      "pix": true,
+      "parcelas": "R$129,98 em outros meios",
+      "cupomAnuncio": "Compre R$149 e ganhe 6% OFF por seguir a loja",
+      "postado": "2026-11-14T19:16:47.847Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2fetjwo.jpg"
+    },
     {
       "id": "1WeWFZ8",
       "nome": "Jogo de Toalhas 4 Peças Fio Cardado 100 Algodão Softmax Bressan Karsten",
@@ -3282,59 +3301,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1xBkM4P.jpg"
-    },
-    {
-      "id": "1iev5rt",
-      "nome": "Piscina Playground Centro 522L Dinosaur Land Pvc Espessado Piscina Inflavel Infantil Presente Dia das Crianças Festa Infantil Escorregador Infantil",
-      "categoria": "Bebê",
-      "preco": 349,
-      "link": "https://meli.la/1iev5rt",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB79639691",
-      "precoDe": 998,
-      "parcelas": "6x de R$58,17 sem juros",
-      "postado": "2026-11-12T19:16:31.083Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1iev5rt.jpg"
-    },
-    {
-      "id": "2QQ7ao3",
-      "nome": "Adora Bebê Reborn Bonecas Realista De Silicone Menina 48 Cm",
-      "categoria": "Bebê",
-      "preco": 114.31,
-      "link": "https://meli.la/2QQ7ao3",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB65579852",
-      "precoDe": 239,
-      "pix": true,
-      "parcelas": "R$127,01 em outros meios",
-      "postado": "2026-11-12T19:15:00.121Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2QQ7ao3.jpg"
-    },
-    {
-      "id": "2mQFioq",
-      "nome": "Arvore Natal 1,5 Metros 600 Galhos Volumosa Pinheiro Natalino Verde Base de Metal Reforçada e Resistente",
-      "categoria": "Diversos",
-      "preco": 137.91,
-      "link": "https://meli.la/2mQFioq",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB79485810",
-      "precoDe": 209.9,
-      "pix": true,
-      "parcelas": "R$149,90 em outros meios",
-      "postado": "2026-11-12T19:13:30.063Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2mQFioq.jpg"
     }
   ]
 }
