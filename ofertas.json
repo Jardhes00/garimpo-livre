@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-14T16:56:55.276Z",
+  "atualizado": "2026-11-14T16:58:25.460Z",
   "ofertas": [
+    {
+      "id": "2tajZWh",
+      "nome": "Fone de Ouvido JSKJ A520 TWS Esportivo Com Bluetooth e Microfone IPX5 Para Corrida",
+      "categoria": "Tech",
+      "preco": 67.05,
+      "link": "https://meli.la/2tajZWh",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB68186839",
+      "precoDe": 169.95,
+      "cupomAnuncio": "Compre R$79 e ganhe R$5 OFF por seguir a loja",
+      "postado": "2026-11-14T16:58:25.459Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2tajZWh.jpg"
+    },
     {
       "id": "1xf2uwt",
       "nome": "Kit Hidrabene Linha Clareadora Sabonete Serum E Protetor 70",
