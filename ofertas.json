@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-14T21:07:55.595Z",
+  "atualizado": "2026-11-14T21:09:10.538Z",
   "ofertas": [
+    {
+      "id": "1uAefTN",
+      "nome": "Cafeteira Nescafé Dolce Gusto Genio S Basic Branca 110v",
+      "categoria": "Casa",
+      "preco": 399,
+      "link": "https://meli.la/1uAefTN",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafeteira-nescafe-dolce-gusto-genio-s-basic-branca-110v/p/MLB44389497",
+      "precoDe": 814.8,
+      "parcelas": "7x R$ 57 sem juros",
+      "postado": "2026-11-14T21:09:10.537Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1uAefTN.jpg"
+    },
     {
       "id": "13zFAvA",
       "nome": "Lava Roupas Líquido Tixan Ypê Primavera 7 Litros",
