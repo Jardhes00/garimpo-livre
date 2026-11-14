@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-14T15:19:22.500Z",
+  "atualizado": "2026-11-14T15:21:07.581Z",
   "ofertas": [
+    {
+      "id": "1oWGuFU",
+      "nome": "Jogo De Cama Queen Buddemeyer Cotton Essential Cor Branco",
+      "categoria": "Games",
+      "preco": 186.75,
+      "link": "https://meli.la/1oWGuFU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/jogo-de-cama-queen-buddemeyer-cotton-essential-cor-branco/p/MLB47170095",
+      "precoDe": 329.9,
+      "pix": true,
+      "parcelas": "R$ 249 em 6x R$ 41,50 sem juros",
+      "cupomAnuncio": "R$171,75 com Cupom",
+      "postado": "2026-11-14T15:21:07.580Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1oWGuFU.jpg"
+    },
     {
       "id": "1WSDMiu",
       "nome": "Lixeira Inteligente Smart 16l Automática Recarregável Preto Sensor Banheiro E Cozinha Moderna",
@@ -2909,23 +2928,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1cXtEsX.jpg"
-    },
-    {
-      "id": "1VkeNUh",
-      "nome": "O Boticário Liz Flora Desodorante Colônia 100ml",
-      "categoria": "Diversos",
-      "preco": 71.9,
-      "link": "https://meli.la/1VkeNUh",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/o-boticario-liz-flora-desodorante-colonia-100ml/p/MLB36136752",
-      "precoDe": 179.9,
-      "parcelas": "3x de R$ 23,97 sem juros",
-      "postado": "2026-11-12T15:20:15.683Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1VkeNUh.jpg"
     }
   ]
 }
