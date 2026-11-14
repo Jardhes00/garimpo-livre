@@ -14,6 +14,7 @@ const fs = require("fs");
 const path = require("path");
 const fila = require("./fila");
 const { categoriaDoNome, fotoGrande } = require("./cartao");
+const { carimbar } = require("./marca");
 
 async function baixar(url, destino) {
   for (const u of [fotoGrande(url), url].filter(Boolean)) {
@@ -56,9 +57,11 @@ async function baixar(url, destino) {
     if (o.parcelas) oferta.parcelas = String(o.parcelas).trim();
     if (o.extra) oferta.extra = String(o.extra).trim();
     if (o.cupom) oferta.cupom = String(o.cupom).trim(); // código do cupom, se o anúncio mostrar um
+    if (o.cupomAnuncio) oferta.cupomAnuncio = String(o.cupomAnuncio).replace(/\s+/g, " ").trim(); // cupom da página do produto, com a regra
     if (o.relampago) oferta.relampago = true;
 
-    const foto = o.foto ? await baixar(o.foto, path.join(fila.PASTA_FOTOS, id.replace(/[^\w-]/g, ""))) : null;
+    const baixada = o.foto ? await baixar(o.foto, path.join(fila.PASTA_FOTOS, id.replace(/[^\w-]/g, ""))) : null;
+    const foto = baixada ? await carimbar(baixada) : null; // logo do Garimpo Livre no canto
     atual.push({ id, oferta, foto, adicionadoEm: new Date().toISOString() });
     naFila.add(id);
     res.adicionadas.push({ nome, foto: Boolean(foto) });

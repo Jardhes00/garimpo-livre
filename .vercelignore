@@ -1,0 +1,5 @@
+# O site é só a página, o app.js, o style.css, as imagens e o ofertas.json.
+# O código do bot e os vídeos não vão para o Vercel.
+bot/
+video/
+*.log

@@ -49,7 +49,12 @@ try {
     assert.strictEqual(fila.proximo().id, "MLB222");
     assert.strictEqual(fila.proximo(), null);
   });
-  console.log(`\n${ok}/3 testes passaram`);
+  t("cupom do anúncio sai com a regra exata", () => {
+    const post = montarPost({ ...B, preco: 349.9, cupomAnuncio: "Compre R$299,90 e ganhe 15% OFF", extra: "15% OFF com cupom no anúncio" });
+    assert.ok(post.includes("🪪Cupom: Compre R$299,90 e ganhe 15% OFF (ative no anúncio)"));
+    assert.ok(!post.includes("ativar no anúncio"));
+  });
+  console.log(`\n${ok}/4 testes passaram`);
 } catch (e) {
   console.log("✘", e.message);
   process.exitCode = 1;

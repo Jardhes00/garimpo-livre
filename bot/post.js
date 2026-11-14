@@ -59,8 +59,11 @@ function montarPost(o, { canal } = {}) {
   const d = desconto(o);
   const titulo = o.relampago ? `⚡ OFERTA RELÂMPAGO ${chamada(o.nome)}! ⚡` : `🚨 OFERTAÇO ${chamada(o.nome)}! 🚨`;
   const parcelas = o.parcelas ? ` (${o.parcelas.replace(/^ou\s+/i, "ou ").replace(/^(?!ou )/, "ou ")})` : "";
-  // cupom: código, se houver; senão o desconto do cupom do anúncio ("R$ 20 OFF (ativar no anúncio)")
-  const cupom = o.cupom || (o.extra ? o.extra.replace(/\s*com cupom no an[úu]ncio/i, " (ativar no anúncio)") : "");
+  // cupom: código, se houver; senão o cupom da página do produto, com a regra exata
+  // ("Compre R$299,90 e ganhe 15% OFF", "R$245,95 com Cupom"); senão o desconto do card.
+  const cupom = o.cupom
+    || (o.cupomAnuncio ? `${o.cupomAnuncio} (ative no anúncio)` : "")
+    || (o.extra ? o.extra.replace(/\s*com cupom no an[úu]ncio/i, " (ativar no anúncio)") : "");
   const linhas = [titulo, "", `${emojiDo(o)} ${o.nome}`, ""];
   if (cupom) linhas.push(`🪪Cupom: ${cupom}`);
   if (d) linhas.push(`❌ De: ${brl(o.precoDe)}`);
