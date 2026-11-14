@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-14T18:08:45.757Z",
+  "atualizado": "2026-11-14T18:13:00.924Z",
   "ofertas": [
+    {
+      "id": "1pUwqYk",
+      "nome": "Parafusadeira Furadeira 48v Profissional 2 Baterias Sem Fio",
+      "categoria": "Ferramentas",
+      "preco": 124.9,
+      "link": "https://meli.la/1pUwqYk",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/parafusadeira-furadeira-48v-profissiona",
+      "precoDe": 299.9,
+      "postado": "2026-11-14T18:13:00.923Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1pUwqYk.jpg"
+    },
     {
       "id": "1UFRv1p",
       "nome": "Kit 2 Travesseiros Plumas 70x50cm Tradicional Antiácaros",
