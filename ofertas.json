@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-14T19:25:18.248Z",
+  "atualizado": "2026-11-14T19:29:33.259Z",
   "ofertas": [
+    {
+      "id": "2HGzS3m",
+      "nome": "Kit Halteres 40kg Ajustável C/kettlebell E Pesos Musculação",
+      "categoria": "Esporte",
+      "preco": 460,
+      "link": "https://meli.la/2HGzS3m",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-halteres-40kg-ajustavel-ckettlebell",
+      "precoDe": 699,
+      "parcelas": "9x de R$51,11 sem juros",
+      "postado": "2026-11-14T19:29:33.257Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2HGzS3m.jpg"
+    },
     {
       "id": "1LxZXhW",
       "nome": "Kit 2 Travesseiros Abranuv Cervical Visco Ortopédico Dormir",
