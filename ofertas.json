@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T15:16:07.342Z",
+  "atualizado": "2026-11-14T15:17:22.554Z",
   "ofertas": [
+    {
+      "id": "1EjFcnj",
+      "nome": "Colgate Creme Dental Total Original Mint 6x90g, Prevenção Ativa com Flúor",
+      "categoria": "Beleza",
+      "preco": 29.9,
+      "link": "https://meli.la/1EjFcnj",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/colgate-creme-dental-total-original-mint-6x90g-prevencao-ativa-com-fluor/p/MLB63293618",
+      "precoDe": 62.91,
+      "extra": "20% OFF com cupom no anúncio",
+      "cupomAnuncio": "Compre R$99 e ganhe 20% OFF",
+      "postado": "2026-11-14T15:17:22.552Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1EjFcnj.jpg"
+    },
     {
       "id": "14HT81P",
       "nome": "Bicicleta Ergométrica Spinning Cardio E Musculação",
@@ -2909,24 +2927,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-264T6Vv.jpg"
-    },
-    {
-      "id": "16aLLRP",
-      "nome": "Ar-condicionado Split 9000 Btu/h Prime Air 9qc Quente E Frio Branco",
-      "categoria": "Casa",
-      "preco": 1499,
-      "link": "https://meli.la/16aLLRP",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-split-9000-btuh-prime-air-9qc-quente-e-frio-branco/p/MLB59605532",
-      "precoDe": 2299,
-      "pix": true,
-      "parcelas": "R$ 1.629 em 10x de R$ 162,99 sem juros",
-      "postado": "2026-11-12T15:17:00.507Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-16aLLRP.jpg"
     }
   ]
 }
