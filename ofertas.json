@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T21:05:55.818Z",
+  "atualizado": "2026-11-14T21:07:55.595Z",
   "ofertas": [
+    {
+      "id": "13zFAvA",
+      "nome": "Lava Roupas Líquido Tixan Ypê Primavera 7 Litros",
+      "categoria": "Diversos",
+      "preco": 56.04,
+      "link": "https://meli.la/13zFAvA",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lava-roupas-liquido-tixan-ype-primavera-7-litros/p/MLB19466433",
+      "precoDe": 95.99,
+      "pix": true,
+      "parcelas": "R$ 58,99 em 2x R$ 29,50 sem juros",
+      "postado": "2026-11-14T21:07:55.594Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-13zFAvA.jpg"
+    },
     {
       "id": "1KazWWT",
       "nome": "Extratora de Sujeira Portátil WAP Spot Cleaner W3 Borrifa Esfrega e Extrai 1450W de Potência e Bico de Autolimpeza",
