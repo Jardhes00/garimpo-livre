@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T20:59:40.181Z",
+  "atualizado": "2026-11-14T21:00:55.482Z",
   "ofertas": [
+    {
+      "id": "152PswC",
+      "nome": "CÚRCUMA 130mg + COLÁGENO Tipo Ii 45mg - Fórmula com Máxima Concentração e Pureza - 60 Cápsulas",
+      "categoria": "Suplementos",
+      "preco": 48.77,
+      "link": "https://meli.la/152PswC",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/curcuma-130mg-colageno-tipo-ii-45mg-formula-com-maxima-concentracao-e-pureza-60-capsulas/p/MLB61648010",
+      "precoDe": 88.77,
+      "extra": "R$ 34,14 com cupom no anúncio",
+      "cupomAnuncio": "R$34,14 com Cupom",
+      "postado": "2026-11-14T21:00:55.481Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-152PswC.jpg"
+    },
     {
       "id": "2DQz9b2",
       "nome": "Kit 2 Óleos Capilares Oil Reflections 30ml - Wella",
