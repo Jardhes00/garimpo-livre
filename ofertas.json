@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T14:43:50.629Z",
+  "atualizado": "2026-11-14T14:56:36.763Z",
   "ofertas": [
+    {
+      "id": "1YTSAuX",
+      "nome": "Máquina De Acabamento Profissional Prata Km 5027 Kemei Bivolt",
+      "categoria": "Diversos",
+      "preco": 89.95,
+      "link": "https://meli.la/1YTSAuX",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquina-de-acabamento-profissional-prata-km-5027-kemei-bivo/up/MLBU3962418013",
+      "precoDe": 259.94,
+      "pix": true,
+      "parcelas": "R$ 99,94 em outros meios",
+      "postado": "2026-11-14T14:56:36.760Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1YTSAuX.jpg"
+    },
     {
       "id": "2qv2fzr",
       "nome": "Mini Ventilador Soprador Ar Potente Turbo 130000rpm Assoprador Elétrico Sem Fio Recarregável USB-C 3 Níveis Jato Forte Portátil Multiuso Limpeza Teclado Carro Acende Churrasqueira Davely",
@@ -2933,41 +2951,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1mATf5R.jpg"
-    },
-    {
-      "id": "1uqLpRD",
-      "nome": "Monitor Portátil 15.6'' Tela Externa Hdr Ips 1080p Ultrafino Preto 127/220v",
-      "categoria": "Tech",
-      "preco": 396.5,
-      "link": "https://meli.la/1uqLpRD",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/monitor-portatil-156-tela-externa-hdr-ips-1080p-ultrafino/up/MLBU2939238991",
-      "precoDe": 650,
-      "parcelas": "12x R$ 38,79",
-      "postado": "2026-11-12T14:56:15.263Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1uqLpRD.jpg"
-    },
-    {
-      "id": "16EyzXq",
-      "nome": "Cooktop 4 Bocas a Gás Electrolux Mesa de Vidro Efficient Grade de Aço Fosco (KE4GR) Bivolt",
-      "categoria": "Diversos",
-      "preco": 417.05,
-      "link": "https://meli.la/16EyzXq",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB50661985",
-      "precoDe": 619,
-      "pix": true,
-      "parcelas": "R$439 em outros meios",
-      "postado": "2026-11-12T14:45:14.478Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-16EyzXq.jpg"
     }
   ]
 }
