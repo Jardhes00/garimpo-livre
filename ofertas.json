@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T16:37:09.811Z",
+  "atualizado": "2026-11-14T16:38:39.792Z",
   "ofertas": [
+    {
+      "id": "24sxi1M",
+      "nome": "Forno de Embutir Elétrico Electrolux 80L OE8EL",
+      "categoria": "Diversos",
+      "preco": 1399.9,
+      "link": "https://meli.la/24sxi1M",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB59197873",
+      "precoDe": 2689,
+      "pix": true,
+      "parcelas": "R$1.599,90 em 10x R$159,99 sem juros",
+      "postado": "2026-11-14T16:38:39.791Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-24sxi1M.jpg"
+    },
     {
       "id": "2RTW664",
       "nome": "Aspirador Vertical Redroad W15 Sem Fio 200W para Limpeza Seca e Úmida",
