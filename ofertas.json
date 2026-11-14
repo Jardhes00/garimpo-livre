@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T19:21:03.148Z",
+  "atualizado": "2026-11-14T19:25:18.248Z",
   "ofertas": [
+    {
+      "id": "1LxZXhW",
+      "nome": "Kit 2 Travesseiros Abranuv Cervical Visco Ortopédico Dormir",
+      "categoria": "Casa",
+      "preco": 305.99,
+      "link": "https://meli.la/1LxZXhW",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-2-travesseiros-abranuv-cervical-vis",
+      "precoDe": 489.9,
+      "pix": true,
+      "parcelas": "R$339,99 em 6x R$56,67 sem juros",
+      "postado": "2026-11-14T19:25:18.247Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1LxZXhW.jpg"
+    },
     {
       "id": "1vrNDjQ",
       "nome": "Baú Bege Colchão Núvia Airtech Superpocket Ortobom Viúva",
