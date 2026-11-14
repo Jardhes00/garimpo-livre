@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T20:38:35.393Z",
+  "atualizado": "2026-11-14T20:39:54.693Z",
   "ofertas": [
+    {
+      "id": "1q7njuZ",
+      "nome": "Parafusadeira E Furadeira Sem Fio Bateria 3/8 10mm Com Maleta E Acessorios The Black Tools",
+      "categoria": "Ferramentas",
+      "preco": 94.9,
+      "link": "https://meli.la/1q7njuZ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/parafusadeira-e-furadeira-sem-fio-bater",
+      "precoDe": 209.9,
+      "pix": true,
+      "parcelas": "R$99,90 em 3x R$33,30 sem juros",
+      "postado": "2026-11-14T20:39:54.692Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1q7njuZ.jpg"
+    },
     {
       "id": "1xgpJeG",
       "nome": "Kit4 Body Splash Feminino Àrabe 200ml Alta Fixação",
