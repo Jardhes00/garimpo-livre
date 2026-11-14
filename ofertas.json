@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-14T16:29:24.527Z",
+  "atualizado": "2026-11-14T16:31:24.694Z",
   "ofertas": [
+    {
+      "id": "1EyZT2a",
+      "nome": "LG UltraGear Monitor Gamer 32\"- VA 165Hz 1ms (MBR) QHD 2K (2560x1440) HDR10 AMD FreeSync, Preto - 32GN600",
+      "categoria": "Tech",
+      "preco": 1099,
+      "link": "https://meli.la/1EyZT2a",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB24061510",
+      "precoDe": 2180.95,
+      "parcelas": "10x de R$109,90 sem juros",
+      "postado": "2026-11-14T16:31:24.693Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1EyZT2a.jpg"
+    },
     {
       "id": "2QXPyA8",
       "nome": "Smartphone Jovi Y19s 256gb, 4GB + 4GB RAM Expansível, Câmera 50mp, Bateria 5500mah, Carregamento 15w, Tela 90hz - Preto Safira",
