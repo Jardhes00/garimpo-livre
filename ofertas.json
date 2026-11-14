@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T21:02:25.478Z",
+  "atualizado": "2026-11-14T21:03:55.380Z",
   "ofertas": [
+    {
+      "id": "2CL3AYE",
+      "nome": "Bola de Futevolei FT5 Couro Sintetico Laminado Branco E Preto MIKASA",
+      "categoria": "Esporte",
+      "preco": 219.9,
+      "link": "https://meli.la/2CL3AYE",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bola-de-futevolei-ft5-couro-sintetico-laminado-branco-e-preto-mikasa/p/MLB19732489",
+      "precoDe": 599.99,
+      "parcelas": "12x R$ 21,77",
+      "relampago": true,
+      "postado": "2026-11-14T21:03:55.379Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2CL3AYE.jpg"
+    },
     {
       "id": "15EbyUC",
       "nome": "Esteira Ergométrica Elétrica Dobrável Residencial Cardio Preto 127/220v",
