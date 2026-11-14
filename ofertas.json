@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-14T16:35:54.723Z",
+  "atualizado": "2026-11-14T16:37:09.811Z",
   "ofertas": [
+    {
+      "id": "2RTW664",
+      "nome": "Aspirador Vertical Redroad W15 Sem Fio 200W para Limpeza Seca e Úmida",
+      "categoria": "Casa",
+      "preco": 1499,
+      "link": "https://meli.la/2RTW664",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB64858420",
+      "precoDe": 2499.99,
+      "parcelas": "10x de R$149,90 sem juros",
+      "postado": "2026-11-14T16:37:09.809Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2RTW664.jpg"
+    },
     {
       "id": "1Zb1VE1",
       "nome": "Carregador Portátil De Bolso Power Bank Pocket Com iPhone Notebook Samsung Apple Xiaomi Android Mac Ios 5000mah Preto",
