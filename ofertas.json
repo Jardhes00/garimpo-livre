@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-14T19:59:18.937Z",
+  "atualizado": "2026-11-14T20:03:34.254Z",
   "ofertas": [
+    {
+      "id": "2MZD25v",
+      "nome": "Câmera de Segurança Wi-Fi iCSee/Yoosee A28B 4K Dupla Lente Visão Noturna Colorida Full Hd Externa Prova D'água Ip66 Sensor Movimento Woosh",
+      "categoria": "Diversos",
+      "preco": 126.99,
+      "link": "https://meli.la/2MZD25v",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/camera-de-seguranca-wi-fi-icseeyoosee-a",
+      "precoDe": 399,
+      "postado": "2026-11-14T20:03:34.252Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2MZD25v.jpg"
+    },
     {
       "id": "2j8WaGT",
       "nome": "Modulo Taramps Ts 800 Rms Ts800x4 2 Ohms Amplificador 800w Entrada Rca E Fio T800 4 Canais Som Automotivo",
