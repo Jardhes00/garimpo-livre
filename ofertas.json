@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-14T19:38:03.479Z",
+  "atualizado": "2026-11-14T19:42:18.458Z",
   "ofertas": [
+    {
+      "id": "1TXTRX4",
+      "nome": "Travesseiro Cervical Abranuv Ortopédico Espuma Visco Dormir",
+      "categoria": "Casa",
+      "preco": 183.46,
+      "link": "https://meli.la/1TXTRX4",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/travesseiro-cervical-abranuv-ortopedico",
+      "precoDe": 269.8,
+      "parcelas": "6x de R$30,58 sem juros",
+      "postado": "2026-11-14T19:42:18.456Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1TXTRX4.jpg"
+    },
     {
       "id": "2E5HyPJ",
       "nome": "Jogo De Toalhas 4 Pçs Fio Cardado 100% Algodão Bosco Karsten",
