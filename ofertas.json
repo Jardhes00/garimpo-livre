@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-14T15:10:37.059Z",
+  "atualizado": "2026-11-14T15:12:07.669Z",
   "ofertas": [
+    {
+      "id": "1YQb3KU",
+      "nome": "Camiseta Regular Essence Reserva Masculina",
+      "categoria": "Moda",
+      "preco": 64.99,
+      "link": "https://meli.la/1YQb3KU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/camiseta-regular-essence-reserva-masculina/up/MLBU3907243364",
+      "precoDe": 139,
+      "parcelas": "3x R$ 21,66 sem juros",
+      "postado": "2026-11-14T15:12:07.668Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1YQb3KU.jpg"
+    },
     {
       "id": "216NsXj",
       "nome": "Samsung Galaxy A07 128gb 4gb Ram Preto",
@@ -2910,26 +2927,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1nZGkdr.jpg"
-    },
-    {
-      "id": "2CQvMEQ",
-      "nome": "Tenda Gazebo 3x3 Sanfonado Retrátil Praia Pesca Camping C/ Bolsa De Transporte Marca Usd",
-      "categoria": "Moda",
-      "preco": 297.41,
-      "link": "https://meli.la/2CQvMEQ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/tenda-gazebo-3x3-sanfonado-retratil-praia-pesca-camping-c-bolsa-de-transporte-marca-usd/p/MLB63804634",
-      "precoDe": 595.84,
-      "pix": true,
-      "parcelas": "R$ 349,90 em outros meios",
-      "extra": "5% OFF com cupom no anúncio",
-      "cupomAnuncio": "Compre R$499 e ganhe 5% OFF",
-      "postado": "2026-11-12T15:11:30.453Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2CQvMEQ.jpg"
     }
   ]
 }
