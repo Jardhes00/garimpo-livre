@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-14T14:56:36.763Z",
+  "atualizado": "2026-11-14T14:58:22.021Z",
   "ofertas": [
+    {
+      "id": "32H1yTV",
+      "nome": "Tapete Higiênico Descartável Luxena para Cães e Gatos 50x60 cm com 50 Unidades",
+      "categoria": "Casa",
+      "preco": 46.9,
+      "link": "https://meli.la/32H1yTV",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tapete-higienico-descartavel-luxena-para-caes-e-gatos-50x60-cm-com-50-unidades-e-eliminacao-de-odor-com-camadas-de-protecao/p/MLB75828998",
+      "precoDe": 79.9,
+      "postado": "2026-11-14T14:58:22.019Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-32H1yTV.jpg"
+    },
     {
       "id": "1YTSAuX",
       "nome": "Máquina De Acabamento Profissional Prata Km 5027 Kemei Bivolt",
@@ -2933,24 +2949,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-13pRRxN.jpg"
-    },
-    {
-      "id": "1mATf5R",
-      "nome": "Kemei Maquina Km 2299 Profissional Cor Black",
-      "categoria": "Diversos",
-      "preco": 71.04,
-      "link": "https://meli.la/1mATf5R",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kemei-maquina-km-2299-profissional-cor-black/p/MLB57473901",
-      "precoDe": 184.9,
-      "pix": true,
-      "parcelas": "R$ 78,93 em outros meios",
-      "postado": "2026-11-12T14:58:00.256Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1mATf5R.jpg"
     }
   ]
 }
