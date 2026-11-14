@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-14T15:06:52.465Z",
+  "atualizado": "2026-11-14T15:08:51.958Z",
   "ofertas": [
+    {
+      "id": "2funND7",
+      "nome": "Wella Professionals Invigo Nutri-enrich Kit Shampoo + Cond",
+      "categoria": "Beleza",
+      "preco": 94.05,
+      "link": "https://meli.la/2funND7",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/wella-professionals-invigo-nutri-enrich-kit-shampoo-cond/up/MLBU4953586212",
+      "precoDe": 142.51,
+      "pix": true,
+      "parcelas": "R$ 99 em outros meios",
+      "relampago": true,
+      "postado": "2026-11-14T15:08:51.956Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2funND7.jpg"
+    },
     {
       "id": "1z3827q",
       "nome": "Mini Motoserra Elétrica Portátil 6 Pol Duas Baterias 700w",
@@ -2912,25 +2931,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-13eF2bS.jpg"
-    },
-    {
-      "id": "1EoG3kk",
-      "nome": "Jogo De Toalhas Banho Village Com 4 Peças Buddemeyer",
-      "categoria": "Games",
-      "preco": 156.75,
-      "link": "https://meli.la/1EoG3kk",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/jogo-de-toalhas-banho-village-com-4-pecas-buddemeyer/p/MLB50178106",
-      "precoDe": 309.9,
-      "pix": true,
-      "parcelas": "R$ 209 em 6x de R$ 34,83 sem juros",
-      "relampago": true,
-      "postado": "2026-11-12T15:08:00.428Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1EoG3kk.jpg"
     }
   ]
 }
