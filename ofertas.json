@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-14T16:39:54.792Z",
+  "atualizado": "2026-11-14T16:41:25.320Z",
   "ofertas": [
+    {
+      "id": "1wH3x62",
+      "nome": "Kit Acessórios Banheiro Luxo de 6 Peças com Lixeira e Saboneteira Preto Organização Lavabo",
+      "categoria": "Diversos",
+      "preco": 72.64,
+      "link": "https://meli.la/1wH3x62",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB75731970",
+      "precoDe": 149.9,
+      "postado": "2026-11-14T16:41:25.319Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1wH3x62.jpg"
+    },
     {
       "id": "2k8qi8S",
       "nome": "Purificador de água Philco Branco PPU12A Bivolt",
