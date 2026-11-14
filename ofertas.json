@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-14T16:31:24.694Z",
+  "atualizado": "2026-11-14T16:32:39.608Z",
   "ofertas": [
+    {
+      "id": "1fYR2Rf",
+      "nome": "Impressora Multifuncional Sem Tinta Térmica Bluetooth Orico A41 Preto",
+      "categoria": "Tech",
+      "preco": 279,
+      "link": "https://meli.la/1fYR2Rf",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB79065556",
+      "precoDe": 498,
+      "postado": "2026-11-14T16:32:39.607Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1fYR2Rf.jpg"
+    },
     {
       "id": "1EyZT2a",
       "nome": "LG UltraGear Monitor Gamer 32\"- VA 165Hz 1ms (MBR) QHD 2K (2560x1440) HDR10 AMD FreeSync, Preto - 32GN600",
