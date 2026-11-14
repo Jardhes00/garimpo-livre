@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-14T18:00:15.479Z",
+  "atualizado": "2026-11-14T18:04:30.403Z",
   "ofertas": [
+    {
+      "id": "2m6uadp",
+      "nome": "Chave de Impacto a Bateria Atverce 300 Nm 1/2\" Brushless com Soquete",
+      "categoria": "Ferramentas",
+      "preco": 134.99,
+      "link": "https://meli.la/2m6uadp",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/chave-de-impacto-a-bateria-atverce-300-",
+      "precoDe": 410,
+      "postado": "2026-11-14T18:04:30.402Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2m6uadp.jpg"
+    },
     {
       "id": "1oULg7S",
       "nome": "Relógio Inteligente Smartwatch Gps Autônomo IP68 3ATM À prova dágua 850mAh Preto NOVANTE Digital Feminino Masculino Esportivo Android IOS Notificações Instantâneas Bluetooth Chamadas Lanterna Bússola",
