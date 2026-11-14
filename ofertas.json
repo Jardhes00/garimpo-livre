@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-14T16:52:10.205Z",
+  "atualizado": "2026-11-14T16:53:55.106Z",
   "ofertas": [
+    {
+      "id": "22VJeLe",
+      "nome": "Kit Dumont Feminino Lady Dourado - Du2036mfs/k4c",
+      "categoria": "Diversos",
+      "preco": 164.68,
+      "link": "https://meli.la/22VJeLe",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB25675737",
+      "precoDe": 299,
+      "pix": true,
+      "parcelas": "R$179 em 5x R$35,80 sem juros",
+      "cupomAnuncio": "Compre R$199 e ganhe 5% OFF",
+      "postado": "2026-11-14T16:53:55.105Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-22VJeLe.jpg"
+    },
     {
       "id": "19DEBQv",
       "nome": "Caixa de Som Philco Extreme 380W Flash Lights PCX4800",
