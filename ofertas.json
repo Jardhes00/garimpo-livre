@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T19:33:48.296Z",
+  "atualizado": "2026-11-14T19:38:03.479Z",
   "ofertas": [
+    {
+      "id": "2E5HyPJ",
+      "nome": "Jogo De Toalhas 4 Pçs Fio Cardado 100% Algodão Bosco Karsten",
+      "categoria": "Games",
+      "preco": 100.8,
+      "link": "https://meli.la/2E5HyPJ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/jogo-de-toalhas-4-pcs-fio-cardado-100-a",
+      "precoDe": 149.9,
+      "pix": true,
+      "parcelas": "R$112 em 4x R$28 sem juros",
+      "postado": "2026-11-14T19:38:03.477Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2E5HyPJ.jpg"
+    },
     {
       "id": "152R3kL",
       "nome": "Fritadeira Air Fryer 11 Litros 8 Funções 1800w Philco PAF11B 220v",
