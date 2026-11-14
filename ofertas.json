@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T20:53:25.671Z",
+  "atualizado": "2026-11-14T20:55:10.365Z",
   "ofertas": [
+    {
+      "id": "19qZuFt",
+      "nome": "Bolsa Tote Daily Clear Gocase - Leve, Moderna E Minimalista",
+      "categoria": "Moda",
+      "preco": 151.9,
+      "link": "https://meli.la/19qZuFt",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-3950873237-bolsa-tote-daily-clear-gocase-leve-moderna-e-minimalista-_JM",
+      "precoDe": 349.99,
+      "pix": true,
+      "parcelas": "R$ 159,90 em 5x R$ 31,98 sem juros",
+      "postado": "2026-11-14T20:55:10.364Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-19qZuFt.jpg"
+    },
     {
       "id": "2YZA7pF",
       "nome": "Tênis Asics Revelation Couro Corrida Caminhada treino Barato",
