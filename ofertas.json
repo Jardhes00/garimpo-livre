@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T15:26:52.625Z",
+  "atualizado": "2026-11-14T15:28:22.823Z",
   "ofertas": [
+    {
+      "id": "2X6M5Q6",
+      "nome": "Mochila para Notebook Impermeável e Reforçada com Entrada USB – 25 a 40L, Masculina e Feminina",
+      "categoria": "Tech",
+      "preco": 79.99,
+      "link": "https://meli.la/2X6M5Q6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mochila-para-notebook-impermeavel-e-reforcada-com-entrada-usb-25-a-40l-masculina-e-feminina/p/MLB75627276",
+      "precoDe": 369.69,
+      "parcelas": "3x R$ 26,66 sem juros",
+      "relampago": true,
+      "postado": "2026-11-14T15:28:22.822Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2X6M5Q6.jpg"
+    },
     {
       "id": "16sVwkR",
       "nome": "Air Fryer Digital Elétrica Antiaderente Sem Óleo Fritadeira",
