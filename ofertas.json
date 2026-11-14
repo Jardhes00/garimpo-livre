@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-14T17:03:25.654Z",
+  "atualizado": "2026-11-14T17:04:40.552Z",
   "ofertas": [
+    {
+      "id": "1UErR3B",
+      "nome": "3500w Martelete Rompedor 2 Bits, Maleta, Ideal Quebra Concreto E Demolição Dobevi",
+      "categoria": "Diversos",
+      "preco": 687.13,
+      "link": "https://meli.la/1UErR3B",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB68453543",
+      "precoDe": 1299.93,
+      "postado": "2026-11-14T17:04:40.551Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1UErR3B.jpg"
+    },
     {
       "id": "2KVE3YX",
       "nome": "Multímetro Digital Automático Com Tela Grande E Luz De Fundo",
