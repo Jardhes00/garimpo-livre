@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T15:08:51.958Z",
+  "atualizado": "2026-11-14T15:10:37.059Z",
   "ofertas": [
+    {
+      "id": "216NsXj",
+      "nome": "Samsung Galaxy A07 128gb 4gb Ram Preto",
+      "categoria": "Tech",
+      "preco": 704.65,
+      "link": "https://meli.la/216NsXj",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/samsung-galaxy-a07-128gb-4gb-ram-preto/p/MLB55034955",
+      "precoDe": 1249.9,
+      "pix": true,
+      "parcelas": "R$ 829 em 10x R$ 82,90 sem juros",
+      "postado": "2026-11-14T15:10:37.058Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-216NsXj.jpg"
+    },
     {
       "id": "2funND7",
       "nome": "Wella Professionals Invigo Nutri-enrich Kit Shampoo + Cond",
@@ -2912,25 +2930,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2CQvMEQ.jpg"
-    },
-    {
-      "id": "13eF2bS",
-      "nome": "Latex acrílica tinta coral anti mofo branco 18l coralar branco fosco",
-      "categoria": "Diversos",
-      "preco": 206.46,
-      "link": "https://meli.la/13eF2bS",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/latex-acrilica-tinta-coral-anti-mofo-branco-18l-coralar-branco-fosco/p/MLB38477725",
-      "precoDe": 320.9,
-      "pix": true,
-      "parcelas": "R$ 242,90 em outros meios",
-      "cupomAnuncio": "Compre R$250 e ganhe 5% OFF por seguir a loja",
-      "postado": "2026-11-12T15:09:45.744Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-13eF2bS.jpg"
     }
   ]
 }
