@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T15:00:06.709Z",
+  "atualizado": "2026-11-14T15:01:36.786Z",
   "ofertas": [
+    {
+      "id": "1Y3ZAF1",
+      "nome": "Smartwatch NOVANTE Rosa com Alexa e Chamadas Bluetooth, Tela AMOLED de 1.85\" para Esporte",
+      "categoria": "Tech",
+      "preco": 188.99,
+      "link": "https://meli.la/1Y3ZAF1",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smartwatch-novante-rosa-com-alexa-e-chamadas-bluetooth-tela-amoled-de-185-para-esporte/p/MLB66795656",
+      "precoDe": 599,
+      "parcelas": "12x R$ 18,71",
+      "cupomAnuncio": "R$183,99 com Cupom por seguir a loja",
+      "postado": "2026-11-14T15:01:36.784Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Y3ZAF1.jpg"
+    },
     {
       "id": "2dXxLnp",
       "nome": "Berço Portátil Infantil Cercado Desmontável Com Tela 2 Alturas Colchonete Rodinhas 15kg Lune Maxi Baby",
@@ -2929,24 +2947,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-238c33U.jpg"
-    },
-    {
-      "id": "18r16tQ",
-      "nome": "Kit Com 2 Câmeras De Segurança Ip Wifi A8 Full Hd Icsee Ptz 355° Com Visão Noturna Áudio Bidirecional Ip66 Monitoramento Remoto Para Celular Android E iPhone",
-      "categoria": "Tech",
-      "preco": 156.51,
-      "link": "https://meli.la/18r16tQ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit-com-2-cameras-de-seguranca-ip-wifi-a8-full-hd-icsee-ptz-355-com-visao-noturna-audio-bidirecional-ip66-monitoramento-remoto-para-celular-android-e-iphone/p/MLB69327436",
-      "precoDe": 299.9,
-      "pix": true,
-      "parcelas": "R$ 173,90 em outros meios",
-      "postado": "2026-11-12T15:00:45.143Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-18r16tQ.jpg"
     }
   ]
 }
