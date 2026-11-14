@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-14T19:50:48.614Z",
+  "atualizado": "2026-11-14T19:55:04.360Z",
   "ofertas": [
+    {
+      "id": "27JsoNr",
+      "nome": "Fone de Ouvido Soundcore P20i Bluetooth 5.3 Grave Potente Drivers 10mm 30h Bateria Carregamento Rápido App Personalização De Som Via App IPX5 2 Mics IA para Chamadas Claras Case Compacto Cor Azul",
+      "categoria": "Tech",
+      "preco": 129,
+      "link": "https://meli.la/27JsoNr",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fone-de-ouvido-soundcore-p20i-bluetooth",
+      "precoDe": 299,
+      "parcelas": "4x de R$32,25 sem juros",
+      "postado": "2026-11-14T19:55:04.359Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-27JsoNr.jpg"
+    },
     {
       "id": "27R8B3Z",
       "nome": "Ar-condicionado Split Inverter 12000 Btu/h Prime Air F 12fc Cor Branco",
