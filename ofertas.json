@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-14T20:07:49.241Z",
+  "atualizado": "2026-11-14T20:13:18.846Z",
   "ofertas": [
+    {
+      "id": "1k7yGHi",
+      "nome": "Cadeira De Banho Dobrável Higiênica Rodas Sanitária Idoso",
+      "categoria": "Diversos",
+      "preco": 183.99,
+      "link": "https://meli.la/1k7yGHi",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-banho-dobravel-higienica-rod",
+      "precoDe": 590,
+      "pix": true,
+      "parcelas": "R$199,99 em outros meios",
+      "cupomAnuncio": "Compre R$632 e ganhe R$32 OFF",
+      "postado": "2026-11-14T20:13:18.844Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1k7yGHi.jpg"
+    },
     {
       "id": "1NXpGmY",
       "nome": "Violão Eletroacústico para Iniciante Destro com 6 Cordas e Acessórios",
