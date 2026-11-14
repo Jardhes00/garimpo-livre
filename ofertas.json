@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-14T20:49:54.907Z",
+  "atualizado": "2026-11-14T20:51:55.080Z",
   "ofertas": [
+    {
+      "id": "113v4zp",
+      "nome": "Tênis Kappa Pulse Rx Unissex Corrida Conforto",
+      "categoria": "Moda",
+      "preco": 124.99,
+      "link": "https://meli.la/113v4zp",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-5532075156-tnis-kappa-pulse-rx-unissex-corrida-conforto-_JM",
+      "precoDe": 289.99,
+      "parcelas": "4x R$ 31,25 sem juros",
+      "cupomAnuncio": "R$142,80 com Cupom por seguir a loja",
+      "relampago": true,
+      "postado": "2026-11-14T20:51:55.079Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-113v4zp.jpg"
+    },
     {
       "id": "2JqjEUt",
       "nome": "Parafusadeira Furadeira De Impacto The Black Tools Profissional 2 Baterias Com Maleta + Kit Acessórios 145 Peças Tbkit19",
