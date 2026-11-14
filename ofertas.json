@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T18:30:03.266Z",
+  "atualizado": "2026-11-14T18:34:16.473Z",
   "ofertas": [
+    {
+      "id": "28t1w6G",
+      "nome": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta",
+      "categoria": "Diversos",
+      "preco": 94.99,
+      "link": "https://meli.la/28t1w6G",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-lava-jato-portatil-pressao-2-b",
+      "precoDe": 206.9,
+      "pix": true,
+      "parcelas": "R$99,99 em outros meios",
+      "postado": "2026-11-14T18:34:16.472Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-28t1w6G.jpg"
+    },
     {
       "id": "1zxJ12U",
       "nome": "Kit Toalhas De Banho Grandes Felpudas 104x70cm 400g M² Confo",
