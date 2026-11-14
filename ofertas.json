@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T19:29:33.259Z",
+  "atualizado": "2026-11-14T19:33:48.296Z",
   "ofertas": [
+    {
+      "id": "152R3kL",
+      "nome": "Fritadeira Air Fryer 11 Litros 8 Funções 1800w Philco PAF11B 220v",
+      "categoria": "Casa",
+      "preco": 350.1,
+      "link": "https://meli.la/152R3kL",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fritadeira-air-fryer-11-litros-8-funcoe",
+      "precoDe": 530.34,
+      "pix": true,
+      "parcelas": "R$389 em 7x R$55,57 sem juros",
+      "postado": "2026-11-14T19:33:48.295Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-152R3kL.jpg"
+    },
     {
       "id": "2HGzS3m",
       "nome": "Kit Halteres 40kg Ajustável C/kettlebell E Pesos Musculação",
