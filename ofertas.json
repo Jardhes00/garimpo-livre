@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-14T20:51:55.080Z",
+  "atualizado": "2026-11-14T20:53:25.671Z",
   "ofertas": [
+    {
+      "id": "2YZA7pF",
+      "nome": "Tênis Asics Revelation Couro Corrida Caminhada treino Barato",
+      "categoria": "Moda",
+      "preco": 99.9,
+      "link": "https://meli.la/2YZA7pF",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-6796924972-tnis-asics-revelation-couro-corrida-caminhadatreino-barato-_JM",
+      "precoDe": 333,
+      "postado": "2026-11-14T20:53:25.670Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2YZA7pF.jpg"
+    },
     {
       "id": "113v4zp",
       "nome": "Tênis Kappa Pulse Rx Unissex Corrida Conforto",
