@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T16:45:39.907Z",
+  "atualizado": "2026-11-14T16:47:25.075Z",
   "ofertas": [
+    {
+      "id": "2ZaLpK1",
+      "nome": "Cama Elástica Pula-Pula Brinq Kids 1,4m Infantil Com Rede Segurança",
+      "categoria": "Bebê",
+      "preco": 254.61,
+      "link": "https://meli.la/2ZaLpK1",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB53383853",
+      "precoDe": 650,
+      "pix": true,
+      "parcelas": "R$282,90 em outros meios",
+      "postado": "2026-11-14T16:47:25.074Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ZaLpK1.jpg"
+    },
     {
       "id": "1VYmB8K",
       "nome": "Cadeira De Escritório Ergonômica Mônaco Bt07 Laudo NR-17 Luvinco Malha Respirável Com Suporte Lombar Adaptável Apoio Para Pés Retrátil Encosto Ajustável Seis Posições Cor Preta Suporta 200kg",
