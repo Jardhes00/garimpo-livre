@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T21:00:55.482Z",
+  "atualizado": "2026-11-14T21:02:25.478Z",
   "ofertas": [
+    {
+      "id": "15EbyUC",
+      "nome": "Esteira Ergométrica Elétrica Dobrável Residencial Cardio Preto 127/220v",
+      "categoria": "Esporte",
+      "preco": 689.99,
+      "link": "https://meli.la/15EbyUC",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/esteira-ergometrica-eletrica-dobravel-residencial-cardio/up/MLBU4760101286",
+      "precoDe": 1499,
+      "parcelas": "10x R$ 69 sem juros",
+      "cupomAnuncio": "R$680,99 com Cupom por seguir a loja",
+      "postado": "2026-11-14T21:02:25.477Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-15EbyUC.jpg"
+    },
     {
       "id": "152PswC",
       "nome": "CÚRCUMA 130mg + COLÁGENO Tipo Ii 45mg - Fórmula com Máxima Concentração e Pureza - 60 Cápsulas",
