@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-14T17:01:55.750Z",
+  "atualizado": "2026-11-14T17:03:25.654Z",
   "ofertas": [
+    {
+      "id": "2KVE3YX",
+      "nome": "Multímetro Digital Automático Com Tela Grande E Luz De Fundo",
+      "categoria": "Diversos",
+      "preco": 105.73,
+      "link": "https://meli.la/2KVE3YX",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB2089232837",
+      "precoDe": 182,
+      "cupomAnuncio": "R$103,73 com Cupom por seguir a loja",
+      "postado": "2026-11-14T17:03:25.653Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2KVE3YX.jpg"
+    },
     {
       "id": "1XBMQf2",
       "nome": "Kit Multi Ferramentas 4 Em 1 48v Sem Fio Com 2 Baterias Furadeira Parafusadeira Martelete Esmerilhadeira Chave De Impacto Com Maleta Alta Potência Uso Profissional E Doméstico Simake",
