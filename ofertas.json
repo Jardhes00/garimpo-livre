@@ -1,6 +1,41 @@
 {
-  "atualizado": "2026-11-14T17:15:41.081Z",
+  "atualizado": "2026-11-14T17:56:00.683Z",
   "ofertas": [
+    {
+      "id": "2wVf9dC",
+      "nome": "Máquina Solda Sem Gás Bivolt Mma+mig+tig 3 Em 1 C/lcd Dobevi",
+      "categoria": "Diversos",
+      "preco": 568.63,
+      "link": "https://meli.la/2wVf9dC",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquina-solda-sem-gas-bivolt-mmamigtig-",
+      "precoDe": 2100.21,
+      "pix": true,
+      "parcelas": "R$598,56 em outros meios",
+      "postado": "2026-11-14T17:56:00.681Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2wVf9dC.jpg"
+    },
+    {
+      "id": "2uyQwwP",
+      "nome": "Pisca Pisca Cascata Natal 400 Leds 10m 8 Funções Luz Quente",
+      "categoria": "Diversos",
+      "preco": 59.3,
+      "link": "https://meli.la/2uyQwwP",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/pisca-pisca-cascata-natal-400-leds-10m-",
+      "precoDe": 219.99,
+      "cupomAnuncio": "Compre R$219 e ganhe 10% OFF",
+      "postado": "2026-11-14T17:55:12.262Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2uyQwwP.jpg"
+    },
     {
       "id": "2rk1cZh",
       "nome": "Pisca Cortina 300 Leds 3x3m Usb Ip44 8 Modos Iluminação Luzes Fada Decoração De Natal Festa Branco Quente Luvinco",
