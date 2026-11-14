@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T18:34:16.473Z",
+  "atualizado": "2026-11-14T18:38:31.783Z",
   "ofertas": [
+    {
+      "id": "2YPtijU",
+      "nome": "Máquina De Acabamento Profissional Kemei Km-9163 Pézinho Usb",
+      "categoria": "Diversos",
+      "preco": 62.91,
+      "link": "https://meli.la/2YPtijU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquina-de-acabamento-profissional-keme",
+      "precoDe": 119.9,
+      "pix": true,
+      "parcelas": "R$69,90 em outros meios",
+      "postado": "2026-11-14T18:38:31.781Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2YPtijU.jpg"
+    },
     {
       "id": "28t1w6G",
       "nome": "Lavadora Lava Jato Portátil Pressão 2 Baterias + Maleta",
