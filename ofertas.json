@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-14T15:12:07.669Z",
+  "atualizado": "2026-11-14T15:14:07.302Z",
   "ofertas": [
+    {
+      "id": "2sBFKy7",
+      "nome": "Celular Samsung Galaxy A57 5g 128gb, 8gb Ram, Câmera 50mp, Ip68, Super Amoled 6.7, Recursos Ai - Azul-escuro",
+      "categoria": "Tech",
+      "preco": 1877.89,
+      "link": "https://meli.la/2sBFKy7",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a57-5g-128gb-8gb-ram-camera-50mp-ip68-super-amoled-67-recursos-ai-azul-escuro/p/MLB78270054",
+      "precoDe": 3799.97,
+      "parcelas": "10x R$ 187,79 sem juros",
+      "postado": "2026-11-14T15:14:07.300Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2sBFKy7.jpg"
+    },
     {
       "id": "1YQb3KU",
       "nome": "Camiseta Regular Essence Reserva Masculina",
@@ -2909,24 +2926,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1gyCbKD.jpg"
-    },
-    {
-      "id": "1nZGkdr",
-      "nome": "Smartphone Motorola Moto G86 5G Tela 6.7 pOLED 256GB 8GB RAM Câmera 50MP 4K IP69 Desbloqueado",
-      "categoria": "Tech",
-      "preco": 1442,
-      "link": "https://meli.la/1nZGkdr",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g86-5g-tela-67-poled-256gb-8gb-ram-camera-50mp-4k-ip69-desbloqueado/p/MLB51340616",
-      "precoDe": 2999,
-      "pix": true,
-      "parcelas": "R$ 1.602 em 10x de R$ 160,24 sem juros",
-      "postado": "2026-11-12T15:13:30.849Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1nZGkdr.jpg"
     }
   ]
 }
