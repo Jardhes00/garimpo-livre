@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-14T20:57:40.458Z",
+  "atualizado": "2026-11-14T20:59:40.181Z",
   "ofertas": [
+    {
+      "id": "2DQz9b2",
+      "nome": "Kit 2 Óleos Capilares Oil Reflections 30ml - Wella",
+      "categoria": "Beleza",
+      "preco": 63.79,
+      "link": "https://meli.la/2DQz9b2",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-2-oleos-capilares-oil-reflections-30ml-wella/p/MLB24399275",
+      "precoDe": 119.9,
+      "relampago": true,
+      "postado": "2026-11-14T20:59:40.180Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2DQz9b2.jpg"
+    },
     {
       "id": "2BezSvX",
       "nome": "Secador De Cabelos Philco PSC3500 4 Em 1 dobrável Motor BLDC Prateado",
