@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T15:03:37.084Z",
+  "atualizado": "2026-11-14T15:04:51.979Z",
   "ofertas": [
+    {
+      "id": "1kQ35w4",
+      "nome": "Filamento Pla 3d Impressão Pla High Speed Filamento Pla 1kg",
+      "categoria": "Diversos",
+      "preco": 80.91,
+      "link": "https://meli.la/1kQ35w4",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-4720737715-filamento-pla-3d-impresso-pla-high-speed-filamento-pla-1kg-_JM",
+      "precoDe": 200,
+      "pix": true,
+      "parcelas": "R$ 93 em outros meios",
+      "postado": "2026-11-14T15:04:51.978Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1kQ35w4.jpg"
+    },
     {
       "id": "2SZ8RA8",
       "nome": "Sandália Feminina Domidona Brilho Salto Alto Confortável",
