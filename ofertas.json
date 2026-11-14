@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T16:50:25.177Z",
+  "atualizado": "2026-11-14T16:52:10.205Z",
   "ofertas": [
+    {
+      "id": "19DEBQv",
+      "nome": "Caixa de Som Philco Extreme 380W Flash Lights PCX4800",
+      "categoria": "Tech",
+      "preco": 425.83,
+      "link": "https://meli.la/19DEBQv",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB37927083",
+      "precoDe": 799,
+      "pix": true,
+      "parcelas": "R$439 em 8x R$54,88 sem juros",
+      "postado": "2026-11-14T16:52:10.203Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-19DEBQv.jpg"
+    },
     {
       "id": "26P7yse",
       "nome": "Festão Aramado Grosso 300 Galhos 270cm Árvore de Natal Cheia Enfeite Decoração de Natal Gurilanda Escada Grande Verde LuvinCo",
