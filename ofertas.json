@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T20:03:34.254Z",
+  "atualizado": "2026-11-14T20:07:49.241Z",
   "ofertas": [
+    {
+      "id": "1NXpGmY",
+      "nome": "Violão Eletroacústico para Iniciante Destro com 6 Cordas e Acessórios",
+      "categoria": "Diversos",
+      "preco": 308.98,
+      "link": "https://meli.la/1NXpGmY",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/violao-eletroacustico-para-iniciante-de",
+      "precoDe": 999.96,
+      "pix": true,
+      "parcelas": "R$325,24 em outros meios",
+      "postado": "2026-11-14T20:07:49.240Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1NXpGmY.jpg"
+    },
     {
       "id": "2MZD25v",
       "nome": "Câmera de Segurança Wi-Fi iCSee/Yoosee A28B 4K Dupla Lente Visão Noturna Colorida Full Hd Externa Prova D'água Ip66 Sensor Movimento Woosh",
