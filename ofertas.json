@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T16:55:25.185Z",
+  "atualizado": "2026-11-14T16:56:55.276Z",
   "ofertas": [
+    {
+      "id": "1xf2uwt",
+      "nome": "Kit Hidrabene Linha Clareadora Sabonete Serum E Protetor 70",
+      "categoria": "Beleza",
+      "preco": 71.91,
+      "link": "https://meli.la/1xf2uwt",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB2085859759",
+      "precoDe": 219.49,
+      "pix": true,
+      "parcelas": "R$79,90 em outros meios",
+      "postado": "2026-11-14T16:56:55.274Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1xf2uwt.jpg"
+    },
     {
       "id": "1Xi4Kmb",
       "nome": "O Boticário Clash Desodorante Colônia 100ml",
