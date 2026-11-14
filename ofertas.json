@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-14T18:47:01.833Z",
+  "atualizado": "2026-11-14T18:51:16.877Z",
   "ofertas": [
+    {
+      "id": "1Q8cgyJ",
+      "nome": "Vaso Sanitário Monobloco Caixa Acoplada Privada Completo Cor Branco - VAB0004",
+      "categoria": "Diversos",
+      "preco": 566.9,
+      "link": "https://meli.la/1Q8cgyJ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/vaso-sanitario-monobloco-caixa-acoplada",
+      "precoDe": 994.9,
+      "postado": "2026-11-14T18:51:16.876Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Q8cgyJ.jpg"
+    },
     {
       "id": "2Zthdcf",
       "nome": "Kit 8 Rodízios Giratórios 4 Polegadas Com E Sem Freio",
