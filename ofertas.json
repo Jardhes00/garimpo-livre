@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-14T18:42:46.728Z",
+  "atualizado": "2026-11-14T18:47:01.833Z",
   "ofertas": [
+    {
+      "id": "2Zthdcf",
+      "nome": "Kit 8 Rodízios Giratórios 4 Polegadas Com E Sem Freio",
+      "categoria": "Diversos",
+      "preco": 226.84,
+      "link": "https://meli.la/2Zthdcf",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-8-rodizios-giratorios-4-polegadas-c",
+      "precoDe": 405.92,
+      "postado": "2026-11-14T18:47:01.832Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Zthdcf.jpg"
+    },
     {
       "id": "1coVkDk",
       "nome": "Jogo De Toalhas Buddemeyer Bella Extra Soft Banho 4 Peças Azul Claro/azul Marinho",
