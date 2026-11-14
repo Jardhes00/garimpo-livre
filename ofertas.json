@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T17:08:25.756Z",
+  "atualizado": "2026-11-14T17:10:25.877Z",
   "ofertas": [
+    {
+      "id": "2RqK9XL",
+      "nome": "Máquina De Acabamento Kemei Km-max5090 Profissional Barbeiro Preto",
+      "categoria": "Diversos",
+      "preco": 81.79,
+      "link": "https://meli.la/2RqK9XL",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB63548670",
+      "precoDe": 191.9,
+      "pix": true,
+      "parcelas": "R$86,10 em outros meios",
+      "postado": "2026-11-14T17:10:25.876Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2RqK9XL.jpg"
+    },
     {
       "id": "2UVmxCv",
       "nome": "Robô Aspirador Passa Pano Redroad R11 Inteligente Automático Com Mapeamento Wi-fi Estação Autolimpante 3 Em 1 Branco 127v",
