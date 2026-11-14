@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T18:59:47.063Z",
+  "atualizado": "2026-11-14T19:04:02.502Z",
   "ofertas": [
+    {
+      "id": "161Fgqy",
+      "nome": "Baú Moto Alumínio 56 Litros Reforçado Com Suporte E Encosto",
+      "categoria": "Auto",
+      "preco": 648.41,
+      "link": "https://meli.la/161Fgqy",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bau-moto-aluminio-56-litros-reforcado-c",
+      "precoDe": 1099,
+      "parcelas": "10x de R$64,84 sem juros",
+      "cupomAnuncio": "R$615,99 com Cupom",
+      "postado": "2026-11-14T19:04:02.500Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-161Fgqy.jpg"
+    },
     {
       "id": "1NGrdnw",
       "nome": "Vinho Chileno Branco Concha Y Toro Reservado Sauvignon Blanc 750ml",
@@ -3366,38 +3384,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1ccVwSj.jpg"
-    },
-    {
-      "id": "2PX1j26",
-      "nome": "Ecozendsy Colchão Inflável Casal Queen Size com Bomba Recarregável Embutida para Camping 200x154x43cm",
-      "categoria": "Casa",
-      "preco": 349.99,
-      "link": "https://meli.la/2PX1j26",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB77319644",
-      "precoDe": 598,
-      "postado": "2026-11-12T19:03:14.495Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2PX1j26.jpg"
-    },
-    {
-      "id": "1uYHtE2",
-      "nome": "Aspirador de Pó Vertical e Portátil WAP High Speed Plus 1350W 3 em 1",
-      "categoria": "Casa",
-      "preco": 142.9,
-      "link": "https://meli.la/1uYHtE2",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB22511808",
-      "precoDe": 207,
-      "postado": "2026-11-12T19:01:14.247Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1uYHtE2.jpg"
     }
   ]
 }
