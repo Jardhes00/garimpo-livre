@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-14T20:17:19.941Z",
+  "atualizado": "2026-11-14T20:21:34.757Z",
   "ofertas": [
+    {
+      "id": "2gg7KVa",
+      "nome": "Vinho Tinto Italiano Masserie Primitivo Puglia 750ml Codici",
+      "categoria": "Diversos",
+      "preco": 50,
+      "link": "https://meli.la/2gg7KVa",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/vinho-tinto-italiano-masserie-primitivo",
+      "precoDe": 124.99,
+      "postado": "2026-11-14T20:21:34.756Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2gg7KVa.jpg"
+    },
     {
       "id": "2HYeNk4",
       "nome": "Kit 10 Potes Herméticos Vidro Alto Borossilicato Tampa 4 Travas Marmita Forno Micro-ondas Airfryer Freezer 640ml Zelvi",
