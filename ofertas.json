@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T18:21:31.191Z",
+  "atualizado": "2026-11-14T18:25:46.257Z",
   "ofertas": [
+    {
+      "id": "15rNyTU",
+      "nome": "Máquina De Acabamento Sem Fio Kemei Km-2293 Precisão Laminas",
+      "categoria": "Diversos",
+      "preco": 86.35,
+      "link": "https://meli.la/15rNyTU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquina-de-acabamento-sem-fio-kemei-km-",
+      "precoDe": 196.9,
+      "pix": true,
+      "parcelas": "R$95,95 em outros meios",
+      "postado": "2026-11-14T18:25:46.256Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-15rNyTU.jpg"
+    },
     {
       "id": "2QDGL9X",
       "nome": "Varal De Luzes Natal Led 50m Externo Com 50 Lâmpadas",
