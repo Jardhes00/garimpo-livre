@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-14T18:38:31.783Z",
+  "atualizado": "2026-11-14T18:42:46.728Z",
   "ofertas": [
+    {
+      "id": "1coVkDk",
+      "nome": "Jogo De Toalhas Buddemeyer Bella Extra Soft Banho 4 Peças Azul Claro/azul Marinho",
+      "categoria": "Games",
+      "preco": 127.42,
+      "link": "https://meli.la/1coVkDk",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/jogo-de-toalhas-buddemeyer-bella-extra-",
+      "precoDe": 229.9,
+      "pix": true,
+      "parcelas": "R$169,90 em 5x R$33,98 sem juros",
+      "cupomAnuncio": "R$112,42 com Cupom",
+      "postado": "2026-11-14T18:42:46.726Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1coVkDk.jpg"
+    },
     {
       "id": "2YPtijU",
       "nome": "Máquina De Acabamento Profissional Kemei Km-9163 Pézinho Usb",
