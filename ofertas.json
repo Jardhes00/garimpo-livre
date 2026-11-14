@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-14T18:25:46.257Z",
+  "atualizado": "2026-11-14T18:30:03.266Z",
   "ofertas": [
+    {
+      "id": "1zxJ12U",
+      "nome": "Kit Toalhas De Banho Grandes Felpudas 104x70cm 400g M² Confo",
+      "categoria": "Casa",
+      "preco": 89.99,
+      "link": "https://meli.la/1zxJ12U",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-toalhas-de-banho-grandes-felpudas-1",
+      "precoDe": 202.99,
+      "postado": "2026-11-14T18:30:03.265Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1zxJ12U.jpg"
+    },
     {
       "id": "15rNyTU",
       "nome": "Máquina De Acabamento Sem Fio Kemei Km-2293 Precisão Laminas",
