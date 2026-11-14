@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-14T18:13:00.924Z",
+  "atualizado": "2026-11-14T18:17:16.337Z",
   "ofertas": [
+    {
+      "id": "2P7JPmJ",
+      "nome": "Camisa Reserva Masculino Polo Regular Essence",
+      "categoria": "Moda",
+      "preco": 122.99,
+      "link": "https://meli.la/2P7JPmJ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/camisa-reserva-masculino-polo-regular-e",
+      "precoDe": 299,
+      "parcelas": "4x de R$30,75 sem juros",
+      "postado": "2026-11-14T18:17:16.336Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2P7JPmJ.jpg"
+    },
     {
       "id": "1pUwqYk",
       "nome": "Parafusadeira Furadeira 48v Profissional 2 Baterias Sem Fio",
