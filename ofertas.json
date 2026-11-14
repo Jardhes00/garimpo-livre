@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-14T15:24:52.826Z",
+  "atualizado": "2026-11-14T15:26:52.625Z",
   "ofertas": [
+    {
+      "id": "16sVwkR",
+      "nome": "Air Fryer Digital Elétrica Antiaderente Sem Óleo Fritadeira",
+      "categoria": "Casa",
+      "preco": 344,
+      "link": "https://meli.la/16sVwkR",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/air-fryer-digital-eletrica-antiaderente-sem-oleo-fritadeira/up/MLBU3937649831",
+      "precoDe": 800,
+      "parcelas": "12x R$ 33,65",
+      "postado": "2026-11-14T15:26:52.623Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-16sVwkR.jpg"
+    },
     {
       "id": "14VpZ34",
       "nome": "Parafusadeira Furadeira De Precisão C/ 2 Baterias Maleta Kit Completo Led Eixo Flexível Vários Níveis Torque Hardline",
@@ -2892,40 +2909,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1XFxbQN.jpg"
-    },
-    {
-      "id": "2FCrVC2",
-      "nome": "Kit 10 Pote De Vidro Marmita Hermético 370ml Freezer Vitrex",
-      "categoria": "Casa",
-      "preco": 67.69,
-      "link": "https://meli.la/2FCrVC2",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit-10-pote-de-vidro-marmita-hermetico-370ml-freezer-vitrex/p/MLB78457348",
-      "precoDe": 140,
-      "cupomAnuncio": "Compre R$200 e ganhe 5% OFF por seguir a loja",
-      "postado": "2026-11-12T15:26:45.924Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2FCrVC2.jpg"
-    },
-    {
-      "id": "1yDCznM",
-      "nome": "Smart Tv 43 Philco P43vik Roku Led Dolby Audio Wi-fi Hdmi Hdr Full Hd 110/220v",
-      "categoria": "Tech",
-      "preco": 1652,
-      "link": "https://meli.la/1yDCznM",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/smart-tv-43-philco-p43vik-roku-led-dolby-audio-wi-fi-hdmi-hdr-full-hd-110220v/p/MLB63040715",
-      "precoDe": 2499,
-      "parcelas": "10x de R$ 165,23 sem juros",
-      "postado": "2026-11-12T15:25:00.819Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1yDCznM.jpg"
     }
   ]
 }
