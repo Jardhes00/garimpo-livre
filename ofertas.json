@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T15:04:51.979Z",
+  "atualizado": "2026-11-14T15:06:52.465Z",
   "ofertas": [
+    {
+      "id": "1z3827q",
+      "nome": "Mini Motoserra Elétrica Portátil 6 Pol Duas Baterias 700w",
+      "categoria": "Ferramentas",
+      "preco": 162.73,
+      "link": "https://meli.la/1z3827q",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mini-motoserra-eletrica-portatil-6-pol-duas-baterias-700w/up/MLBU3909641049",
+      "precoDe": 380,
+      "pix": true,
+      "parcelas": "R$ 171,30 em outros meios",
+      "postado": "2026-11-14T15:06:52.463Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1z3827q.jpg"
+    },
     {
       "id": "1kQ35w4",
       "nome": "Filamento Pla 3d Impressão Pla High Speed Filamento Pla 1kg",
@@ -2913,42 +2931,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1EoG3kk.jpg"
-    },
-    {
-      "id": "28M2NJX",
-      "nome": "Notebook ASUS Vivobook Go 15 E1504 AMD RYZEN 5 7520U 8GB Ram 256GB SSD Linux KeepOS 15,6” FHD Black E1504FA-NJ731",
-      "categoria": "Tech",
-      "preco": 2749,
-      "link": "https://meli.la/28M2NJX",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/notebook-asus-vivobook-go-15-e1504-amd-ryzen-5-7520u-8gb-ram-256gb-ssd-linux-keepos-156-fhd-black-e1504fa-nj731/p/MLB36772633",
-      "precoDe": 4199,
-      "parcelas": "10x de R$ 274,90 sem juros",
-      "postado": "2026-11-12T15:06:45.382Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-28M2NJX.jpg"
-    },
-    {
-      "id": "1ByGuCL",
-      "nome": "Smartphone Motorola Edge 60 Fusion 5g - 256gb 8gb Ram+8gb Ram Boost, 50mp Sony Ai Camera Ip68 Nfc - Cinza Vegan Leather",
-      "categoria": "Tech",
-      "preco": 1658,
-      "link": "https://meli.la/1ByGuCL",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/smartphone-motorola-edge-60-fusion-5g-256gb-8gb-ram8gb-ram-boost-50mp-sony-ai-camera-ip68-nfc-cinza-vegan-leather/p/MLB47245501",
-      "precoDe": 3299,
-      "pix": true,
-      "parcelas": "R$ 1.843 em 10x de R$ 184,30 sem juros",
-      "cupomAnuncio": "R$1.568,70 com Cupom",
-      "postado": "2026-11-12T15:05:30.185Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1ByGuCL.jpg"
     }
   ]
 }
