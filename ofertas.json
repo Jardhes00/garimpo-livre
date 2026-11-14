@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-14T14:58:22.021Z",
+  "atualizado": "2026-11-14T15:00:06.709Z",
   "ofertas": [
+    {
+      "id": "2dXxLnp",
+      "nome": "Berço Portátil Infantil Cercado Desmontável Com Tela 2 Alturas Colchonete Rodinhas 15kg Lune Maxi Baby",
+      "categoria": "Casa",
+      "preco": 298.79,
+      "link": "https://meli.la/2dXxLnp",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/berco-portatil-infantil-cercado-desmontavel-com-tela-2-alturas-colchonete-rodinhas-15kg-lune-maxi-baby/p/MLB54357048",
+      "precoDe": 499.9,
+      "parcelas": "12x R$ 29,23",
+      "postado": "2026-11-14T15:00:06.707Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2dXxLnp.jpg"
+    },
     {
       "id": "32H1yTV",
       "nome": "Tapete Higiênico Descartável Luxena para Cães e Gatos 50x60 cm com 50 Unidades",
@@ -2930,25 +2947,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-18r16tQ.jpg"
-    },
-    {
-      "id": "13pRRxN",
-      "nome": "Principia Kit Protetor Cor 3.0 + Limpeza + Hidrata",
-      "categoria": "Diversos",
-      "preco": 68,
-      "link": "https://meli.la/13pRRxN",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/principia-kit-protetor-cor-30-limpeza-hidrata/p/MLB65857044",
-      "precoDe": 142,
-      "pix": true,
-      "parcelas": "R$ 85 em outros meios",
-      "cupomAnuncio": "R$63,24 com Cupom por seguir a loja",
-      "postado": "2026-11-12T14:59:30.168Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-13pRRxN.jpg"
     }
   ]
 }
