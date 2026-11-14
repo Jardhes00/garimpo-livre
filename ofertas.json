@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T19:04:02.502Z",
+  "atualizado": "2026-11-14T19:08:17.581Z",
   "ofertas": [
+    {
+      "id": "2TFEF8r",
+      "nome": "Conjunto Panelas Antiaderente 10 Peças Teflon Várias Cores",
+      "categoria": "Casa",
+      "preco": 174.79,
+      "link": "https://meli.la/2TFEF8r",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/conjunto-panelas-antiaderente-10-pecas-",
+      "precoDe": 299,
+      "pix": true,
+      "parcelas": "R$189,99 em outros meios",
+      "postado": "2026-11-14T19:08:17.579Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2TFEF8r.jpg"
+    },
     {
       "id": "161Fgqy",
       "nome": "Baú Moto Alumínio 56 Litros Reforçado Com Suporte E Encosto",
@@ -3350,40 +3368,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1h9kh6R.jpg"
-    },
-    {
-      "id": "1fh5jSf",
-      "nome": "Escova Progressiva 150g - Fashion Gold",
-      "categoria": "Diversos",
-      "preco": 71.2,
-      "link": "https://meli.la/1fh5jSf",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB52363091",
-      "precoDe": 116.9,
-      "pix": true,
-      "parcelas": "R$79,11 em 3x R$26,37 sem juros",
-      "postado": "2026-11-12T19:06:14.549Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1fh5jSf.jpg"
-    },
-    {
-      "id": "1ccVwSj",
-      "nome": "Ring Light LED Lumi de 33cm com Tripé 2,10m e Luz Ajustável para Maquiagem e Vídeos",
-      "categoria": "Beleza",
-      "preco": 102,
-      "link": "https://meli.la/1ccVwSj",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB34075437",
-      "precoDe": 279.98,
-      "postado": "2026-11-12T19:04:44.623Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1ccVwSj.jpg"
     }
   ]
 }
