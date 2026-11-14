@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-14T18:04:30.403Z",
+  "atualizado": "2026-11-14T18:08:45.757Z",
   "ofertas": [
+    {
+      "id": "1UFRv1p",
+      "nome": "Kit 2 Travesseiros Plumas 70x50cm Tradicional Antiácaros",
+      "categoria": "Casa",
+      "preco": 19.39,
+      "link": "https://meli.la/1UFRv1p",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-2-travesseiros-plumas-70x50cm-tradi",
+      "precoDe": 49.9,
+      "postado": "2026-11-14T18:08:45.756Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1UFRv1p.jpg"
+    },
     {
       "id": "2m6uadp",
       "nome": "Chave de Impacto a Bateria Atverce 300 Nm 1/2\" Brushless com Soquete",
