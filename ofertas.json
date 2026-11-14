@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T20:56:25.024Z",
+  "atualizado": "2026-11-14T20:57:40.458Z",
   "ofertas": [
+    {
+      "id": "2BezSvX",
+      "nome": "Secador De Cabelos Philco PSC3500 4 Em 1 dobrável Motor BLDC Prateado",
+      "categoria": "Beleza",
+      "preco": 384.75,
+      "link": "https://meli.la/2BezSvX",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/secador-de-cabelos-philcopsc3500-4-em-1dobravelmotorbldc-prateado/p/MLB50269368",
+      "precoDe": 599,
+      "pix": true,
+      "parcelas": "R$ 405 em outros meios",
+      "postado": "2026-11-14T20:57:40.457Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2BezSvX.jpg"
+    },
     {
       "id": "2fn33Kb",
       "nome": "Shampoo Antiqueda Estimulante com Aminexil, Dercos Energy+ Vichy, 400g",
