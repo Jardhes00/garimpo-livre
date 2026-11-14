@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-14T20:34:20.232Z",
+  "atualizado": "2026-11-14T20:38:35.393Z",
   "ofertas": [
+    {
+      "id": "1xgpJeG",
+      "nome": "Kit4 Body Splash Feminino Àrabe 200ml Alta Fixação",
+      "categoria": "Diversos",
+      "preco": 57.99,
+      "link": "https://meli.la/1xgpJeG",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit4-body-splash-feminino-rabe-200ml-al",
+      "precoDe": 129.99,
+      "cupomAnuncio": "R$55,99 com Cupom por seguir a loja",
+      "postado": "2026-11-14T20:38:35.391Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1xgpJeG.jpg"
+    },
     {
       "id": "1rM3i3W",
       "nome": "Cafeteira Nescafé Dolce Gusto Arno Genio S Plus Preta 110v",
