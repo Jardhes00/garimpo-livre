@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-14T16:32:39.608Z",
+  "atualizado": "2026-11-14T16:34:09.719Z",
   "ofertas": [
+    {
+      "id": "1gt9V8e",
+      "nome": "Suporte Ajustável para Notebook Davely com 2 Ventoinhas e Suporte para Celular em Alumínio Preto",
+      "categoria": "Tech",
+      "preco": 44.53,
+      "link": "https://meli.la/1gt9V8e",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB66374198",
+      "precoDe": 64.9,
+      "postado": "2026-11-14T16:34:09.717Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1gt9V8e.jpg"
+    },
     {
       "id": "1fYR2Rf",
       "nome": "Impressora Multifuncional Sem Tinta Térmica Bluetooth Orico A41 Preto",
