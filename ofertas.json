@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-14T20:30:05.148Z",
+  "atualizado": "2026-11-14T20:34:20.232Z",
   "ofertas": [
+    {
+      "id": "1rM3i3W",
+      "nome": "Cafeteira Nescafé Dolce Gusto Arno Genio S Plus Preta 110v",
+      "categoria": "Casa",
+      "preco": 489,
+      "link": "https://meli.la/1rM3i3W",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafeteira-nescafe-dolce-gusto-arno-geni",
+      "precoDe": 1099.99,
+      "parcelas": "9x de R$54,33 sem juros",
+      "postado": "2026-11-14T20:34:20.230Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1rM3i3W.jpg"
+    },
     {
       "id": "1wSx8Sp",
       "nome": "Perfume Arábe Asad Bourbon 100ml - Marca Isabelle La Belle | Fixação Intensa, Notas Amadeiradas Marcantes E Elegância Masculina",
@@ -3401,42 +3418,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1QDXfgF.jpg"
-    },
-    {
-      "id": "2rnSb7U",
-      "nome": "Lavadora Alta Pressão Portátil Recarregável Sem Fio Hardline 2 Baterias 48V",
-      "categoria": "Diversos",
-      "preco": 91.62,
-      "link": "https://meli.la/2rnSb7U",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB68723058",
-      "precoDe": 129.99,
-      "pix": true,
-      "parcelas": "R$99,59 em outros meios",
-      "postado": "2026-11-12T20:31:16.203Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2rnSb7U.jpg"
-    },
-    {
-      "id": "1JfcGKW",
-      "nome": "Caixa de Som Amplificada Philco Extreme Bluetooth 5.3 480W 2 Microfones TWS Flash Light Bateria Recarregável PCX4801",
-      "categoria": "Tech",
-      "preco": 629.1,
-      "link": "https://meli.la/1JfcGKW",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB69013896",
-      "precoDe": 1212.86,
-      "pix": true,
-      "parcelas": "R$699 em 10x R$69,90 sem juros",
-      "postado": "2026-11-12T20:30:45.859Z",
-      "conferido": "2026-11-12",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1JfcGKW.jpg"
     }
   ]
 }
