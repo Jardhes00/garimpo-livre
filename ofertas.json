@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-14T16:27:54.683Z",
+  "atualizado": "2026-11-14T16:29:24.527Z",
   "ofertas": [
+    {
+      "id": "2QXPyA8",
+      "nome": "Smartphone Jovi Y19s 256gb, 4GB + 4GB RAM Expansível, Câmera 50mp, Bateria 5500mah, Carregamento 15w, Tela 90hz - Preto Safira",
+      "categoria": "Tech",
+      "preco": 789.3,
+      "link": "https://meli.la/2QXPyA8",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB52937091",
+      "precoDe": 1199,
+      "pix": true,
+      "parcelas": "R$877 em 10x R$87,70 sem juros",
+      "postado": "2026-11-14T16:29:24.525Z",
+      "conferido": "2026-11-14",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2QXPyA8.jpg"
+    },
     {
       "id": "28s8c4w",
       "nome": "Gta Vi - Playstation 5 Versão Standard Nacional Br",
