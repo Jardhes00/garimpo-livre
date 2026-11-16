@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-16T15:53:32.958Z",
+  "atualizado": "2026-11-16T15:54:47.681Z",
   "ofertas": [
+    {
+      "id": "1VdH9cR",
+      "nome": "Smart TV AOC 40\" Full HD Roku Série 5045 Bivolt (40S5045/78G)",
+      "categoria": "Tech",
+      "preco": 1222.68,
+      "link": "https://meli.la/1VdH9cR",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smart-tv-40s504578g-serie-5045-full-hd-40-roku-aoc-bivolt/p/MLB43554996",
+      "precoDe": 1798.09,
+      "pix": true,
+      "parcelas": "R$1.329 em outros meios",
+      "postado": "2026-11-16T15:54:47.680Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1VdH9cR.jpg"
+    },
     {
       "id": "1qeA8ue",
       "nome": "Nível Laser Verde 16 Linhas Tela Digital + Tripé 1.2m Dobevi",
