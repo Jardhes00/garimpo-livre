@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-16T17:09:04.947Z",
+  "atualizado": "2026-11-16T17:10:19.883Z",
   "ofertas": [
+    {
+      "id": "2JU7Fdu",
+      "nome": "Ventilador De Mesa Britânia Prime Air AVTE300 Preto com 6 Pás e 3 Velocidades",
+      "categoria": "Casa",
+      "preco": 114.9,
+      "link": "https://meli.la/2JU7Fdu",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB37808908",
+      "precoDe": 183.9,
+      "parcelas": "4x R$ 28,73 sem juros",
+      "postado": "2026-11-16T17:10:19.881Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2JU7Fdu.jpg"
+    },
     {
       "id": "1jxjwSV",
       "nome": "Colchão Inflável Queen Com C/ Bomba Bivolt Usb+2 Travesseiro",
