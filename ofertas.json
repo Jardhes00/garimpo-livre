@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-16T15:48:32.389Z",
+  "atualizado": "2026-11-16T15:49:47.567Z",
   "ofertas": [
+    {
+      "id": "2uU6MaL",
+      "nome": "Garrafa Térmica Chacal 2,5l Base Giratória Alavanca Pressão",
+      "categoria": "Diversos",
+      "preco": 89.09,
+      "link": "https://meli.la/2uU6MaL",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/garrafa-termica-chacal-25l-base-giratoria-alavanca-pressao/up/MLBU5064642565",
+      "precoDe": 199.9,
+      "pix": true,
+      "parcelas": "R$98,99 em outros meios",
+      "cupomAnuncio": "R$87,29 com Cupom por seguir a loja",
+      "postado": "2026-11-16T15:49:47.566Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2uU6MaL.jpg"
+    },
     {
       "id": "1aBxhTe",
       "nome": "Guarda-roupa Casal 6 Portas 2 Gavetas França",
