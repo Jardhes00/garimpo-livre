@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-16T16:01:02.681Z",
+  "atualizado": "2026-11-16T16:02:33.276Z",
   "ofertas": [
+    {
+      "id": "2RyQkmK",
+      "nome": "Zero Pore Pad Medicube 2.0 (70 Pads) Importado 100% Coreano",
+      "categoria": "Diversos",
+      "preco": 104.4,
+      "link": "https://meli.la/2RyQkmK",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/zero-pore-pad-medicube-20-70-pads-importado-100-coreano/up/MLBU5221684701",
+      "precoDe": 239.9,
+      "pix": true,
+      "parcelas": "R$116 em outros meios",
+      "postado": "2026-11-16T16:02:33.274Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2RyQkmK.jpg"
+    },
     {
       "id": "2tsyTs1",
       "nome": "Bicicleta Ergométrica Bike Spinning Para Exercícios Com Volante e Display LCD",
