@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-16T16:53:49.341Z",
+  "atualizado": "2026-11-16T16:55:19.509Z",
   "ofertas": [
+    {
+      "id": "1AuMXmN",
+      "nome": "Kit 4 Camisetas Masculinas Algodão Egípcio | Minimal Club",
+      "categoria": "Moda",
+      "preco": 457.23,
+      "link": "https://meli.la/1AuMXmN",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-5970842072-kit-4-camisetas-masculinas-algodo-egipcio-minimal-club-_JM",
+      "precoDe": 939.9,
+      "pix": true,
+      "parcelas": "R$ 496,99 em 10x R$ 49,70 sem juros",
+      "relampago": true,
+      "postado": "2026-11-16T16:55:19.507Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1AuMXmN.jpg"
+    },
     {
       "id": "2CSGWF6",
       "nome": "Jogo De Panelas 8 Peças Teflon Antiaderente C Tampa De Vidro",
@@ -2960,25 +2979,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1Xi4Kmb.jpg"
-    },
-    {
-      "id": "22VJeLe",
-      "nome": "Kit Dumont Feminino Lady Dourado - Du2036mfs/k4c",
-      "categoria": "Diversos",
-      "preco": 164.68,
-      "link": "https://meli.la/22VJeLe",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB25675737",
-      "precoDe": 299,
-      "pix": true,
-      "parcelas": "R$179 em 5x R$35,80 sem juros",
-      "cupomAnuncio": "Compre R$199 e ganhe 5% OFF",
-      "postado": "2026-11-14T16:53:55.105Z",
-      "conferido": "2026-11-14",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-22VJeLe.jpg"
     }
   ]
 }
