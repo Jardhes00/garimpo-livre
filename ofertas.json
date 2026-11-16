@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-16T16:31:03.705Z",
+  "atualizado": "2026-11-16T16:32:33.936Z",
   "ofertas": [
+    {
+      "id": "13FhPNJ",
+      "nome": "Furadeira De Impacto Bosch GSB 450 RE 450W 10mm Com Brocas e Buchas",
+      "categoria": "Ferramentas",
+      "preco": 314.9,
+      "link": "https://meli.la/13FhPNJ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/furadeira-de-impacto-bosch-gsb-450-re-450w-10mm-com-brocas-e-buchas/p/MLB40832800",
+      "precoDe": 492.74,
+      "parcelas": "12x R$ 30,81",
+      "postado": "2026-11-16T16:32:33.934Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-13FhPNJ.jpg"
+    },
     {
       "id": "2rQ8kzi",
       "nome": "Creme Antiassaduras Bepantol para assadura Baby Hipoalergênico 100g",
@@ -2943,23 +2960,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1fYR2Rf.jpg"
-    },
-    {
-      "id": "1EyZT2a",
-      "nome": "LG UltraGear Monitor Gamer 32\"- VA 165Hz 1ms (MBR) QHD 2K (2560x1440) HDR10 AMD FreeSync, Preto - 32GN600",
-      "categoria": "Tech",
-      "preco": 1099,
-      "link": "https://meli.la/1EyZT2a",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB24061510",
-      "precoDe": 2180.95,
-      "parcelas": "10x de R$109,90 sem juros",
-      "postado": "2026-11-14T16:31:24.693Z",
-      "conferido": "2026-11-14",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1EyZT2a.jpg"
     }
   ]
 }
