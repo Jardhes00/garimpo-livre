@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-16T16:11:33.485Z",
+  "atualizado": "2026-11-16T16:13:33.263Z",
   "ofertas": [
+    {
+      "id": "2an7jmd",
+      "nome": "Varal De Luzes Externo 25m 25+2 Lâmpadas Festão Natal St38",
+      "categoria": "Diversos",
+      "preco": 117.39,
+      "link": "https://meli.la/2an7jmd",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/varal-de-luzes-externo-25m-252-lampadas-festao-natal-st38/up/MLBU5286402884",
+      "precoDe": 160,
+      "postado": "2026-11-16T16:13:33.261Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2an7jmd.jpg"
+    },
     {
       "id": "2jjBeNG",
       "nome": "Roçadeira Elétrica Aparador De Grama Potente 800w 2 Baterias",
