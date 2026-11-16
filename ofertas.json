@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-16T15:46:32.384Z",
+  "atualizado": "2026-11-16T15:48:32.389Z",
   "ofertas": [
+    {
+      "id": "1aBxhTe",
+      "nome": "Guarda-roupa Casal 6 Portas 2 Gavetas França",
+      "categoria": "Diversos",
+      "preco": 542.84,
+      "link": "https://meli.la/1aBxhTe",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/guarda-roupa-casal-6-portas-2-gavetas-franca/p/MLB50476283",
+      "precoDe": 916.6,
+      "pix": true,
+      "parcelas": "R$704,99 em 10x R$70,50 sem juros",
+      "cupomAnuncio": "R$504,34 com Cupom",
+      "postado": "2026-11-16T15:48:32.388Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1aBxhTe.jpg"
+    },
     {
       "id": "2eNrn3v",
       "nome": "Fritadeira Air Fryer Dako 5 Litros Preto/inox Com Painel Analógico E Potência De 1700w",
