@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-16T16:52:34.376Z",
+  "atualizado": "2026-11-16T16:53:49.341Z",
   "ofertas": [
+    {
+      "id": "2CSGWF6",
+      "nome": "Jogo De Panelas 8 Peças Teflon Antiaderente C Tampa De Vidro",
+      "categoria": "Games",
+      "preco": 134.87,
+      "link": "https://meli.la/2CSGWF6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-5295729524-jogo-de-panelas-8-pecas-teflon-antiaderente-c-tampa-de-vidro-_JM",
+      "precoDe": 229,
+      "pix": true,
+      "parcelas": "R$ 141,97 em outros meios",
+      "postado": "2026-11-16T16:53:49.339Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2CSGWF6.jpg"
+    },
     {
       "id": "19QqMqS",
       "nome": "Camiseta Light T-shirt Insider Masculino",
