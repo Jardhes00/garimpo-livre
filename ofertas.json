@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-16T17:00:19.678Z",
+  "atualizado": "2026-11-16T17:02:04.652Z",
   "ofertas": [
+    {
+      "id": "2pr5zH4",
+      "nome": "Bota Botina Segurança Bracol Sapato Coturno Nobuck Com Ca",
+      "categoria": "Diversos",
+      "preco": 117.19,
+      "link": "https://meli.la/2pr5zH4",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-2209981610-bota-botina-seguranca-bracol-sapato-coturno-nobuck-com-ca-_JM",
+      "precoDe": 189,
+      "pix": true,
+      "parcelas": "R$ 126,01 em outros meios",
+      "postado": "2026-11-16T17:02:04.650Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2pr5zH4.jpg"
+    },
     {
       "id": "2Rm2vX8",
       "nome": "Cofre Eletrônico Digital Senha Ou Chave 23x17x17 Contelux",
@@ -2947,22 +2965,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2KVE3YX.jpg"
-    },
-    {
-      "id": "1XBMQf2",
-      "nome": "Kit Multi Ferramentas 4 Em 1 48v Sem Fio Com 2 Baterias Furadeira Parafusadeira Martelete Esmerilhadeira Chave De Impacto Com Maleta Alta Potência Uso Profissional E Doméstico Simake",
-      "categoria": "Ferramentas",
-      "preco": 621,
-      "link": "https://meli.la/1XBMQf2",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB67462015",
-      "precoDe": 1599,
-      "postado": "2026-11-14T17:01:55.749Z",
-      "conferido": "2026-11-14",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1XBMQf2.jpg"
     }
   ]
 }
