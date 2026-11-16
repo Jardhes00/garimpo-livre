@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-16T15:52:17.673Z",
+  "atualizado": "2026-11-16T15:53:32.958Z",
   "ofertas": [
+    {
+      "id": "1qeA8ue",
+      "nome": "Nível Laser Verde 16 Linhas Tela Digital + Tripé 1.2m Dobevi",
+      "categoria": "Diversos",
+      "preco": 223.24,
+      "link": "https://meli.la/1qeA8ue",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/nivel-laser-verde-16-linhas-tela-digital-tripe-12m-dobevi/up/MLBU5116803043",
+      "precoDe": 495.21,
+      "pix": true,
+      "parcelas": "R$234,99 em outros meios",
+      "postado": "2026-11-16T15:53:32.957Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1qeA8ue.jpg"
+    },
     {
       "id": "18x9RNt",
       "nome": "Espelho Corpo Inteiro Arqueado 161x52 Dourado Chão Parede",
