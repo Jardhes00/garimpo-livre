@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-16T15:36:17.150Z",
+  "atualizado": "2026-11-16T15:37:47.161Z",
   "ofertas": [
+    {
+      "id": "2QrAUeX",
+      "nome": "Kit 5 Toalhas Banho Gigante Grossa Hotel Luxo 75x150cm 480g",
+      "categoria": "Casa",
+      "preco": 138.27,
+      "link": "https://meli.la/2QrAUeX",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-5-toalhas-banho-gigante-grossa-hotel-luxo-75x150cm-480g/up/MLBU749495123",
+      "precoDe": 197.99,
+      "cupomAnuncio": "Compre R$160 e ganhe 5% OFF por seguir a loja",
+      "postado": "2026-11-16T15:37:47.160Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2QrAUeX.jpg"
+    },
     {
       "id": "14SWj4q",
       "nome": "Máquina de Lavar Electrolux LEC15 Branca 15kg Premium Care com Cesto Inox Jet&Clean e Time Control",
