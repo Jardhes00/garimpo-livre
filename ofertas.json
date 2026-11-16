@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-16T17:11:35.294Z",
+  "atualizado": "2026-11-16T17:13:20.070Z",
   "ofertas": [
+    {
+      "id": "2BgxHRL",
+      "nome": "Árvore de Natal Pinheiro Premium de 1,50m com 500 Galhos Verdes e Base de Ferro Casa Sala Escritório Apartamento Enfeites Volumosos",
+      "categoria": "Diversos",
+      "preco": 109.66,
+      "link": "https://meli.la/2BgxHRL",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB80564874",
+      "precoDe": 349.9,
+      "pix": true,
+      "parcelas": "R$ 121,85 em outros meios",
+      "cupomAnuncio": "R$104,18 com Cupom por seguir a loja",
+      "postado": "2026-11-16T17:13:20.068Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2BgxHRL.jpg"
+    },
     {
       "id": "2asyFEb",
       "nome": "Vitamina Always Fit Fit Hair para Cabelo e Unhas, em Cápsula, Kit com 3 Potes de 30 Cápsulas",
@@ -2968,23 +2987,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2P6B6vT.jpg"
-    },
-    {
-      "id": "1uGRAMY",
-      "nome": "Monitor Gamer LG UltraGear Curvo 34\"- QuadHD 2K, UltraWide 1800R, 160Hz, 1ms (MBR), AMD FreeSync Premium, HDR10, MaxxAudio, Preto -34G600A",
-      "categoria": "Tech",
-      "preco": 1799,
-      "link": "https://meli.la/1uGRAMY",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB62870034",
-      "precoDe": 2515.49,
-      "parcelas": "10x de R$179,90 sem juros",
-      "postado": "2026-11-14T17:12:25.929Z",
-      "conferido": "2026-11-14",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1uGRAMY.jpg"
     }
   ]
 }
