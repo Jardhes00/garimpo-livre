@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-16T16:58:34.604Z",
+  "atualizado": "2026-11-16T17:00:19.678Z",
   "ofertas": [
+    {
+      "id": "2Rm2vX8",
+      "nome": "Cofre Eletrônico Digital Senha Ou Chave 23x17x17 Contelux",
+      "categoria": "Ferramentas",
+      "preco": 118.41,
+      "link": "https://meli.la/2Rm2vX8",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB70052416",
+      "precoDe": 178.49,
+      "parcelas": "12x R$ 11,70",
+      "postado": "2026-11-16T17:00:19.676Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Rm2vX8.jpg"
+    },
     {
       "id": "3315rhK",
       "nome": "Monitor Gamer Curvo AOC AGON QUAD 32\" 180Hz 0,5ms HDR10 CQ32G4E Preto",
@@ -2946,23 +2963,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1XBMQf2.jpg"
-    },
-    {
-      "id": "1vjYLhK",
-      "nome": "Chave De Catraca Elétrica A Bateria 12V 3/8 Polegadas 45Nm 300Rpm Com Carregador Bivolt BCC120 The Black Tools",
-      "categoria": "Tech",
-      "preco": 199.9,
-      "link": "https://meli.la/1vjYLhK",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB47070519",
-      "precoDe": 359.9,
-      "parcelas": "6x de R$33,32 sem juros",
-      "postado": "2026-11-14T17:00:10.859Z",
-      "conferido": "2026-11-14",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1vjYLhK.jpg"
     }
   ]
 }
