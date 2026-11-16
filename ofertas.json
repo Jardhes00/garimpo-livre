@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-16T15:30:32.045Z",
+  "atualizado": "2026-11-16T15:32:32.273Z",
   "ofertas": [
+    {
+      "id": "1pUjGJh",
+      "nome": "Tv Box Proeletronic SmartPro 4k, com Android 10 E 16gb Smart Box PROSB-3000/16GB",
+      "categoria": "Tech",
+      "preco": 156.39,
+      "link": "https://meli.la/1pUjGJh",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tv-box-proeletronic-smartpro-4k-com-android-10-e-16gb-smart-box-prosb-300016gb/p/MLB22431156",
+      "precoDe": 239.9,
+      "pix": true,
+      "parcelas": "R$169,99 em outros meios",
+      "cupomAnuncio": "Compre R$300 e ganhe 5% OFF",
+      "postado": "2026-11-16T15:32:32.272Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1pUjGJh.jpg"
+    },
     {
       "id": "1KUftbk",
       "nome": "La Roche-Posay Cicaplast Baume B5 Plus 80ml",
