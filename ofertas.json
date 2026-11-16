@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-16T16:45:19.405Z",
+  "atualizado": "2026-11-16T16:46:49.342Z",
   "ofertas": [
+    {
+      "id": "32gb6sy",
+      "nome": "Panela De Pressão Elétrica Philco Ppp01p 6L",
+      "categoria": "Casa",
+      "preco": 331.55,
+      "link": "https://meli.la/32gb6sy",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/panela-de-pressao-eletrica-philco-ppp01p-6l/p/MLB16141679",
+      "precoDe": 549.9,
+      "pix": true,
+      "parcelas": "R$ 349 em 6x R$ 58,17 sem juros",
+      "postado": "2026-11-16T16:46:49.340Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-32gb6sy.jpg"
+    },
     {
       "id": "2jrTDGy",
       "nome": "Projetor Basike Inteligente Telescópico com Wi-Fi e Bluetooth, Full HD 4K para Cinema e Jogos",
@@ -2946,23 +2964,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2ZaLpK1.jpg"
-    },
-    {
-      "id": "1VYmB8K",
-      "nome": "Cadeira De Escritório Ergonômica Mônaco Bt07 Laudo NR-17 Luvinco Malha Respirável Com Suporte Lombar Adaptável Apoio Para Pés Retrátil Encosto Ajustável Seis Posições Cor Preta Suporta 200kg",
-      "categoria": "Diversos",
-      "preco": 1049.9,
-      "link": "https://meli.la/1VYmB8K",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB47163373",
-      "precoDe": 1624.87,
-      "parcelas": "10x de R$104,99 sem juros",
-      "postado": "2026-11-14T16:45:39.906Z",
-      "conferido": "2026-11-14",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1VYmB8K.jpg"
     }
   ]
 }
