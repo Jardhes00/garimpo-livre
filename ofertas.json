@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-16T16:09:48.593Z",
+  "atualizado": "2026-11-16T16:11:33.485Z",
   "ofertas": [
+    {
+      "id": "2jjBeNG",
+      "nome": "Roçadeira Elétrica Aparador De Grama Potente 800w 2 Baterias",
+      "categoria": "Casa",
+      "preco": 165.58,
+      "link": "https://meli.la/2jjBeNG",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/rocadeira-eletrica-aparador-de-grama-potente-800w-2-baterias/up/MLBU4020734466",
+      "precoDe": 469,
+      "pix": true,
+      "parcelas": "R$194,80 em outros meios",
+      "postado": "2026-11-16T16:11:33.479Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2jjBeNG.jpg"
+    },
     {
       "id": "1KU9nr5",
       "nome": "Varal de Chão Com Abas Dobrável Aço Reforçado Até 20kg Maxi Easy - Branco",
