@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-16T16:40:34.160Z",
+  "atualizado": "2026-11-16T16:42:04.191Z",
   "ofertas": [
+    {
+      "id": "2FD2MgS",
+      "nome": "Kit 10 Saco À Vácuo 50x60cm Otimização Espaço + Bomba Luaro",
+      "categoria": "Diversos",
+      "preco": 48,
+      "link": "https://meli.la/2FD2MgS",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-10-saco-vacuo-50x60cm-otimizacao-espaco-bomba-luaro/up/MLBU4759811619",
+      "precoDe": 78.99,
+      "postado": "2026-11-16T16:42:04.187Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2FD2MgS.jpg"
+    },
     {
       "id": "1Ge6PTW",
       "nome": "Varal Luzes Externo 15m 15+2 Lâmpadas Festão P/ Jardim Natal",
@@ -2929,22 +2945,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1UTQ7QM.jpg"
-    },
-    {
-      "id": "1wH3x62",
-      "nome": "Kit Acessórios Banheiro Luxo de 6 Peças com Lixeira e Saboneteira Preto Organização Lavabo",
-      "categoria": "Diversos",
-      "preco": 72.64,
-      "link": "https://meli.la/1wH3x62",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB75731970",
-      "precoDe": 149.9,
-      "postado": "2026-11-14T16:41:25.319Z",
-      "conferido": "2026-11-14",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1wH3x62.jpg"
     }
   ]
 }
