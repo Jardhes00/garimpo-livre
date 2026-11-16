@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-16T16:35:48.937Z",
+  "atualizado": "2026-11-16T16:37:03.948Z",
   "ofertas": [
+    {
+      "id": "19wMvxb",
+      "nome": "Monitor LG Gamer 24 24ms500-b Ips Fhd 100hz Anti-reflexo Pr",
+      "categoria": "Tech",
+      "preco": 498.18,
+      "link": "https://meli.la/19wMvxb",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/monitor-lg-gamer-24-24ms500-b-ips-fhd-100hz-anti-reflexo-pr/up/MLBU3013726314",
+      "precoDe": 899,
+      "pix": true,
+      "parcelas": "R$ 524,40 em 10x R$ 52,44 sem juros",
+      "postado": "2026-11-16T16:37:03.945Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-19wMvxb.jpg"
+    },
     {
       "id": "1BLePSy",
       "nome": "Estação Musculação Aparelho Barra Fixa 150kg 5em1 Ajustável",
@@ -2945,23 +2963,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2RTW664.jpg"
-    },
-    {
-      "id": "1Zb1VE1",
-      "nome": "Carregador Portátil De Bolso Power Bank Pocket Com iPhone Notebook Samsung Apple Xiaomi Android Mac Ios 5000mah Preto",
-      "categoria": "Tech",
-      "preco": 43.9,
-      "link": "https://meli.la/1Zb1VE1",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB78181057",
-      "precoDe": 120,
-      "cupomAnuncio": "Compre R$150 e ganhe R$8 OFF por seguir a loja",
-      "postado": "2026-11-14T16:35:54.721Z",
-      "conferido": "2026-11-14",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1Zb1VE1.jpg"
     }
   ]
 }
