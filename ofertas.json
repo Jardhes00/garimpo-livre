@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-16T16:32:33.936Z",
+  "atualizado": "2026-11-16T16:34:03.810Z",
   "ofertas": [
+    {
+      "id": "1YaCCrq",
+      "nome": "Micro-ondas Mondial 21L 1200W MO-01-21-E Espelhado",
+      "categoria": "Casa",
+      "preco": 469,
+      "link": "https://meli.la/1YaCCrq",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-mondial-21l-1200w-mo-01-21-e-espelhado/p/MLB45445267",
+      "precoDe": 669.9,
+      "parcelas": "9x R$ 52,11 sem juros",
+      "postado": "2026-11-16T16:34:03.806Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1YaCCrq.jpg"
+    },
     {
       "id": "13FhPNJ",
       "nome": "Furadeira De Impacto Bosch GSB 450 RE 450W 10mm Com Brocas e Buchas",
@@ -2944,22 +2961,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1gt9V8e.jpg"
-    },
-    {
-      "id": "1fYR2Rf",
-      "nome": "Impressora Multifuncional Sem Tinta Térmica Bluetooth Orico A41 Preto",
-      "categoria": "Tech",
-      "preco": 279,
-      "link": "https://meli.la/1fYR2Rf",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB79065556",
-      "precoDe": 498,
-      "postado": "2026-11-14T16:32:39.607Z",
-      "conferido": "2026-11-14",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1fYR2Rf.jpg"
     }
   ]
 }
