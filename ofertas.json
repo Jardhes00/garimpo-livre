@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-16T15:54:47.681Z",
+  "atualizado": "2026-11-16T15:56:47.740Z",
   "ofertas": [
+    {
+      "id": "27u4q29",
+      "nome": "Eudora Imensi (2 Produtos)",
+      "categoria": "Diversos",
+      "preco": 95.09,
+      "link": "https://meli.la/27u4q29",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/eudora-imensi-2-produtos/p/MLB75802326",
+      "precoDe": 172.9,
+      "parcelas": "3x de R$31,70 sem juros",
+      "postado": "2026-11-16T15:56:47.739Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-27u4q29.jpg"
+    },
     {
       "id": "1VdH9cR",
       "nome": "Smart TV AOC 40\" Full HD Roku Série 5045 Bivolt (40S5045/78G)",
