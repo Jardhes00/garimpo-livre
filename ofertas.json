@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-16T16:51:18.718Z",
+  "atualizado": "2026-11-16T16:52:34.376Z",
   "ofertas": [
+    {
+      "id": "19QqMqS",
+      "nome": "Camiseta Light T-shirt Insider Masculino",
+      "categoria": "Moda",
+      "preco": 55,
+      "link": "https://meli.la/19QqMqS",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-4085597457-camiseta-light-t-shirt-insider-masculino-_JM",
+      "precoDe": 189,
+      "postado": "2026-11-16T16:52:34.374Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-19QqMqS.jpg"
+    },
     {
       "id": "2jh7hzz",
       "nome": "Pistola De Pintura E Pulverizadora Elétrica Portátil Hvlp 1.200l Profissional C/ 5 Bicos Acessórios 580W RAM200A Ramtor",
@@ -2945,24 +2961,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-22VJeLe.jpg"
-    },
-    {
-      "id": "19DEBQv",
-      "nome": "Caixa de Som Philco Extreme 380W Flash Lights PCX4800",
-      "categoria": "Tech",
-      "preco": 425.83,
-      "link": "https://meli.la/19DEBQv",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB37927083",
-      "precoDe": 799,
-      "pix": true,
-      "parcelas": "R$439 em 8x R$54,88 sem juros",
-      "postado": "2026-11-14T16:52:10.203Z",
-      "conferido": "2026-11-14",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-19DEBQv.jpg"
     }
   ]
 }
