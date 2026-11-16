@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-16T15:51:02.708Z",
+  "atualizado": "2026-11-16T15:52:17.673Z",
   "ofertas": [
+    {
+      "id": "18x9RNt",
+      "nome": "Espelho Corpo Inteiro Arqueado 161x52 Dourado Chão Parede",
+      "categoria": "Diversos",
+      "preco": 336,
+      "link": "https://meli.la/18x9RNt",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/espelho-corpo-inteiro-arqueado-161x52-dourado-chao-parede/up/MLBU4054395354",
+      "precoDe": 489.9,
+      "parcelas": "6x de R$56 sem juros",
+      "postado": "2026-11-16T15:52:17.672Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-18x9RNt.jpg"
+    },
     {
       "id": "1QJ63LE",
       "nome": "Cooktop 4 Bocas Atlas Agile Up Mesa Vidro Mega Chama Bivolt",
