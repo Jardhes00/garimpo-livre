@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-16T16:39:04.088Z",
+  "atualizado": "2026-11-16T16:40:34.160Z",
   "ofertas": [
+    {
+      "id": "1Ge6PTW",
+      "nome": "Varal Luzes Externo 15m 15+2 Lâmpadas Festão P/ Jardim Natal",
+      "categoria": "Diversos",
+      "preco": 69.99,
+      "link": "https://meli.la/1Ge6PTW",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/varal-luzes-externo-15m-152-lampadas-festao-p-jardim-natal/up/MLBU5247776043",
+      "precoDe": 120,
+      "parcelas": "12x R$ 6,89",
+      "postado": "2026-11-16T16:40:34.150Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Ge6PTW.jpg"
+    },
     {
       "id": "22tSxKh",
       "nome": "Lanterna Tática Sabre De Luz Mais Forte Do Mundo Led Militar",
@@ -2928,23 +2945,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1wH3x62.jpg"
-    },
-    {
-      "id": "2k8qi8S",
-      "nome": "Purificador de água Philco Branco PPU12A Bivolt",
-      "categoria": "Diversos",
-      "preco": 389.9,
-      "link": "https://meli.la/2k8qi8S",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB56547110",
-      "precoDe": 549,
-      "parcelas": "10x de R$38,99 sem juros",
-      "postado": "2026-11-14T16:39:54.791Z",
-      "conferido": "2026-11-14",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2k8qi8S.jpg"
     }
   ]
 }
