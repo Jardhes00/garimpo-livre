@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-16T16:57:04.565Z",
+  "atualizado": "2026-11-16T16:58:34.604Z",
   "ofertas": [
+    {
+      "id": "3315rhK",
+      "nome": "Monitor Gamer Curvo AOC AGON QUAD 32\" 180Hz 0,5ms HDR10 CQ32G4E Preto",
+      "categoria": "Tech",
+      "preco": 1029.26,
+      "link": "https://meli.la/3315rhK",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB59323651",
+      "precoDe": 1399,
+      "parcelas": "5x R$ 205,85 sem juros",
+      "cupomAnuncio": "R$999,26 com Cupom",
+      "postado": "2026-11-16T16:58:34.602Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-3315rhK.jpg"
+    },
     {
       "id": "1aZuKCu",
       "nome": "Espelho Mirano Orgânico Madrid 100x40cm Lapidado Design Luxo",
@@ -2945,23 +2963,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1vjYLhK.jpg"
-    },
-    {
-      "id": "2tajZWh",
-      "nome": "Fone de Ouvido JSKJ A520 TWS Esportivo Com Bluetooth e Microfone IPX5 Para Corrida",
-      "categoria": "Tech",
-      "preco": 67.05,
-      "link": "https://meli.la/2tajZWh",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB68186839",
-      "precoDe": 169.95,
-      "cupomAnuncio": "Compre R$79 e ganhe R$5 OFF por seguir a loja",
-      "postado": "2026-11-14T16:58:25.459Z",
-      "conferido": "2026-11-14",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2tajZWh.jpg"
     }
   ]
 }
