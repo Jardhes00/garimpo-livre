@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-16T17:13:20.070Z",
+  "atualizado": "2026-11-16T17:16:34.401Z",
   "ofertas": [
+    {
+      "id": "1vyd1UH",
+      "nome": "Whey Protein Concentrado 1kg Morango Dark Lab",
+      "categoria": "Suplementos",
+      "preco": 123.21,
+      "link": "https://meli.la/1vyd1UH",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB40182325",
+      "precoDe": 349.9,
+      "pix": true,
+      "parcelas": "R$ 136,90 em outros meios",
+      "cupomAnuncio": "Compre R$187 e ganhe R$20 OFF",
+      "postado": "2026-11-16T17:16:34.400Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1vyd1UH.jpg"
+    },
     {
       "id": "2BgxHRL",
       "nome": "Árvore de Natal Pinheiro Premium de 1,50m com 500 Galhos Verdes e Base de Ferro Casa Sala Escritório Apartamento Enfeites Volumosos",
@@ -2952,41 +2971,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2uyQwwP.jpg"
-    },
-    {
-      "id": "2rk1cZh",
-      "nome": "Pisca Cortina 300 Leds 3x3m Usb Ip44 8 Modos Iluminação Luzes Fada Decoração De Natal Festa Branco Quente Luvinco",
-      "categoria": "Casa",
-      "preco": 27.99,
-      "link": "https://meli.la/2rk1cZh",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB64256672",
-      "precoDe": 49.87,
-      "postado": "2026-11-14T17:15:41.079Z",
-      "conferido": "2026-11-14",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2rk1cZh.jpg"
-    },
-    {
-      "id": "2P6B6vT",
-      "nome": "Principia Kit Essencial Gl-02+ Ch + Vc + Ps",
-      "categoria": "Diversos",
-      "preco": 139.05,
-      "link": "https://meli.la/2P6B6vT",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB69377325",
-      "precoDe": 206,
-      "pix": true,
-      "parcelas": "R$154,50 em outros meios",
-      "cupomAnuncio": "R$129,31 com Cupom por seguir a loja",
-      "postado": "2026-11-14T17:14:26.106Z",
-      "conferido": "2026-11-14",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2P6B6vT.jpg"
     }
   ]
 }
