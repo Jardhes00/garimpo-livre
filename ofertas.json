@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-16T16:28:18.981Z",
+  "atualizado": "2026-11-16T16:29:33.943Z",
   "ofertas": [
+    {
+      "id": "1XbkqkU",
+      "nome": "Bombom Ouro Branco Lacta de Chocolate Branco – Pacote de 1 kg",
+      "categoria": "Diversos",
+      "preco": 56.99,
+      "link": "https://meli.la/1XbkqkU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bombom-ouro-branco-lacta-de-chocolate-branco-pacote-de-1-kg/p/MLB18399832",
+      "precoDe": 104.5,
+      "parcelas": "12x R$ 5,61",
+      "extra": "R$ 15 OFF com cupom no anúncio",
+      "cupomAnuncio": "Compre R$159 e ganhe R$15 OFF",
+      "postado": "2026-11-16T16:29:33.941Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1XbkqkU.jpg"
+    },
     {
       "id": "1LiXerb",
       "nome": "Smart Tv Samsung 32'' Hd Tizen Hdr Wi-fi Hdmi Monitor Bivolt Preta Preto",
@@ -2925,24 +2944,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1EyZT2a.jpg"
-    },
-    {
-      "id": "2QXPyA8",
-      "nome": "Smartphone Jovi Y19s 256gb, 4GB + 4GB RAM Expansível, Câmera 50mp, Bateria 5500mah, Carregamento 15w, Tela 90hz - Preto Safira",
-      "categoria": "Tech",
-      "preco": 789.3,
-      "link": "https://meli.la/2QXPyA8",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB52937091",
-      "precoDe": 1199,
-      "pix": true,
-      "parcelas": "R$877 em 10x R$87,70 sem juros",
-      "postado": "2026-11-14T16:29:24.525Z",
-      "conferido": "2026-11-14",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2QXPyA8.jpg"
     }
   ]
 }
