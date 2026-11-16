@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-16T16:29:33.943Z",
+  "atualizado": "2026-11-16T16:31:03.705Z",
   "ofertas": [
+    {
+      "id": "2rQ8kzi",
+      "nome": "Creme Antiassaduras Bepantol para assadura Baby Hipoalergênico 100g",
+      "categoria": "Beleza",
+      "preco": 30.92,
+      "link": "https://meli.la/2rQ8kzi",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/creme-antiassaduras-bepantol-para-assadura-baby-hipoalergenico-100g/p/MLB18397502",
+      "precoDe": 59.9,
+      "postado": "2026-11-16T16:31:03.704Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2rQ8kzi.jpg"
+    },
     {
       "id": "1XbkqkU",
       "nome": "Bombom Ouro Branco Lacta de Chocolate Branco – Pacote de 1 kg",
