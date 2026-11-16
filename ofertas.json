@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-16T15:58:02.768Z",
+  "atualizado": "2026-11-16T15:59:32.823Z",
   "ofertas": [
+    {
+      "id": "22Qd2qT",
+      "nome": "Caixa De Som Portátil 600w Bluetooth Com Luz 708e",
+      "categoria": "Tech",
+      "preco": 290,
+      "link": "https://meli.la/22Qd2qT",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-portatil-600w-bluetooth-com-luz-708e/up/MLBU4736748636",
+      "precoDe": 799,
+      "parcelas": "6x de R$48,33 sem juros",
+      "cupomAnuncio": "R$283 com Cupom por seguir a loja",
+      "postado": "2026-11-16T15:59:32.821Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-22Qd2qT.jpg"
+    },
     {
       "id": "1km6ZEj",
       "nome": "24 Und Antimofo Secar 180g Natural Desumidificador Armario",
