@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-16T16:06:02.863Z",
+  "atualizado": "2026-11-16T16:08:03.117Z",
   "ofertas": [
+    {
+      "id": "1aEUNXD",
+      "nome": "Beta Alanina 500g 100% Pura - Dark Lab",
+      "categoria": "Diversos",
+      "preco": 59.9,
+      "link": "https://meli.la/1aEUNXD",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/beta-alanina-500g-100-pura-dark-lab/p/MLB37171918",
+      "precoDe": 128,
+      "cupomAnuncio": "Compre R$150 e ganhe R$20 OFF",
+      "postado": "2026-11-16T16:08:03.115Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1aEUNXD.jpg"
+    },
     {
       "id": "2ngjkYf",
       "nome": "Prateleira 6 Andares De Ferro Estante Para Escritório Aço",
