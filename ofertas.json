@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-16T15:59:32.823Z",
+  "atualizado": "2026-11-16T16:01:02.681Z",
   "ofertas": [
+    {
+      "id": "2tsyTs1",
+      "nome": "Bicicleta Ergométrica Bike Spinning Para Exercícios Com Volante e Display LCD",
+      "categoria": "Esporte",
+      "preco": 429.9,
+      "link": "https://meli.la/2tsyTs1",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bicicleta-ergometrica-bike-spinning-para-exercicios-com-volante-e-display-lcd/p/MLB78878036",
+      "precoDe": 1111,
+      "parcelas": "9x de R$54,44 sem juros",
+      "postado": "2026-11-16T16:01:02.680Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2tsyTs1.jpg"
+    },
     {
       "id": "22Qd2qT",
       "nome": "Caixa De Som Portátil 600w Bluetooth Com Luz 708e",
