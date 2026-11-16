@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-16T16:02:33.276Z",
+  "atualizado": "2026-11-16T16:04:17.749Z",
   "ofertas": [
+    {
+      "id": "2WGiLKM",
+      "nome": "Barbeador Eletrico Depilador Pelo Sem Dores Removedor Intimo",
+      "categoria": "Beleza",
+      "preco": 98.1,
+      "link": "https://meli.la/2WGiLKM",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/barbeador-eletrico-depilador-pelo-sem-dores-removedor-intimo/up/MLBU3131139956",
+      "precoDe": 136.25,
+      "pix": true,
+      "parcelas": "R$109 em outros meios",
+      "postado": "2026-11-16T16:04:17.748Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2WGiLKM.jpg"
+    },
     {
       "id": "2RyQkmK",
       "nome": "Zero Pore Pad Medicube 2.0 (70 Pads) Importado 100% Coreano",
