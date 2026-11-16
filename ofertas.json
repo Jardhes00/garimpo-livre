@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-16T15:44:47.290Z",
+  "atualizado": "2026-11-16T15:46:32.384Z",
   "ofertas": [
+    {
+      "id": "2eNrn3v",
+      "nome": "Fritadeira Air Fryer Dako 5 Litros Preto/inox Com Painel Analógico E Potência De 1700w",
+      "categoria": "Casa",
+      "preco": 199.9,
+      "link": "https://meli.la/2eNrn3v",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fritadeira-air-fryer-dako-5-litros-pretoinox-com-painel-analogico-e-potencia-de-1700w/p/MLB37851307",
+      "precoDe": 499,
+      "postado": "2026-11-16T15:46:32.383Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2eNrn3v.jpg"
+    },
     {
       "id": "29oeSWi",
       "nome": "Perfume Árabe Club De Nuit Intense 105ml Edt Masculino Klassey",
