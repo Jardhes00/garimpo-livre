@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-16T17:05:49.698Z",
+  "atualizado": "2026-11-16T17:07:34.591Z",
   "ofertas": [
+    {
+      "id": "31yYArj",
+      "nome": "Mesa Dobrável Vira Maleta Com Alça Portátil 1.80m Para Camping Pesca Jardim Área Externa Tft1800 The Black Tools",
+      "categoria": "Diversos",
+      "preco": 264.9,
+      "link": "https://meli.la/31yYArj",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB65053370",
+      "precoDe": 423.8,
+      "parcelas": "12x R$ 25,91",
+      "postado": "2026-11-16T17:07:34.589Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-31yYArj.jpg"
+    },
     {
       "id": "2oejMXT",
       "nome": "Chinelo Kenner Rakkar Summer Original Masculino Confortável",
@@ -2951,22 +2968,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2UVmxCv.jpg"
-    },
-    {
-      "id": "1tTqWDM",
-      "nome": "Conversor Inversor Carro 350w 12v Para 110v 6 Portas Automotivo Tomada Carro Veicular Motorhome USB e LED Inversor De Tensão Veicular",
-      "categoria": "Auto",
-      "preco": 101.5,
-      "link": "https://meli.la/1tTqWDM",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB79094087",
-      "precoDe": 214.9,
-      "postado": "2026-11-14T17:06:40.830Z",
-      "conferido": "2026-11-14",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1tTqWDM.jpg"
     }
   ]
 }
