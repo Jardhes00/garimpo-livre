@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-16T16:04:17.749Z",
+  "atualizado": "2026-11-16T16:06:02.863Z",
   "ofertas": [
+    {
+      "id": "2ngjkYf",
+      "nome": "Prateleira 6 Andares De Ferro Estante Para Escritório Aço",
+      "categoria": "Diversos",
+      "preco": 171,
+      "link": "https://meli.la/2ngjkYf",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/prateleira-6-andares-de-ferro-estante-para-escritorio-aco/up/MLBU3932895698",
+      "precoDe": 299.97,
+      "postado": "2026-11-16T16:06:02.861Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ngjkYf.jpg"
+    },
     {
       "id": "2WGiLKM",
       "nome": "Barbeador Eletrico Depilador Pelo Sem Dores Removedor Intimo",
