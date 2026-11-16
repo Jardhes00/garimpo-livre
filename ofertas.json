@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-16T16:27:03.937Z",
+  "atualizado": "2026-11-16T16:28:18.981Z",
   "ofertas": [
+    {
+      "id": "1LiXerb",
+      "nome": "Smart Tv Samsung 32'' Hd Tizen Hdr Wi-fi Hdmi Monitor Bivolt Preta Preto",
+      "categoria": "Tech",
+      "preco": 908.1,
+      "link": "https://meli.la/1LiXerb",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smart-tv-samsung-32-hd-tizen-hdr-wi-fi-hdmi-monitor-bivolt-preta-preto/p/MLB52027456",
+      "precoDe": 2100,
+      "pix": true,
+      "parcelas": "R$ 1.009 em outros meios",
+      "postado": "2026-11-16T16:28:18.978Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1LiXerb.jpg"
+    },
     {
       "id": "2ECsh68",
       "nome": "Cafeteira Nescafé Dolce Gusto Mini Me 2.0 Cinza-escuro",
@@ -2925,22 +2943,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2QXPyA8.jpg"
-    },
-    {
-      "id": "28s8c4w",
-      "nome": "Gta Vi - Playstation 5 Versão Standard Nacional Br",
-      "categoria": "Games",
-      "preco": 418.4,
-      "link": "https://meli.la/28s8c4w",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB2101694193",
-      "precoDe": 999.9,
-      "postado": "2026-11-14T16:27:54.678Z",
-      "conferido": "2026-11-14",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-28s8c4w.jpg"
     }
   ]
 }
