@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-16T16:48:34.292Z",
+  "atualizado": "2026-11-16T16:50:04.262Z",
   "ofertas": [
+    {
+      "id": "2e5fXmu",
+      "nome": "Sapateira Organizador Sapatos Empilhável Vertical 6 Andares",
+      "categoria": "Casa",
+      "preco": 116.6,
+      "link": "https://meli.la/2e5fXmu",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-5312090728-sapateira-organizador-sapatos-empilhavel-vertical-6-andares-_JM",
+      "precoDe": 212,
+      "parcelas": "4x R$ 29,15 sem juros",
+      "postado": "2026-11-16T16:50:04.260Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2e5fXmu.jpg"
+    },
     {
       "id": "1gAGWxe",
       "nome": "Impressão 3d Filamento Pla Plus 1kg 1.75mm High Speed",
@@ -2945,24 +2962,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-26P7yse.jpg"
-    },
-    {
-      "id": "14r67T6",
-      "nome": "Luminária de Leitura LED Recarregável USB 5V Tipo Placa Portátil Luz de Livro para Visão Luz Noturna 3 Cores Dimerizável com Temporizador",
-      "categoria": "Diversos",
-      "preco": 75.53,
-      "link": "https://meli.la/14r67T6",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB74984420",
-      "precoDe": 149,
-      "parcelas": "3x de R$25,18 sem juros",
-      "cupomAnuncio": "R$71,53 com Cupom por seguir a loja",
-      "postado": "2026-11-14T16:48:40.129Z",
-      "conferido": "2026-11-14",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-14r67T6.jpg"
     }
   ]
 }
