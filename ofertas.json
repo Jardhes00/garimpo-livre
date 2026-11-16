@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-16T16:43:19.015Z",
+  "atualizado": "2026-11-16T16:45:19.405Z",
   "ofertas": [
+    {
+      "id": "2jrTDGy",
+      "nome": "Projetor Basike Inteligente Telescópico com Wi-Fi e Bluetooth, Full HD 4K para Cinema e Jogos",
+      "categoria": "Diversos",
+      "preco": 359,
+      "link": "https://meli.la/2jrTDGy",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/projetor-basike-inteligente-telescopico-com-wi-fi-e-bluetooth-full-hd-4k-para-cinema-e-jogos/p/MLB47807047",
+      "precoDe": 612,
+      "parcelas": "7x R$ 51,29 sem juros",
+      "relampago": true,
+      "postado": "2026-11-16T16:45:19.402Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2jrTDGy.jpg"
+    },
     {
       "id": "2m4FtDS",
       "nome": "Torneira de Cozinha Inox 304 Prata Água Fria – 4 Modos de Jato | Bica Alta Gourmet Controle de água fria Design Moderno Winda",
@@ -2945,23 +2963,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1VYmB8K.jpg"
-    },
-    {
-      "id": "1UTQ7QM",
-      "nome": "Tapete Banheiro Box Antiderrapante Pvc Para Idoso Infantil Criança E Gestante 70x40cm - Com Ventosas Segurança E Proteção Para No Banho E Chuveiro Cinza",
-      "categoria": "Casa",
-      "preco": 49.02,
-      "link": "https://meli.la/1UTQ7QM",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB68012510",
-      "precoDe": 99.7,
-      "cupomAnuncio": "R$46,02 com Cupom por seguir a loja",
-      "postado": "2026-11-14T16:44:09.335Z",
-      "conferido": "2026-11-14",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1UTQ7QM.jpg"
     }
   ]
 }
