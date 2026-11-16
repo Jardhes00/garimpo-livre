@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-16T16:19:48.495Z",
+  "atualizado": "2026-11-16T16:21:48.437Z",
   "ofertas": [
+    {
+      "id": "16E9A6g",
+      "nome": "Fritadeira sem óleo air fryer 4L Mondial 1500W AFN-40-BFT",
+      "categoria": "Casa",
+      "preco": 219.9,
+      "link": "https://meli.la/16E9A6g",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fritadeira-sem-oleo-air-fryer-4l-mondial-1500w-afn-40-bft/p/MLB22530387",
+      "precoDe": 716.9,
+      "parcelas": "6x R$ 36,65 sem juros",
+      "postado": "2026-11-16T16:21:48.435Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-16E9A6g.jpg"
+    },
     {
       "id": "28XGw8z",
       "nome": "Poltrona Cadeira Glória Papai E Mamãe Decorativa Com Encosto Macio Retrátil E Reclinável Para Sala De Descanso E Amamentação Cor Caramelo",
