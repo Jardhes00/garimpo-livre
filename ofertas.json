@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-16T15:49:47.567Z",
+  "atualizado": "2026-11-16T15:51:02.708Z",
   "ofertas": [
+    {
+      "id": "1QJ63LE",
+      "nome": "Cooktop 4 Bocas Atlas Agile Up Mesa Vidro Mega Chama Bivolt",
+      "categoria": "Diversos",
+      "preco": 295.79,
+      "link": "https://meli.la/1QJ63LE",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cooktop-4-bocas-atlas-agile-up-mesa-vidro-mega-chama-bivolt/p/MLB46671029",
+      "precoDe": 666.5,
+      "pix": true,
+      "parcelas": "R$339,99 em outros meios",
+      "postado": "2026-11-16T15:51:02.707Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1QJ63LE.jpg"
+    },
     {
       "id": "2uU6MaL",
       "nome": "Garrafa Térmica Chacal 2,5l Base Giratória Alavanca Pressão",
