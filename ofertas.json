@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-16T17:10:19.883Z",
+  "atualizado": "2026-11-16T17:11:35.294Z",
   "ofertas": [
+    {
+      "id": "2asyFEb",
+      "nome": "Vitamina Always Fit Fit Hair para Cabelo e Unhas, em Cápsula, Kit com 3 Potes de 30 Cápsulas",
+      "categoria": "Casa",
+      "preco": 98.99,
+      "link": "https://meli.la/2asyFEb",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB75502448",
+      "precoDe": 134.9,
+      "parcelas": "3x R$ 33 sem juros",
+      "cupomAnuncio": "Compre R$150 e ganhe R$15 OFF por seguir a loja",
+      "relampago": true,
+      "postado": "2026-11-16T17:11:35.278Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2asyFEb.jpg"
+    },
     {
       "id": "2JU7Fdu",
       "nome": "Ventilador De Mesa Britânia Prime Air AVTE300 Preto com 6 Pás e 3 Velocidades",
@@ -2966,24 +2985,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1uGRAMY.jpg"
-    },
-    {
-      "id": "2RqK9XL",
-      "nome": "Máquina De Acabamento Kemei Km-max5090 Profissional Barbeiro Preto",
-      "categoria": "Diversos",
-      "preco": 81.79,
-      "link": "https://meli.la/2RqK9XL",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB63548670",
-      "precoDe": 191.9,
-      "pix": true,
-      "parcelas": "R$86,10 em outros meios",
-      "postado": "2026-11-14T17:10:25.876Z",
-      "conferido": "2026-11-14",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2RqK9XL.jpg"
     }
   ]
 }
