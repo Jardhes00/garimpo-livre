@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-16T16:08:03.117Z",
+  "atualizado": "2026-11-16T16:09:48.593Z",
   "ofertas": [
+    {
+      "id": "1KU9nr5",
+      "nome": "Varal de Chão Com Abas Dobrável Aço Reforçado Até 20kg Maxi Easy - Branco",
+      "categoria": "Diversos",
+      "preco": 69.99,
+      "link": "https://meli.la/1KU9nr5",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/varal-de-chao-com-abas-dobravel-aco-reforcado-compacto-para-apartamento-lavanderia-ate-20kgs-maxi-easy-branco/p/MLB79371737",
+      "precoDe": 119.9,
+      "postado": "2026-11-16T16:09:48.591Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1KU9nr5.jpg"
+    },
     {
       "id": "1aEUNXD",
       "nome": "Beta Alanina 500g 100% Pura - Dark Lab",
