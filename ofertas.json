@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-16T16:46:49.342Z",
+  "atualizado": "2026-11-16T16:48:34.292Z",
   "ofertas": [
+    {
+      "id": "1gAGWxe",
+      "nome": "Impressão 3d Filamento Pla Plus 1kg 1.75mm High Speed",
+      "categoria": "Diversos",
+      "preco": 72,
+      "link": "https://meli.la/1gAGWxe",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-4428817143-impresso-3d-filamento-pla-plus-1kg-175mm-high-speed-_JM",
+      "precoDe": 99,
+      "parcelas": "12x R$ 7,09",
+      "postado": "2026-11-16T16:48:34.285Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1gAGWxe.jpg"
+    },
     {
       "id": "32gb6sy",
       "nome": "Panela De Pressão Elétrica Philco Ppp01p 6L",
@@ -2946,24 +2963,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-14r67T6.jpg"
-    },
-    {
-      "id": "2ZaLpK1",
-      "nome": "Cama Elástica Pula-Pula Brinq Kids 1,4m Infantil Com Rede Segurança",
-      "categoria": "Bebê",
-      "preco": 254.61,
-      "link": "https://meli.la/2ZaLpK1",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB53383853",
-      "precoDe": 650,
-      "pix": true,
-      "parcelas": "R$282,90 em outros meios",
-      "postado": "2026-11-14T16:47:25.074Z",
-      "conferido": "2026-11-14",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2ZaLpK1.jpg"
     }
   ]
 }
