@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-16T15:37:47.161Z",
+  "atualizado": "2026-11-16T15:39:47.268Z",
   "ofertas": [
+    {
+      "id": "1JrS1eY",
+      "nome": "Ventilador de Teto Flower 40 com Luz LED e Controle Remoto",
+      "categoria": "Games",
+      "preco": 40,
+      "link": "https://meli.la/1JrS1eY",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventlador-de-teto-flower-40-com-luz-led-e-controle-remoto/p/MLB62010914",
+      "precoDe": 63.03,
+      "postado": "2026-11-16T15:39:47.267Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1JrS1eY.jpg"
+    },
     {
       "id": "2QrAUeX",
       "nome": "Kit 5 Toalhas Banho Gigante Grossa Hotel Luxo 75x150cm 480g",
