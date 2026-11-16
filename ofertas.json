@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-16T17:17:49.922Z",
+  "atualizado": "2026-11-16T17:19:20.269Z",
   "ofertas": [
+    {
+      "id": "1DMDte4",
+      "nome": "Papel Higiênico Neve Supreme Folha Tripla Leve 32 Pague 28",
+      "categoria": "Diversos",
+      "preco": 67.9,
+      "link": "https://meli.la/1DMDte4",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB16084447",
+      "precoDe": 92.3,
+      "parcelas": "12x R$ 6,69",
+      "postado": "2026-11-16T17:19:20.267Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1DMDte4.jpg"
+    },
     {
       "id": "2E6HdW1",
       "nome": "Ducha Eletrônica Lorenzetti Loren Shower Ultra 7500w 220v Branco",
