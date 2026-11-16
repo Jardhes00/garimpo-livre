@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-16T16:25:48.571Z",
+  "atualizado": "2026-11-16T16:27:03.937Z",
   "ofertas": [
+    {
+      "id": "2ECsh68",
+      "nome": "Cafeteira Nescafé Dolce Gusto Mini Me 2.0 Cinza-escuro",
+      "categoria": "Casa",
+      "preco": 356.03,
+      "link": "https://meli.la/2ECsh68",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafeteira-nescafe-dolce-gusto-mini-me-20-cinza-escuro/p/MLB80547188",
+      "precoDe": 599.9,
+      "pix": true,
+      "parcelas": "R$ 386,99 em outros meios",
+      "relampago": true,
+      "postado": "2026-11-16T16:27:03.934Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ECsh68.jpg"
+    },
     {
       "id": "1km1Ziv",
       "nome": "Refletor Led Solar Portátil Ip66 3em1 Recarregável Powerbank",
