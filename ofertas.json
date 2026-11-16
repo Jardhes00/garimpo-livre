@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-16T15:39:47.268Z",
+  "atualizado": "2026-11-16T15:41:47.574Z",
   "ofertas": [
+    {
+      "id": "1bTBgNh",
+      "nome": "Smart Tv 43 Philco Led Roku Tv Dolby Audio Ptv43va4regb",
+      "categoria": "Tech",
+      "preco": 1520.1,
+      "link": "https://meli.la/1bTBgNh",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smart-tv-43-philco-led-roku-tv-dolby-audio-ptv43va4regb/p/MLB43943869",
+      "precoDe": 2599,
+      "pix": true,
+      "parcelas": "R$1.689 em 10x R$168,90 sem juros",
+      "postado": "2026-11-16T15:41:47.573Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1bTBgNh.jpg"
+    },
     {
       "id": "1JrS1eY",
       "nome": "Ventilador de Teto Flower 40 com Luz LED e Controle Remoto",
