@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-16T15:28:32.375Z",
+  "atualizado": "2026-11-16T15:30:32.045Z",
   "ofertas": [
+    {
+      "id": "1KUftbk",
+      "nome": "La Roche-Posay Cicaplast Baume B5 Plus 80ml",
+      "categoria": "Diversos",
+      "preco": 116.76,
+      "link": "https://meli.la/1KUftbk",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/la-roche-posay-cicaplast-baume-b5-plus-80ml/p/MLB75001331",
+      "precoDe": 164.9,
+      "postado": "2026-11-16T15:30:32.044Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1KUftbk.jpg"
+    },
     {
       "id": "2AGWJLW",
       "nome": "Árvore de Natal Verde Premium 180 cm com 1000 Galhos Cheios e Pé de Ferro Atelier Enovelada",
@@ -2331,23 +2347,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-28s8c4w.jpg"
-    },
-    {
-      "id": "2mJgYeP",
-      "nome": "Strobo Natal 1600 Leds Pisca 320 Flash 50m Prova D'água Bivolt Branco Quente",
-      "categoria": "Diversos",
-      "preco": 329.9,
-      "link": "https://meli.la/2mJgYeP",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/strobo-natal-1600-leds-pisca-320-flash-50m-prova-dagua-bivolt-branco-quente/p/MLB81953421",
-      "precoDe": 489,
-      "parcelas": "6x R$ 54,98 sem juros",
-      "postado": "2026-11-14T15:29:37.855Z",
-      "conferido": "2026-11-14",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2mJgYeP.jpg"
     }
   ]
 }
