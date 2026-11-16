@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-16T16:37:03.948Z",
+  "atualizado": "2026-11-16T16:39:04.088Z",
   "ofertas": [
+    {
+      "id": "22tSxKh",
+      "nome": "Lanterna Tática Sabre De Luz Mais Forte Do Mundo Led Militar",
+      "categoria": "Diversos",
+      "preco": 97,
+      "link": "https://meli.la/22tSxKh",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lanterna-tatica-sabre-de-luz-mais-forte-do-mundo-led-militar/up/MLBU2773392654",
+      "precoDe": 207,
+      "parcelas": "12x R$ 9,55",
+      "postado": "2026-11-16T16:39:04.085Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-22tSxKh.jpg"
+    },
     {
       "id": "19wMvxb",
       "nome": "Monitor LG Gamer 24 24ms500-b Ips Fhd 100hz Anti-reflexo Pr",
@@ -2928,41 +2945,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2k8qi8S.jpg"
-    },
-    {
-      "id": "24sxi1M",
-      "nome": "Forno de Embutir Elétrico Electrolux 80L OE8EL",
-      "categoria": "Diversos",
-      "preco": 1399.9,
-      "link": "https://meli.la/24sxi1M",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB59197873",
-      "precoDe": 2689,
-      "pix": true,
-      "parcelas": "R$1.599,90 em 10x R$159,99 sem juros",
-      "postado": "2026-11-14T16:38:39.791Z",
-      "conferido": "2026-11-14",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-24sxi1M.jpg"
-    },
-    {
-      "id": "2RTW664",
-      "nome": "Aspirador Vertical Redroad W15 Sem Fio 200W para Limpeza Seca e Úmida",
-      "categoria": "Casa",
-      "preco": 1499,
-      "link": "https://meli.la/2RTW664",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB64858420",
-      "precoDe": 2499.99,
-      "parcelas": "10x de R$149,90 sem juros",
-      "postado": "2026-11-14T16:37:09.809Z",
-      "conferido": "2026-11-14",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2RTW664.jpg"
     }
   ]
 }
