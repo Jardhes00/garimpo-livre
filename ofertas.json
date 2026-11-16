@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-16T17:07:34.591Z",
+  "atualizado": "2026-11-16T17:09:04.947Z",
   "ofertas": [
+    {
+      "id": "1jxjwSV",
+      "nome": "Colchão Inflável Queen Com C/ Bomba Bivolt Usb+2 Travesseiro",
+      "categoria": "Casa",
+      "preco": 328.99,
+      "link": "https://meli.la/1jxjwSV",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/colchao-inflavel-queen-com-c-bomba-bivolt-usb2-travesseiro/up/MLBU2903359976",
+      "precoDe": 559.99,
+      "parcelas": "12x R$ 32,18",
+      "postado": "2026-11-16T17:09:04.945Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1jxjwSV.jpg"
+    },
     {
       "id": "31yYArj",
       "nome": "Mesa Dobrável Vira Maleta Com Alça Portátil 1.80m Para Camping Pesca Jardim Área Externa Tft1800 The Black Tools",
@@ -2950,24 +2967,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2RqK9XL.jpg"
-    },
-    {
-      "id": "2UVmxCv",
-      "nome": "Robô Aspirador Passa Pano Redroad R11 Inteligente Automático Com Mapeamento Wi-fi Estação Autolimpante 3 Em 1 Branco 127v",
-      "categoria": "Casa",
-      "preco": 1428,
-      "link": "https://meli.la/2UVmxCv",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB74492686",
-      "precoDe": 1999.99,
-      "parcelas": "10x de R$142,80 sem juros",
-      "cupomAnuncio": "R$1.285,20 com Cupom",
-      "postado": "2026-11-14T17:08:25.755Z",
-      "conferido": "2026-11-14",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2UVmxCv.jpg"
     }
   ]
 }
