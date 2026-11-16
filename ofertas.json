@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-16T15:41:47.574Z",
+  "atualizado": "2026-11-16T15:43:02.460Z",
   "ofertas": [
+    {
+      "id": "1NxJdrJ",
+      "nome": "Aparador De Grama Eletrico 1.600w 2 Saídas De Fio De Nylon",
+      "categoria": "Diversos",
+      "preco": 179.06,
+      "link": "https://meli.la/1NxJdrJ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aparador-de-grama-eletrico-1600w-2-saidas-de-fio-de-nylon/up/MLBU4146070935",
+      "precoDe": 599.99,
+      "parcelas": "5x de R$35,81 sem juros",
+      "postado": "2026-11-16T15:43:02.459Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1NxJdrJ.jpg"
+    },
     {
       "id": "1bTBgNh",
       "nome": "Smart Tv 43 Philco Led Roku Tv Dolby Audio Ptv43va4regb",
