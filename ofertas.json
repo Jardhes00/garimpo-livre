@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-16T17:16:34.401Z",
+  "atualizado": "2026-11-16T17:17:49.922Z",
   "ofertas": [
+    {
+      "id": "2E6HdW1",
+      "nome": "Ducha Eletrônica Lorenzetti Loren Shower Ultra 7500w 220v Branco",
+      "categoria": "Diversos",
+      "preco": 113.9,
+      "link": "https://meli.la/2E6HdW1",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB19590092",
+      "precoDe": 240.9,
+      "pix": true,
+      "parcelas": "R$ 139,90 em outros meios",
+      "postado": "2026-11-16T17:17:49.921Z",
+      "conferido": "2026-11-16",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2E6HdW1.jpg"
+    },
     {
       "id": "1vyd1UH",
       "nome": "Whey Protein Concentrado 1kg Morango Dark Lab",
