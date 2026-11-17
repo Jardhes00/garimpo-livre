@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-17T19:34:44.271Z",
+  "atualizado": "2026-11-17T19:36:29.428Z",
   "ofertas": [
+    {
+      "id": "1FwgpXQ",
+      "nome": "Barra de proteínas Nutrata WHEY Grego 40G sabor Morango com chantilly x 480g 12 un",
+      "categoria": "Suplementos",
+      "preco": 58.39,
+      "link": "https://meli.la/1FwgpXQ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/barra-de-proteinas-nutrata-whey-grego-40g-sabor-morango-com-chantilly-x-480g-12-un/p/MLB18723721",
+      "precoDe": 95.9,
+      "parcelas": "12x de R$ 5,75",
+      "relampago": true,
+      "postado": "2026-11-17T19:36:29.426Z",
+      "conferido": "2026-11-17",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1FwgpXQ.jpg"
+    },
     {
       "id": "1wQUe4z",
       "nome": "Celular Samsung Galaxy A17 Com Ia, 256gb, 8gb Ram, Câm De 50mp, Tela De 6.7, Nfc, Ip54 - Azul",
