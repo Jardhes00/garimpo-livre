@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-17T19:30:59.432Z",
+  "atualizado": "2026-11-17T19:32:44.176Z",
   "ofertas": [
+    {
+      "id": "1YjzVtZ",
+      "nome": "Fritadeira Air fryer philco 4l redstone 1500w paf40a Cor Preto",
+      "categoria": "Casa",
+      "preco": 197.1,
+      "link": "https://meli.la/1YjzVtZ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fritadeira-air-fryer-philco-4l-redstone-1500w-paf40a-cor-preto/p/MLB45966495",
+      "precoDe": 379.9,
+      "pix": true,
+      "parcelas": "R$ 219 em 6x de R$ 36,50 sem juros",
+      "postado": "2026-11-17T19:32:44.174Z",
+      "conferido": "2026-11-17",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1YjzVtZ.jpg"
+    },
     {
       "id": "2MZD25v",
       "nome": "Câmera de Segurança Wi-Fi iCSee/Yoosee A28B 4K Dupla Lente Visão Noturna Colorida Full Hd Externa Prova D'água Ip66 Sensor Movimento Woosh",
