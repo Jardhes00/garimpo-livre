@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-17T19:32:44.176Z",
+  "atualizado": "2026-11-17T19:34:44.271Z",
   "ofertas": [
+    {
+      "id": "1wQUe4z",
+      "nome": "Celular Samsung Galaxy A17 Com Ia, 256gb, 8gb Ram, Câm De 50mp, Tela De 6.7, Nfc, Ip54 - Azul",
+      "categoria": "Tech",
+      "preco": 1210.69,
+      "link": "https://meli.la/1wQUe4z",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a17-com-ia-256gb-8gb-ram-cam-de-50mp-tela-de-67-nfc-ip54-azul/p/MLB54982411",
+      "precoDe": 1699,
+      "pix": true,
+      "parcelas": "R$ 1.345,21 em 10x de R$ 134,52 sem juros",
+      "postado": "2026-11-17T19:34:44.270Z",
+      "conferido": "2026-11-17",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1wQUe4z.jpg"
+    },
     {
       "id": "1YjzVtZ",
       "nome": "Fritadeira Air fryer philco 4l redstone 1500w paf40a Cor Preto",
