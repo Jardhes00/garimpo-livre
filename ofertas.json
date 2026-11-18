@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-18T18:05:15.570Z",
+  "atualizado": "2026-11-18T18:06:30.808Z",
   "ofertas": [
+    {
+      "id": "18kEZLs",
+      "nome": "Whey Protein Concentrado 100% 900g Refil Dark Lab Sabor Baunilha",
+      "categoria": "Suplementos",
+      "preco": 139.9,
+      "link": "https://meli.la/18kEZLs",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-protein-concentrado-100-900g-refil-dark-lab-sabor-baunilha/p/MLB25354874",
+      "precoDe": 499.9,
+      "cupomAnuncio": "Compre R$187 e ganhe R$20 OFF",
+      "postado": "2026-11-18T18:06:30.806Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-18kEZLs.jpg"
+    },
     {
       "id": "1CXvASy",
       "nome": "Tablet Samsung Galaxy Tab A11 64gb Prata + E-books Digitais Prata",
