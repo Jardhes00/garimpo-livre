@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T21:00:31.157Z",
+  "atualizado": "2026-11-18T21:01:47.515Z",
   "ofertas": [
+    {
+      "id": "1onpjsu",
+      "nome": "Playset Casa Da Gabby Dollhouse 3063 Sunny Brinquedos",
+      "categoria": "Diversos",
+      "preco": 494.6,
+      "link": "https://meli.la/1onpjsu",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/playset-casa-da-gabby-dollhouse-3063-sunny-brinquedos/p/MLB22424717",
+      "precoDe": 999.99,
+      "pix": true,
+      "parcelas": "R$509,90 em 10x R$50,99 sem juros",
+      "postado": "2026-11-18T21:01:47.514Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1onpjsu.jpg"
+    },
     {
       "id": "1vzWa8s",
       "nome": "Balança Eletrônica Digital 40kg Precisão Bateria Bivolt",
