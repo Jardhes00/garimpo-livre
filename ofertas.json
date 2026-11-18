@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T18:48:39.846Z",
+  "atualizado": "2026-11-18T18:50:24.745Z",
   "ofertas": [
+    {
+      "id": "1aAPjtg",
+      "nome": "Lavadora de Roupas Semiautomática Tanquinho 10Kg Itatiaia",
+      "categoria": "Diversos",
+      "preco": 399,
+      "link": "https://meli.la/1aAPjtg",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-roupas-semiautomatica-tanquinho-10kg-itatiaia/p/MLB77718214",
+      "precoDe": 668.33,
+      "pix": true,
+      "parcelas": "R$420 em outros meios",
+      "postado": "2026-11-18T18:50:24.743Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1aAPjtg.jpg"
+    },
     {
       "id": "2CEMxB2",
       "nome": "Ar Condicionado Split 12k LG Dual Inverter Voice+ia Q/f Branco",
