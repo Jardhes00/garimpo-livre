@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T18:10:15.963Z",
+  "atualizado": "2026-11-18T18:11:30.899Z",
   "ofertas": [
+    {
+      "id": "2oXHDvq",
+      "nome": "Eps-6905 Epsilon Inteligente Bluetooth Com App, Lcd, Vidro Temperado, 180kg",
+      "categoria": "Diversos",
+      "preco": 24.99,
+      "link": "https://meli.la/2oXHDvq",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/eps-6905-epsilon-inteligente-bluetooth-com-app-lcd-vidro-temperado-180kg/p/MLB65374941",
+      "precoDe": 59.99,
+      "postado": "2026-11-18T18:11:30.897Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2oXHDvq.jpg"
+    },
     {
       "id": "1hnq7BQ",
       "nome": "Lavadora de Alta Pressão Wap Ousada Plus 2200 1500W 1750 PSI",
