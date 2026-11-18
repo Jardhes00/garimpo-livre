@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T17:50:15.124Z",
+  "atualizado": "2026-11-18T17:51:30.356Z",
   "ofertas": [
+    {
+      "id": "2Za5hVB",
+      "nome": "Cooktop 5 Bocas A Gás Atlas Agile Up Mega Chama Preto",
+      "categoria": "Diversos",
+      "preco": 359.09,
+      "link": "https://meli.la/2Za5hVB",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cooktop-5-bocas-a-gas-atlas-agile-up-mega-chama-preto/p/MLB50829128",
+      "precoDe": 602.07,
+      "pix": true,
+      "parcelas": "R$398,99 em 7x R$57 sem juros",
+      "postado": "2026-11-18T17:51:30.355Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Za5hVB.jpg"
+    },
     {
       "id": "2DuK6Hr",
       "nome": "Combo Teclado e Mouse sem fio Logitech MK345 Layout ABNT2",
