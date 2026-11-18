@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T17:15:14.260Z",
+  "atualizado": "2026-11-18T17:16:29.462Z",
   "ofertas": [
+    {
+      "id": "2Kgm2n6",
+      "nome": "Mangueira LED LuvinCo em Carretel de 100m para Decoração, Branco Quente IP67",
+      "categoria": "Pet",
+      "preco": 379.9,
+      "link": "https://meli.la/2Kgm2n6",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB80730289",
+      "precoDe": 699.9,
+      "pix": true,
+      "parcelas": "R$ 399,90 em 7x R$ 57,13 sem juros",
+      "postado": "2026-11-18T17:16:29.460Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Kgm2n6.jpg"
+    },
     {
       "id": "2ST9QVQ",
       "nome": "Micro-ondas Electrolux Branco 23L Efficient ME23B",
