@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-18T17:45:15.193Z",
+  "atualizado": "2026-11-18T17:46:30.191Z",
   "ofertas": [
+    {
+      "id": "24wPvYh",
+      "nome": "Lavadora de Alta Pressão Wap WL 2610 Potência de 1500W 60Hz",
+      "categoria": "Diversos",
+      "preco": 455.99,
+      "link": "https://meli.la/24wPvYh",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-wap-wl-2610-potencia-de-1500w-60hz/p/MLB35789699",
+      "precoDe": 799,
+      "pix": true,
+      "parcelas": "R$479,99 em outros meios",
+      "cupomAnuncio": "R$410,39 com Cupom",
+      "postado": "2026-11-18T17:46:30.190Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-24wPvYh.jpg"
+    },
     {
       "id": "1p4jETr",
       "nome": "AuxiIiar de Partida Bateria Com Compressor De Ar Portátil Veicular Emergência 6",
