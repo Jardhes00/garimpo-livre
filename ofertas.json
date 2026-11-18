@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-18T16:21:23.748Z",
+  "atualizado": "2026-11-18T16:22:38.584Z",
   "ofertas": [
+    {
+      "id": "22hpT51",
+      "nome": "Maquina Maquininha Dragao Acabamento Com visor Display Cortar Cabelo Aparador Barba Pelos Elétrica Sem Fio Recarregavel - Crowley",
+      "categoria": "Diversos",
+      "preco": 29.61,
+      "link": "https://meli.la/22hpT51",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB62550252",
+      "precoDe": 64.9,
+      "pix": true,
+      "postado": "2026-11-18T16:22:38.583Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-22hpT51.jpg"
+    },
     {
       "id": "18vapF4",
       "nome": "Senscience Inner Restore Mascara De Tratamento 500 Ml",
@@ -4014,23 +4031,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2e298wQ.jpg"
-    },
-    {
-      "id": "16E9A6g",
-      "nome": "Fritadeira sem óleo air fryer 4L Mondial 1500W AFN-40-BFT",
-      "categoria": "Casa",
-      "preco": 219.9,
-      "link": "https://meli.la/16E9A6g",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/fritadeira-sem-oleo-air-fryer-4l-mondial-1500w-afn-40-bft/p/MLB22530387",
-      "precoDe": 716.9,
-      "parcelas": "6x R$ 36,65 sem juros",
-      "postado": "2026-11-16T16:21:48.435Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-16E9A6g.jpg"
     }
   ]
 }
