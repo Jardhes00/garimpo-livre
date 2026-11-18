@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T21:14:16.544Z",
+  "atualizado": "2026-11-18T21:15:31.905Z",
   "ofertas": [
+    {
+      "id": "19ZfeTK",
+      "nome": "Liftness Bicicleta Ergométrica Spinning Profissional 120kg Silenciosa",
+      "categoria": "Esporte",
+      "preco": 390.15,
+      "link": "https://meli.la/19ZfeTK",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/liftness-bicicleta-ergometrica-spinning-profissional-120kg-silenciosa/p/MLB75993020",
+      "precoDe": 1111,
+      "pix": true,
+      "parcelas": "R$459 em outros meios",
+      "postado": "2026-11-18T21:15:31.904Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-19ZfeTK.jpg"
+    },
     {
       "id": "18DoVkE",
       "nome": "Carrinho De Passeio Bebê Alça Reversível Fechamento Compacto Bandeja Removível",
