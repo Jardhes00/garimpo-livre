@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-18T17:16:29.462Z",
+  "atualizado": "2026-11-18T17:17:44.219Z",
   "ofertas": [
+    {
+      "id": "1p7U6fZ",
+      "nome": "Tinta Acrílica Eucatex Peg E Pinte 18L Branco Neve Fosco",
+      "categoria": "Diversos",
+      "preco": 151.99,
+      "link": "https://meli.la/1p7U6fZ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB50969105",
+      "precoDe": 217.51,
+      "parcelas": "12x R$ 15,02",
+      "postado": "2026-11-18T17:17:44.217Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1p7U6fZ.jpg"
+    },
     {
       "id": "2Kgm2n6",
       "nome": "Mangueira LED LuvinCo em Carretel de 100m para Decoração, Branco Quente IP67",
@@ -3817,25 +3834,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2E6HdW1.jpg"
-    },
-    {
-      "id": "1vyd1UH",
-      "nome": "Whey Protein Concentrado 1kg Morango Dark Lab",
-      "categoria": "Suplementos",
-      "preco": 123.21,
-      "link": "https://meli.la/1vyd1UH",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB40182325",
-      "precoDe": 349.9,
-      "pix": true,
-      "parcelas": "R$ 136,90 em outros meios",
-      "cupomAnuncio": "Compre R$187 e ganhe R$20 OFF",
-      "postado": "2026-11-16T17:16:34.400Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1vyd1UH.jpg"
     }
   ]
 }
