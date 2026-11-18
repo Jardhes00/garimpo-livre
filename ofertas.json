@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T18:41:32.298Z",
+  "atualizado": "2026-11-18T18:42:47.014Z",
   "ofertas": [
+    {
+      "id": "2CbpUov",
+      "nome": "Combo Teclado e Mouse sem fio Logitech MK295",
+      "categoria": "Tech",
+      "preco": 156.51,
+      "link": "https://meli.la/2CbpUov",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/combo-teclado-e-mouse-sem-fio-logitech-mk295/p/MLB18611715",
+      "precoDe": 229.9,
+      "pix": true,
+      "parcelas": "R$173,90 em outros meios",
+      "postado": "2026-11-18T18:42:46.998Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2CbpUov.jpg"
+    },
     {
       "id": "184zsif",
       "nome": "Caixa de Som Portátil - PartyBox Stage 320 - JBL Pro Sound, até 18h de Bateria",
