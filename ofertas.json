@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T20:50:30.748Z",
+  "atualizado": "2026-11-18T20:51:45.980Z",
   "ofertas": [
+    {
+      "id": "13zwvPK",
+      "nome": "Carrinho Dobrável Multifuncional Acampamento Praia Camping Impermeável Multiuso",
+      "categoria": "Diversos",
+      "preco": 237.49,
+      "link": "https://meli.la/13zwvPK",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/carrinho-dobravel-multifuncional-acampamento-praia-camping-impermeavel-multiuso-200kg-reforcado-portatil-cor-preto-luvinco/p/MLB70318539",
+      "precoDe": 383.4,
+      "pix": true,
+      "parcelas": "R$249,99 em 6x R$41,67 sem juros",
+      "postado": "2026-11-18T20:51:45.979Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-13zwvPK.jpg"
+    },
     {
       "id": "1g1bwJc",
       "nome": "Perfume Carolina Herrera 212 VIP Men Eau de Toilette 200ml masculino",
@@ -4628,41 +4646,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-22WiWJf.jpg"
-    },
-    {
-      "id": "1y2ATXE",
-      "nome": "Chuveiro Eletrônico Fame Intense Black 7800W Preto/Cromado Parede",
-      "categoria": "Diversos",
-      "preco": 289,
-      "link": "https://meli.la/1y2ATXE",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/chuveiro-eletronico-fame-intense-black-7800w-pretocromado-parede/p/MLB49706917",
-      "precoDe": 453.66,
-      "parcelas": "6x R$ 48,17 sem juros",
-      "postado": "2026-11-16T20:51:30.276Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1y2ATXE.jpg"
-    },
-    {
-      "id": "1PFeeb8",
-      "nome": "Pulseira Life Coração Em Prata 925",
-      "categoria": "Pet",
-      "preco": 280.25,
-      "link": "https://meli.la/1PFeeb8",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/pulseira-life-coracao-em-prata-925/up/MLBU3879624382",
-      "precoDe": 590,
-      "pix": true,
-      "parcelas": "R$ 295 em 6x R$ 49,17 sem juros",
-      "postado": "2026-11-16T20:50:45.043Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1PFeeb8.jpg"
     }
   ]
 }
