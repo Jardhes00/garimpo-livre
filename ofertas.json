@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T20:54:16.097Z",
+  "atualizado": "2026-11-18T20:55:31.042Z",
   "ofertas": [
+    {
+      "id": "2rUukop",
+      "nome": "LG UltraGear Monitor Gamer 27\" - IPS, 144Hz (O/C), 1ms, (MBR), Full HD",
+      "categoria": "Tech",
+      "preco": 698.28,
+      "link": "https://meli.la/2rUukop",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lg-ultragear-monitor-gamer-27-ips-144hz-oc-1ms-mbr-full-hd-1920x1080-hdr10-nvidia-g-sync-amd-freesync-preto-27g411a/p/MLB64311324",
+      "precoDe": 1098.12,
+      "pix": true,
+      "parcelas": "R$759 em 10x R$75,90 sem juros",
+      "postado": "2026-11-18T20:55:31.040Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2rUukop.jpg"
+    },
     {
       "id": "2gXK1Yq",
       "nome": "Árvore de Natal 2,10m 1200 Galhos Verde Base Metal Pinheiro Canadense Atelier",
