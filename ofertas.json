@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T17:27:44.591Z",
+  "atualizado": "2026-11-18T17:28:59.718Z",
   "ofertas": [
+    {
+      "id": "24Xyat6",
+      "nome": "Geladeira Electrolux Cycle Defrost 240L Degelo Prático Uma Porta Branca RE31",
+      "categoria": "Casa",
+      "preco": 1530.55,
+      "link": "https://meli.la/24Xyat6",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/geladeira-electrolux-cycle-defrost-240l-degelo-pratico-uma-porta-branca-re31/p/MLB6077911",
+      "precoDe": 2399,
+      "pix": true,
+      "parcelas": "R$1.577,89 em outros meios",
+      "postado": "2026-11-18T17:28:59.717Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-24Xyat6.jpg"
+    },
     {
       "id": "1MZKdS3",
       "nome": "Arvore De Natal Verde 210cm 1000 Galhos Pinheiro Canadense",
