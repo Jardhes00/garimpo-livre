@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T20:48:00.671Z",
+  "atualizado": "2026-11-18T20:49:15.740Z",
   "ofertas": [
+    {
+      "id": "1pbzdQZ",
+      "nome": "Impressora Multifuncional HP DeskJet Ink Advantage 2975 Colorida 1 USB 2.0 de",
+      "categoria": "Tech",
+      "preco": 499,
+      "link": "https://meli.la/1pbzdQZ",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/impressora-multifuncional-hp-deskjet-ink-advantage-2975-colorida-1-usb-20-de-alta-velocidade-wi-fi-de-banda-dupla-100-a-240-vca-aj4y4aak4/p/MLB62998911",
+      "precoDe": 712.86,
+      "pix": true,
+      "parcelas": "R$554,44 em 10x R$55,44 sem juros",
+      "postado": "2026-11-18T20:49:15.739Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1pbzdQZ.jpg"
+    },
     {
       "id": "2gtHxxC",
       "nome": "Máquina De Lavar Bwf14ab 14kg Smart Sensor Ciclo Brastemp - Branco",
@@ -4646,42 +4664,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1EjpvpP.jpg"
-    },
-    {
-      "id": "29LfbhT",
-      "nome": "Módulo Taramps Ts400x4 400w 2 Ohms Amplificador 4 Canais Som Automotivo",
-      "categoria": "Auto",
-      "preco": 152.91,
-      "link": "https://meli.la/29LfbhT",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/modulo-taramps-ts400x4-400w-2-ohms-rca-ts-400x4-amplificador-4-canais-som-automotivo/p/MLB27979241",
-      "precoDe": 270.43,
-      "pix": true,
-      "parcelas": "R$179,90 em outros meios",
-      "postado": "2026-11-16T20:49:15.175Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-29LfbhT.jpg"
-    },
-    {
-      "id": "24BnCjW",
-      "nome": "Colchão Inflável Casal Queen Size com Bomba Elétrica Recarregável Embutida 203x150x45cm - Ecozendsy",
-      "categoria": "Casa",
-      "preco": 295.41,
-      "link": "https://meli.la/24BnCjW",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ecozendsy-colchao-inflavel-casal-queen-size-com-bomba-eletrico-recarregavel-embutida-portatil-203x150x45cm/p/MLB77319633",
-      "precoDe": 498,
-      "pix": true,
-      "parcelas": "R$321,10 em outros meios",
-      "postado": "2026-11-16T20:48:29.404Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-24BnCjW.jpg"
     }
   ]
 }
