@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T17:23:59.316Z",
+  "atualizado": "2026-11-18T17:25:14.533Z",
   "ofertas": [
+    {
+      "id": "169eCDJ",
+      "nome": "Smart TV 50” Philco PTV50VA4REGB Roku TV LED Dolby Audio",
+      "categoria": "Tech",
+      "preco": 1979,
+      "link": "https://meli.la/169eCDJ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smart-tv-50-philco-ptv50va4regb-roku-tv-led-dolby-audio/p/MLB44408782",
+      "precoDe": 2999,
+      "postado": "2026-11-18T17:25:14.532Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-169eCDJ.jpg"
+    },
     {
       "id": "1wjruCJ",
       "nome": "Liquidificador Turbo Power Mondial Preto 550W L-99 FB",
