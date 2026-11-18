@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-18T16:18:53.449Z",
+  "atualizado": "2026-11-18T16:20:08.252Z",
   "ofertas": [
+    {
+      "id": "1647BjH",
+      "nome": "Protetor Solar Facial Antioleosidade FPS 80 Anthelios La Roche-Posay 40g",
+      "categoria": "Beleza",
+      "preco": 79.39,
+      "link": "https://meli.la/1647BjH",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB19755099",
+      "precoDe": 120.9,
+      "parcelas": "12x R$ 7,82",
+      "extra": "15% OFF com cupom no anúncio",
+      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
+      "postado": "2026-11-18T16:20:08.250Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1647BjH.jpg"
+    },
     {
       "id": "2FZs8XW",
       "nome": "Creme Multirreparador Pele Sensível Cicaplast Baume B5+ La Roche-Posay 40ml",
@@ -3994,24 +4013,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-16E9A6g.jpg"
-    },
-    {
-      "id": "28XGw8z",
-      "nome": "Poltrona Cadeira Glória Papai E Mamãe Decorativa Com Encosto Macio Retrátil E Reclinável Para Sala De Descanso E Amamentação Cor Caramelo",
-      "categoria": "Diversos",
-      "preco": 509.99,
-      "link": "https://meli.la/28XGw8z",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/poltrona-cadeira-gloria-papai-e-mamae-decorativa-com-encosto-macio-retratil-e-reclinavel-para-sala-de-descanso-e-amamentacao-cor-caramelo/p/MLB62281220",
-      "precoDe": 999,
-      "parcelas": "12x R$ 49,32",
-      "relampago": true,
-      "postado": "2026-11-16T16:19:48.493Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-28XGw8z.jpg"
     }
   ]
 }
