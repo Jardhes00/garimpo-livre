@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T21:16:46.630Z",
+  "atualizado": "2026-11-18T21:18:01.609Z",
   "ofertas": [
+    {
+      "id": "2Yt9QRs",
+      "nome": "Roçadeira Gasolina 75cc 3.6hp Knakasaki + Motopoda",
+      "categoria": "Diversos",
+      "preco": 546.07,
+      "link": "https://meli.la/2Yt9QRs",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/rocadeira-gasolina-75cc-36hp-knakasaki-motopoda/p/MLB63160825",
+      "precoDe": 899,
+      "postado": "2026-11-18T21:18:01.608Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Yt9QRs.jpg"
+    },
     {
       "id": "1CxqeQn",
       "nome": "Panela De Arroz Fast Rice 5 Premium Mondial NPE-08-5X",
