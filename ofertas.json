@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T16:06:50.465Z",
+  "atualizado": "2026-11-18T16:10:06.247Z",
   "ofertas": [
+    {
+      "id": "1mbGGQw",
+      "nome": "Camiseta Tech Light Insider Masculino",
+      "categoria": "Moda",
+      "preco": 53.86,
+      "link": "https://meli.la/1mbGGQw",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-4232914111-camiseta-tech-light-insider-masculino-_JM",
+      "precoDe": 189,
+      "pix": true,
+      "parcelas": "R$ 56,70 em outros meios",
+      "postado": "2026-11-18T16:10:06.242Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1mbGGQw.jpg"
+    },
     {
       "id": "2kU7DNt",
       "nome": "Kit 10 Potes de Vidro Herméticos Aristus 640ml - Vão ao Forno, Micro-ondas e Freezer",
@@ -3971,39 +3989,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2jjBeNG.jpg"
-    },
-    {
-      "id": "1KU9nr5",
-      "nome": "Varal de Chão Com Abas Dobrável Aço Reforçado Até 20kg Maxi Easy - Branco",
-      "categoria": "Diversos",
-      "preco": 69.99,
-      "link": "https://meli.la/1KU9nr5",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/varal-de-chao-com-abas-dobravel-aco-reforcado-compacto-para-apartamento-lavanderia-ate-20kgs-maxi-easy-branco/p/MLB79371737",
-      "precoDe": 119.9,
-      "postado": "2026-11-16T16:09:48.591Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1KU9nr5.jpg"
-    },
-    {
-      "id": "1aEUNXD",
-      "nome": "Beta Alanina 500g 100% Pura - Dark Lab",
-      "categoria": "Diversos",
-      "preco": 59.9,
-      "link": "https://meli.la/1aEUNXD",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/beta-alanina-500g-100-pura-dark-lab/p/MLB37171918",
-      "precoDe": 128,
-      "cupomAnuncio": "Compre R$150 e ganhe R$20 OFF",
-      "postado": "2026-11-16T16:08:03.115Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1aEUNXD.jpg"
     }
   ]
 }
