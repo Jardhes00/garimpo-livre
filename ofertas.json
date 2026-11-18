@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-18T18:20:16.189Z",
+  "atualizado": "2026-11-18T18:21:31.484Z",
   "ofertas": [
+    {
+      "id": "1hzygC6",
+      "nome": "Refil Loção Hidratante Corporal 3 Ceramidas 120h CeraVe 237ml",
+      "categoria": "Beleza",
+      "preco": 49.78,
+      "link": "https://meli.la/1hzygC6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/refil-locao-hidratante-corporal-3-ceramidas-120h-cerave-237ml/p/MLB35505202",
+      "precoDe": 74.9,
+      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
+      "postado": "2026-11-18T18:21:31.482Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1hzygC6.jpg"
+    },
     {
       "id": "1BRNvdU",
       "nome": "Tiras Reagentes G-Tech Lite para Medição de Glicose com 50 Unidades",
