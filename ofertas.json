@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T17:38:59.845Z",
+  "atualizado": "2026-11-18T17:40:15.060Z",
   "ofertas": [
+    {
+      "id": "11HmxQc",
+      "nome": "Cabo de Rede Furukawa Soho Plus CAT6 305 Metros CMX 24AWG 4 Pares 8 Fios 100%",
+      "categoria": "Diversos",
+      "preco": 1065.84,
+      "link": "https://meli.la/11HmxQc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cabo-de-rede-furukawa-soho-plus-cat6-305-metros-cmx-24awg-4-pares-8-fios-100-cobre-anti-chamas-azul/p/MLB28042327",
+      "precoDe": 1809.59,
+      "pix": true,
+      "parcelas": "R$1.121,94 em outros meios",
+      "postado": "2026-11-18T17:40:15.059Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-11HmxQc.jpg"
+    },
     {
       "id": "1vqfdGa",
       "nome": "Bravecto Cães 20-40kg 1000mg 1 Comp. Mastigável Msd Azul",
