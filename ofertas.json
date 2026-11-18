@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T20:55:31.042Z",
+  "atualizado": "2026-11-18T20:56:46.392Z",
   "ofertas": [
+    {
+      "id": "2zFWEmK",
+      "nome": "Tablet TCL A1 Plus 12,2\" 128GB 6GB RAM, com Capa Teclado e Caneta",
+      "categoria": "Tech",
+      "preco": 1488.44,
+      "link": "https://meli.la/2zFWEmK",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tablet-tcl-a1-plus-122-128gb-6gb-ram-com-capa-teclado-e-caneta/p/MLB74493690",
+      "precoDe": 2999,
+      "pix": true,
+      "parcelas": "R$1.653,82 em 2x R$826,91 sem juros",
+      "postado": "2026-11-18T20:56:46.391Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2zFWEmK.jpg"
+    },
     {
       "id": "2rUukop",
       "nome": "LG UltraGear Monitor Gamer 27\" - IPS, 144Hz (O/C), 1ms, (MBR), Full HD",
