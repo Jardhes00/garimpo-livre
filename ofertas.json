@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T18:27:46.472Z",
+  "atualizado": "2026-11-18T18:29:01.557Z",
   "ofertas": [
+    {
+      "id": "29JS64b",
+      "nome": "3 Em1 Carrinho Passeio Bebê Reversível Berço Moisés Conforto",
+      "categoria": "Bebê",
+      "preco": 591.6,
+      "link": "https://meli.la/29JS64b",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/3-em1-carrinho-passeio-bebe-reversivel-berco-moises-conforto/up/MLBU3896038196",
+      "precoDe": 1538,
+      "pix": true,
+      "parcelas": "R$680 em 10x R$68 sem juros",
+      "postado": "2026-11-18T18:29:01.554Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-29JS64b.jpg"
+    },
     {
       "id": "2WVwFr9",
       "nome": "Kit 2 3800w Luminaria Poste Solar Potente Com Sensor",
