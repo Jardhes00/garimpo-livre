@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-18T18:37:46.665Z",
+  "atualizado": "2026-11-18T18:39:01.774Z",
   "ofertas": [
+    {
+      "id": "2vDiAVf",
+      "nome": "Guarda Roupa Casal 8 Portas 4 Gavetas Jatobá Yescasa",
+      "categoria": "Diversos",
+      "preco": 863.54,
+      "link": "https://meli.la/2vDiAVf",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/guarda-roupa-casal-8-portas-4-gavetas-jatoba-yescasa/up/MLBU1743116941",
+      "precoDe": 1205.87,
+      "pix": true,
+      "parcelas": "R$908,99 em 10x R$90,90 sem juros",
+      "cupomAnuncio": "R$749,54 com Cupom",
+      "postado": "2026-11-18T18:39:01.773Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2vDiAVf.jpg"
+    },
     {
       "id": "2QVX41C",
       "nome": "Creatina Vitafor Em Pó 300g",
