@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T18:19:01.103Z",
+  "atualizado": "2026-11-18T18:20:16.189Z",
   "ofertas": [
+    {
+      "id": "1BRNvdU",
+      "nome": "Tiras Reagentes G-Tech Lite para Medição de Glicose com 50 Unidades",
+      "categoria": "Diversos",
+      "preco": 44.63,
+      "link": "https://meli.la/1BRNvdU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tiras-reagentes-g-tech-lite-para-medicao-de-glicose-com-50-unidades/p/MLB23460072",
+      "precoDe": 74.1,
+      "postado": "2026-11-18T18:20:16.188Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1BRNvdU.jpg"
+    },
     {
       "id": "1DKhJro",
       "nome": "Chuveiro Eletronico Fame Intense Khrome 7800w",
