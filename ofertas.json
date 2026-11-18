@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T16:31:23.636Z",
+  "atualizado": "2026-11-18T16:32:38.694Z",
   "ofertas": [
+    {
+      "id": "18t7TQS",
+      "nome": "Caixa De Som Boombox Aiwa Aws-bbs-01b 200w Rms Bluetooth Res Cor Preto",
+      "categoria": "Tech",
+      "preco": 1182.02,
+      "link": "https://meli.la/18t7TQS",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-boombox-aiwa-aws-bbs-01b-200w-rms-bluetooth-res-cor-preto/p/MLB47311388",
+      "precoDe": 1998,
+      "pix": true,
+      "parcelas": "R$1.358,64 em outros meios",
+      "postado": "2026-11-18T16:32:38.692Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-18t7TQS.jpg"
+    },
     {
       "id": "1ifs6CU",
       "nome": "Impressora Epson Multifuncional Ecotank L3250 Wireless Bivolt",
@@ -4031,23 +4049,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1YaCCrq.jpg"
-    },
-    {
-      "id": "13FhPNJ",
-      "nome": "Furadeira De Impacto Bosch GSB 450 RE 450W 10mm Com Brocas e Buchas",
-      "categoria": "Ferramentas",
-      "preco": 314.9,
-      "link": "https://meli.la/13FhPNJ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/furadeira-de-impacto-bosch-gsb-450-re-450w-10mm-com-brocas-e-buchas/p/MLB40832800",
-      "precoDe": 492.74,
-      "parcelas": "12x R$ 30,81",
-      "postado": "2026-11-16T16:32:33.934Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-13FhPNJ.jpg"
     }
   ]
 }
