@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-18T21:13:01.913Z",
+  "atualizado": "2026-11-18T21:14:16.544Z",
   "ofertas": [
+    {
+      "id": "18DoVkE",
+      "nome": "Carrinho De Passeio Bebê Alça Reversível Fechamento Compacto Bandeja Removível",
+      "categoria": "Bebê",
+      "preco": 429.99,
+      "link": "https://meli.la/18DoVkE",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/carrinho-de-passeio-bebe-alca-reversivel-fechamento-compacto-bandeja-removivel-0-15kg-youturn-maxi-baby/p/MLB60363392",
+      "precoDe": 699.9,
+      "parcelas": "9x de R$47,78 sem juros",
+      "postado": "2026-11-18T21:14:16.543Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-18DoVkE.jpg"
+    },
     {
       "id": "2YKCuqP",
       "nome": "Máquina De Solda Inversora Portatil War Shark Bivolt 110v/220v Mma Tig Amarelo",
