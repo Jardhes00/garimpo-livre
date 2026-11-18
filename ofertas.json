@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T17:56:30.453Z",
+  "atualizado": "2026-11-18T17:57:48.077Z",
   "ofertas": [
+    {
+      "id": "1fXu5SB",
+      "nome": "Perfume Masculino Rasasi Hawas Kobra Edp Spray 100ml",
+      "categoria": "Beleza",
+      "preco": 206.15,
+      "link": "https://meli.la/1fXu5SB",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/perfume-masculino-rasasi-hawas-kobra-edp-spray-100ml/p/MLB57078253",
+      "precoDe": 445.2,
+      "pix": true,
+      "parcelas": "R$217 em outros meios",
+      "postado": "2026-11-18T17:57:48.076Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1fXu5SB.jpg"
+    },
     {
       "id": "2eiJgG5",
       "nome": "Máquina De Solda Inversora Tig Black Arc Start 160a Serralheiro Mma Eletrodo",
