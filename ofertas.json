@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T20:53:01.001Z",
+  "atualizado": "2026-11-18T20:54:16.097Z",
   "ofertas": [
+    {
+      "id": "2gXK1Yq",
+      "nome": "Árvore de Natal 2,10m 1200 Galhos Verde Base Metal Pinheiro Canadense Atelier",
+      "categoria": "Diversos",
+      "preco": 273.99,
+      "link": "https://meli.la/2gXK1Yq",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/arvore-de-natal-210m-1200-galhos-verde-base-metal-pinheiro-canadense-atelier-enovelada/p/MLB27594706",
+      "precoDe": 499.9,
+      "postado": "2026-11-18T20:54:16.095Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2gXK1Yq.jpg"
+    },
     {
       "id": "1eKYpto",
       "nome": "Patinete Elétrico Drift 450w Triciclo Infantil 120w Vermelho",
