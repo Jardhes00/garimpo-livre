@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-18T16:25:08.545Z",
+  "atualizado": "2026-11-18T16:26:23.594Z",
   "ofertas": [
+    {
+      "id": "1eYQJ52",
+      "nome": "Whisky Blended Scotch 12 Anos 1 Litro Grand Old Parr",
+      "categoria": "Diversos",
+      "preco": 108.8,
+      "link": "https://meli.la/1eYQJ52",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB17384401",
+      "precoDe": 191.9,
+      "parcelas": "4x R$ 27,20 sem juros",
+      "postado": "2026-11-18T16:26:23.593Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1eYQJ52.jpg"
+    },
     {
       "id": "1MNGWz1",
       "nome": "Whisky Johnnie Walker Red Label Blended Scotch 1 Litro Original",
@@ -4032,23 +4049,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2ECsh68.jpg"
-    },
-    {
-      "id": "1km1Ziv",
-      "nome": "Refletor Led Solar Portátil Ip66 3em1 Recarregável Powerbank",
-      "categoria": "Diversos",
-      "preco": 49.5,
-      "link": "https://meli.la/1km1Ziv",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/refletor-led-solar-portatil-ip66-3em1-recarregavel-powerbank/up/MLBU5280245171",
-      "precoDe": 84.98,
-      "relampago": true,
-      "postado": "2026-11-16T16:25:48.568Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1km1Ziv.jpg"
     }
   ]
 }
