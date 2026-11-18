@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T18:46:10.462Z",
+  "atualizado": "2026-11-18T18:47:24.677Z",
   "ofertas": [
+    {
+      "id": "25PZg7Z",
+      "nome": "Nobreak Apc 600va Entrada bIVOLT e Saída 115v Bvx600bi-br",
+      "categoria": "Diversos",
+      "preco": 287.1,
+      "link": "https://meli.la/25PZg7Z",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/nobreak-apc-600va-entrada-bivolt-e-saida-115v-bvx600bi-br/p/MLB38769725",
+      "precoDe": 443.9,
+      "pix": true,
+      "parcelas": "R$319 em outros meios",
+      "postado": "2026-11-18T18:47:24.675Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-25PZg7Z.jpg"
+    },
     {
       "id": "2ahoN17",
       "nome": "Gel de Limpeza Facial Pele Oleosa 3 Ceramidas e Niacinamida CeraVe 340g",
