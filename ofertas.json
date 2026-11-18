@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T17:42:45.325Z",
+  "atualizado": "2026-11-18T17:44:00.144Z",
   "ofertas": [
+    {
+      "id": "2vBvyuF",
+      "nome": "Suplemento Nutricional Nestlé Nutren Senior de Baunilha 740g",
+      "categoria": "Suplementos",
+      "preco": 130.88,
+      "link": "https://meli.la/2vBvyuF",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/suplemento-nutricional-nestle-nutren-senior-de-baunilha-740g/p/MLB80290096",
+      "precoDe": 185.99,
+      "postado": "2026-11-18T17:44:00.143Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2vBvyuF.jpg"
+    },
     {
       "id": "1QrCqgT",
       "nome": "Rádio Automotivo Taramps Amplayer G2 Fm Usb Sd Mp3 Bluetooth",
