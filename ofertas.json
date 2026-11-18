@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T17:25:14.533Z",
+  "atualizado": "2026-11-18T17:26:29.500Z",
   "ofertas": [
+    {
+      "id": "2P9v4fz",
+      "nome": "Monitor Gamer Phillips de 23.8\" Full HD IPS com 200Hz",
+      "categoria": "Tech",
+      "preco": 609,
+      "link": "https://meli.la/2P9v4fz",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/monitor-gamer-phillips-de-238-full-hd-ips-com-200hz/p/MLB67500776",
+      "precoDe": 1049,
+      "postado": "2026-11-18T17:26:29.498Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2P9v4fz.jpg"
+    },
     {
       "id": "169eCDJ",
       "nome": "Smart TV 50” Philco PTV50VA4REGB Roku TV LED Dolby Audio",
