@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T20:59:16.113Z",
+  "atualizado": "2026-11-18T21:00:31.157Z",
   "ofertas": [
+    {
+      "id": "1vzWa8s",
+      "nome": "Balança Eletrônica Digital 40kg Precisão Bateria Bivolt",
+      "categoria": "Diversos",
+      "preco": 174.51,
+      "link": "https://meli.la/1vzWa8s",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/balanca-eletronica-digital-40kg-precisao-bateria-bivolt/up/MLBU5250862065",
+      "precoDe": 249,
+      "postado": "2026-11-18T21:00:31.155Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1vzWa8s.jpg"
+    },
     {
       "id": "2PMPV1X",
       "nome": "Proteína Black Skull Whey 100% HD em pó sabor Morango x 900g",
