@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T18:00:15.654Z",
+  "atualizado": "2026-11-18T18:01:30.626Z",
   "ofertas": [
+    {
+      "id": "1aVUYsK",
+      "nome": "50 Tiras Reagentes de Glicemia G TECH FREE Para Medir Glicose",
+      "categoria": "Diversos",
+      "preco": 50.3,
+      "link": "https://meli.la/1aVUYsK",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/50-tiras-reagentes-de-glicemia-g-tech-free-para-medir-glicose/p/MLB24426651",
+      "precoDe": 80,
+      "postado": "2026-11-18T18:01:30.624Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1aVUYsK.jpg"
+    },
     {
       "id": "1eg2huV",
       "nome": "Hd Ssd Interno 120gb 2,5 Sata3 6gb/s Para Computador Pc Notebook Velocidade De",
