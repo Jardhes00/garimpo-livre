@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-18T21:23:01.884Z",
+  "atualizado": "2026-11-18T21:24:17.259Z",
   "ofertas": [
+    {
+      "id": "32wu76x",
+      "nome": "Lavadora e Desobstruidora de Alta Pressão WAP WL 2660 Turbo Ultra 127V",
+      "categoria": "Diversos",
+      "preco": 712.4,
+      "link": "https://meli.la/32wu76x",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-e-desobstruidora-de-alta-pressao-wap-wl-2660-turbo-ultra-127v/p/MLB29409307",
+      "precoDe": 1232.5,
+      "pix": true,
+      "parcelas": "R$749,90 em outros meios",
+      "cupomAnuncio": "R$641,16 com Cupom",
+      "postado": "2026-11-18T21:24:17.257Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-32wu76x.jpg"
+    },
     {
       "id": "11j7ZWo",
       "nome": "Cafeteira Black+decker 18 Cafés Inox Modelo CM15-br Preto",
