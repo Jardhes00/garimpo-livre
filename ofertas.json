@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T17:57:48.077Z",
+  "atualizado": "2026-11-18T17:59:00.710Z",
   "ofertas": [
+    {
+      "id": "263pQEC",
+      "nome": "Kit Dermotivin Xô Oleosidade | Sabonete Original Líquido 120ml + Esfoliante 60g",
+      "categoria": "Diversos",
+      "preco": 53.47,
+      "link": "https://meli.la/263pQEC",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-dermotivin-xo-oleosidade-sabonete-original-liquido-120ml-esfoliante-60g-hidratante-facial-50ml/p/MLB48596801",
+      "precoDe": 133.9,
+      "pix": true,
+      "parcelas": "R$66,84 em outros meios",
+      "postado": "2026-11-18T17:59:00.709Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-263pQEC.jpg"
+    },
     {
       "id": "1fXu5SB",
       "nome": "Perfume Masculino Rasasi Hawas Kobra Edp Spray 100ml",
