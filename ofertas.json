@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-18T17:36:30.248Z",
+  "atualizado": "2026-11-18T17:37:44.827Z",
   "ofertas": [
+    {
+      "id": "28bEQU9",
+      "nome": "Whisky Old Parr 12 anos 750ml",
+      "categoria": "Diversos",
+      "preco": 79.9,
+      "link": "https://meli.la/28bEQU9",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whisky-old-parr-12-anos-750ml/p/MLB17384407",
+      "precoDe": 153.9,
+      "parcelas": "3x de R$26,63 sem juros",
+      "postado": "2026-11-18T17:37:44.825Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-28bEQU9.jpg"
+    },
     {
       "id": "1eJQDZv",
       "nome": "Ventilador De Mesa 30cm Super Power 60w Vsp-30-b Turbo",
