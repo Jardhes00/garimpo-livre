@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T21:15:31.905Z",
+  "atualizado": "2026-11-18T21:16:46.630Z",
   "ofertas": [
+    {
+      "id": "1CxqeQn",
+      "nome": "Panela De Arroz Fast Rice 5 Premium Mondial NPE-08-5X",
+      "categoria": "Casa",
+      "preco": 136.24,
+      "link": "https://meli.la/1CxqeQn",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/panela-de-arroz-fast-rice-5-premium-mondial-npe-08-5x/p/MLB15532115",
+      "precoDe": 244.9,
+      "postado": "2026-11-18T21:16:46.629Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1CxqeQn.jpg"
+    },
     {
       "id": "19ZfeTK",
       "nome": "Liftness Bicicleta Ergométrica Spinning Profissional 120kg Silenciosa",
