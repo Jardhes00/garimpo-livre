@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T18:50:24.745Z",
+  "atualizado": "2026-11-18T18:51:55.045Z",
   "ofertas": [
+    {
+      "id": "2icau8g",
+      "nome": "Whisky Escocês 12 Anos 1 Litro Chivas Regal",
+      "categoria": "Diversos",
+      "preco": 114.99,
+      "link": "https://meli.la/2icau8g",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whisky-escoces-12-anos-1-litro-chivas-regal/p/MLB17360828",
+      "precoDe": 178.9,
+      "postado": "2026-11-18T18:51:55.042Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2icau8g.jpg"
+    },
     {
       "id": "1aAPjtg",
       "nome": "Lavadora de Roupas Semiautomática Tanquinho 10Kg Itatiaia",
