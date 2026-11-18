@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T21:05:31.225Z",
+  "atualizado": "2026-11-18T21:06:46.857Z",
   "ofertas": [
+    {
+      "id": "1e8nqnB",
+      "nome": "Aromatizador Lavanda E Baunilha 2 Refis 269ml Glade",
+      "categoria": "Diversos",
+      "preco": 51.75,
+      "link": "https://meli.la/1e8nqnB",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aromatizador-lavanda-e-baunilha-2-refis-269ml-glade/p/MLB24447688",
+      "precoDe": 101.77,
+      "postado": "2026-11-18T21:06:46.856Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1e8nqnB.jpg"
+    },
     {
       "id": "195K6bb",
       "nome": "Aspirador Pó Vertical Wap High Speed Max Cinza/azul 1350w",
