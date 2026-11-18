@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T21:24:17.259Z",
+  "atualizado": "2026-11-18T21:25:32.058Z",
   "ofertas": [
+    {
+      "id": "1wcFJBv",
+      "nome": "Ventilador De Mesa Britânia 174w Bvt491 40cm 10 Pás Cor da estrutura Preto Cor",
+      "categoria": "Casa",
+      "preco": 152.41,
+      "link": "https://meli.la/1wcFJBv",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-mesa-britania-174w-bvt491-40cm-10-pas-cor-da-estrutura-preto-cor-das-pas-verde-diametro-40-cm-material-das-pas-plastico/p/MLB28700610",
+      "precoDe": 274.79,
+      "pix": true,
+      "parcelas": "R$169,35 em 5x R$33,87 sem juros",
+      "postado": "2026-11-18T21:25:32.056Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1wcFJBv.jpg"
+    },
     {
       "id": "32wu76x",
       "nome": "Lavadora e Desobstruidora de Alta Pressão WAP WL 2660 Turbo Ultra 127V",
