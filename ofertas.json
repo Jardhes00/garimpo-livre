@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-18T18:09:00.967Z",
+  "atualizado": "2026-11-18T18:10:15.963Z",
   "ofertas": [
+    {
+      "id": "1hnq7BQ",
+      "nome": "Lavadora de Alta Pressão Wap Ousada Plus 2200 1500W 1750 PSI",
+      "categoria": "Diversos",
+      "preco": 436.9,
+      "link": "https://meli.la/1hnq7BQ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-wap-ousada-plus-2200-1500w-1750-psi/p/MLB15345687",
+      "precoDe": 649,
+      "pix": true,
+      "parcelas": "R$459,90 em outros meios",
+      "cupomAnuncio": "R$393,21 com Cupom",
+      "postado": "2026-11-18T18:10:15.961Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1hnq7BQ.jpg"
+    },
     {
       "id": "2YsUFxt",
       "nome": "Celular Samsung Galaxy A17 Com Ia, 256gb, 8gb Ram, Câm De 50mp, Tela De 6.7",
