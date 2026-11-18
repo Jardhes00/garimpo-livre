@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T16:12:51.264Z",
+  "atualizado": "2026-11-18T16:15:08.508Z",
   "ofertas": [
+    {
+      "id": "2mKXTYR",
+      "nome": "Samsung Smart TV 50\" Mini LED 4K M75H 26/2027",
+      "categoria": "Tech",
+      "preco": 2499,
+      "link": "https://meli.la/2mKXTYR",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB75994421",
+      "precoDe": 3799,
+      "parcelas": "12x R$ 240,20",
+      "cupomAnuncio": "R$2.419 com Cupom",
+      "postado": "2026-11-18T16:15:08.507Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2mKXTYR.jpg"
+    },
     {
       "id": "2B3yseU",
       "nome": "Smart TV AIWA 43” Android Full HD Borda Ultrafina HDR10 Dolby Áudio AWS-TV-43-BL-02-A",
@@ -3973,39 +3991,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1b2pcei.jpg"
-    },
-    {
-      "id": "1jKBgCn",
-      "nome": "Mala De Viagem Média 18kg Sweet Studio Zíper Duplo Expansível Rodas 360 Preto M275",
-      "categoria": "Diversos",
-      "preco": 175,
-      "link": "https://meli.la/1jKBgCn",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/mala-de-viagem-media-18kg-sweet-studio-com-ziper-dupla-expansivel-e-rodas-giro-360-removiveis-preto-m275/p/MLB81053928",
-      "precoDe": 289,
-      "parcelas": "5x de R$35 sem juros",
-      "postado": "2026-11-16T16:14:48.344Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1jKBgCn.jpg"
-    },
-    {
-      "id": "2an7jmd",
-      "nome": "Varal De Luzes Externo 25m 25+2 Lâmpadas Festão Natal St38",
-      "categoria": "Diversos",
-      "preco": 117.39,
-      "link": "https://meli.la/2an7jmd",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/varal-de-luzes-externo-25m-252-lampadas-festao-natal-st38/up/MLBU5286402884",
-      "precoDe": 160,
-      "postado": "2026-11-16T16:13:33.261Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2an7jmd.jpg"
     }
   ]
 }
