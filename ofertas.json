@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-18T18:14:00.935Z",
+  "atualizado": "2026-11-18T18:15:16.331Z",
   "ofertas": [
+    {
+      "id": "2VmjNco",
+      "nome": "Liquidificador Philco 1500W 3,1L 12 Velocidades com 6 Lâminas PLQ15A",
+      "categoria": "Casa",
+      "preco": 159,
+      "link": "https://meli.la/2VmjNco",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/liquidificador-philco-1500w-31l-12-velocidades-com-6-laminas-plq15a/p/MLB47264452",
+      "precoDe": 239.9,
+      "parcelas": "5x de R$31,80 sem juros",
+      "postado": "2026-11-18T18:15:16.329Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2VmjNco.jpg"
+    },
     {
       "id": "2B1L9rg",
       "nome": "Vitamina B12 Metilcobalamina 60 Cápsulas Nutrify",
