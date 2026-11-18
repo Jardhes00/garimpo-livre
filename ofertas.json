@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T18:07:45.760Z",
+  "atualizado": "2026-11-18T18:09:00.967Z",
   "ofertas": [
+    {
+      "id": "2YsUFxt",
+      "nome": "Celular Samsung Galaxy A17 Com Ia, 256gb, 8gb Ram, Câm De 50mp, Tela De 6.7",
+      "categoria": "Tech",
+      "preco": 1528.55,
+      "link": "https://meli.la/2YsUFxt",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a17-com-ia-256gb-8gb-ram-cam-de-50mp-tela-de-67-nfc-ip54-preto-5g/p/MLB54961455",
+      "precoDe": 2284,
+      "pix": true,
+      "parcelas": "R$1.609 em outros meios",
+      "postado": "2026-11-18T18:09:00.965Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2YsUFxt.jpg"
+    },
     {
       "id": "29c9eH9",
       "nome": "Câmera Lâmpada Intelbras Im6 Full Color 3mp 360 Wifi Interna Cor Branco",
