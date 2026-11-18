@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T16:20:08.252Z",
+  "atualizado": "2026-11-18T16:21:23.748Z",
   "ofertas": [
+    {
+      "id": "18vapF4",
+      "nome": "Senscience Inner Restore Mascara De Tratamento 500 Ml",
+      "categoria": "Diversos",
+      "preco": 222.57,
+      "link": "https://meli.la/18vapF4",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB21724864",
+      "precoDe": 419.9,
+      "pix": true,
+      "parcelas": "R$ 247,30 em outros meios",
+      "postado": "2026-11-18T16:21:23.746Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-18vapF4.jpg"
+    },
     {
       "id": "1647BjH",
       "nome": "Protetor Solar Facial Antioleosidade FPS 80 Anthelios La Roche-Posay 40g",
