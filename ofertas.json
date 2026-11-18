@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T21:10:31.355Z",
+  "atualizado": "2026-11-18T21:11:46.501Z",
   "ofertas": [
+    {
+      "id": "1fqL73e",
+      "nome": "Fire Tv Stick Hd 2a Geração Ger 26 Preto De Voz",
+      "categoria": "Tech",
+      "preco": 222.96,
+      "link": "https://meli.la/1fqL73e",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fire-tv-stick-hd-2a-geracao-ger-26-preto-de-voz/p/MLB69328828",
+      "precoDe": 479,
+      "pix": true,
+      "parcelas": "R$239,74 em outros meios",
+      "postado": "2026-11-18T21:11:46.500Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1fqL73e.jpg"
+    },
     {
       "id": "26NYEeg",
       "nome": "Philco Fritadeiras PAF16A 220",
