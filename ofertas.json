@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-18T18:21:31.484Z",
+  "atualizado": "2026-11-18T18:22:45.673Z",
   "ofertas": [
+    {
+      "id": "16sDsyF",
+      "nome": "Micro-ondas Panasonic Nn-st54rbru 27 Litros Preto",
+      "categoria": "Casa",
+      "preco": 539,
+      "link": "https://meli.la/16sDsyF",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-panasonic-nn-st54rbru-27-litros-preto/p/MLB65808258",
+      "precoDe": 799,
+      "parcelas": "10x de R$53,90 sem juros",
+      "postado": "2026-11-18T18:22:45.672Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-16sDsyF.jpg"
+    },
     {
       "id": "1hzygC6",
       "nome": "Refil Loção Hidratante Corporal 3 Ceramidas 120h CeraVe 237ml",
