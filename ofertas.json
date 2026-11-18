@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T20:58:01.183Z",
+  "atualizado": "2026-11-18T20:59:16.113Z",
   "ofertas": [
+    {
+      "id": "2PMPV1X",
+      "nome": "Proteína Black Skull Whey 100% HD em pó sabor Morango x 900g",
+      "categoria": "Suplementos",
+      "preco": 92.64,
+      "link": "https://meli.la/2PMPV1X",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/proteina-black-skull-whey-100-hd-em-po-sabor-morango-x-900g/p/MLB18995412",
+      "precoDe": 149.9,
+      "pix": true,
+      "parcelas": "R$108,99 em outros meios",
+      "postado": "2026-11-18T20:59:16.112Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2PMPV1X.jpg"
+    },
     {
       "id": "2xv1EKM",
       "nome": "Kit 12 Copos Térmico Para Café Portátil 420ml Inox Premium",
