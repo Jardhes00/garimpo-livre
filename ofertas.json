@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T21:09:16.288Z",
+  "atualizado": "2026-11-18T21:10:31.355Z",
   "ofertas": [
+    {
+      "id": "26NYEeg",
+      "nome": "Philco Fritadeiras PAF16A 220",
+      "categoria": "Casa",
+      "preco": 557.9,
+      "link": "https://meli.la/26NYEeg",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/philco-fritadeiras-paf16a-220/p/MLB46016994",
+      "precoDe": 1800,
+      "pix": true,
+      "parcelas": "R$619,89 em outros meios",
+      "postado": "2026-11-18T21:10:31.354Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-26NYEeg.jpg"
+    },
     {
       "id": "11udPGM",
       "nome": "Carolina Herrera 212 VIP ROSÉ EDP 80ml para feminino",
