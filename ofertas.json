@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-18T17:51:30.356Z",
+  "atualizado": "2026-11-18T17:52:45.562Z",
   "ofertas": [
+    {
+      "id": "1jfvX3T",
+      "nome": "Monitor Gamer AOC AGON G4S 25\" 310Hz 0.3ms HDR400 IPS Base Ajustável 25G4S/P",
+      "categoria": "Tech",
+      "preco": 1044.05,
+      "link": "https://meli.la/1jfvX3T",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/monitor-gamer-aoc-agon-g4s-25-310hz-03ms-hdr400-ips-base-ajustavel-25g4sp-preto/p/MLB61656109",
+      "precoDe": 1499,
+      "pix": true,
+      "parcelas": "R$1.099 em 10x R$109,90 sem juros",
+      "cupomAnuncio": "R$1.015,55 com Cupom",
+      "postado": "2026-11-18T17:52:45.560Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1jfvX3T.jpg"
+    },
     {
       "id": "2Za5hVB",
       "nome": "Cooktop 5 Bocas A Gás Atlas Agile Up Mega Chama Preto",
