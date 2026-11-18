@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T16:30:08.514Z",
+  "atualizado": "2026-11-18T16:31:23.636Z",
   "ofertas": [
+    {
+      "id": "1ifs6CU",
+      "nome": "Impressora Epson Multifuncional Ecotank L3250 Wireless Bivolt",
+      "categoria": "Tech",
+      "preco": 936.52,
+      "link": "https://meli.la/1ifs6CU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/impressora-epson-multifuncional-ecotank-l3250-wireless-bivolt/p/MLB47191870",
+      "precoDe": 1356.7,
+      "pix": true,
+      "parcelas": "R$1.040,58 em outros meios",
+      "postado": "2026-11-18T16:31:23.635Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ifs6CU.jpg"
+    },
     {
       "id": "2jQZeHw",
       "nome": "Climatizador portátil frio Midea AKAF1 branco",
@@ -4030,22 +4048,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-13FhPNJ.jpg"
-    },
-    {
-      "id": "2rQ8kzi",
-      "nome": "Creme Antiassaduras Bepantol para assadura Baby Hipoalergênico 100g",
-      "categoria": "Beleza",
-      "preco": 30.92,
-      "link": "https://meli.la/2rQ8kzi",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/creme-antiassaduras-bepantol-para-assadura-baby-hipoalergenico-100g/p/MLB18397502",
-      "precoDe": 59.9,
-      "postado": "2026-11-16T16:31:03.704Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2rQ8kzi.jpg"
     }
   ]
 }
