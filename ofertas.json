@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T21:06:46.857Z",
+  "atualizado": "2026-11-18T21:08:01.464Z",
   "ofertas": [
+    {
+      "id": "1swahvc",
+      "nome": "Ventilador Britânia 2 em 1 Maxx Force Silencioso 174W BVT481",
+      "categoria": "Casa",
+      "preco": 149.06,
+      "link": "https://meli.la/1swahvc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-britania-2-em-1-maxx-force-silencioso-174w-bvt481/p/MLB28858875",
+      "precoDe": 264.66,
+      "pix": true,
+      "parcelas": "R$165,62 em 5x R$33,12 sem juros",
+      "postado": "2026-11-18T21:08:01.463Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1swahvc.jpg"
+    },
     {
       "id": "1e8nqnB",
       "nome": "Aromatizador Lavanda E Baunilha 2 Refis 269ml Glade",
