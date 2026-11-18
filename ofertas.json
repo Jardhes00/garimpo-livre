@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T18:06:30.808Z",
+  "atualizado": "2026-11-18T18:07:45.760Z",
   "ofertas": [
+    {
+      "id": "29c9eH9",
+      "nome": "Câmera Lâmpada Intelbras Im6 Full Color 3mp 360 Wifi Interna Cor Branco",
+      "categoria": "Diversos",
+      "preco": 175.12,
+      "link": "https://meli.la/29c9eH9",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/camera-lampada-intelbras-im6-full-color-3mp-360-wifi-interna-cor-branco/p/MLB44844303",
+      "precoDe": 299.9,
+      "pix": true,
+      "parcelas": "R$199 em 6x R$33,17 sem juros",
+      "postado": "2026-11-18T18:07:45.758Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-29c9eH9.jpg"
+    },
     {
       "id": "18kEZLs",
       "nome": "Whey Protein Concentrado 100% 900g Refil Dark Lab Sabor Baunilha",
