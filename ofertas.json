@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-18T16:22:38.584Z",
+  "atualizado": "2026-11-18T16:23:53.359Z",
   "ofertas": [
+    {
+      "id": "2UrArWU",
+      "nome": "Câmera Inteligente Visão 360° IM4 C Intelbras",
+      "categoria": "Diversos",
+      "preco": 186.75,
+      "link": "https://meli.la/2UrArWU",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB22569962",
+      "precoDe": 323.9,
+      "pix": true,
+      "parcelas": "R$ 249 em 6x R$ 41,50 sem juros",
+      "cupomAnuncio": "R$171,75 com Cupom",
+      "postado": "2026-11-18T16:23:53.357Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2UrArWU.jpg"
+    },
     {
       "id": "22hpT51",
       "nome": "Maquina Maquininha Dragao Acabamento Com visor Display Cortar Cabelo Aparador Barba Pelos Elétrica Sem Fio Recarregavel - Crowley",
@@ -4013,24 +4032,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1km1Ziv.jpg"
-    },
-    {
-      "id": "2e298wQ",
-      "nome": "Kit Parafusadeira/Furadeira A Bateria 12V 3/8 Polegadas 10Mm + Jogo De Ferramentas 169 Peças Com Maleta The Black Tools",
-      "categoria": "Games",
-      "preco": 227.9,
-      "link": "https://meli.la/2e298wQ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit-parafusadeirafuradeira-a-bateria-12v-38-polegadas-10mm-jogo-de-ferramentas-169-pecas-com-maleta-the-black-tools/p/MLB38835569",
-      "precoDe": 489.9,
-      "pix": true,
-      "parcelas": "R$ 239,90 em 6x R$ 39,98 sem juros",
-      "postado": "2026-11-16T16:23:48.476Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2e298wQ.jpg"
     }
   ]
 }
