@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-18T20:46:45.859Z",
+  "atualizado": "2026-11-18T20:48:00.671Z",
   "ofertas": [
+    {
+      "id": "2gtHxxC",
+      "nome": "Máquina De Lavar Bwf14ab 14kg Smart Sensor Ciclo Brastemp - Branco",
+      "categoria": "Diversos",
+      "preco": 1809.99,
+      "link": "https://meli.la/2gtHxxC",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquina-de-lavar-bwf14ab-14kg-smart-sensor-ciclo-brastemp-branco/p/MLB61594883",
+      "precoDe": 2593.9,
+      "parcelas": "10x de R$181 sem juros",
+      "postado": "2026-11-18T20:48:00.670Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2gtHxxC.jpg"
+    },
     {
       "id": "2ETcjaS",
       "nome": "Kit Multi Ferramentas A Bateria 3 Em 1 Parafusadeira Esmerilhadeira Chave De",
