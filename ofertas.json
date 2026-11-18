@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-18T18:53:25.351Z",
+  "atualizado": "2026-11-18T18:54:40.041Z",
   "ofertas": [
+    {
+      "id": "2wZ37Cu",
+      "nome": "Aspirador de Pó e Água Kärcher WDL 1 Black 1500W 3 em 1 Capacidade 10 litros",
+      "categoria": "Casa",
+      "preco": 229,
+      "link": "https://meli.la/2wZ37Cu",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aspirador-de-po-e-agua-krcher-wdl-1-black-1500w-3-em-1-capacidade-10-litros/p/MLB59407778",
+      "precoDe": 349.9,
+      "parcelas": "6x de R$38,17 sem juros",
+      "postado": "2026-11-18T18:54:40.028Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2wZ37Cu.jpg"
+    },
     {
       "id": "13uJycL",
       "nome": "Cadeira De Escritório Presidente Ergonômica Couro Sintético Encosto Ajustável",
