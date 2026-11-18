@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T17:49:00.344Z",
+  "atualizado": "2026-11-18T17:50:15.124Z",
   "ofertas": [
+    {
+      "id": "2DuK6Hr",
+      "nome": "Combo Teclado e Mouse sem fio Logitech MK345 Layout ABNT2",
+      "categoria": "Tech",
+      "preco": 134.91,
+      "link": "https://meli.la/2DuK6Hr",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/combo-teclado-e-mouse-sem-fio-logitech-mk345-layout-abnt2/p/MLB18610873",
+      "precoDe": 229.9,
+      "pix": true,
+      "parcelas": "R$149,90 em 3x R$49,97 sem juros",
+      "postado": "2026-11-18T17:50:15.123Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2DuK6Hr.jpg"
+    },
     {
       "id": "26ToRwU",
       "nome": "Caixa De Som Bluetooth6.0 Sabala Dr500 46H 500w 81000mah Tws 3 Mais Estéreo",
