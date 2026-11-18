@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T20:45:31.086Z",
+  "atualizado": "2026-11-18T20:46:45.859Z",
   "ofertas": [
+    {
+      "id": "2ETcjaS",
+      "nome": "Kit Multi Ferramentas A Bateria 3 Em 1 Parafusadeira Esmerilhadeira Chave De",
+      "categoria": "Ferramentas",
+      "preco": 549.95,
+      "link": "https://meli.la/2ETcjaS",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-multi-ferramentas-a-bateria-3-em-1-parafusadeira-esmerilhadeira-chave-de-impacto-com-maleta-tbkit04-the-black-tools/p/MLB70068942",
+      "precoDe": 1079.9,
+      "pix": true,
+      "parcelas": "R$578,90 em outros meios",
+      "postado": "2026-11-18T20:46:45.858Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ETcjaS.jpg"
+    },
     {
       "id": "14iY5wN",
       "nome": "Penteadeira Camarim Jolie Com LED Espelho E 2 Gavetas Organizadora Maquiagem",
@@ -4647,41 +4665,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-24BnCjW.jpg"
-    },
-    {
-      "id": "2wvoJpG",
-      "nome": "Chave De Impacto Kinetx 68vf Brushless 880nm 2 Baterias Kit",
-      "categoria": "Ferramentas",
-      "preco": 189.05,
-      "link": "https://meli.la/2wvoJpG",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/chave-de-impacto-kinetx-68vf-brushless-880nm-2-baterias-kit/up/MLBU3841784141",
-      "precoDe": 312.33,
-      "pix": true,
-      "parcelas": "R$199 em 6x R$33,17 sem juros",
-      "postado": "2026-11-16T20:46:29.963Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2wvoJpG.jpg"
-    },
-    {
-      "id": "1KnePkH",
-      "nome": "Kit2 Profissional Parafusadeira Chave De Impacto Brushless",
-      "categoria": "Ferramentas",
-      "preco": 385,
-      "link": "https://meli.la/1KnePkH",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit2-profissional-parafusadeira-chave-de-impacto-brushless/p/MLB2099450736",
-      "precoDe": 899,
-      "parcelas": "12x R$ 37,66",
-      "postado": "2026-11-16T20:45:44.900Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1KnePkH.jpg"
     }
   ]
 }
