@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T18:30:16.497Z",
+  "atualizado": "2026-11-18T18:31:31.917Z",
   "ofertas": [
+    {
+      "id": "1vBE2oc",
+      "nome": "Oxímetro OLED G-TECH",
+      "categoria": "Diversos",
+      "preco": 63.44,
+      "link": "https://meli.la/1vBE2oc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/oximetro-oled-g-tech/p/MLB17517878",
+      "precoDe": 116.5,
+      "postado": "2026-11-18T18:31:31.915Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1vBE2oc.jpg"
+    },
     {
       "id": "1zUTp8X",
       "nome": "Ventilador de Mesa Arno Ultra Silence Force Bluetooth VDBT",
