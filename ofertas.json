@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-18T18:17:46.850Z",
+  "atualizado": "2026-11-18T18:19:01.103Z",
   "ofertas": [
+    {
+      "id": "1DKhJro",
+      "nome": "Chuveiro Eletronico Fame Intense Khrome 7800w",
+      "categoria": "Diversos",
+      "preco": 259,
+      "link": "https://meli.la/1DKhJro",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/chuveiro-eletronico-fame-intense-khrome-7800w/p/MLB38279241",
+      "precoDe": 453.66,
+      "parcelas": "6x de R$43,17 sem juros",
+      "postado": "2026-11-18T18:19:01.101Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1DKhJro.jpg"
+    },
     {
       "id": "1RwUaw2",
       "nome": "Cooktop Mueller 5 Bocas com Queimador Ultra Chama Preto",
