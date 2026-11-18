@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T21:03:01.156Z",
+  "atualizado": "2026-11-18T21:04:16.178Z",
   "ofertas": [
+    {
+      "id": "1z5CT73",
+      "nome": "Fórmula Natural Pro Cão Adulto Médio e Grande 15kg",
+      "categoria": "Diversos",
+      "preco": 184.3,
+      "link": "https://meli.la/1z5CT73",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/formula-natural-pro-cao-adulto-medio-e-grande-15kg/p/MLB23806653",
+      "precoDe": 350,
+      "pix": true,
+      "parcelas": "R$194 em outros meios",
+      "postado": "2026-11-18T21:04:16.177Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1z5CT73.jpg"
+    },
     {
       "id": "1K8z4Le",
       "nome": "Cooktop de Indução 5 Bocas Dako Select com 2 Zonas Flexíveis e 7200W com Mesa",
