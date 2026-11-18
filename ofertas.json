@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-18T17:52:45.562Z",
+  "atualizado": "2026-11-18T17:54:00.582Z",
   "ofertas": [
+    {
+      "id": "19EhbCD",
+      "nome": "Compressor de Ar Portátil Blackone 4000mAh Digital 150PSI Carro Moto Bike",
+      "categoria": "Ferramentas",
+      "preco": 68.99,
+      "link": "https://meli.la/19EhbCD",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/compressor-de-ar-portatil-blackone-4000mah-digital-150psi-carro-moto-bike/p/MLB61672926",
+      "precoDe": 157.98,
+      "parcelas": "3x de R$23 sem juros",
+      "postado": "2026-11-18T17:54:00.580Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-19EhbCD.jpg"
+    },
     {
       "id": "1jfvX3T",
       "nome": "Monitor Gamer AOC AGON G4S 25\" 310Hz 0.3ms HDR400 IPS Base Ajustável 25G4S/P",
