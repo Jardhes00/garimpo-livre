@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T18:32:46.675Z",
+  "atualizado": "2026-11-18T18:34:01.879Z",
   "ofertas": [
+    {
+      "id": "2aVzksX",
+      "nome": "Liquidificador Philips Walita 600w 2 Velocidade Tritura Gelo Preto",
+      "categoria": "Casa",
+      "preco": 89.29,
+      "link": "https://meli.la/2aVzksX",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/liquidificador-philips-walita-600w-2-velocidade-tritura-gelo-preto/p/MLB15963680",
+      "precoDe": 159.9,
+      "postado": "2026-11-18T18:34:01.878Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2aVzksX.jpg"
+    },
     {
       "id": "2ZoiNqx",
       "nome": "Coenzima Q10 Vitafor em cápsula Sem sabor",
