@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-18T16:27:38.777Z",
+  "atualizado": "2026-11-18T16:28:53.463Z",
   "ofertas": [
+    {
+      "id": "2arrnh9",
+      "nome": "Garrafa Térmica Quick Flip Stanley 710ml Go Bottle Branco Cor Polar",
+      "categoria": "Diversos",
+      "preco": 131.3,
+      "link": "https://meli.la/2arrnh9",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB24221867",
+      "precoDe": 289,
+      "parcelas": "4x R$ 32,83 sem juros",
+      "postado": "2026-11-18T16:28:53.461Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2arrnh9.jpg"
+    },
     {
       "id": "2nKyNRP",
       "nome": "Cesta De Natal Bauducco G",
@@ -4030,24 +4047,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1XbkqkU.jpg"
-    },
-    {
-      "id": "1LiXerb",
-      "nome": "Smart Tv Samsung 32'' Hd Tizen Hdr Wi-fi Hdmi Monitor Bivolt Preta Preto",
-      "categoria": "Tech",
-      "preco": 908.1,
-      "link": "https://meli.la/1LiXerb",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/smart-tv-samsung-32-hd-tizen-hdr-wi-fi-hdmi-monitor-bivolt-preta-preto/p/MLB52027456",
-      "precoDe": 2100,
-      "pix": true,
-      "parcelas": "R$ 1.009 em outros meios",
-      "postado": "2026-11-16T16:28:18.978Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1LiXerb.jpg"
     }
   ]
 }
