@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T18:01:30.626Z",
+  "atualizado": "2026-11-18T18:02:45.633Z",
   "ofertas": [
+    {
+      "id": "2Vqz4bU",
+      "nome": "Air Fryer Oven Philco 16L Digital com Visor PAF16C",
+      "categoria": "Casa",
+      "preco": 439,
+      "link": "https://meli.la/2Vqz4bU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/air-fryer-oven-philco-16l-digital-com-visor-paf16c/p/MLB66787599",
+      "precoDe": 623.96,
+      "postado": "2026-11-18T18:02:45.631Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Vqz4bU.jpg"
+    },
     {
       "id": "1aVUYsK",
       "nome": "50 Tiras Reagentes de Glicemia G TECH FREE Para Medir Glicose",
