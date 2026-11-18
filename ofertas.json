@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T21:11:46.501Z",
+  "atualizado": "2026-11-18T21:13:01.913Z",
   "ofertas": [
+    {
+      "id": "2YKCuqP",
+      "nome": "Máquina De Solda Inversora Portatil War Shark Bivolt 110v/220v Mma Tig Amarelo",
+      "categoria": "Auto",
+      "preco": 256.68,
+      "link": "https://meli.la/2YKCuqP",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquina-de-solda-inversora-portatil-war-shark-bivolt-110v220v-mma-tig-amarelo/p/MLB63879053",
+      "precoDe": 400,
+      "pix": true,
+      "parcelas": "R$279 em outros meios",
+      "postado": "2026-11-18T21:13:01.912Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2YKCuqP.jpg"
+    },
     {
       "id": "1fqL73e",
       "nome": "Fire Tv Stick Hd 2a Geração Ger 26 Preto De Voz",
