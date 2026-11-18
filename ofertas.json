@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-18T18:25:16.326Z",
+  "atualizado": "2026-11-18T18:26:31.265Z",
   "ofertas": [
+    {
+      "id": "25wnpLr",
+      "nome": "EUCERIN Creme Corporal Antimanchas Intenso 200ml, Anti-Pigment, Clareador",
+      "categoria": "Beleza",
+      "preco": 130.05,
+      "link": "https://meli.la/25wnpLr",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/eucerin-creme-corporal-antimanchas-intenso-200ml-anti-pigment-clareador-joelho-coxa-e-cotovelo-thiamidol/p/MLB41197524",
+      "precoDe": 209.9,
+      "parcelas": "4x de R$32,51 sem juros",
+      "postado": "2026-11-18T18:26:31.263Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-25wnpLr.jpg"
+    },
     {
       "id": "1c9vRDR",
       "nome": "Aspirador de Água e Pó Electrolux Hidrolux Preto AWD01",
