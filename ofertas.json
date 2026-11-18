@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T17:40:15.060Z",
+  "atualizado": "2026-11-18T17:41:30.075Z",
   "ofertas": [
+    {
+      "id": "1EAGyGG",
+      "nome": "Whey Protein Concentrado +Mu em pó sabor Paçoquinha x 900g",
+      "categoria": "Suplementos",
+      "preco": 152.96,
+      "link": "https://meli.la/1EAGyGG",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-protein-concentrado-mu-em-po-sabor-pacoquinha-x-900g/p/MLB61058173",
+      "precoDe": 279.99,
+      "postado": "2026-11-18T17:41:30.074Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1EAGyGG.jpg"
+    },
     {
       "id": "11HmxQc",
       "nome": "Cabo de Rede Furukawa Soho Plus CAT6 305 Metros CMX 24AWG 4 Pares 8 Fios 100%",
