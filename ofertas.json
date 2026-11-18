@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-18T18:40:16.842Z",
+  "atualizado": "2026-11-18T18:41:32.298Z",
   "ofertas": [
+    {
+      "id": "184zsif",
+      "nome": "Caixa de Som Portátil - PartyBox Stage 320 - JBL Pro Sound, até 18h de Bateria",
+      "categoria": "Tech",
+      "preco": 2591.9,
+      "link": "https://meli.la/184zsif",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-portatil-partybox-stage-320-jbl-pro-sound-ate-18h-de-bateria-show-de-luzes-ai-sound-boost-auracast-ipx4-preta/p/MLB56209495",
+      "precoDe": 3990,
+      "parcelas": "10x de R$259,19 sem juros",
+      "postado": "2026-11-18T18:41:32.295Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-184zsif.jpg"
+    },
     {
       "id": "1WNRTCZ",
       "nome": "Kit 2 unidades Câmera Lampada De segurança Brazuca Cell Ip Wifi Com Visão",
