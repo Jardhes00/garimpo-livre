@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T21:18:01.609Z",
+  "atualizado": "2026-11-18T21:19:16.907Z",
   "ofertas": [
+    {
+      "id": "2GnMuNq",
+      "nome": "LEGO Speed Champions Oracle Red Bull Racing RB20 F1 77243; Conjunto de",
+      "categoria": "Diversos",
+      "preco": 139.58,
+      "link": "https://meli.la/2GnMuNq",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lego-speed-champions-oracle-red-bull-racing-rb20-f1-77243-conjunto-de-construcao-de-carro-de-corrida-modelo-de-formula-1-com-detalhes-autenticos-inclui-piloto-presente-de-natal-10/p/MLB46053660",
+      "precoDe": 249.99,
+      "pix": true,
+      "parcelas": "R$143,90 em 4x R$35,98 sem juros",
+      "postado": "2026-11-18T21:19:16.906Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2GnMuNq.jpg"
+    },
     {
       "id": "2Yt9QRs",
       "nome": "Roçadeira Gasolina 75cc 3.6hp Knakasaki + Motopoda",
