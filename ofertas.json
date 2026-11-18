@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T18:16:31.090Z",
+  "atualizado": "2026-11-18T18:17:46.850Z",
   "ofertas": [
+    {
+      "id": "1RwUaw2",
+      "nome": "Cooktop Mueller 5 Bocas com Queimador Ultra Chama Preto",
+      "categoria": "Diversos",
+      "preco": 467.91,
+      "link": "https://meli.la/1RwUaw2",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cooktop-mueller-5-bocas-com-queimador-ultra-chama-preto/p/MLB18371222",
+      "precoDe": 785,
+      "pix": true,
+      "parcelas": "R$519,90 em 10x R$51,99 sem juros",
+      "postado": "2026-11-18T18:17:46.848Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1RwUaw2.jpg"
+    },
     {
       "id": "2xT3jCR",
       "nome": "Maquininha De Cartão Pro 3 Mercado Pago Point Amarela Vivo 4g/Wifi/Nfc",
