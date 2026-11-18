@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T20:41:45.533Z",
+  "atualizado": "2026-11-18T20:43:00.589Z",
   "ofertas": [
+    {
+      "id": "31G1vC6",
+      "nome": "Kit 101 Enfeites Natal Bolas Para Árvore De Natal Decoração",
+      "categoria": "Esporte",
+      "preco": 98.67,
+      "link": "https://meli.la/31G1vC6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-101-enfeites-natal-bolas-para-arvore-de-natal-decoracao/up/MLBU5405179091",
+      "precoDe": 299,
+      "parcelas": "3x de R$32,89 sem juros",
+      "cupomAnuncio": "Compre R$300 e ganhe 5% OFF",
+      "postado": "2026-11-18T20:43:00.587Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-31G1vC6.jpg"
+    },
     {
       "id": "1wZEivK",
       "nome": "Itatiaia Rose TRP 1,05 balcão 3 portas 1 gaveta com tampo cor preto",
@@ -4684,40 +4702,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-165jECy.jpg"
-    },
-    {
-      "id": "1qFKppW",
-      "nome": "Serra Tico Tico 850w Variável Profissional Com Laser Dobevi",
-      "categoria": "Ferramentas",
-      "preco": 169.57,
-      "link": "https://meli.la/1qFKppW",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://produto.mercadolivre.com.br/MLB-5030294400-serra-tico-tico-850w-variavel-profissional-com-laser-dobevi-_JM",
-      "precoDe": 652.21,
-      "parcelas": "12x R$ 16,76",
-      "postado": "2026-11-16T20:42:45.001Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1qFKppW.jpg"
-    },
-    {
-      "id": "1sLQ3PY",
-      "nome": "Smartwatch Huawei Watch Fit 5 Pro Amoled 1,92\" Vidro de Safira, ECG, até 10 Dias de Bateria - Preto",
-      "categoria": "Tech",
-      "preco": 1099,
-      "link": "https://meli.la/1sLQ3PY",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/smartwatch-huawei-watch-fit-5-pro-tela-fullview-amoled-de-192-vidro-de-safira-mini-treino-bateria-com-ate-10-dias-64-gb-gerenciamento-da-saude-ecg-compativel-com-ios-e-android-preto/p/MLB69595570",
-      "precoDe": 1599,
-      "parcelas": "10x de R$109,90 sem juros",
-      "postado": "2026-11-16T20:41:59.895Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1sLQ3PY.jpg"
     }
   ]
 }
