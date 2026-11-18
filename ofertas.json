@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-18T16:11:36.367Z",
+  "atualizado": "2026-11-18T16:12:51.264Z",
   "ofertas": [
+    {
+      "id": "2B3yseU",
+      "nome": "Smart TV AIWA 43” Android Full HD Borda Ultrafina HDR10 Dolby Áudio AWS-TV-43-BL-02-A",
+      "categoria": "Tech",
+      "preco": 1168,
+      "link": "https://meli.la/2B3yseU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB20662382",
+      "precoDe": 1899.9,
+      "parcelas": "12x R$ 113,38",
+      "postado": "2026-11-18T16:12:51.262Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2B3yseU.jpg"
+    },
     {
       "id": "2MzMWMM",
       "nome": "Tênis Sandrini Aero Spark Corrida Academia Caminhada Leve",
