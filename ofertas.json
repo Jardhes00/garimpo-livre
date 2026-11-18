@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T17:18:59.500Z",
+  "atualizado": "2026-11-18T17:20:14.539Z",
   "ofertas": [
+    {
+      "id": "2ouqsZb",
+      "nome": "Monitor Viewpro MWV21 LED de 21.5\" Full HD Com HDMI e VGA",
+      "categoria": "Tech",
+      "preco": 278.07,
+      "link": "https://meli.la/2ouqsZb",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/monitor-viewpro-mwv21-led-de-215-full-hd-com-hdmi-e-vga/p/MLB51873735",
+      "precoDe": 699,
+      "pix": true,
+      "parcelas": "R$299 em outros meios",
+      "postado": "2026-11-18T17:20:14.537Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ouqsZb.jpg"
+    },
     {
       "id": "1zuTKU7",
       "nome": "Auxiliar Partida Bateria Portátil Compressor Ar Emergência",
@@ -3815,23 +3833,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1QLRpDg.jpg"
-    },
-    {
-      "id": "1DMDte4",
-      "nome": "Papel Higiênico Neve Supreme Folha Tripla Leve 32 Pague 28",
-      "categoria": "Diversos",
-      "preco": 67.9,
-      "link": "https://meli.la/1DMDte4",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB16084447",
-      "precoDe": 92.3,
-      "parcelas": "12x R$ 6,69",
-      "postado": "2026-11-16T17:19:20.267Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1DMDte4.jpg"
     }
   ]
 }
