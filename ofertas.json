@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T18:11:30.899Z",
+  "atualizado": "2026-11-18T18:12:45.927Z",
   "ofertas": [
+    {
+      "id": "2xh4YPV",
+      "nome": "Pistola De Pintura E Pulverizadora Elétrica Portátil Hvlp 1.250l C/5 Bicos E",
+      "categoria": "Diversos",
+      "preco": 189,
+      "link": "https://meli.la/2xh4YPV",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/pistola-de-pintura-e-pulverizadora-eletrica-portatil-hvlp-1250l-c5-bicos-e-acessorios-600w-tpp150-the-black-tools/p/MLB55898949",
+      "precoDe": 299.9,
+      "pix": true,
+      "parcelas": "R$199,99 em 10x R$20 sem juros",
+      "postado": "2026-11-18T18:12:45.925Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2xh4YPV.jpg"
+    },
     {
       "id": "2oXHDvq",
       "nome": "Eps-6905 Epsilon Inteligente Bluetooth Com App, Lcd, Vidro Temperado, 180kg",
