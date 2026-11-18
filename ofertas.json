@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-18T18:34:01.879Z",
+  "atualizado": "2026-11-18T18:35:17.345Z",
   "ofertas": [
+    {
+      "id": "2TbBNSJ",
+      "nome": "Philco PAS4000V aspirador de pó cor preto 127 V",
+      "categoria": "Casa",
+      "preco": 262,
+      "link": "https://meli.la/2TbBNSJ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/philco-pas4000v-aspirador-de-po-cor-preto-127-v/p/MLB15977315",
+      "precoDe": 405.31,
+      "parcelas": "6x de R$43,67 sem juros",
+      "postado": "2026-11-18T18:35:17.342Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2TbBNSJ.jpg"
+    },
     {
       "id": "2aVzksX",
       "nome": "Liquidificador Philips Walita 600w 2 Velocidade Tritura Gelo Preto",
