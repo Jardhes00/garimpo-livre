@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-18T20:43:00.589Z",
+  "atualizado": "2026-11-18T20:44:15.768Z",
   "ofertas": [
+    {
+      "id": "2B7rENm",
+      "nome": "Cadeira De Escritório Ergonômica Ravena Apoio Lombar E Nuca",
+      "categoria": "Diversos",
+      "preco": 179.99,
+      "link": "https://meli.la/2B7rENm",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-escritorio-ergonomica-ravena-apoio-lombar-e-nuca/up/MLBU4786649514",
+      "precoDe": 509.9,
+      "cupomAnuncio": "R$170,99 com Cupom por seguir a loja",
+      "postado": "2026-11-18T20:44:15.766Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2B7rENm.jpg"
+    },
     {
       "id": "31G1vC6",
       "nome": "Kit 101 Enfeites Natal Bolas Para Árvore De Natal Decoração",
@@ -4666,42 +4683,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1JggTsH.jpg"
-    },
-    {
-      "id": "1oeayLo",
-      "nome": "Cadeira Escritório Ergonômica Giratória Oficial Begonia Mesh Preto Espuma",
-      "categoria": "Diversos",
-      "preco": 115.1,
-      "link": "https://meli.la/1oeayLo",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cadeira-escritorio-ergonomica-giratoria-oficial-begonia-mesh/up/MLBU4322516317",
-      "precoDe": 299.9,
-      "parcelas": "12x R$ 11,37",
-      "cupomAnuncio": "Compre R$150 e ganhe 5% OFF por seguir a loja",
-      "postado": "2026-11-16T20:44:14.938Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1oeayLo.jpg"
-    },
-    {
-      "id": "165jECy",
-      "nome": "Cadeirinha De Descanso E Balanço Bebê Funtime Maxibaby 18kgs Rosa",
-      "categoria": "Bebê",
-      "preco": 161.9,
-      "link": "https://meli.la/165jECy",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cadeirinha-de-descanso-e-balanco-bebe-funtime-maxibaby-18kgs/up/MLBU1732395389",
-      "precoDe": 349,
-      "pix": true,
-      "parcelas": "R$ 186,09 em outros meios",
-      "postado": "2026-11-16T20:43:29.936Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-165jECy.jpg"
     }
   ]
 }
