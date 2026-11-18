@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T18:36:31.843Z",
+  "atualizado": "2026-11-18T18:37:46.665Z",
   "ofertas": [
+    {
+      "id": "2QVX41C",
+      "nome": "Creatina Vitafor Em Pó 300g",
+      "categoria": "Suplementos",
+      "preco": 63.45,
+      "link": "https://meli.la/2QVX41C",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/creatina-vitafor-em-po-300g/p/MLB19548531",
+      "precoDe": 121,
+      "postado": "2026-11-18T18:37:46.663Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2QVX41C.jpg"
+    },
     {
       "id": "1YQ1tiZ",
       "nome": "Máquina de Solda Inversora ESAB Bantam 2.5 Bivolt 110v/220v",
