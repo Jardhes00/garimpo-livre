@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T18:04:00.634Z",
+  "atualizado": "2026-11-18T18:05:15.570Z",
   "ofertas": [
+    {
+      "id": "1CXvASy",
+      "nome": "Tablet Samsung Galaxy Tab A11 64gb Prata + E-books Digitais Prata",
+      "categoria": "Tech",
+      "preco": 1105.6,
+      "link": "https://meli.la/1CXvASy",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tablet-samsung-galaxy-tab-a11-64gb-prata-e-books-digitais-prata/p/MLB65257310",
+      "precoDe": 1749,
+      "pix": true,
+      "parcelas": "R$1.139,79 em 10x R$113,98 sem juros",
+      "postado": "2026-11-18T18:05:15.569Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1CXvASy.jpg"
+    },
     {
       "id": "16DNihV",
       "nome": "Kit 10 Latas Cartucho Refil Gás 227g Para Fogareiro Maçarico Liderança",
