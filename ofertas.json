@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-18T17:54:00.582Z",
+  "atualizado": "2026-11-18T17:55:15.474Z",
   "ofertas": [
+    {
+      "id": "2pHpwMc",
+      "nome": "Panela De Pressão Fechamento Externo Profissional 20 Litros Alumínio Polido",
+      "categoria": "Casa",
+      "preco": 379.9,
+      "link": "https://meli.la/2pHpwMc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/panela-de-pressao-fechamento-externo-profissional-20-litros-aluminio-polido/p/MLB19943893",
+      "precoDe": 569.9,
+      "cupomAnuncio": "R$375,90 com Cupom por seguir a loja",
+      "postado": "2026-11-18T17:55:15.472Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2pHpwMc.jpg"
+    },
     {
       "id": "19EhbCD",
       "nome": "Compressor de Ar Portátil Blackone 4000mAh Digital 150PSI Carro Moto Bike",
