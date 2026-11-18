@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T16:10:06.247Z",
+  "atualizado": "2026-11-18T16:11:36.367Z",
   "ofertas": [
+    {
+      "id": "2MzMWMM",
+      "nome": "Tênis Sandrini Aero Spark Corrida Academia Caminhada Leve",
+      "categoria": "Moda",
+      "preco": 110.39,
+      "link": "https://meli.la/2MzMWMM",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-4340888693-tnis-sandrini-aero-spark-corrida-academia-caminhada-leve-_JM",
+      "precoDe": 271.56,
+      "pix": true,
+      "parcelas": "R$ 119,99 em outros meios",
+      "postado": "2026-11-18T16:11:36.365Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2MzMWMM.jpg"
+    },
     {
       "id": "1mbGGQw",
       "nome": "Camiseta Tech Light Insider Masculino",
@@ -3971,24 +3989,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2an7jmd.jpg"
-    },
-    {
-      "id": "2jjBeNG",
-      "nome": "Roçadeira Elétrica Aparador De Grama Potente 800w 2 Baterias",
-      "categoria": "Casa",
-      "preco": 165.58,
-      "link": "https://meli.la/2jjBeNG",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/rocadeira-eletrica-aparador-de-grama-potente-800w-2-baterias/up/MLBU4020734466",
-      "precoDe": 469,
-      "pix": true,
-      "parcelas": "R$194,80 em outros meios",
-      "postado": "2026-11-16T16:11:33.479Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2jjBeNG.jpg"
     }
   ]
 }
