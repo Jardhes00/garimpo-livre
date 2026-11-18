@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-18T17:34:00.092Z",
+  "atualizado": "2026-11-18T17:35:14.917Z",
   "ofertas": [
+    {
+      "id": "2UujkgU",
+      "nome": "Árvore De Natal 1,80 Metros 540 Galhos Pinheiro Premium Verde Cheia Realista",
+      "categoria": "Diversos",
+      "preco": 132.04,
+      "link": "https://meli.la/2UujkgU",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/arvore-de-natal-180-metros-540-galhos-pinheiro-premium-verde-cheia-realista-base-de-metal-dobravel-decoracao-natalina-yab/p/MLB54515182",
+      "precoDe": 299.9,
+      "pix": true,
+      "parcelas": "R$138,99 em outros meios",
+      "cupomAnuncio": "R$130,14 com Cupom por seguir a loja",
+      "postado": "2026-11-18T17:35:14.915Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2UujkgU.jpg"
+    },
     {
       "id": "2L44upd",
       "nome": "Grill E Sanduicheira PGR21PI Maxx Clean 1000W Cinza Philco",
