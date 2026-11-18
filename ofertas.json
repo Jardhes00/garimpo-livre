@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T17:06:28.924Z",
+  "atualizado": "2026-11-18T17:07:44.039Z",
   "ofertas": [
+    {
+      "id": "13q5PA3",
+      "nome": "Mini Projeto Hy300 Smart Portátil Full Hd 4k Android 11 Wi-fi Bluetooth Mini",
+      "categoria": "Diversos",
+      "preco": 155.56,
+      "link": "https://meli.la/13q5PA3",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mini-projeto-hy300-smart-portatil-full-hd-4k-android-11-wi-fi-bluetooth-mini-projetor-home-theater-cinema-em-casa-tv-imagem-nitida-som-potente-compativel-com-diversos-dispositivos-branco-vlx/p/MLB51539641",
+      "precoDe": 227.32,
+      "pix": true,
+      "parcelas": "R$183,01 em outros meios",
+      "postado": "2026-11-18T17:07:44.037Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-13q5PA3.jpg"
+    },
     {
       "id": "24j4Vvs",
       "nome": "Caixa de Som Philco PCX6700 Amplificada 650W Ex Bass",
@@ -3769,23 +3787,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1jxjwSV.jpg"
-    },
-    {
-      "id": "31yYArj",
-      "nome": "Mesa Dobrável Vira Maleta Com Alça Portátil 1.80m Para Camping Pesca Jardim Área Externa Tft1800 The Black Tools",
-      "categoria": "Diversos",
-      "preco": 264.9,
-      "link": "https://meli.la/31yYArj",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB65053370",
-      "precoDe": 423.8,
-      "parcelas": "12x R$ 25,91",
-      "postado": "2026-11-16T17:07:34.589Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-31yYArj.jpg"
     }
   ]
 }
