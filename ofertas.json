@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T17:41:30.075Z",
+  "atualizado": "2026-11-18T17:42:45.325Z",
   "ofertas": [
+    {
+      "id": "1QrCqgT",
+      "nome": "Rádio Automotivo Taramps Amplayer G2 Fm Usb Sd Mp3 Bluetooth",
+      "categoria": "Auto",
+      "preco": 387.99,
+      "link": "https://meli.la/1QrCqgT",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/radio-automotivo-taramps-amplayer-g2-fm-usb-sd-mp3-bluetooth/p/MLB63878647",
+      "precoDe": 550,
+      "pix": true,
+      "parcelas": "R$431,10 em 8x R$53,89 sem juros",
+      "postado": "2026-11-18T17:42:45.324Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1QrCqgT.jpg"
+    },
     {
       "id": "1EAGyGG",
       "nome": "Whey Protein Concentrado +Mu em pó sabor Paçoquinha x 900g",
