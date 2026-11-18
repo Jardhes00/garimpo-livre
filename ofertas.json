@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T20:51:45.980Z",
+  "atualizado": "2026-11-18T20:53:01.001Z",
   "ofertas": [
+    {
+      "id": "1eKYpto",
+      "nome": "Patinete Elétrico Drift 450w Triciclo Infantil 120w Vermelho",
+      "categoria": "Bebê",
+      "preco": 872.9,
+      "link": "https://meli.la/1eKYpto",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/patinete-eletrico-drift-450w-triciclo-infantil-120w-vermelho/up/MLBU5920206488",
+      "precoDe": 1599,
+      "postado": "2026-11-18T20:53:01.000Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1eKYpto.jpg"
+    },
     {
       "id": "13zwvPK",
       "nome": "Carrinho Dobrável Multifuncional Acampamento Praia Camping Impermeável Multiuso",
