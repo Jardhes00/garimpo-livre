@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T16:28:53.463Z",
+  "atualizado": "2026-11-18T16:30:08.514Z",
   "ofertas": [
+    {
+      "id": "2jQZeHw",
+      "nome": "Climatizador portátil frio Midea AKAF1 branco",
+      "categoria": "Diversos",
+      "preco": 404.1,
+      "link": "https://meli.la/2jQZeHw",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB15458887",
+      "precoDe": 649,
+      "pix": true,
+      "parcelas": "R$ 449 em 8x R$ 56,12 sem juros",
+      "postado": "2026-11-18T16:30:08.513Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2jQZeHw.jpg"
+    },
     {
       "id": "2arrnh9",
       "nome": "Garrafa Térmica Quick Flip Stanley 710ml Go Bottle Branco Cor Polar",
@@ -4028,25 +4046,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2rQ8kzi.jpg"
-    },
-    {
-      "id": "1XbkqkU",
-      "nome": "Bombom Ouro Branco Lacta de Chocolate Branco – Pacote de 1 kg",
-      "categoria": "Diversos",
-      "preco": 56.99,
-      "link": "https://meli.la/1XbkqkU",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/bombom-ouro-branco-lacta-de-chocolate-branco-pacote-de-1-kg/p/MLB18399832",
-      "precoDe": 104.5,
-      "parcelas": "12x R$ 5,61",
-      "extra": "R$ 15 OFF com cupom no anúncio",
-      "cupomAnuncio": "Compre R$159 e ganhe R$15 OFF",
-      "postado": "2026-11-16T16:29:33.941Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1XbkqkU.jpg"
     }
   ]
 }
