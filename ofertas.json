@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T20:44:15.768Z",
+  "atualizado": "2026-11-18T20:45:31.086Z",
   "ofertas": [
+    {
+      "id": "14iY5wN",
+      "nome": "Penteadeira Camarim Jolie Com LED Espelho E 2 Gavetas Organizadora Maquiagem",
+      "categoria": "Casa",
+      "preco": 370.41,
+      "link": "https://meli.la/14iY5wN",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/penteadeira-camarim-jolie-com-led-espelho-e-2-gavetas-organizadora-maquiagem-para-studio-e-quarto-cor-branco/p/MLB61373993",
+      "precoDe": 799.9,
+      "postado": "2026-11-18T20:45:31.085Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-14iY5wN.jpg"
+    },
     {
       "id": "2B7rENm",
       "nome": "Cadeira De Escritório Ergonômica Ravena Apoio Lombar E Nuca",
@@ -4666,23 +4682,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1KnePkH.jpg"
-    },
-    {
-      "id": "1JggTsH",
-      "nome": "Árvore De Natal Pinheiro Canadense Luxo 1,80m 800 Galhos Tradicional Verde Imperial Premium Grande Cheia LuvinCo",
-      "categoria": "Diversos",
-      "preco": 229.9,
-      "link": "https://meli.la/1JggTsH",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/arvore-de-natal-pinheiro-canadense-luxo-180m-800-galhos-tradicional-verde-imperial-premium-grande-cheia-luvinco/p/MLB51763291",
-      "precoDe": 374.88,
-      "parcelas": "6x R$ 38,32 sem juros",
-      "postado": "2026-11-16T20:45:00.102Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1JggTsH.jpg"
     }
   ]
 }
