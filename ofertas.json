@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T21:21:46.888Z",
+  "atualizado": "2026-11-18T21:23:01.884Z",
   "ofertas": [
+    {
+      "id": "11j7ZWo",
+      "nome": "Cafeteira Black+decker 18 Cafés Inox Modelo CM15-br Preto",
+      "categoria": "Casa",
+      "preco": 116.84,
+      "link": "https://meli.la/11j7ZWo",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafeteira-blackdecker-18-cafes-inox-modelo-cm15-br-preto/p/MLB15737843",
+      "precoDe": 197.9,
+      "pix": true,
+      "parcelas": "R$127 em outros meios",
+      "postado": "2026-11-18T21:23:01.883Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-11j7ZWo.jpg"
+    },
     {
       "id": "1bCCC6k",
       "nome": "Colchão Queen Mola Ensacada Guldi Firme (25x158x198) Azul... Cor Azul",
