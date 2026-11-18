@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T16:15:08.508Z",
+  "atualizado": "2026-11-18T16:16:23.301Z",
   "ofertas": [
+    {
+      "id": "2dF2cU6",
+      "nome": "Headset Confortável com fio USB- C Logitech H390 - Preto",
+      "categoria": "Tech",
+      "preco": 125.91,
+      "link": "https://meli.la/2dF2cU6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB60605146",
+      "precoDe": 229.9,
+      "pix": true,
+      "parcelas": "R$ 139,90 em 2x R$ 69,95 sem juros",
+      "postado": "2026-11-18T16:16:23.300Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2dF2cU6.jpg"
+    },
     {
       "id": "2mKXTYR",
       "nome": "Samsung Smart TV 50\" Mini LED 4K M75H 26/2027",
@@ -3973,24 +3991,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1qjBRQF.jpg"
-    },
-    {
-      "id": "1b2pcei",
-      "nome": "Kit 2 Câmeras Lampada De Segurança Ip Wifi Com Visão Noturna Interna Externa App Yoosee Espiã 360º Cor Branco Sensor De Movimento Garagem Sacada Comercio",
-      "categoria": "Diversos",
-      "preco": 101.17,
-      "link": "https://meli.la/1b2pcei",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit-2-cameras-lampada-de-seguranca-ip-wifi-com-visao-noturna-interna-externa-app-yoosee-espia-360-cor-branco-sensor-de-movimento-garagem-sacada-comercio/p/MLB53857717",
-      "precoDe": 249.97,
-      "pix": true,
-      "parcelas": "R$ 112,41 em outros meios",
-      "postado": "2026-11-16T16:16:18.320Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1b2pcei.jpg"
     }
   ]
 }
