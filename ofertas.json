@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T18:47:24.677Z",
+  "atualizado": "2026-11-18T18:48:39.846Z",
   "ofertas": [
+    {
+      "id": "2CEMxB2",
+      "nome": "Ar Condicionado Split 12k LG Dual Inverter Voice+ia Q/f Branco",
+      "categoria": "Casa",
+      "preco": 2799.9,
+      "link": "https://meli.la/2CEMxB2",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-split-12k-lg-dual-inverter-voiceia-qf-branco/p/MLB68266536",
+      "precoDe": 4183.79,
+      "pix": true,
+      "parcelas": "R$2.999,90 em 10x R$299,99 sem juros",
+      "postado": "2026-11-18T18:48:39.844Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2CEMxB2.jpg"
+    },
     {
       "id": "25PZg7Z",
       "nome": "Nobreak Apc 600va Entrada bIVOLT e Saída 115v Bvx600bi-br",
