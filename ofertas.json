@@ -1,6 +1,41 @@
 {
-  "atualizado": "2026-11-18T18:44:02.478Z",
+  "atualizado": "2026-11-18T18:46:10.462Z",
   "ofertas": [
+    {
+      "id": "2ahoN17",
+      "nome": "Gel de Limpeza Facial Pele Oleosa 3 Ceramidas e Niacinamida CeraVe 340g",
+      "categoria": "Diversos",
+      "preco": 66.57,
+      "link": "https://meli.la/2ahoN17",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/gel-de-limpeza-facial-pele-oleosa-3-ceramidas-e-niacinamida-cerave-340g/p/MLB37622314",
+      "precoDe": 115.9,
+      "pix": true,
+      "parcelas": "R$73,97 em outros meios",
+      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
+      "postado": "2026-11-18T18:46:10.456Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ahoN17.jpg"
+    },
+    {
+      "id": "2Eb4gNw",
+      "nome": "Espremedor Premium Mondial 30W E-02",
+      "categoria": "Diversos",
+      "preco": 58.04,
+      "link": "https://meli.la/2Eb4gNw",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/espremedor-premium-mondial-30w-e-02/p/MLB19307438",
+      "precoDe": 104.9,
+      "postado": "2026-11-18T18:45:17.249Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Eb4gNw.jpg"
+    },
     {
       "id": "2g5yHuN",
       "nome": "Ventilador de Mesa 30cm Super Power, Mondial, 60W - VSP-30-W",
