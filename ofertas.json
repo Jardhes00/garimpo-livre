@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T20:40:30.893Z",
+  "atualizado": "2026-11-18T20:41:45.533Z",
   "ofertas": [
+    {
+      "id": "1wZEivK",
+      "nome": "Itatiaia Rose TRP 1,05 balcão 3 portas 1 gaveta com tampo cor preto",
+      "categoria": "Diversos",
+      "preco": 426.03,
+      "link": "https://meli.la/1wZEivK",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/itatiaia-rose-trp-105-balcao-3-portas-1-gaveta-com-tampo-cor-preto/p/MLB27948268",
+      "precoDe": 620.75,
+      "pix": true,
+      "parcelas": "R$448,45 em outros meios",
+      "postado": "2026-11-18T20:41:45.532Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1wZEivK.jpg"
+    },
     {
       "id": "1EPrPw2",
       "nome": "Armani Beauty Perfume Masculino Stronger With You Intensely Eau De Parfum 100ml",
@@ -4700,24 +4718,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1sLQ3PY.jpg"
-    },
-    {
-      "id": "1Ae8zxk",
-      "nome": "Fritadeira Air Fryer Philco 4L Redstone 1500W Paf40A",
-      "categoria": "Casa",
-      "preco": 197.1,
-      "link": "https://meli.la/1Ae8zxk",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/fritadeira-air-fryer-philco-4l-redstone-1500w-paf40a/p/MLB45954581",
-      "precoDe": 379.9,
-      "pix": true,
-      "parcelas": "R$219 em 6x R$36,50 sem juros",
-      "postado": "2026-11-16T20:41:15.098Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1Ae8zxk.jpg"
     }
   ]
 }
