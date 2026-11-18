@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T18:51:55.045Z",
+  "atualizado": "2026-11-18T18:53:25.351Z",
   "ofertas": [
+    {
+      "id": "13uJycL",
+      "nome": "Cadeira De Escritório Presidente Ergonômica Couro Sintético Encosto Ajustável",
+      "categoria": "Diversos",
+      "preco": 499.9,
+      "link": "https://meli.la/13uJycL",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-escritorio-presidente-ergonomica-couro-sintetico-encosto-ajustavel-com-trava-e-apoio-para-pes-cor-preto-sweet-studio/p/MLB81095625",
+      "precoDe": 980,
+      "postado": "2026-11-18T18:53:25.349Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-13uJycL.jpg"
+    },
     {
       "id": "2icau8g",
       "nome": "Whisky Escocês 12 Anos 1 Litro Chivas Regal",
