@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T18:42:47.014Z",
+  "atualizado": "2026-11-18T18:44:02.478Z",
   "ofertas": [
+    {
+      "id": "2g5yHuN",
+      "nome": "Ventilador de Mesa 30cm Super Power, Mondial, 60W - VSP-30-W",
+      "categoria": "Casa",
+      "preco": 119,
+      "link": "https://meli.la/2g5yHuN",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-mesa-30cm-super-power-mondial-60w-vsp-30-w/p/MLB18932159",
+      "precoDe": 172.9,
+      "postado": "2026-11-18T18:44:02.476Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2g5yHuN.jpg"
+    },
     {
       "id": "2CbpUov",
       "nome": "Combo Teclado e Mouse sem fio Logitech MK295",
