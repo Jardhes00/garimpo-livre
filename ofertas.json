@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T18:12:45.927Z",
+  "atualizado": "2026-11-18T18:14:00.935Z",
   "ofertas": [
+    {
+      "id": "2B1L9rg",
+      "nome": "Vitamina B12 Metilcobalamina 60 Cápsulas Nutrify",
+      "categoria": "Suplementos",
+      "preco": 22.2,
+      "link": "https://meli.la/2B1L9rg",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/vitamina-b12-nutrify-capsula-60-un/p/MLB29076728",
+      "precoDe": 42,
+      "postado": "2026-11-18T18:14:00.933Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2B1L9rg.jpg"
+    },
     {
       "id": "2xh4YPV",
       "nome": "Pistola De Pintura E Pulverizadora Elétrica Portátil Hvlp 1.250l C/5 Bicos E",
