@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T17:31:29.634Z",
+  "atualizado": "2026-11-18T17:32:44.629Z",
   "ofertas": [
+    {
+      "id": "2jxsmaJ",
+      "nome": "Ar Condicionado LG Dual Inverter Ai Voice 12000 Btus Qf Branco",
+      "categoria": "Casa",
+      "preco": 2879.9,
+      "link": "https://meli.la/2jxsmaJ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-lg-dual-inverter-ai-voice-12000-btus-qf-branco/p/MLB66187058",
+      "precoDe": 4183.79,
+      "pix": true,
+      "parcelas": "R$2.999,90 em 10x R$299,99 sem juros",
+      "postado": "2026-11-18T17:32:44.628Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2jxsmaJ.jpg"
+    },
     {
       "id": "1b1cYYa",
       "nome": "Jogo De Chave Boca E Estrela Combinada 12 Pçs Aço 6-22 Mm Cromada Profissional",
