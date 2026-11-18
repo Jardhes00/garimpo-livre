@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-18T17:28:59.718Z",
+  "atualizado": "2026-11-18T17:30:14.949Z",
   "ofertas": [
+    {
+      "id": "2jRjUYd",
+      "nome": "Tinta Para Parede Fosca Econômica Glasu / Suvinil",
+      "categoria": "Diversos",
+      "preco": 140.04,
+      "link": "https://meli.la/2jRjUYd",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tinta-para-parede-fosca-economica-glasu-suvinil/up/MLBU4541935602",
+      "precoDe": 259.9,
+      "pix": true,
+      "parcelas": "R$153,89 em outros meios",
+      "cupomAnuncio": "R$135,49 com Cupom por seguir a loja",
+      "postado": "2026-11-18T17:30:14.948Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2jRjUYd.jpg"
+    },
     {
       "id": "24Xyat6",
       "nome": "Geladeira Electrolux Cycle Defrost 240L Degelo Prático Uma Porta Branca RE31",
