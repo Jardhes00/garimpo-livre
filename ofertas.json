@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T20:39:15.763Z",
+  "atualizado": "2026-11-18T20:40:30.893Z",
   "ofertas": [
+    {
+      "id": "1EPrPw2",
+      "nome": "Armani Beauty Perfume Masculino Stronger With You Intensely Eau De Parfum 100ml",
+      "categoria": "Beleza",
+      "preco": 499.99,
+      "link": "https://meli.la/1EPrPw2",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/armani-beauty-perfume-masculino-stronger-with-you-intensely-eau-de-parfum-100ml/p/MLB19312692",
+      "precoDe": 819,
+      "parcelas": "9x de R$55,55 sem juros",
+      "cupomAnuncio": "Compre R$599 e ganhe 5% OFF",
+      "postado": "2026-11-18T20:40:30.891Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1EPrPw2.jpg"
+    },
     {
       "id": "12RHQ6y",
       "nome": "Guarda Roupa Casal Mônaco Madesa 3 Portas Correr Espelho R Cor Rustic 1093D81E",
@@ -4700,42 +4718,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1Ae8zxk.jpg"
-    },
-    {
-      "id": "1PevZMF",
-      "nome": "Bebedouro De Água Philco Gelada Natural 10l/20l Bivolt PBE14 Preto",
-      "categoria": "Bebê",
-      "preco": 285.19,
-      "link": "https://meli.la/1PevZMF",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/bebedouro-de-agua-philco-gelada-natural-10l20l-bivolt-pbe14-cor-preto/p/MLB74480014",
-      "precoDe": 401.9,
-      "pix": true,
-      "parcelas": "R$309,99 em 6x R$51,67 sem juros",
-      "postado": "2026-11-16T20:40:29.701Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1PevZMF.jpg"
-    },
-    {
-      "id": "1VGJ3iu",
-      "nome": "Prancha De Cabelo Mq Pro 480°f Titânio Automatico Chumbo 127/220v",
-      "categoria": "Diversos",
-      "preco": 358.24,
-      "link": "https://meli.la/1VGJ3iu",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/prancha-de-cabelo-mq-pro-480f-titanio-automatico-chumbo-127220v/p/MLB25246255",
-      "precoDe": 577.9,
-      "pix": true,
-      "parcelas": "R$ 398,04 em 7x R$ 56,86 sem juros",
-      "postado": "2026-11-16T20:39:44.859Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1VGJ3iu.jpg"
     }
   ]
 }
