@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T17:05:13.950Z",
+  "atualizado": "2026-11-18T17:06:28.924Z",
   "ofertas": [
+    {
+      "id": "24j4Vvs",
+      "nome": "Caixa de Som Philco PCX6700 Amplificada 650W Ex Bass",
+      "categoria": "Tech",
+      "preco": 539.9,
+      "link": "https://meli.la/24j4Vvs",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-philco-pcx6700-amplificada-650w-ex-bass/p/MLB25748650",
+      "precoDe": 899,
+      "postado": "2026-11-18T17:06:28.922Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-24j4Vvs.jpg"
+    },
     {
       "id": "2uMRyHF",
       "nome": "Celimax Original Retinal Shot Tightening Booster Corean 15ml",
@@ -3770,24 +3786,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-31yYArj.jpg"
-    },
-    {
-      "id": "2oejMXT",
-      "nome": "Chinelo Kenner Rakkar Summer Original Masculino Confortável",
-      "categoria": "Moda",
-      "preco": 93.57,
-      "link": "https://meli.la/2oejMXT",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://produto.mercadolivre.com.br/MLB-4806364239-chinelo-kenner-rakkar-summer-original-masculino-confortavel-_JM",
-      "precoDe": 219.9,
-      "pix": true,
-      "parcelas": "R$ 98,50 em 3x R$ 32,83 sem juros",
-      "postado": "2026-11-16T17:05:49.696Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2oejMXT.jpg"
     }
   ]
 }
