@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-18T17:07:44.039Z",
+  "atualizado": "2026-11-18T17:08:59.443Z",
   "ofertas": [
+    {
+      "id": "1qktrx8",
+      "nome": "Ventilador de Mesa 16 Pás Turbo Preto, 40cm, 3 velocidades, Ventisol",
+      "categoria": "Casa",
+      "preco": 129.9,
+      "link": "https://meli.la/1qktrx8",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-mesa-16-pas-turbo-preto-40cm-3-velocidades-ventisol/p/MLB81813280",
+      "precoDe": 209.9,
+      "parcelas": "4x de R$32,48 sem juros",
+      "postado": "2026-11-18T17:08:59.442Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1qktrx8.jpg"
+    },
     {
       "id": "13q5PA3",
       "nome": "Mini Projeto Hy300 Smart Portátil Full Hd 4k Android 11 Wi-fi Bluetooth Mini",
