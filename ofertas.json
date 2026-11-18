@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T16:33:53.903Z",
+  "atualizado": "2026-11-18T16:35:08.678Z",
   "ofertas": [
+    {
+      "id": "1ekAw5a",
+      "nome": "Fone de Ouvido Gamer com Fio - Quantum 100M2 - Driver de 40mm, Microfone Boom",
+      "categoria": "Tech",
+      "preco": 153.83,
+      "link": "https://meli.la/1ekAw5a",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fone-de-ouvido-gamer-com-fio-quantum-100m2-driver-de-40mm-microfone-boom-removivel-compativel-com-pc-e-consoles-jbl-quantumsound-signature-preto/p/MLB47044981",
+      "precoDe": 229,
+      "postado": "2026-11-18T16:35:08.676Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ekAw5a.jpg"
+    },
     {
       "id": "2Y2sTD2",
       "nome": "Smartphone OPPO A6t 128gb, 12gb Ram (4gb + 8gb Virtual Ram), Bateria Gigante de",
@@ -4050,23 +4066,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1BLePSy.jpg"
-    },
-    {
-      "id": "1YaCCrq",
-      "nome": "Micro-ondas Mondial 21L 1200W MO-01-21-E Espelhado",
-      "categoria": "Casa",
-      "preco": 469,
-      "link": "https://meli.la/1YaCCrq",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-mondial-21l-1200w-mo-01-21-e-espelhado/p/MLB45445267",
-      "precoDe": 669.9,
-      "parcelas": "9x R$ 52,11 sem juros",
-      "postado": "2026-11-16T16:34:03.806Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1YaCCrq.jpg"
     }
   ]
 }
