@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T17:08:59.443Z",
+  "atualizado": "2026-11-18T17:10:14.070Z",
   "ofertas": [
+    {
+      "id": "1J4X8rb",
+      "nome": "Creatina Integralmédica Hardcore em cápsula Sem sabor x 105g de 120 un",
+      "categoria": "Suplementos",
+      "preco": 26.94,
+      "link": "https://meli.la/1J4X8rb",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/creatina-integralmedica-hardcore-em-capsula-sem-sabor-x-105g-de-120-un/p/MLB19540092",
+      "precoDe": 58,
+      "postado": "2026-11-18T17:10:14.069Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1J4X8rb.jpg"
+    },
     {
       "id": "1qktrx8",
       "nome": "Ventilador de Mesa 16 Pás Turbo Preto, 40cm, 3 velocidades, Ventisol",
@@ -3787,23 +3803,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2JU7Fdu.jpg"
-    },
-    {
-      "id": "1jxjwSV",
-      "nome": "Colchão Inflável Queen Com C/ Bomba Bivolt Usb+2 Travesseiro",
-      "categoria": "Casa",
-      "preco": 328.99,
-      "link": "https://meli.la/1jxjwSV",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/colchao-inflavel-queen-com-c-bomba-bivolt-usb2-travesseiro/up/MLBU2903359976",
-      "precoDe": 559.99,
-      "parcelas": "12x R$ 32,18",
-      "postado": "2026-11-16T17:09:04.945Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1jxjwSV.jpg"
     }
   ]
 }
