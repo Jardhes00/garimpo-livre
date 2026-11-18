@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-18T18:35:17.345Z",
+  "atualizado": "2026-11-18T18:36:31.843Z",
   "ofertas": [
+    {
+      "id": "1YQ1tiZ",
+      "nome": "Máquina de Solda Inversora ESAB Bantam 2.5 Bivolt 110v/220v",
+      "categoria": "Auto",
+      "preco": 406.9,
+      "link": "https://meli.la/1YQ1tiZ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquina-de-solda-inversora-esab-bantam-25-bivolt-110v220v/p/MLB36264774",
+      "precoDe": 662.34,
+      "parcelas": "10x de R$40,69 sem juros",
+      "postado": "2026-11-18T18:36:31.841Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1YQ1tiZ.jpg"
+    },
     {
       "id": "2TbBNSJ",
       "nome": "Philco PAS4000V aspirador de pó cor preto 127 V",
