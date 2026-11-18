@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T21:08:01.464Z",
+  "atualizado": "2026-11-18T21:09:16.288Z",
   "ofertas": [
+    {
+      "id": "11udPGM",
+      "nome": "Carolina Herrera 212 VIP ROSÉ EDP 80ml para feminino",
+      "categoria": "Diversos",
+      "preco": 505.91,
+      "link": "https://meli.la/11udPGM",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/carolina-herrera-212-vip-rose-edp-80ml-para-feminino/p/MLB6137685",
+      "precoDe": 911.9,
+      "pix": true,
+      "parcelas": "R$549,90 em 10x R$54,99 sem juros",
+      "postado": "2026-11-18T21:09:16.287Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-11udPGM.jpg"
+    },
     {
       "id": "1swahvc",
       "nome": "Ventilador Britânia 2 em 1 Maxx Force Silencioso 174W BVT481",
