@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T17:13:59.167Z",
+  "atualizado": "2026-11-18T17:15:14.260Z",
   "ofertas": [
+    {
+      "id": "2ST9QVQ",
+      "nome": "Micro-ondas Electrolux Branco 23L Efficient ME23B",
+      "categoria": "Casa",
+      "preco": 474.33,
+      "link": "https://meli.la/2ST9QVQ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB19617679",
+      "precoDe": 659,
+      "pix": true,
+      "parcelas": "R$ 489 em outros meios",
+      "postado": "2026-11-18T17:15:14.259Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ST9QVQ.jpg"
+    },
     {
       "id": "27R8B3Z",
       "nome": "Ar-condicionado Split Inverter 12000 Btu/h Prime Air F 12fc Cor Branco",
