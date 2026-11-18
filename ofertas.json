@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T17:12:44.018Z",
+  "atualizado": "2026-11-18T17:13:59.167Z",
   "ofertas": [
+    {
+      "id": "27R8B3Z",
+      "nome": "Ar-condicionado Split Inverter 12000 Btu/h Prime Air F 12fc Cor Branco",
+      "categoria": "Casa",
+      "preco": 1701.91,
+      "link": "https://meli.la/27R8B3Z",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB49209948",
+      "precoDe": 2299.9,
+      "pix": true,
+      "parcelas": "R$ 1.849,90 em 10x R$ 184,99 sem juros",
+      "postado": "2026-11-18T17:13:59.165Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-27R8B3Z.jpg"
+    },
     {
       "id": "1oejyNb",
       "nome": "Celular Samsung Galaxy A37 5G 256GB, 8GB RAM, Câmera 50MP",
@@ -3782,25 +3800,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1vyd1UH.jpg"
-    },
-    {
-      "id": "2BgxHRL",
-      "nome": "Árvore de Natal Pinheiro Premium de 1,50m com 500 Galhos Verdes e Base de Ferro Casa Sala Escritório Apartamento Enfeites Volumosos",
-      "categoria": "Diversos",
-      "preco": 109.66,
-      "link": "https://meli.la/2BgxHRL",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB80564874",
-      "precoDe": 349.9,
-      "pix": true,
-      "parcelas": "R$ 121,85 em outros meios",
-      "cupomAnuncio": "R$104,18 com Cupom por seguir a loja",
-      "postado": "2026-11-16T17:13:20.068Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2BgxHRL.jpg"
     }
   ]
 }
