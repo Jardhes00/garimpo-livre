@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T18:26:31.265Z",
+  "atualizado": "2026-11-18T18:27:46.472Z",
   "ofertas": [
+    {
+      "id": "2WVwFr9",
+      "nome": "Kit 2 3800w Luminaria Poste Solar Potente Com Sensor",
+      "categoria": "Casa",
+      "preco": 201.4,
+      "link": "https://meli.la/2WVwFr9",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-2-3800w-luminaria-poste-solar-potente-com-sensor/up/MLBU3687263886",
+      "precoDe": 500,
+      "pix": true,
+      "parcelas": "R$212 em outros meios",
+      "postado": "2026-11-18T18:27:46.469Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2WVwFr9.jpg"
+    },
     {
       "id": "25wnpLr",
       "nome": "EUCERIN Creme Corporal Antimanchas Intenso 200ml, Anti-Pigment, Clareador",
