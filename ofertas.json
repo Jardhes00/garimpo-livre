@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T17:03:59.218Z",
+  "atualizado": "2026-11-18T17:05:13.950Z",
   "ofertas": [
+    {
+      "id": "2uMRyHF",
+      "nome": "Celimax Original Retinal Shot Tightening Booster Corean 15ml",
+      "categoria": "Diversos",
+      "preco": 91.62,
+      "link": "https://meli.la/2uMRyHF",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/celimax-original-retinal-shot-tightening-booster-corean-15ml/up/MLBU5911770946",
+      "precoDe": 175,
+      "postado": "2026-11-18T17:05:13.948Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2uMRyHF.jpg"
+    },
     {
       "id": "2DBNAXT",
       "nome": "Ar Cond Split Invt Midea Ai Ecomaster 9000 Btus Frio 220v",
