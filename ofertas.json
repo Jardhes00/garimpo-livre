@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-18T17:20:14.539Z",
+  "atualizado": "2026-11-18T17:21:29.501Z",
   "ofertas": [
+    {
+      "id": "2tK5GpK",
+      "nome": "Relógio Tommy Hilfiger David Masculino Em Borracha Azul 1710",
+      "categoria": "Moda",
+      "preco": 495,
+      "link": "https://meli.la/2tK5GpK",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/relogio-tommy-hilfiger-david-masculino-em-borracha-azul-1710/up/MLBU5387141631",
+      "precoDe": 990,
+      "parcelas": "10x de R$49,50 sem juros",
+      "postado": "2026-11-18T17:21:29.499Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2tK5GpK.jpg"
+    },
     {
       "id": "2ouqsZb",
       "nome": "Monitor Viewpro MWV21 LED de 21.5\" Full HD Com HDMI e VGA",
