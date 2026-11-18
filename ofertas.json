@@ -1,6 +1,26 @@
 {
-  "atualizado": "2026-11-18T16:17:38.368Z",
+  "atualizado": "2026-11-18T16:18:53.449Z",
   "ofertas": [
+    {
+      "id": "2FZs8XW",
+      "nome": "Creme Multirreparador Pele Sensível Cicaplast Baume B5+ La Roche-Posay 40ml",
+      "categoria": "Beleza",
+      "preco": 64.37,
+      "link": "https://meli.la/2FZs8XW",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB24326256",
+      "precoDe": 109.9,
+      "pix": true,
+      "parcelas": "R$ 71,52 em outros meios",
+      "extra": "15% OFF com cupom no anúncio",
+      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
+      "postado": "2026-11-18T16:18:53.447Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2FZs8XW.jpg"
+    },
     {
       "id": "1ujqpQA",
       "nome": "Monitor Samsung ViewFinity S5 34” UWQHD VA LS34C500GALMZD 100Hz 5(GTG) HDMI Headphone Display Port",
@@ -3992,23 +4012,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-28XGw8z.jpg"
-    },
-    {
-      "id": "1qjBRQF",
-      "nome": "Espelho Mirano Oval Berlim 100x40cm Lapidado Design Moderno",
-      "categoria": "Diversos",
-      "preco": 86.9,
-      "link": "https://meli.la/1qjBRQF",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/espelho-mirano-oval-berlim-100x40cm-lapidado-design-moderno/up/MLBU5229169170",
-      "precoDe": 199.8,
-      "cupomAnuncio": "R$84,90 com Cupom por seguir a loja",
-      "postado": "2026-11-16T16:18:03.350Z",
-      "conferido": "2026-11-16",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1qjBRQF.jpg"
     }
   ]
 }
