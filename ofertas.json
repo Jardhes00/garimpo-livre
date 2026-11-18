@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T18:31:31.917Z",
+  "atualizado": "2026-11-18T18:32:46.675Z",
   "ofertas": [
+    {
+      "id": "2ZoiNqx",
+      "nome": "Coenzima Q10 Vitafor em cápsula Sem sabor",
+      "categoria": "Diversos",
+      "preco": 66,
+      "link": "https://meli.la/2ZoiNqx",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/coenzima-q10-vitafor-em-capsula-sem-sabor/p/MLB24000192",
+      "precoDe": 121,
+      "postado": "2026-11-18T18:32:46.674Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ZoiNqx.jpg"
+    },
     {
       "id": "1vBE2oc",
       "nome": "Oxímetro OLED G-TECH",
