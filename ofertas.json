@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T17:35:14.917Z",
+  "atualizado": "2026-11-18T17:36:30.248Z",
   "ofertas": [
+    {
+      "id": "1eJQDZv",
+      "nome": "Ventilador De Mesa 30cm Super Power 60w Vsp-30-b Turbo",
+      "categoria": "Casa",
+      "preco": 118.78,
+      "link": "https://meli.la/1eJQDZv",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-mesa-30cm-super-power-60w-vsp-30-b-turbo/up/MLBU3522691545",
+      "precoDe": 290,
+      "pix": true,
+      "parcelas": "R$125,03 em outros meios",
+      "postado": "2026-11-18T17:36:30.247Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1eJQDZv.jpg"
+    },
     {
       "id": "2UujkgU",
       "nome": "Árvore De Natal 1,80 Metros 540 Galhos Pinheiro Premium Verde Cheia Realista",
