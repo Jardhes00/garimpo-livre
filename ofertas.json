@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T18:15:16.331Z",
+  "atualizado": "2026-11-18T18:16:31.090Z",
   "ofertas": [
+    {
+      "id": "2xT3jCR",
+      "nome": "Maquininha De Cartão Pro 3 Mercado Pago Point Amarela Vivo 4g/Wifi/Nfc",
+      "categoria": "Diversos",
+      "preco": 92.61,
+      "link": "https://meli.la/2xT3jCR",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquininha-de-cartao-pro-3-mercado-pago-point-amarela-vivo-4gwifinfc/p/MLB50744233",
+      "precoDe": 259.99,
+      "parcelas": "3x de R$30,87 sem juros",
+      "cupomAnuncio": "R$87,47 com Cupom por seguir a loja",
+      "postado": "2026-11-18T18:16:31.088Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2xT3jCR.jpg"
+    },
     {
       "id": "2VmjNco",
       "nome": "Liquidificador Philco 1500W 3,1L 12 Velocidades com 6 Lâminas PLQ15A",
