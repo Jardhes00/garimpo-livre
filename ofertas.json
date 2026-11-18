@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-18T17:37:44.827Z",
+  "atualizado": "2026-11-18T17:38:59.845Z",
   "ofertas": [
+    {
+      "id": "1vqfdGa",
+      "nome": "Bravecto Cães 20-40kg 1000mg 1 Comp. Mastigável Msd Azul",
+      "categoria": "Diversos",
+      "preco": 164.35,
+      "link": "https://meli.la/1vqfdGa",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bravecto-caes-20-40kg-1000mg-1-comp-mastigavel-msd-azul/p/MLB15982844",
+      "precoDe": 249.9,
+      "pix": true,
+      "parcelas": "R$173 em outros meios",
+      "postado": "2026-11-18T17:38:59.844Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1vqfdGa.jpg"
+    },
     {
       "id": "28bEQU9",
       "nome": "Whisky Old Parr 12 anos 750ml",
