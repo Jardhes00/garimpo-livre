@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-18T18:24:01.351Z",
+  "atualizado": "2026-11-18T18:25:16.326Z",
   "ofertas": [
+    {
+      "id": "1c9vRDR",
+      "nome": "Aspirador de Água e Pó Electrolux Hidrolux Preto AWD01",
+      "categoria": "Casa",
+      "preco": 193.9,
+      "link": "https://meli.la/1c9vRDR",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aspirador-de-agua-e-po-electrolux-hidrolux-preto-awd01/p/MLB24168425",
+      "precoDe": 269.99,
+      "postado": "2026-11-18T18:25:16.325Z",
+      "conferido": "2026-11-18",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1c9vRDR.jpg"
+    },
     {
       "id": "2hLMMub",
       "nome": "Sofá Cama Orbe. 1,90m Xpand Tech Tecido Boucle Cama Inbox",
