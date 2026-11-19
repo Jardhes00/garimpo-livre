@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-19T15:13:05.474Z",
+  "atualizado": "2026-11-19T15:14:20.255Z",
   "ofertas": [
+    {
+      "id": "2cLfhFL",
+      "nome": "Ventilador de Mesa Britânia Prime Air 60W com 6 Pás e 3 Velocidades",
+      "categoria": "Casa",
+      "preco": 109.9,
+      "link": "https://meli.la/2cLfhFL",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-mesa-britania-prime-air-60w-com-6-pas-e-3-velocidades/p/MLB37826854",
+      "precoDe": 183.9,
+      "parcelas": "4x R$ 27,48 sem juros",
+      "postado": "2026-11-19T15:14:20.253Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2cLfhFL.jpg"
+    },
     {
       "id": "32d684k",
       "nome": "Chapinha De Cabelo Mq Professional Titanium Pro 480 Cor Chumbo",
