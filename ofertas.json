@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T20:03:47.330Z",
+  "atualizado": "2026-11-19T20:05:02.386Z",
   "ofertas": [
+    {
+      "id": "24Cu4TA",
+      "nome": "Perfume Masculino Emporio Armani Stronger With You Edt 100ml",
+      "categoria": "Beleza",
+      "preco": 401.99,
+      "link": "https://meli.la/24Cu4TA",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/perfume-masculino-emporio-armani-stronger-with-you-edt-100ml/p/MLB17460955",
+      "precoDe": 719,
+      "parcelas": "8x de R$50,25 sem juros",
+      "cupomAnuncio": "Compre R$599 e ganhe 5% OFF",
+      "postado": "2026-11-19T20:05:02.384Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-24Cu4TA.jpg"
+    },
     {
       "id": "1QzBzqn",
       "nome": "Liquidificador Electrolux 1300W de Potência com 3.2 Litros de Capacidade 12",
