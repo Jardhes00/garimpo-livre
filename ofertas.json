@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T19:50:01.832Z",
+  "atualizado": "2026-11-19T19:51:16.837Z",
   "ofertas": [
+    {
+      "id": "2cwUDei",
+      "nome": "O Boticário Boticollection Connexion Desodorante Colônia Masculino 100ml",
+      "categoria": "Diversos",
+      "preco": 84.9,
+      "link": "https://meli.la/2cwUDei",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/o-boticario-boticollection-connexion-desodorante-colonia-masculino-100ml/p/MLB22849426",
+      "precoDe": 179.9,
+      "parcelas": "3x de R$28,30 sem juros",
+      "cupomAnuncio": "R$76,41 com Cupom por seguir a loja",
+      "postado": "2026-11-19T19:51:16.836Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2cwUDei.jpg"
+    },
     {
       "id": "1nBuNM5",
       "nome": "Pré Treino Évora Xt Neon Berry 300g Darkness",
