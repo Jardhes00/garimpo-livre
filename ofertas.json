@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T19:26:16.217Z",
+  "atualizado": "2026-11-19T19:27:30.942Z",
   "ofertas": [
+    {
+      "id": "1tzh4aG",
+      "nome": "Roteador TP-Link EX3000 Wi-Fi 6 de Banda Dupla, 3 Gbps e 4 Antenas para até 180",
+      "categoria": "Diversos",
+      "preco": 179.92,
+      "link": "https://meli.la/1tzh4aG",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/roteador-tp-link-ex3000-wi-fi-6-de-banda-dupla-3-gbps-e-4-antenas-para-ate-180-m/p/MLB67989415",
+      "precoDe": 269,
+      "pix": true,
+      "parcelas": "R$239,90 em 6x R$39,98 sem juros",
+      "postado": "2026-11-19T19:27:30.941Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1tzh4aG.jpg"
+    },
     {
       "id": "1noh8h8",
       "nome": "Impressora Creality 3D Ender-3 V3 Se 220mm x 220mm x 250mm",
