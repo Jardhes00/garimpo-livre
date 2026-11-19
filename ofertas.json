@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T20:46:12.497Z",
+  "atualizado": "2026-11-19T20:47:27.548Z",
   "ofertas": [
+    {
+      "id": "2Reb4N8",
+      "nome": "Smart Tv Lg 43\" Nano 4k Uhd Hdmi Usb Wi-fi Bluetooth Thinq Ai Alexa Apple",
+      "categoria": "Tech",
+      "preco": 1867.51,
+      "link": "https://meli.la/2Reb4N8",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smart-tv-lg-43-nano-4k-uhd-hdmi-usb-wi-fi-bluetooth-thinq-ai-alexa-apple-airplay-43un85cbpsaawz/p/MLB76785639",
+      "precoDe": 4000,
+      "pix": true,
+      "parcelas": "R$2.029,90 em outros meios",
+      "postado": "2026-11-19T20:47:27.546Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Reb4N8.jpg"
+    },
     {
       "id": "1uu77Sg",
       "nome": "Cascata de Natal LED 400 Luzes Branco Quente 10m com 8 Funções para Decoração",
@@ -5381,42 +5399,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2hqFpot.jpg"
-    },
-    {
-      "id": "1QrXrh1",
-      "nome": "Câmera de Segurança Wi-Fi Mercusys MC210 2K 3MP 360° por TP-Link",
-      "categoria": "Diversos",
-      "preco": 89.92,
-      "link": "https://meli.la/1QrXrh1",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/mercusys-mc210-camera-seguranca-wifi-2k-3mp-360-por-tp-link/p/MLB65352564",
-      "precoDe": 159.9,
-      "pix": true,
-      "parcelas": "R$119,90 em 4x R$29,98 sem juros",
-      "postado": "2026-11-17T20:47:04.122Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1QrXrh1.jpg"
-    },
-    {
-      "id": "2E71bAb",
-      "nome": "Ar Condicionado Split Inverter Midea AI Ecomaster 12000 BTUs Frio 220V",
-      "categoria": "Casa",
-      "preco": 2399,
-      "link": "https://meli.la/2E71bAb",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-hw-inverter-midea-ai-ecomaster-12k-frio-220v/up/MLBU5375879881",
-      "precoDe": 3974.4,
-      "pix": true,
-      "parcelas": "R$2.499 em 10x R$249,90 sem juros",
-      "postado": "2026-11-17T20:46:19.130Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2E71bAb.jpg"
     }
   ]
 }
