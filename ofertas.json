@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T19:02:35.416Z",
+  "atualizado": "2026-11-19T19:03:50.660Z",
   "ofertas": [
+    {
+      "id": "2Fq9qJH",
+      "nome": "Cadeira De Escritório Gamer Python Fly Ergonômica Estofado Couro Sintético",
+      "categoria": "Games",
+      "preco": 315.92,
+      "link": "https://meli.la/2Fq9qJH",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-escritorio-gamer-python-fly-ergonomica-estofado-couro-sintetico-reclinavel-altura-ajustavel-cor-branco/p/MLB34969471",
+      "precoDe": 899.99,
+      "pix": true,
+      "parcelas": "R$394,90 em outros meios",
+      "postado": "2026-11-19T19:03:50.657Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Fq9qJH.jpg"
+    },
     {
       "id": "26DRcUA",
       "nome": "Whisky Aged 12 Years Garrafa 1l Deluxe Buchanan's",
@@ -4411,40 +4429,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1A1icxe.jpg"
-    },
-    {
-      "id": "2L18Q8N",
-      "nome": "Micro-ondas Philco PMO39B 33L Branco",
-      "categoria": "Casa",
-      "preco": 515,
-      "link": "https://meli.la/2L18Q8N",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/philco-linha-branca-pmo39b-corrente-domestica-branco/p/MLB74999344",
-      "precoDe": 749,
-      "parcelas": "10x de R$51,50 sem juros",
-      "postado": "2026-11-17T19:03:24.904Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2L18Q8N.jpg"
-    },
-    {
-      "id": "1jtnBZ4",
-      "nome": "Ar Condicionado Split Inverter Midea AI Ecomaster 9000 BTUs Frio 220V",
-      "categoria": "Casa",
-      "preco": 2159,
-      "link": "https://meli.la/1jtnBZ4",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-hw-inverter-midea-ai-ecomaster-9k-frio-220v/up/MLBU5418038232",
-      "precoDe": 3180,
-      "parcelas": "10x de R$215,90 sem juros",
-      "postado": "2026-11-17T19:02:40.034Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1jtnBZ4.jpg"
     }
   ]
 }
