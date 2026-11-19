@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T19:06:20.665Z",
+  "atualizado": "2026-11-19T19:07:36.396Z",
   "ofertas": [
+    {
+      "id": "2gCsY9p",
+      "nome": "Principia Kit Protetor Solar Facial Ps-01 Fps60",
+      "categoria": "Beleza",
+      "preco": 69.82,
+      "link": "https://meli.la/2gCsY9p",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/principia-kit-protetor-solar-facial-ps-01-fps60/p/MLB54456751",
+      "precoDe": 98,
+      "postado": "2026-11-19T19:07:36.395Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2gCsY9p.jpg"
+    },
     {
       "id": "1CM8gNk",
       "nome": "Mangueira LED Redonda de 100m para Decoração Natal e Exterior LuvinCo",
