@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-19T19:08:50.695Z",
+  "atualizado": "2026-11-19T19:10:05.697Z",
   "ofertas": [
+    {
+      "id": "1xPD32h",
+      "nome": "Ar-condicionado Split 9000 Btu/h Prime Air 9fc Frio Branco",
+      "categoria": "Casa",
+      "preco": 1501.41,
+      "link": "https://meli.la/1xPD32h",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-split-9000-btuh-prime-air-9fc-frio-branco/p/MLB59571403",
+      "precoDe": 2184.9,
+      "pix": true,
+      "parcelas": "R$1.649,90 em 10x R$164,99 sem juros",
+      "cupomAnuncio": "R$1.428,61 com Cupom",
+      "postado": "2026-11-19T19:10:05.696Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1xPD32h.jpg"
+    },
     {
       "id": "2TFEF8r",
       "nome": "Conjunto Panelas Antiaderente 10 Peças Teflon Várias Cores",
