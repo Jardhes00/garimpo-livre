@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T21:06:13.133Z",
+  "atualizado": "2026-11-19T21:07:28.183Z",
   "ofertas": [
+    {
+      "id": "118zcbD",
+      "nome": "EA Sports FC 27 Nintendo Physical Switch",
+      "categoria": "Games",
+      "preco": 213.81,
+      "link": "https://meli.la/118zcbD",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ea-sports-fc-27-nintendo-physical-switch/p/MLB79375806",
+      "precoDe": 449.9,
+      "pix": true,
+      "parcelas": "R$229,90 em 3x R$76,63 sem juros",
+      "postado": "2026-11-19T21:07:28.182Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-118zcbD.jpg"
+    },
     {
       "id": "13SPSrm",
       "nome": "Divine Shampoo + Condicionador + Másc + Mini Essential 200 g- Braé",
