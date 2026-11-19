@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T19:38:46.450Z",
+  "atualizado": "2026-11-19T19:40:01.435Z",
   "ofertas": [
+    {
+      "id": "25fig4M",
+      "nome": "Lavadora de Alta Pressão Kärcher K2 Plus 1740PSI/Libras 1400W 300L/h Com Jato",
+      "categoria": "Diversos",
+      "preco": 351.99,
+      "link": "https://meli.la/25fig4M",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-krcher-k2-plus-1740psilibras-1400w-300lh-com-jato-turbo-rotativo-e-lanca-leque-220v/p/MLB24973671",
+      "precoDe": 599.9,
+      "pix": true,
+      "parcelas": "R$399,99 em outros meios",
+      "postado": "2026-11-19T19:40:01.434Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-25fig4M.jpg"
+    },
     {
       "id": "2s7VNWu",
       "nome": "Cooktop Gás Fischer 5 Bocas Tripla Chama Infinity Mesa Inox Inox",
