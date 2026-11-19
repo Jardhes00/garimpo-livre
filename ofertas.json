@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T15:38:05.739Z",
+  "atualizado": "2026-11-19T15:39:20.972Z",
   "ofertas": [
+    {
+      "id": "2PJdChS",
+      "nome": "Conjunto Assadeiras 6 Peças de Vidro com Tampa Cinza - Marinex",
+      "categoria": "Diversos",
+      "preco": 135.7,
+      "link": "https://meli.la/2PJdChS",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/conjunto-assadeiras-6-pecas-de-vidro-com-tampa-cinza-marinex/p/MLB28025230",
+      "precoDe": 199,
+      "pix": true,
+      "parcelas": "R$139,90 em outros meios",
+      "postado": "2026-11-19T15:39:20.971Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2PJdChS.jpg"
+    },
     {
       "id": "13crqXe",
       "nome": "Cadeira Escritório Ergonômica Giratória Apoio Lombar Syber Preta",
