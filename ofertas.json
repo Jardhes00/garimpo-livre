@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T19:40:01.435Z",
+  "atualizado": "2026-11-19T19:41:16.679Z",
   "ofertas": [
+    {
+      "id": "2fL76aK",
+      "nome": "Jogo de Panelas Brinox Ceramic Life Smart Plus com Indução, 7 Peças",
+      "categoria": "Games",
+      "preco": 479.99,
+      "link": "https://meli.la/2fL76aK",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/jogo-de-panelas-brinox-ceramic-life-smart-plus-com-inducao-7-pecas-antiaderente-e-cabo-soft-touch-areia/p/MLB70004700",
+      "precoDe": 999.99,
+      "postado": "2026-11-19T19:41:16.677Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2fL76aK.jpg"
+    },
     {
       "id": "25fig4M",
       "nome": "Lavadora de Alta Pressão Kärcher K2 Plus 1740PSI/Libras 1400W 300L/h Com Jato",
