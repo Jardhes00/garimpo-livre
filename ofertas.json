@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-19T19:51:16.837Z",
+  "atualizado": "2026-11-19T19:52:31.848Z",
   "ofertas": [
+    {
+      "id": "2Efo7hV",
+      "nome": "Monitor LG Ultragear 27 , 144hz, 1ms(mbr), Preto - 27g411b",
+      "categoria": "Tech",
+      "preco": 692,
+      "link": "https://meli.la/2Efo7hV",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/monitor-lg-ultragear-27-144hz-1msmbr-preto-27g411b/up/MLBU5081658851",
+      "precoDe": 1039,
+      "parcelas": "10x de R$69,20 sem juros",
+      "postado": "2026-11-19T19:52:31.846Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Efo7hV.jpg"
+    },
     {
       "id": "2cwUDei",
       "nome": "O Boticário Boticollection Connexion Desodorante Colônia Masculino 100ml",
