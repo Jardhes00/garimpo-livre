@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T15:30:35.866Z",
+  "atualizado": "2026-11-19T15:31:50.782Z",
   "ofertas": [
+    {
+      "id": "1vnbaC9",
+      "nome": "Ponteira Estrela Natalina LED Bivolt Topo Árvore De Natal Pisca Branco Quente",
+      "categoria": "Diversos",
+      "preco": 39.9,
+      "link": "https://meli.la/1vnbaC9",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ponteira-estrela-natalina-led-bivolt-topo-arvore-de-natal-pisca-branco-quente-luvinco/p/MLB81087987",
+      "precoDe": 99.9,
+      "postado": "2026-11-19T15:31:50.781Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1vnbaC9.jpg"
+    },
     {
       "id": "1ntBhCu",
       "nome": "Kit 4 Toalhas De Banho Premium 100% Algodão Grandes Felpudas",
