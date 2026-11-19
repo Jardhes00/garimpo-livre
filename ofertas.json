@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T18:57:35.237Z",
+  "atualizado": "2026-11-19T18:58:50.288Z",
   "ofertas": [
+    {
+      "id": "2wa2eo9",
+      "nome": "Echo Dot 5ª Geração Alto-falante De 1,73 Azul Amazon",
+      "categoria": "Tech",
+      "preco": 349,
+      "link": "https://meli.la/2wa2eo9",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/echo-dot-5-geracao-alto-falante-de-173-azul-amazon/up/MLBU2288284375",
+      "precoDe": 649,
+      "postado": "2026-11-19T18:58:50.287Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2wa2eo9.jpg"
+    },
     {
       "id": "1q7xxCW",
       "nome": "Cadeira Escritório Ergonômica Genebra G500 NR-17 Luvinco Cor Cinza Com Suporte",
@@ -4468,22 +4484,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1LXsPx3.jpg"
-    },
-    {
-      "id": "2drDzrR",
-      "nome": "Cadeira de Escritório Presidente Sweet Studio Ajustável Preta Couro Sintético",
-      "categoria": "Diversos",
-      "preco": 499.9,
-      "link": "https://meli.la/2drDzrR",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-escritorio-sweet-studio-presidente-ajustavel-preta-couro-sintetico/p/MLB64486190",
-      "precoDe": 980,
-      "postado": "2026-11-17T18:58:09.880Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2drDzrR.jpg"
     }
   ]
 }
