@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T20:43:42.506Z",
+  "atualizado": "2026-11-19T20:44:57.402Z",
   "ofertas": [
+    {
+      "id": "28pce4e",
+      "nome": "La Roche-Posay Sérum Antimanchas Mela B3 com Ativo Patenteado Melasyl 30ml",
+      "categoria": "Beleza",
+      "preco": 188.9,
+      "link": "https://meli.la/28pce4e",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/la-roche-posay-serum-antimanchas-mela-b3-com-ativo-patenteado-melasyl-30ml-dianoite/p/MLB63945788",
+      "precoDe": 329.9,
+      "parcelas": "6x de R$31,48 sem juros",
+      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
+      "postado": "2026-11-19T20:44:57.401Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-28pce4e.jpg"
+    },
     {
       "id": "2r4rJU2",
       "nome": "Babá Eletrônica VLX VB603 sem Fio com Câmera cor branco",
@@ -5400,41 +5418,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1DY48o1.jpg"
-    },
-    {
-      "id": "2HNeBhf",
-      "nome": "Cetaphil Creme Hidratante Corporal para Pele Seca e Sensível 453g",
-      "categoria": "Beleza",
-      "preco": 79.9,
-      "link": "https://meli.la/2HNeBhf",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cetaphil-creme-hidratante-corporal-para-pele-seca-e-sensivel-453g/p/MLB18390579",
-      "precoDe": 134.9,
-      "parcelas": "12x de R$ 7,87",
-      "postado": "2026-11-17T20:44:49.046Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2HNeBhf.jpg"
-    },
-    {
-      "id": "2bSxS2V",
-      "nome": "Fechadura Digital De Sobrepor Intelbras Fr 101",
-      "categoria": "Casa",
-      "preco": 249.69,
-      "link": "https://meli.la/2bSxS2V",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/fechadura-digital-de-sobrepor-intelbras-fr-101/p/MLB20938205",
-      "precoDe": 393.38,
-      "pix": true,
-      "parcelas": "R$ 287 em outros meios",
-      "postado": "2026-11-17T20:44:03.866Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2bSxS2V.jpg"
     }
   ]
 }
