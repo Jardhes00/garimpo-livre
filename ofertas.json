@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T19:36:16.372Z",
+  "atualizado": "2026-11-19T19:37:31.478Z",
   "ofertas": [
+    {
+      "id": "1eStYpG",
+      "nome": "Webcam Full HD Logitech Brio 100 - Grafite",
+      "categoria": "Diversos",
+      "preco": 169.75,
+      "link": "https://meli.la/1eStYpG",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/webcam-full-hd-logitech-brio-100-grafite/p/MLB28407045",
+      "precoDe": 299.9,
+      "pix": true,
+      "parcelas": "R$188,61 em 3x R$62,87 sem juros",
+      "postado": "2026-11-19T19:37:31.476Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1eStYpG.jpg"
+    },
     {
       "id": "178oDmw",
       "nome": "Mala de Bordo Rígida Sweet Studio em ABS com Rodas 360° para Viagem Preto 2075",
@@ -4763,24 +4781,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2NBREZ1.jpg"
-    },
-    {
-      "id": "1FwgpXQ",
-      "nome": "Barra de proteínas Nutrata WHEY Grego 40G sabor Morango com chantilly x 480g 12 un",
-      "categoria": "Suplementos",
-      "preco": 58.39,
-      "link": "https://meli.la/1FwgpXQ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/barra-de-proteinas-nutrata-whey-grego-40g-sabor-morango-com-chantilly-x-480g-12-un/p/MLB18723721",
-      "precoDe": 95.9,
-      "parcelas": "12x de R$ 5,75",
-      "relampago": true,
-      "postado": "2026-11-17T19:36:29.426Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1FwgpXQ.jpg"
     }
   ]
 }
