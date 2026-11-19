@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-19T20:10:45.906Z",
+  "atualizado": "2026-11-19T20:12:30.379Z",
   "ofertas": [
+    {
+      "id": "1ygV95B",
+      "nome": "Mochila para Notebook Feminina Expansível de 25L a 40L, com USB e Impermeável",
+      "categoria": "Tech",
+      "preco": 67.84,
+      "link": "https://meli.la/1ygV95B",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mochila-para-notebook-feminina-expansivel-de-25l-a-40l-com-usb-e-impermeavel/p/MLB75521100",
+      "precoDe": 268,
+      "pix": true,
+      "parcelas": "R$ 71,41 em 3x de R$ 23,80 sem juros",
+      "extra": "Preço no Pix com cupom",
+      "postado": "2026-11-19T20:12:30.378Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ygV95B.jpg"
+    },
     {
       "id": "2nSmqfk",
       "nome": "Whey Protein Concentrado 100% 900g Refil Dark Lab Sabor Chocolate",
