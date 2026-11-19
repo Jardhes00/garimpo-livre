@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T19:01:20.341Z",
+  "atualizado": "2026-11-19T19:02:35.416Z",
   "ofertas": [
+    {
+      "id": "26DRcUA",
+      "nome": "Whisky Aged 12 Years Garrafa 1l Deluxe Buchanan's",
+      "categoria": "Diversos",
+      "preco": 139.87,
+      "link": "https://meli.la/26DRcUA",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whisky-aged-12-years-garrafa-1l-deluxe-buchanans/p/MLB17331969",
+      "precoDe": 237.9,
+      "postado": "2026-11-19T19:02:35.414Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-26DRcUA.jpg"
+    },
     {
       "id": "1Tu3aa6",
       "nome": "Air Fryer Oven Philco 16L Digital com Visor PAF16C",
@@ -4429,22 +4445,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1jtnBZ4.jpg"
-    },
-    {
-      "id": "2XugppZ",
-      "nome": "Cascata de Natal 20m 800 LEDs Fixa Branco Quente à Prova D'água - Laruno",
-      "categoria": "Diversos",
-      "preco": 130,
-      "link": "https://meli.la/2XugppZ",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cascata-natal-20m-800-leds-fixa-branco-quente-a-prova-dagua-conector-macho-e-femea-decoracao-para-casa-apartamento-sitio-laruno/p/MLB80317447",
-      "precoDe": 399.9,
-      "postado": "2026-11-17T19:01:55.205Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2XugppZ.jpg"
     }
   ]
 }
