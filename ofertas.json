@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T18:48:49.958Z",
+  "atualizado": "2026-11-19T18:50:04.898Z",
   "ofertas": [
+    {
+      "id": "2BBEHao",
+      "nome": "Fones de ouvido para jogos sem fio Redragon H510-PRO H510-PRO pretos com luz LED",
+      "categoria": "Tech",
+      "preco": 271.79,
+      "link": "https://meli.la/2BBEHao",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fones-de-ouvido-para-jogos-sem-fio-redragon-h510-pro-h510-pro-pretos-com-luz-led/p/MLB49653023",
+      "precoDe": 489.66,
+      "pix": true,
+      "parcelas": "R$301,99 em 6x R$50,33 sem juros",
+      "postado": "2026-11-19T18:50:04.896Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2BBEHao.jpg"
+    },
     {
       "id": "1ifrnD5",
       "nome": "Amazon Echo Dot 5ª Geração Smart Speaker com Alexa Cor Preto Charcoal",
@@ -4532,41 +4550,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2RM5cpK.jpg"
-    },
-    {
-      "id": "1koRuEJ",
-      "nome": "Relógio Casio G-Shock GA-2100-1A1DR Masculino Preto Carbon",
-      "categoria": "Moda",
-      "preco": 389,
-      "link": "https://meli.la/1koRuEJ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/relogio-casio-g-shock-ga-2100-1a1dr-masculino-preto-carbon/up/MLBU1439835133",
-      "precoDe": 1099,
-      "cupomAnuncio": "Compre R$600 e ganhe 5% OFF por seguir a loja",
-      "postado": "2026-11-17T18:49:55.420Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1koRuEJ.jpg"
-    },
-    {
-      "id": "2XZS5NR",
-      "nome": "Smart TV 49\" Philco 4K UHD DLED Roku P49CRA",
-      "categoria": "Tech",
-      "preco": 1666.29,
-      "link": "https://meli.la/2XZS5NR",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/smart-tv-49-philco-uhd-4k-dled-roku-p49cra/p/MLB69782237",
-      "precoDe": 2874.9,
-      "pix": true,
-      "parcelas": "R$1.811,18 em 10x R$181,12 sem juros",
-      "postado": "2026-11-17T18:49:09.909Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2XZS5NR.jpg"
     }
   ]
 }
