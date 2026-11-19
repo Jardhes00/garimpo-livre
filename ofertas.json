@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T20:02:32.270Z",
+  "atualizado": "2026-11-19T20:03:47.330Z",
   "ofertas": [
+    {
+      "id": "1QzBzqn",
+      "nome": "Liquidificador Electrolux 1300W de Potência com 3.2 Litros de Capacidade 12",
+      "categoria": "Casa",
+      "preco": 133.31,
+      "link": "https://meli.la/1QzBzqn",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/liquidificador-electrolux-1300w-de-potencia-com-32-litros-de-capacidade-12-velocidades-6-lamina-triforce-e-pes-antiderrapantes-ebl1300-preto/p/MLB56545596",
+      "precoDe": 239,
+      "postado": "2026-11-19T20:03:47.328Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1QzBzqn.jpg"
+    },
     {
       "id": "2gHBUWx",
       "nome": "Kit 2 Ventilador Parede Ventisol 70cm Bivolt 230w Industrial",
