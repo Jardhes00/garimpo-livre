@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-19T20:28:41.835Z",
+  "atualizado": "2026-11-19T20:29:57.064Z",
   "ofertas": [
+    {
+      "id": "2nH3gxd",
+      "nome": "Cafeteira Arno New Element Cfne",
+      "categoria": "Casa",
+      "preco": 244.99,
+      "link": "https://meli.la/2nH3gxd",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafeteira-arno-new-element-cfne/p/MLB19063748",
+      "precoDe": 664.99,
+      "parcelas": "6x de R$ 40,83 sem juros",
+      "postado": "2026-11-19T20:29:57.063Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2nH3gxd.jpg"
+    },
     {
       "id": "1Dvx5ii",
       "nome": "Armani Beauty Perfume Feminino My Way Eau de Parfum, Refilável 30ml",
