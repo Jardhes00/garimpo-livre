@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T20:34:57.208Z",
+  "atualizado": "2026-11-19T20:36:12.149Z",
   "ofertas": [
+    {
+      "id": "2BT592w",
+      "nome": "Telefone Pleno Intelbras Com Fio Preto",
+      "categoria": "Tech",
+      "preco": 51.72,
+      "link": "https://meli.la/2BT592w",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/telefone-pleno-intelbras-com-fio-preto/p/MLB7980692",
+      "precoDe": 100,
+      "postado": "2026-11-19T20:36:12.148Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2BT592w.jpg"
+    },
     {
       "id": "12cxGYM",
       "nome": "Assento Booster Burigotto Protege para Carro, Preto, de 15 a 36 kg",
@@ -5486,43 +5502,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1DJLTPV.jpg"
-    },
-    {
-      "id": "1G8SpQk",
-      "nome": "Parafusadeira Furadeira De Impacto A Bateria 21V 3/8” Bivolt 1400 Rpm Com Acessórios E Maleta TB-21PZW The Black Tools",
-      "categoria": "Ferramentas",
-      "preco": 109.15,
-      "link": "https://meli.la/1G8SpQk",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/parafusadeira-furadeira-de-impacto-a-bateria-21v-38-bivolt-1400-rpm-com-acessorios-e-maleta-tb-21pzw-the-black-tools/p/MLB60012839",
-      "precoDe": 259.9,
-      "pix": true,
-      "parcelas": "R$ 114,90 em outros meios",
-      "postado": "2026-11-17T20:35:48.803Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1G8SpQk.jpg"
-    },
-    {
-      "id": "12dEPkX",
-      "nome": "Monitor AOC 24\" 100Hz 1ms Gaming HDMI 24B35HM2",
-      "categoria": "Tech",
-      "preco": 489,
-      "link": "https://meli.la/12dEPkX",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/monitor-aoc-24-100hz-1ms-gaming-hdmi-24b35hm2/p/MLB42420279",
-      "precoDe": 679,
-      "parcelas": "9x de R$ 54,33 sem juros",
-      "extra": "R$ 30 OFF com cupom no anúncio",
-      "cupomAnuncio": "Compre R$549 e ganhe R$30 OFF",
-      "postado": "2026-11-17T20:35:03.651Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-12dEPkX.jpg"
     }
   ]
 }
