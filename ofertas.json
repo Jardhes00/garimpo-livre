@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T20:56:12.672Z",
+  "atualizado": "2026-11-19T20:57:27.872Z",
   "ofertas": [
+    {
+      "id": "22RFgw7",
+      "nome": "Relógio Inteligente Gps Smartwatch Amoled 3atm Sport Gps Caixa Cinza",
+      "categoria": "Tech",
+      "preco": 264.04,
+      "link": "https://meli.la/22RFgw7",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/relogio-inteligente-gps-smartwatch-amoled-3atm-sport-gps-caixa-cinza/p/MLB62974231",
+      "precoDe": 599,
+      "pix": true,
+      "parcelas": "R$287 em 6x R$47,83 sem juros",
+      "postado": "2026-11-19T20:57:27.871Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-22RFgw7.jpg"
+    },
     {
       "id": "2fFGLaq",
       "nome": "Purificador De Água Slimpure Midea Cinza Compressor",
@@ -5300,22 +5318,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2p5t9R5.jpg"
-    },
-    {
-      "id": "1HyW1bL",
-      "nome": "Ventilador de Parede Oscilante Ventisol New 50cm 3 Pás Preto",
-      "categoria": "Casa",
-      "preco": 169,
-      "link": "https://meli.la/1HyW1bL",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ventilador-oscilante-de-parede-ventisol-new-3-pas-50cm-1300rpm-preto/p/MLB29501704",
-      "precoDe": 292.6,
-      "postado": "2026-11-17T20:56:49.825Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1HyW1bL.jpg"
     }
   ]
 }
