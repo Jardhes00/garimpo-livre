@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T15:45:36.159Z",
+  "atualizado": "2026-11-19T15:48:05.529Z",
   "ofertas": [
+    {
+      "id": "1HU6xso",
+      "nome": "Porteiro Eletrônico Intelbras Allo Wt7 Lite Preto",
+      "categoria": "Diversos",
+      "preco": 1149,
+      "link": "https://meli.la/1HU6xso",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/porteiro-eletronico-intelbras-allo-wt7-lite-preto/p/MLB22552018",
+      "precoDe": 2141.43,
+      "pix": true,
+      "parcelas": "R$1.349 em 10x R$134,90 sem juros",
+      "postado": "2026-11-19T15:48:05.528Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1HU6xso.jpg"
+    },
     {
       "id": "1MUW42t",
       "nome": "Kit Chave de Impacto Bateria Furadeira Parafusadeira Brushless",
