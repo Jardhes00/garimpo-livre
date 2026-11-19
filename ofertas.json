@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T15:26:50.587Z",
+  "atualizado": "2026-11-19T15:28:05.392Z",
   "ofertas": [
+    {
+      "id": "1P9YJa4",
+      "nome": "Liquidificador Daily HR2155 Philips Walita Preto 800 Watts",
+      "categoria": "Casa",
+      "preco": 103.4,
+      "link": "https://meli.la/1P9YJa4",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/liquidificador-daily-hr2155-philips-walita-preto-800-watts/p/MLB80705210",
+      "precoDe": 149.9,
+      "pix": true,
+      "parcelas": "R$108,84 em outros meios",
+      "postado": "2026-11-19T15:28:05.390Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1P9YJa4.jpg"
+    },
     {
       "id": "25BEJr3",
       "nome": "Aparador Buffet Tampo Mdp 120x30cm 4 Portas Industrial",
