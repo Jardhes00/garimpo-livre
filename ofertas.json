@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-19T19:21:20.717Z",
+  "atualizado": "2026-11-19T19:22:35.954Z",
   "ofertas": [
+    {
+      "id": "1xpsC65",
+      "nome": "Hoverboard Skate Elétrico Roxo 6,5 Polegadas Bluetooth Cores",
+      "categoria": "Diversos",
+      "preco": 503.99,
+      "link": "https://meli.la/1xpsC65",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/hoverboard-skate-eletrico-roxo-65-polegadas-bluetooth-cores/p/MLB65476462",
+      "precoDe": 799,
+      "pix": true,
+      "parcelas": "R$559,99 em 10x R$56 sem juros",
+      "cupomAnuncio": "R$478,79 com Cupom",
+      "postado": "2026-11-19T19:22:35.953Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1xpsC65.jpg"
+    },
     {
       "id": "2cuMpAr",
       "nome": "Micro-ondas De Mesa Panasonic, 21 Litros, Branco, Espelhada",
