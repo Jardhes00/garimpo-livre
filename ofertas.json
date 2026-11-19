@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T15:35:35.770Z",
+  "atualizado": "2026-11-19T15:36:51.081Z",
   "ofertas": [
+    {
+      "id": "2tBUpoW",
+      "nome": "Mini Ventilador Soprador Ar Potente Turbo 130000rpm Assoprador Elétrico Sem Fio",
+      "categoria": "Casa",
+      "preco": 40,
+      "link": "https://meli.la/2tBUpoW",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/soprador-de-ar-portatil-woosh-recarregavel-para-limpeza-e-acender-churrasqueira/p/MLB81507084",
+      "precoDe": 99.99,
+      "postado": "2026-11-19T15:36:51.079Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2tBUpoW.jpg"
+    },
     {
       "id": "17nqK18",
       "nome": "Bicicleta Ergométrica Sport Spinning Fitness Jag Fit Sb-137 Bike Ajustável",
