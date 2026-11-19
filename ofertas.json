@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-19T15:21:50.441Z",
+  "atualizado": "2026-11-19T15:23:05.565Z",
   "ofertas": [
+    {
+      "id": "1SfJTPi",
+      "nome": "Placa-mãe Asus P/amd Am4 B550m-plus Tuf Gaming 4xddr4 Matx P",
+      "categoria": "Diversos",
+      "preco": 831.36,
+      "link": "https://meli.la/1SfJTPi",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/placa-mae-asus-pamd-am4-b550m-plus-tuf-gaming-4xddr4-matx-p/up/MLBU4781866879",
+      "precoDe": 1399,
+      "parcelas": "10x R$ 83,14 sem juros",
+      "postado": "2026-11-19T15:23:05.563Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1SfJTPi.jpg"
+    },
     {
       "id": "2f2MFJq",
       "nome": "Ar Condicionado 12000 Btus LG Dual Inverter IA Frio Branco",
