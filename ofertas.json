@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T15:41:51.264Z",
+  "atualizado": "2026-11-19T15:43:06.209Z",
   "ofertas": [
+    {
+      "id": "2PQTjYk",
+      "nome": "Armário Gabinete Suspenso para Banheiro com Cuba Compacta Moderna Nature/Off",
+      "categoria": "Diversos",
+      "preco": 189.8,
+      "link": "https://meli.la/2PQTjYk",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/armario-gabinete-suspenso-para-banheiro-com-cuba-compacta-moderna-natureoff-white-blue-moby/p/MLB75902629",
+      "precoDe": 499,
+      "pix": true,
+      "parcelas": "R$199,79 em outros meios",
+      "postado": "2026-11-19T15:43:06.207Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2PQTjYk.jpg"
+    },
     {
       "id": "16gWrnw",
       "nome": "Impressora De Termica Bluetooth Etiquetas Adesivas Armazém",
