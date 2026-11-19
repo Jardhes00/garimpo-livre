@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T20:12:30.379Z",
+  "atualizado": "2026-11-19T20:14:15.737Z",
   "ofertas": [
+    {
+      "id": "2MVkjdL",
+      "nome": "Coleira Antiparasita Scalibor 65 cm Proteção 4 Meses Pulgas e Mosquitos",
+      "categoria": "Diversos",
+      "preco": 41,
+      "link": "https://meli.la/2MVkjdL",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/coleira-antiparasita-scalibor-65-cm-protecao-4-meses-pulgas-e-mosquitos/p/MLB35005734",
+      "precoDe": 116.5,
+      "pix": true,
+      "parcelas": "R$ 48,24 em outros meios",
+      "postado": "2026-11-19T20:14:15.736Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2MVkjdL.jpg"
+    },
     {
       "id": "1ygV95B",
       "nome": "Mochila para Notebook Feminina Expansível de 25L a 40L, com USB e Impermeável",
