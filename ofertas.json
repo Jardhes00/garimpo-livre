@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-19T15:09:20.282Z",
+  "atualizado": "2026-11-19T15:10:35.119Z",
   "ofertas": [
+    {
+      "id": "2KKYfbL",
+      "nome": "Piscina Inflável Fun Redonda 1400l Com Kit Reparo - Mor",
+      "categoria": "Diversos",
+      "preco": 155.43,
+      "link": "https://meli.la/2KKYfbL",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/piscina-inflavel-fun-redonda-1400l-com-kit-reparo-mor/p/MLB10923645",
+      "precoDe": 279,
+      "parcelas": "12x R$ 15,36",
+      "postado": "2026-11-19T15:10:35.117Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2KKYfbL.jpg"
+    },
     {
       "id": "27wYE5K",
       "nome": "Bombom chocolate Sonho De Valsa Lacta 1Kg",
