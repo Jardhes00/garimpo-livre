@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T20:54:57.809Z",
+  "atualizado": "2026-11-19T20:56:12.672Z",
   "ofertas": [
+    {
+      "id": "2fFGLaq",
+      "nome": "Purificador De Água Slimpure Midea Cinza Compressor",
+      "categoria": "Ferramentas",
+      "preco": 637.78,
+      "link": "https://meli.la/2fFGLaq",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/purificador-de-agua-slimpure-midea-cinza-compressor/p/MLB74867007",
+      "precoDe": 949,
+      "pix": true,
+      "parcelas": "R$685,79 em 10x R$68,58 sem juros",
+      "postado": "2026-11-19T20:56:12.671Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2fFGLaq.jpg"
+    },
     {
       "id": "1btZmum",
       "nome": "Kit Ventosa Automática Recarregável Fallove, 2 Baterias e Re-Sucção Para",
@@ -5298,42 +5316,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1HyW1bL.jpg"
-    },
-    {
-      "id": "2DsMdpj",
-      "nome": "Poltrona Papai e Mamãe Glória Reclinável Retrátil Bege",
-      "categoria": "Diversos",
-      "preco": 515.94,
-      "link": "https://meli.la/2DsMdpj",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/poltrona-cadeira-gloria-papai-e-mamae-com-encosto-macio-retratil-e-reclinavel-decorativa-para-sala-de-descanso-e-amamentacao-cor-bege/p/MLB49100203",
-      "precoDe": 999,
-      "pix": true,
-      "parcelas": "R$543,10 em outros meios",
-      "postado": "2026-11-17T20:56:04.365Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2DsMdpj.jpg"
-    },
-    {
-      "id": "2EkYikB",
-      "nome": "TP-Link Deco X50 (2-pack) Roteador Mesh Wi-Fi 6 AX3000 Cobre até 420m²",
-      "categoria": "Diversos",
-      "preco": 640.05,
-      "link": "https://meli.la/2EkYikB",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/tp-link-deco-x502-pack-roteador-mesh-wifi6-ax3000-cobre-ate-420m/p/MLB38062594",
-      "precoDe": 949.9,
-      "pix": true,
-      "parcelas": "R$753 em 2x R$376,50 sem juros",
-      "postado": "2026-11-17T20:55:19.613Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2EkYikB.jpg"
     }
   ]
 }
