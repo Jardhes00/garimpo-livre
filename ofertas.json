@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-19T18:50:04.898Z",
+  "atualizado": "2026-11-19T18:51:20.112Z",
   "ofertas": [
+    {
+      "id": "2e22Xf5",
+      "nome": "Projetor Smart Portátil Full Hd 4k Android 11 Wi-fi Bluetooth Mini Projetor",
+      "categoria": "Diversos",
+      "preco": 173.13,
+      "link": "https://meli.la/2e22Xf5",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/projetor-smart-portatil-full-hd-4k-android-11-wi-fi-bluetooth-mini-projetor-home-theater-cinema-em-casa-imagem-nitida-som-potente-compativel-com-diversos-dispositivos-branco-127220/p/MLB64305534",
+      "precoDe": 419.9,
+      "pix": true,
+      "parcelas": "R$199 em outros meios",
+      "cupomAnuncio": "R$164,47 com Cupom por seguir a loja",
+      "postado": "2026-11-19T18:51:20.110Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2e22Xf5.jpg"
+    },
     {
       "id": "2BBEHao",
       "nome": "Fones de ouvido para jogos sem fio Redragon H510-PRO H510-PRO pretos com luz LED",
@@ -4534,22 +4553,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2znwgMf.jpg"
-    },
-    {
-      "id": "2RM5cpK",
-      "nome": "Carregador Turbo 30W USB-C para iPhone - Dtimp",
-      "categoria": "Tech",
-      "preco": 37.69,
-      "link": "https://meli.la/2RM5cpK",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/carregador-30w-turbo-para-iphone-8-x-xr-11-12-13-14-pro-max-fonte-usb-c-cor-branca-dtimp/p/MLB47814270",
-      "precoDe": 99.9,
-      "postado": "2026-11-17T18:50:39.657Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2RM5cpK.jpg"
     }
   ]
 }
