@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T15:20:35.267Z",
+  "atualizado": "2026-11-19T15:21:50.441Z",
   "ofertas": [
+    {
+      "id": "2f2MFJq",
+      "nome": "Ar Condicionado 12000 Btus LG Dual Inverter IA Frio Branco",
+      "categoria": "Casa",
+      "preco": 2184.05,
+      "link": "https://meli.la/2f2MFJq",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-12000-btus-lg-dual-inverter-ia-frio-branco/p/MLB80133580",
+      "precoDe": 3013,
+      "pix": true,
+      "parcelas": "R$ 2.299 em 10x R$ 229,90 sem juros",
+      "postado": "2026-11-19T15:21:50.438Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2f2MFJq.jpg"
+    },
     {
       "id": "1abzQ5S",
       "nome": "Geladeira Electrolux Cycle Defrost 240L Degelo Prático Uma Porta Branca RE31 127v",
