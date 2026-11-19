@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T20:17:45.589Z",
+  "atualizado": "2026-11-19T20:19:00.548Z",
   "ofertas": [
+    {
+      "id": "1CBiQDQ",
+      "nome": "Defenza Antipulgas E Carrapatos Msd Cães 20 A 40 Kg Cor Azul",
+      "categoria": "Diversos",
+      "preco": 46.6,
+      "link": "https://meli.la/1CBiQDQ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/defenza-antipulgas-e-carrapatos-msd-caes-20-a-40-kg-cor-azul/p/MLB36465796",
+      "precoDe": 137.9,
+      "pix": true,
+      "parcelas": "R$ 54,82 em outros meios",
+      "postado": "2026-11-19T20:19:00.546Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1CBiQDQ.jpg"
+    },
     {
       "id": "1dQFaRJ",
       "nome": "Panificadora Multipane Com 12 Programas E Potência De 550w Antiaderente Cor Branca Britânia",
