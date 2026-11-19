@@ -1,6 +1,26 @@
 {
-  "atualizado": "2026-11-19T20:27:26.888Z",
+  "atualizado": "2026-11-19T20:28:41.835Z",
   "ofertas": [
+    {
+      "id": "1Dvx5ii",
+      "nome": "Armani Beauty Perfume Feminino My Way Eau de Parfum, Refilável 30ml",
+      "categoria": "Beleza",
+      "preco": 286.19,
+      "link": "https://meli.la/1Dvx5ii",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/armani-beauty-perfume-feminino-my-way-eau-de-parfum-refilavel-30ml/p/MLB17941252",
+      "precoDe": 589,
+      "pix": true,
+      "parcelas": "R$ 317,99 em outros meios",
+      "extra": "5% OFF com cupom no anúncio",
+      "cupomAnuncio": "Compre R$599 e ganhe 5% OFF",
+      "postado": "2026-11-19T20:28:41.834Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Dvx5ii.jpg"
+    },
     {
       "id": "1eDtTfL",
       "nome": "Hipercalórico Dark Mass 3kg Chocolate Branco c/ Morango Dark Lab",
