@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-19T20:52:27.518Z",
+  "atualizado": "2026-11-19T20:53:42.689Z",
   "ofertas": [
+    {
+      "id": "15yJQhd",
+      "nome": "Armário de Cozinha Poliman Móveis Clarice 12 Portas 1 Gaveta",
+      "categoria": "Casa",
+      "preco": 664.99,
+      "link": "https://meli.la/15yJQhd",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/armario-de-cozinha-poliman-moveis-clarice-12-portas-1-gaveta/p/MLB62724058",
+      "precoDe": 949.95,
+      "parcelas": "10x de R$66,50 sem juros",
+      "postado": "2026-11-19T20:53:42.688Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-15yJQhd.jpg"
+    },
     {
       "id": "1SqqGeS",
       "nome": "Celular Samsung Galaxy A37 5g 256gb, 8gb Ram, Câmera 50mp Verde-escuro",
@@ -5333,23 +5350,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1isctZe.jpg"
-    },
-    {
-      "id": "1Xj7amZ",
-      "nome": "Lanterna Tática T9 Potente Recarregável",
-      "categoria": "Casa",
-      "preco": 50.23,
-      "link": "https://meli.la/1Xj7amZ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/lanterna-tatica-mais-forte-do-mundo-t9-potente-recarregavel/up/MLBU3668983470",
-      "precoDe": 84.03,
-      "cupomAnuncio": "Compre R$60 e ganhe R$3 OFF",
-      "postado": "2026-11-17T20:53:04.402Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1Xj7amZ.jpg"
     }
   ]
 }
