@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T19:16:21.048Z",
+  "atualizado": "2026-11-19T19:17:36.170Z",
   "ofertas": [
+    {
+      "id": "3235a1g",
+      "nome": "Mega DHA Ômega 3 Ultra Concentrado 120 Cápsula Vitafor",
+      "categoria": "Diversos",
+      "preco": 126.86,
+      "link": "https://meli.la/3235a1g",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mega-dha-mega-3-ultra-concentrado-120-capsula-vitafor/p/MLB41010745",
+      "precoDe": 236,
+      "postado": "2026-11-19T19:17:36.169Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-3235a1g.jpg"
+    },
     {
       "id": "1XjhhkE",
       "nome": "Mouse inalámbrico Logitech MX Master 4S grafite",
