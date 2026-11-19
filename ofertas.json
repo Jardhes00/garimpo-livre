@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-19T15:18:05.273Z",
+  "atualizado": "2026-11-19T15:19:20.238Z",
   "ofertas": [
+    {
+      "id": "2E4mYPX",
+      "nome": "Smart TV Philco 60\" P60VIK 4K UHD LED Roku Dolby Audio Wi-Fi HDR10",
+      "categoria": "Tech",
+      "preco": 2998.89,
+      "link": "https://meli.la/2E4mYPX",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smart-tv-philco-60-p60vik-4k-uhd-led-roku-dolby-audio-wi-fi-hdr10/p/MLB76490088",
+      "precoDe": 4999,
+      "parcelas": "10x R$ 299,89 sem juros",
+      "postado": "2026-11-19T15:19:20.237Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2E4mYPX.jpg"
+    },
     {
       "id": "1KVWquL",
       "nome": "Espumante Branco Brut Brasileiro 750ml Salton",
