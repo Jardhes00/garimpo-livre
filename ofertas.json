@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T20:42:27.591Z",
+  "atualizado": "2026-11-19T20:43:42.506Z",
   "ofertas": [
+    {
+      "id": "2r4rJU2",
+      "nome": "Babá Eletrônica VLX VB603 sem Fio com Câmera cor branco",
+      "categoria": "Diversos",
+      "preco": 185.31,
+      "link": "https://meli.la/2r4rJU2",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/baba-eletronica-vlx-vb603-sem-fio-com-camera-cor-branco/p/MLB47549605",
+      "precoDe": 340.67,
+      "pix": true,
+      "parcelas": "R$213 em outros meios",
+      "postado": "2026-11-19T20:43:42.505Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2r4rJU2.jpg"
+    },
     {
       "id": "2XKAMaG",
       "nome": "Cadeira Escritório Ergonômica Mesh Giratoria Reclinavel Olinda Plus RSH650",
@@ -5417,40 +5435,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2bSxS2V.jpg"
-    },
-    {
-      "id": "2kufVZ3",
-      "nome": "Perfume Mercedes-Benz Club Black Eau de Toilette Masculino 100 ml",
-      "categoria": "Beleza",
-      "preco": 286,
-      "link": "https://meli.la/2kufVZ3",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/perfume-mercedes-benz-club-black-eau-de-toilette-masculino-100-ml/p/MLB42420820",
-      "precoDe": 799,
-      "parcelas": "12x de R$ 27,98",
-      "postado": "2026-11-17T20:43:19.088Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2kufVZ3.jpg"
-    },
-    {
-      "id": "1a479UW",
-      "nome": "Relógio Tommy Hilfiger David Masculino Em Borracha Preta 171 Preto",
-      "categoria": "Moda",
-      "preco": 495,
-      "link": "https://meli.la/1a479UW",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/relogio-tommy-hilfiger-david-masculino-em-borracha-preta-171/up/MLBU5387130103",
-      "precoDe": 990,
-      "parcelas": "10x de R$ 49,50 sem juros",
-      "postado": "2026-11-17T20:42:33.824Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1a479UW.jpg"
     }
   ]
 }
