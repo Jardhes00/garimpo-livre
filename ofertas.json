@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T15:15:35.265Z",
+  "atualizado": "2026-11-19T15:16:50.245Z",
   "ofertas": [
+    {
+      "id": "1BabtAh",
+      "nome": "Purificador Electrolux Água Gelada Cinza Pe15x - Bivolt",
+      "categoria": "Diversos",
+      "preco": 351.2,
+      "link": "https://meli.la/1BabtAh",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/purificador-electrolux-agua-gelada-cinza-pe15x-bivolt/up/MLBU1987338483",
+      "precoDe": 489.9,
+      "pix": true,
+      "parcelas": "R$ 439 em 8x R$ 54,88 sem juros",
+      "postado": "2026-11-19T15:16:50.243Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1BabtAh.jpg"
+    },
     {
       "id": "113HwkT",
       "nome": "Colchão Inflável Queen NEPUI com Bomba Elétrica e 2 Travesseiros",
