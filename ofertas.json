@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T21:01:13.070Z",
+  "atualizado": "2026-11-19T21:02:27.982Z",
   "ofertas": [
+    {
+      "id": "2FzCaMD",
+      "nome": "Micro-ondas Electrolux 36L Branco Efficient com Descongelamento Assistido ME36B",
+      "categoria": "Casa",
+      "preco": 616.23,
+      "link": "https://meli.la/2FzCaMD",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-electrolux-36l-branco-efficient-com-descongelamento-assistido-me36b/p/MLB19790746",
+      "precoDe": 899,
+      "pix": true,
+      "parcelas": "R$635,29 em outros meios",
+      "postado": "2026-11-19T21:02:27.980Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2FzCaMD.jpg"
+    },
     {
       "id": "2zYCfFb",
       "nome": "Fórmula Natural Fresh Meat Sensitive Cães Adultos Mini e Pequeno Portes Sabor",
@@ -5245,41 +5263,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2yHyQeD.jpg"
-    },
-    {
-      "id": "1awgAqe",
-      "nome": "Cadeira de Escritório Presidente Itália Ergonômica com Apoio para Pés Preta - Luvinco",
-      "categoria": "Diversos",
-      "preco": 589.9,
-      "link": "https://meli.la/1awgAqe",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-escritorio-italia-presidente-ergonomica-couro-sintetico-encosto-ajustavel-com-trava-e-apoio-para-pes-cor-preta-luvinco/p/MLB52130256",
-      "precoDe": 933.2,
-      "parcelas": "10x de R$58,99 sem juros",
-      "postado": "2026-11-17T21:02:04.609Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1awgAqe.jpg"
-    },
-    {
-      "id": "19gDzWx",
-      "nome": "Guarda-roupa Casal MDF 2 Portas Corrediças 6 Gavetas Branco - Lopas",
-      "categoria": "Diversos",
-      "preco": 1547.91,
-      "link": "https://meli.la/19gDzWx",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/guarda-roupa-casal-mdf-2-portas-corredicas-branco-6-gavetas-moveis-lopas/p/MLB19373332",
-      "precoDe": 2449.9,
-      "pix": true,
-      "parcelas": "R$1.719,90 em 10x R$171,99 sem juros",
-      "postado": "2026-11-17T21:01:19.571Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-19gDzWx.jpg"
     }
   ]
 }
