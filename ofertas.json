@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-19T18:56:20.040Z",
+  "atualizado": "2026-11-19T18:57:35.237Z",
   "ofertas": [
+    {
+      "id": "1q7xxCW",
+      "nome": "Cadeira Escritório Ergonômica Genebra G500 NR-17 Luvinco Cor Cinza Com Suporte",
+      "categoria": "Diversos",
+      "preco": 489.9,
+      "link": "https://meli.la/1q7xxCW",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-escritorio-ergonomica-genebra-g500-nr-17-luvinco-cor-cinza-com-suporte-lombar-estofado-mesh/p/MLB46400213",
+      "precoDe": 705.77,
+      "parcelas": "9x de R$54,43 sem juros",
+      "postado": "2026-11-19T18:57:35.235Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1q7xxCW.jpg"
+    },
     {
       "id": "18CG1PH",
       "nome": "Parafusadeira e Furadeira WF12K3.2 Bateria 12V WAP",
@@ -4467,42 +4484,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2drDzrR.jpg"
-    },
-    {
-      "id": "17YFCi2",
-      "nome": "Carrinho de Bebê Travel System Maxi Baby Elysian Cinza e Dourado com Moisés e Bebê Conforto",
-      "categoria": "Bebê",
-      "preco": 889.1,
-      "link": "https://meli.la/17YFCi2",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/carrinho-de-bebe-travel-system-maxi-baby-elysian-cinza-e-dourado-com-moises-e-bebe-conforto/p/MLB62926546",
-      "precoDe": 1999.9,
-      "pix": true,
-      "parcelas": "R$935,90 em 10x R$93,59 sem juros",
-      "postado": "2026-11-17T18:57:25.312Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-17YFCi2.jpg"
-    },
-    {
-      "id": "2FbrfaQ",
-      "nome": "Impressora HP Smart Tank 210 Tanque de Tinta Colorida Wi-Fi - Branca",
-      "categoria": "Tech",
-      "preco": 628.15,
-      "link": "https://meli.la/2FbrfaQ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/impressora-hp-smart-tank-210-com-tanque-de-tinta-colorida-com-wi-fi-usb-20-de-alta-velocidade-funcoes-da-impressora-imprimir-cor-branco-3d4l5a/p/MLB42164745",
-      "precoDe": 1141.42,
-      "pix": true,
-      "parcelas": "R$739 em outros meios",
-      "postado": "2026-11-17T18:56:39.877Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2FbrfaQ.jpg"
     }
   ]
 }
