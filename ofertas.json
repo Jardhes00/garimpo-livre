@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T18:58:50.288Z",
+  "atualizado": "2026-11-19T19:00:05.256Z",
   "ofertas": [
+    {
+      "id": "1eM5pUS",
+      "nome": "Monitor AOC 27\" 120Hz 1ms Gaming IPS Adaptive-Sync 27B35H Preto",
+      "categoria": "Tech",
+      "preco": 579,
+      "link": "https://meli.la/1eM5pUS",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/monitor-aoc-27-120hz-1ms-gaming-ips-adaptive-sync-27b35h-preto/p/MLB52209761",
+      "precoDe": 819,
+      "parcelas": "10x de R$57,90 sem juros",
+      "cupomAnuncio": "R$549 com Cupom",
+      "postado": "2026-11-19T19:00:05.254Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1eM5pUS.jpg"
+    },
     {
       "id": "2wa2eo9",
       "nome": "Echo Dot 5ª Geração Alto-falante De 1,73 Azul Amazon",
@@ -4448,42 +4466,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1Gx2sNo.jpg"
-    },
-    {
-      "id": "1W5dRya",
-      "nome": "Jogo de Panelas Tuut Ecoglide 15 Peças com Grill Antiaderente Cerâmica para Indução - Granite",
-      "categoria": "Games",
-      "preco": 368.6,
-      "link": "https://meli.la/1W5dRya",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/jogo-de-panelas-tuut-ecoglide-com-grill-de-24-antiaderente-ceramica-para-inducao-e-15-pecas-granite/p/MLB78878610",
-      "precoDe": 799.99,
-      "pix": true,
-      "parcelas": "R$388 em outros meios",
-      "postado": "2026-11-17T18:59:40.658Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1W5dRya.jpg"
-    },
-    {
-      "id": "1LXsPx3",
-      "nome": "TP-Link Deco X50 (3-pack) Roteador Mesh Wi-Fi 6 AX3000 Cobre até 600m²",
-      "categoria": "Diversos",
-      "preco": 924.8,
-      "link": "https://meli.la/1LXsPx3",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/tp-link-deco-x503-pack-roteador-mesh-wifi6-ax3000-cobre-ate-600m/p/MLB52106020",
-      "precoDe": 1349.9,
-      "pix": true,
-      "parcelas": "R$1.088 em 2x R$544 sem juros",
-      "postado": "2026-11-17T18:58:54.854Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1LXsPx3.jpg"
     }
   ]
 }
