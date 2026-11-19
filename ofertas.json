@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T20:14:15.737Z",
+  "atualizado": "2026-11-19T20:16:15.393Z",
   "ofertas": [
+    {
+      "id": "2aj5uGt",
+      "nome": "Escova Secadora By Juliette Mondial 1300W - ES-JU-03",
+      "categoria": "Beleza",
+      "preco": 134.1,
+      "link": "https://meli.la/2aj5uGt",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/escova-secadora-by-juliette-mondial-1300w-es-ju-03/p/MLB25969290",
+      "precoDe": 299.9,
+      "pix": true,
+      "parcelas": "R$ 149 em outros meios",
+      "postado": "2026-11-19T20:16:15.392Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2aj5uGt.jpg"
+    },
     {
       "id": "2MVkjdL",
       "nome": "Coleira Antiparasita Scalibor 65 cm Proteção 4 Meses Pulgas e Mosquitos",
