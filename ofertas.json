@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-19T15:34:20.830Z",
+  "atualizado": "2026-11-19T15:35:35.770Z",
   "ofertas": [
+    {
+      "id": "17nqK18",
+      "nome": "Bicicleta Ergométrica Sport Spinning Fitness Jag Fit Sb-137 Bike Ajustável",
+      "categoria": "Esporte",
+      "preco": 508.91,
+      "link": "https://meli.la/17nqK18",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bicicleta-ergometrica-sport-spinning-fitness-jag-fit-sb-137-bike-ajustavel-preto-e-vermelho-de-aco-resistente/p/MLB64978753",
+      "precoDe": 1499,
+      "parcelas": "10x de R$50,89 sem juros",
+      "postado": "2026-11-19T15:35:35.769Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-17nqK18.jpg"
+    },
     {
       "id": "1B4WsAE",
       "nome": "Perfume Feminino Eau de Parfum, Fragrância Floral Gourmand Inebriante com Íris",
