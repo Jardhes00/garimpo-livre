@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T15:23:05.565Z",
+  "atualizado": "2026-11-19T15:24:20.580Z",
   "ofertas": [
+    {
+      "id": "1TnQz7F",
+      "nome": "Kit Organizadores Com 14 Multiuso Gavetas Empilhavel",
+      "categoria": "Casa",
+      "preco": 44,
+      "link": "https://meli.la/1TnQz7F",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-organizadores-com-14-multiuso-gavetas-empilhavel/p/MLB50832844",
+      "precoDe": 139.9,
+      "postado": "2026-11-19T15:24:20.579Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1TnQz7F.jpg"
+    },
     {
       "id": "1SfJTPi",
       "nome": "Placa-mãe Asus P/amd Am4 B550m-plus Tuf Gaming 4xddr4 Matx P",
