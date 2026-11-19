@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T19:48:47.099Z",
+  "atualizado": "2026-11-19T19:50:01.832Z",
   "ofertas": [
+    {
+      "id": "1nBuNM5",
+      "nome": "Pré Treino Évora Xt Neon Berry 300g Darkness",
+      "categoria": "Diversos",
+      "preco": 72.99,
+      "link": "https://meli.la/1nBuNM5",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/pre-treino-evora-xt-neon-berry-300g-darkness/p/MLB44803478",
+      "precoDe": 149.9,
+      "postado": "2026-11-19T19:50:01.831Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1nBuNM5.jpg"
+    },
     {
       "id": "29Bv6HA",
       "nome": "Guarda-roupa Móveis Lopas Easy Slim 8 Portas com 2 Espelhos",
