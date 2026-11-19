@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-19T20:59:57.843Z",
+  "atualizado": "2026-11-19T21:01:13.070Z",
   "ofertas": [
+    {
+      "id": "2zYCfFb",
+      "nome": "Fórmula Natural Fresh Meat Sensitive Cães Adultos Mini e Pequeno Portes Sabor",
+      "categoria": "Diversos",
+      "preco": 114.98,
+      "link": "https://meli.la/2zYCfFb",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/formula-natural-fresh-meat-sensitive-caes-adultos-mini-e-pequeno-portes-sabor-cordeiro-25kg/p/MLB18720059",
+      "precoDe": 200,
+      "cupomAnuncio": "R$110,98 com Cupom por seguir a loja",
+      "postado": "2026-11-19T21:01:13.068Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2zYCfFb.jpg"
+    },
     {
       "id": "2c7e8fL",
       "nome": "Detergente Ypê Neutro 5 Litros",
@@ -5263,23 +5280,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-19gDzWx.jpg"
-    },
-    {
-      "id": "2CopMcC",
-      "nome": "Air Fryer Philco 9,5L Visor Glass Redstone 1800W PAF95A",
-      "categoria": "Casa",
-      "preco": 349,
-      "link": "https://meli.la/2CopMcC",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/air-fryer-philco-95l-visor-glass-redstone-1800w-paf95a/p/MLB64644921",
-      "precoDe": 503.27,
-      "parcelas": "6x de R$58,17 sem juros",
-      "postado": "2026-11-17T21:00:35.292Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2CopMcC.jpg"
     }
   ]
 }
