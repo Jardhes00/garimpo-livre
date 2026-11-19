@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T18:43:50.049Z",
+  "atualizado": "2026-11-19T18:45:05.012Z",
   "ofertas": [
+    {
+      "id": "2YPtijU",
+      "nome": "Máquina De Acabamento Profissional Kemei Km-9163 Pézinho Usb",
+      "categoria": "Diversos",
+      "preco": 63.81,
+      "link": "https://meli.la/2YPtijU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquina-de-acabamento-profissional-kemei-km-9163-pezinho-usb/up/MLBU3278797077",
+      "precoDe": 119.9,
+      "pix": true,
+      "parcelas": "R$70,90 em outros meios",
+      "postado": "2026-11-19T18:45:05.008Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2YPtijU.jpg"
+    },
     {
       "id": "1AF2tKt",
       "nome": "Máquina De Acabamento Sem Fio Kemei Km-2293 Precisão Laminas",
@@ -4587,40 +4605,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1d415cc.jpg"
-    },
-    {
-      "id": "2hBhK76",
-      "nome": "Boneco Funko Pop! Marvel Demolidor Renascido - Demolidor com Traje Danificado",
-      "categoria": "Diversos",
-      "preco": 91.16,
-      "link": "https://meli.la/2hBhK76",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/boneco-funko-pop-marvel-demolidor-renascido-demolidor-com-traje-danificado/p/MLB73404948",
-      "precoDe": 149.99,
-      "postado": "2026-11-17T18:44:39.909Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2hBhK76.jpg"
-    },
-    {
-      "id": "2LUBpnn",
-      "nome": "Boneco Funko Pop! Grogu - Star Wars The Mandalorian",
-      "categoria": "Diversos",
-      "preco": 102.5,
-      "link": "https://meli.la/2LUBpnn",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/boneco-funko-pop-grogu-de-star-wars-the-mandalorian/p/MLB68578529",
-      "precoDe": 149.99,
-      "pix": true,
-      "parcelas": "R$107,90 em outros meios",
-      "postado": "2026-11-17T18:43:54.700Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2LUBpnn.jpg"
     }
   ]
 }
