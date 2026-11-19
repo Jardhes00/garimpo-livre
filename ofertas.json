@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T19:10:05.697Z",
+  "atualizado": "2026-11-19T19:11:20.738Z",
   "ofertas": [
+    {
+      "id": "16hacUP",
+      "nome": "Smartwatch HUAWEI WATCH FIT 5 AMOLED de 182\" Design Leve Mini Treino Bateria",
+      "categoria": "Tech",
+      "preco": 699,
+      "link": "https://meli.la/16hacUP",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smartwatch-huawei-watch-fit-5-amoled-de-182-design-leve-mini-treino-bateria-com-ate-10-dias-64-gb-gerenciamento-avancado-da-saude-monitor-do-sono-spo2-gps-compativel-com-ios-e-android-roxo/p/MLB67714385",
+      "precoDe": 1499,
+      "parcelas": "10x de R$69,90 sem juros",
+      "cupomAnuncio": "R$664,05 com Cupom",
+      "postado": "2026-11-19T19:11:20.737Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-16hacUP.jpg"
+    },
     {
       "id": "1xPD32h",
       "nome": "Ar-condicionado Split 9000 Btu/h Prime Air 9fc Frio Branco",
