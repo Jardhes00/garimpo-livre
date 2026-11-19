@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T19:30:00.981Z",
+  "atualizado": "2026-11-19T19:31:16.261Z",
   "ofertas": [
+    {
+      "id": "19QH31a",
+      "nome": "EA Sports FC 27 - NS2",
+      "categoria": "Diversos",
+      "preco": 232.41,
+      "link": "https://meli.la/19QH31a",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ea-sports-fc-27-ns2/p/MLB78307653",
+      "precoDe": 499.9,
+      "pix": true,
+      "parcelas": "R$249,90 em 2x R$124,95 sem juros",
+      "postado": "2026-11-19T19:31:16.259Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-19QH31a.jpg"
+    },
     {
       "id": "2M5duNx",
       "nome": "Depilador Philips Satinelli Bre229/00 Bivolt - Rosa",
@@ -4731,24 +4749,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1YjzVtZ.jpg"
-    },
-    {
-      "id": "2MZD25v",
-      "nome": "Câmera de Segurança Wi-Fi iCSee/Yoosee A28B 4K Dupla Lente Visão Noturna Colorida Full Hd Externa Prova D'água Ip66 Sensor Movimento Woosh",
-      "categoria": "Diversos",
-      "preco": 109.64,
-      "link": "https://meli.la/2MZD25v",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/camera-de-seguranca-wi-fi-icseeyoosee-a28b-4k-dupla-lente-visao-noturna-colorida-full-hd-externa-prova-dagua-ip66-sensor-movimento-woosh/p/MLB60074213",
-      "precoDe": 399,
-      "pix": true,
-      "parcelas": "R$ 128,99 em outros meios",
-      "postado": "2026-11-17T19:30:59.430Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2MZD25v.jpg"
     }
   ]
 }
