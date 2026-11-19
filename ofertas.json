@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T21:04:57.948Z",
+  "atualizado": "2026-11-19T21:06:13.133Z",
   "ofertas": [
+    {
+      "id": "13SPSrm",
+      "nome": "Divine Shampoo + Condicionador + Másc + Mini Essential 200 g- Braé",
+      "categoria": "Beleza",
+      "preco": 143,
+      "link": "https://meli.la/13SPSrm",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/divine-shampoo-condicionador-masc-mini-essential-200-g-brae/p/MLB66637007",
+      "precoDe": 363.45,
+      "postado": "2026-11-19T21:06:13.132Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-13SPSrm.jpg"
+    },
     {
       "id": "1tqXueG",
       "nome": "Controle Joystick Sem Fio Microsoft Xbox Series X|s Robot",
