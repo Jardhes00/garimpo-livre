@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T18:53:49.920Z",
+  "atualizado": "2026-11-19T18:55:04.919Z",
   "ofertas": [
+    {
+      "id": "2n8Js9e",
+      "nome": "TP-Link Deco X10(2-pack) Roteador Mesh Wifi6 AX1500 Cobre até 360m²",
+      "categoria": "Diversos",
+      "preco": 362.25,
+      "link": "https://meli.la/2n8Js9e",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tp-link-deco-x102-pack-roteador-mesh-wifi6-ax1500-cobre-ate-360m/p/MLB50688873",
+      "precoDe": 629.9,
+      "pix": true,
+      "parcelas": "R$483 em 3x R$161 sem juros",
+      "postado": "2026-11-19T18:55:04.917Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2n8Js9e.jpg"
+    },
     {
       "id": "2aQCr4f",
       "nome": "Principia Kit Essencial Gl-03 + Ch + Vc + Ps Sensível Dia/noite",
@@ -4501,24 +4519,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-26dqGDi.jpg"
-    },
-    {
-      "id": "11RQKda",
-      "nome": "Fritadeira Air Fryer 5,5L Widemax 1900W Midea",
-      "categoria": "Casa",
-      "preco": 237.91,
-      "link": "https://meli.la/11RQKda",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/fritadeira-air-fryer-55l-widemax-com-interior-de-aluminio-1900w-midea/p/MLB50232347",
-      "precoDe": 739.68,
-      "pix": true,
-      "parcelas": "R$279,90 em outros meios",
-      "postado": "2026-11-17T18:54:24.756Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-11RQKda.jpg"
     }
   ]
 }
