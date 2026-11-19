@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T19:25:01.035Z",
+  "atualizado": "2026-11-19T19:26:16.217Z",
   "ofertas": [
+    {
+      "id": "1noh8h8",
+      "nome": "Impressora Creality 3D Ender-3 V3 Se 220mm x 220mm x 250mm",
+      "categoria": "Tech",
+      "preco": 1156.44,
+      "link": "https://meli.la/1noh8h8",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/impressora-creality-3d-ender-3-v3-se-220mm-x-220mm-x-250mm/p/MLB43512971",
+      "precoDe": 2400.63,
+      "pix": true,
+      "parcelas": "R$1.257 em 10x R$125,70 sem juros",
+      "postado": "2026-11-19T19:26:16.216Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1noh8h8.jpg"
+    },
     {
       "id": "1z6osm8",
       "nome": "Kit Máquina Acabamento Kemei Km-032 E Shaver Km-2024 Bivolt",
