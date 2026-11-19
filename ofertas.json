@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-19T19:47:32.475Z",
+  "atualizado": "2026-11-19T19:48:47.099Z",
   "ofertas": [
+    {
+      "id": "29Bv6HA",
+      "nome": "Guarda-roupa Móveis Lopas Easy Slim 8 Portas com 2 Espelhos",
+      "categoria": "Diversos",
+      "preco": 975.11,
+      "link": "https://meli.la/29Bv6HA",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/guarda-roupa-moveis-lopas-easy-slim-8-portas-com-2-espelhos/p/MLB51396300",
+      "precoDe": 1399.9,
+      "pix": true,
+      "parcelas": "R$1.059,90 em 10x R$105,99 sem juros",
+      "cupomAnuncio": "R$883,11 com Cupom",
+      "postado": "2026-11-19T19:48:47.098Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-29Bv6HA.jpg"
+    },
     {
       "id": "262dL6W",
       "nome": "Ilía Flor De Laranjeira 50ml Deo Parfum Feminino Natura",
