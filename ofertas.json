@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-19T19:46:16.910Z",
+  "atualizado": "2026-11-19T19:47:32.475Z",
   "ofertas": [
+    {
+      "id": "262dL6W",
+      "nome": "Ilía Flor De Laranjeira 50ml Deo Parfum Feminino Natura",
+      "categoria": "Diversos",
+      "preco": 99.95,
+      "link": "https://meli.la/262dL6W",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ilia-flor-de-laranjeira-50ml-deo-parfum-feminino-natura/p/MLB19441372",
+      "precoDe": 199.9,
+      "parcelas": "3x de R$33,32 sem juros",
+      "postado": "2026-11-19T19:47:32.473Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-262dL6W.jpg"
+    },
     {
       "id": "1WcKahn",
       "nome": "Câmera Segurança Externa Ip Wifi A28 App Icsee A Prova Dagua",
