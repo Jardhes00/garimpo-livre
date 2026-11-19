@@ -1,6 +1,42 @@
 {
-  "atualizado": "2026-11-19T20:08:47.184Z",
+  "atualizado": "2026-11-19T20:10:45.906Z",
   "ofertas": [
+    {
+      "id": "2nSmqfk",
+      "nome": "Whey Protein Concentrado 100% 900g Refil Dark Lab Sabor Chocolate",
+      "categoria": "Suplementos",
+      "preco": 139.43,
+      "link": "https://meli.la/2nSmqfk",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-protein-concentrado-100-900g-refil-dark-lab-sabor-chocolate/p/MLB25929485",
+      "precoDe": 499.9,
+      "pix": true,
+      "parcelas": "R$ 154,92 em outros meios",
+      "extra": "R$ 20 OFF com cupom no anúncio",
+      "cupomAnuncio": "Compre R$187 e ganhe R$20 OFF",
+      "postado": "2026-11-19T20:10:45.904Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2nSmqfk.jpg"
+    },
+    {
+      "id": "2YP55ds",
+      "nome": "Vinho Chileno Tinto Seco Reserva Casillero del Diablo Cabernet Sauvignon 375 ml",
+      "categoria": "Diversos",
+      "preco": 16.93,
+      "link": "https://meli.la/2YP55ds",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/vinho-chileno-tinto-seco-reserva-casillero-del-diablo-cabernet-sauvignon-375-ml/p/MLB18411601",
+      "precoDe": 39.9,
+      "postado": "2026-11-19T20:10:02.270Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2YP55ds.jpg"
+    },
     {
       "id": "1gppCMz",
       "nome": "Protetor Solar Facial Neutrogena Sun Fresh FPS 70, 40g",
