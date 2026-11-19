@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T20:19:00.548Z",
+  "atualizado": "2026-11-19T20:20:15.629Z",
   "ofertas": [
+    {
+      "id": "27ALYcn",
+      "nome": "NIVEA Loção Hidratante Firmador Q10 + Vitamina C 400ml",
+      "categoria": "Suplementos",
+      "preco": 18.2,
+      "link": "https://meli.la/27ALYcn",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/nivea-locao-hidratante-firmador-q10-vitamina-c-400ml-hidratacao-intensa-48h-pele-firme-e-elasticidade-corporal-todos-os-tipos-de-pele/p/MLB21598769",
+      "precoDe": 43.19,
+      "pix": true,
+      "parcelas": "R$ 22,75 em outros meios",
+      "postado": "2026-11-19T20:20:15.628Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-27ALYcn.jpg"
+    },
     {
       "id": "1CBiQDQ",
       "nome": "Defenza Antipulgas E Carrapatos Msd Cães 20 A 40 Kg Cor Azul",
