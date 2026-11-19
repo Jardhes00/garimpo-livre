@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T15:25:35.387Z",
+  "atualizado": "2026-11-19T15:26:50.587Z",
   "ofertas": [
+    {
+      "id": "25BEJr3",
+      "nome": "Aparador Buffet Tampo Mdp 120x30cm 4 Portas Industrial",
+      "categoria": "Diversos",
+      "preco": 244.12,
+      "link": "https://meli.la/25BEJr3",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aparador-buffet-tampo-mdp-120x30cm-4-portas-industrial/up/MLBU3917635668",
+      "precoDe": 420.9,
+      "postado": "2026-11-19T15:26:50.585Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-25BEJr3.jpg"
+    },
     {
       "id": "2eRhatL",
       "nome": "Barra Whey Grego 40g Display com 12 unidades Dulce de Leche Havanna Nutrata",
