@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T21:02:27.982Z",
+  "atualizado": "2026-11-19T21:03:43.053Z",
   "ofertas": [
+    {
+      "id": "1uuCM7w",
+      "nome": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
+      "categoria": "Beleza",
+      "preco": 30.1,
+      "link": "https://meli.la/1uuCM7w",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/shampoo-johnsons-baby-glicerina-hipoalergenico-750ml/p/MLB24208936",
+      "precoDe": 62.99,
+      "postado": "2026-11-19T21:03:43.051Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1uuCM7w.jpg"
+    },
     {
       "id": "2FzCaMD",
       "nome": "Micro-ondas Electrolux 36L Branco Efficient com Descongelamento Assistido ME36B",
@@ -5231,38 +5247,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1mbGGQw.jpg"
-    },
-    {
-      "id": "2kU7DNt",
-      "nome": "Kit 10 Potes de Vidro Herméticos Aristus 640ml - Vão ao Forno, Micro-ondas e Freezer",
-      "categoria": "Casa",
-      "preco": 89.29,
-      "link": "https://meli.la/2kU7DNt",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit-10-potes-vidro-hermetico-aristus-640ml-marmita-anti-vazamento-forno-micro-ondas-freezer-tampa-4-travas-cinza/p/MLB63315915",
-      "precoDe": 189.99,
-      "postado": "2026-11-17T21:03:41.843Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2kU7DNt.jpg"
-    },
-    {
-      "id": "2yHyQeD",
-      "nome": "Liquidificador Oster OLIQ610 1400W Full 3,2L Preto",
-      "categoria": "Casa",
-      "preco": 199.99,
-      "link": "https://meli.la/2yHyQeD",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/liquidificador-oster-oliq610-1400w-full-32l-cor-preto/p/MLB16602518",
-      "precoDe": 299,
-      "postado": "2026-11-17T21:02:49.776Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2yHyQeD.jpg"
     }
   ]
 }
