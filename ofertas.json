@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T19:00:05.256Z",
+  "atualizado": "2026-11-19T19:01:20.341Z",
   "ofertas": [
+    {
+      "id": "1Tu3aa6",
+      "nome": "Air Fryer Oven Philco 16L Digital com Visor PAF16C",
+      "categoria": "Casa",
+      "preco": 439,
+      "link": "https://meli.la/1Tu3aa6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/air-fryer-oven-philco-16l-digital-com-visor-paf16c/p/MLB66895633",
+      "precoDe": 623.96,
+      "postado": "2026-11-19T19:01:20.339Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Tu3aa6.jpg"
+    },
     {
       "id": "1eM5pUS",
       "nome": "Monitor AOC 27\" 120Hz 1ms Gaming IPS Adaptive-Sync 27B35H Preto",
@@ -4429,43 +4445,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2XugppZ.jpg"
-    },
-    {
-      "id": "32HZoqY",
-      "nome": "Lava Jato Portátil Alta Pressão 2 Baterias com Maleta Recarregável - Evolufix",
-      "categoria": "Diversos",
-      "preco": 94.99,
-      "link": "https://meli.la/32HZoqY",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/lava-jato-portatil-alta-pressao-lavadora-2-baterias-maleta-preto-recarregavel-eletrica-lavar-carro-profissional-potencia-turbo-limpeza-compacta-potente-regulavel-lavagem-automotivo-evolufix/p/MLB69323628",
-      "precoDe": 246.87,
-      "pix": true,
-      "parcelas": "R$99,99 em outros meios",
-      "cupomAnuncio": "R$93,09 com Cupom por seguir a loja",
-      "postado": "2026-11-17T19:01:10.072Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-32HZoqY.jpg"
-    },
-    {
-      "id": "1Gx2sNo",
-      "nome": "Serra Mármore Makita 1300W com 2 Discos 4100NH3ZX2",
-      "categoria": "Ferramentas",
-      "preco": 338.43,
-      "link": "https://meli.la/1Gx2sNo",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/serra-marmore-438-1300w-c-2discos-4100nh3zx2-makita/p/MLB19802406",
-      "precoDe": 541.43,
-      "pix": true,
-      "parcelas": "R$389 em outros meios",
-      "postado": "2026-11-17T19:00:25.023Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1Gx2sNo.jpg"
     }
   ]
 }
