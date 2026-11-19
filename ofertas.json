@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T19:07:36.396Z",
+  "atualizado": "2026-11-19T19:08:50.695Z",
   "ofertas": [
+    {
+      "id": "2TFEF8r",
+      "nome": "Conjunto Panelas Antiaderente 10 Peças Teflon Várias Cores",
+      "categoria": "Casa",
+      "preco": 180.4,
+      "link": "https://meli.la/2TFEF8r",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/conjunto-panelas-antiaderente-10-pecas-teflon-varias-cores/up/MLBU1160704522",
+      "precoDe": 299,
+      "pix": true,
+      "parcelas": "R$189,90 em outros meios",
+      "postado": "2026-11-19T19:08:50.692Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2TFEF8r.jpg"
+    },
     {
       "id": "2gCsY9p",
       "nome": "Principia Kit Protetor Solar Facial Ps-01 Fps60",
