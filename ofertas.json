@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-19T19:18:50.796Z",
+  "atualizado": "2026-11-19T19:20:06.590Z",
   "ofertas": [
+    {
+      "id": "1JmFdem",
+      "nome": "Ventilador de Mesa Britânia Turbo BVT491 Preto de 40 cm com 10 Pás",
+      "categoria": "Casa",
+      "preco": 169.25,
+      "link": "https://meli.la/1JmFdem",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-mesa-britania-turbo-bvt491-preto-de-40-cm-com-10-pas/p/MLB28260977",
+      "precoDe": 274.79,
+      "parcelas": "5x de R$33,85 sem juros",
+      "postado": "2026-11-19T19:20:06.588Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1JmFdem.jpg"
+    },
     {
       "id": "1TEzST4",
       "nome": "Barra De Proteína Bold Bombom Crocante 40g",
