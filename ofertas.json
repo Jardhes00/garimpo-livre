@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T21:08:43.306Z",
+  "atualizado": "2026-11-19T21:09:58.046Z",
   "ofertas": [
+    {
+      "id": "2MQ3piS",
+      "nome": "Depurador Slim 60cm Preto Dps161pt Suggar",
+      "categoria": "Diversos",
+      "preco": 337.45,
+      "link": "https://meli.la/2MQ3piS",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/depurador-slim-60cm-preto-dps161pt-suggar/p/MLB21720839",
+      "precoDe": 599,
+      "pix": true,
+      "parcelas": "R$397 em outros meios",
+      "postado": "2026-11-19T21:09:58.045Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2MQ3piS.jpg"
+    },
     {
       "id": "2DXQRYz",
       "nome": "Filamento Pla Impressão 3d High Speed 1kg Onyon3d 1.75mm Ful Branco Porcelana",
