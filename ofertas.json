@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-19T15:04:20.169Z",
+  "atualizado": "2026-11-19T15:05:34.997Z",
   "ofertas": [
+    {
+      "id": "2kycGkQ",
+      "nome": "Monitor LG UltraWide - Tela IPS de 29\", 21:9, HDR10, sRGB 99%, 100Hz, Preto- 29WQ500B",
+      "categoria": "Tech",
+      "preco": 979,
+      "link": "https://meli.la/2kycGkQ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/monitor-lg-ultrawide-tela-ips-de-29-219-hdr10-srgb-99-100hz-preto-29wq500b/p/MLB47137238",
+      "precoDe": 1549.4,
+      "parcelas": "10x R$ 97,90 sem juros",
+      "postado": "2026-11-19T15:05:34.995Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2kycGkQ.jpg"
+    },
     {
       "id": "1gMUifa",
       "nome": "Amazon Echo Dot 5a Geração Alexa Smart Speaker Azul",
