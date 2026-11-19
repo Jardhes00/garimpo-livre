@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T20:05:02.386Z",
+  "atualizado": "2026-11-19T20:06:17.227Z",
   "ofertas": [
+    {
+      "id": "1pAFBUT",
+      "nome": "Cadeirinha Cosco Kids, Tour, 9 a 36 Kg, Cinza e Preto",
+      "categoria": "Diversos",
+      "preco": 284.9,
+      "link": "https://meli.la/1pAFBUT",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeirinha-cosco-kids-tour-9-a-36-kg-cinza-e-preto/p/MLB12706806",
+      "precoDe": 499,
+      "pix": true,
+      "parcelas": "R$299,90 em 4x R$74,97 sem juros",
+      "postado": "2026-11-19T20:06:17.226Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1pAFBUT.jpg"
+    },
     {
       "id": "24Cu4TA",
       "nome": "Perfume Masculino Emporio Armani Stronger With You Edt 100ml",
