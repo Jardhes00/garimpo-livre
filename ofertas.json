@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T15:19:20.238Z",
+  "atualizado": "2026-11-19T15:20:35.267Z",
   "ofertas": [
+    {
+      "id": "1abzQ5S",
+      "nome": "Geladeira Electrolux Cycle Defrost 240L Degelo Prático Uma Porta Branca RE31 127v",
+      "categoria": "Casa",
+      "preco": 1404.14,
+      "link": "https://meli.la/1abzQ5S",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/geladeira-electrolux-cycle-defrost-240l-degelo-pratico-uma-porta-branca-re31-127v/p/MLB6077910",
+      "precoDe": 2399,
+      "pix": true,
+      "parcelas": "R$ 1.447,57 em outros meios",
+      "postado": "2026-11-19T15:20:35.265Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1abzQ5S.jpg"
+    },
     {
       "id": "2E4mYPX",
       "nome": "Smart TV Philco 60\" P60VIK 4K UHD LED Roku Dolby Audio Wi-Fi HDR10",
