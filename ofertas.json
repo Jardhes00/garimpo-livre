@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T19:58:47.084Z",
+  "atualizado": "2026-11-19T20:00:02.078Z",
   "ofertas": [
+    {
+      "id": "16RG1N5",
+      "nome": "Aspirador de Pó e Água Electrolux Acqua Power 1400W 11L com Função Sopro, Rodas",
+      "categoria": "Casa",
+      "preco": 224.9,
+      "link": "https://meli.la/16RG1N5",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aspirador-de-po-e-agua-electrolux-acqua-power-1400w-11l-com-funcao-sopro-rodas-360-alta-succao-e-acessorios-para-limpeza-residencial-e-automotiva-aqp20/p/MLB6215149",
+      "precoDe": 339.99,
+      "postado": "2026-11-19T20:00:02.077Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-16RG1N5.jpg"
+    },
     {
       "id": "1SNFJM3",
       "nome": "Relógio Masculino Saint Germain Murray Caixa Prateada de 40mm",
