@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T14:54:18.940Z",
+  "atualizado": "2026-11-19T14:59:20.156Z",
   "ofertas": [
+    {
+      "id": "2FSXqEF",
+      "nome": "iPhone 16e (128 GB) - Preto - Distribuidor Autorizado",
+      "categoria": "Tech",
+      "preco": 3099,
+      "link": "https://meli.la/2FSXqEF",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/iphone-16e-128-gb-preto-distribuidor-autorizado/p/MLB1046215784",
+      "precoDe": 5799,
+      "pix": true,
+      "parcelas": "R$ 3.443,33 em 10x R$ 344,33 sem juros",
+      "postado": "2026-11-19T14:59:20.152Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2FSXqEF.jpg"
+    },
     {
       "id": "1i3DBZe",
       "nome": "Jogo De Panelas Antiaderente 5 Pç Tampa Vidro Chocolate",
@@ -4452,24 +4470,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2ksr4Dz.jpg"
-    },
-    {
-      "id": "2TbQk6N",
-      "nome": "Papel Sulfite A4 Suzano Premium Report 75g Caixa com 10 Resmas",
-      "categoria": "Diversos",
-      "preco": 258.33,
-      "link": "https://meli.la/2TbQk6N",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/papel-sulfite-a4-suzano-premium-report-75g-caixa-c10-resmas/up/MLBU3917331638",
-      "precoDe": 379.9,
-      "pix": true,
-      "parcelas": "R$303,92 em outros meios",
-      "postado": "2026-11-17T14:54:47.994Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2TbQk6N.jpg"
     }
   ]
 }
