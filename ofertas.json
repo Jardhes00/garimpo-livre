@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T20:16:15.393Z",
+  "atualizado": "2026-11-19T20:17:45.589Z",
   "ofertas": [
+    {
+      "id": "1dQFaRJ",
+      "nome": "Panificadora Multipane Com 12 Programas E Potência De 550w Antiaderente Cor Branca Britânia",
+      "categoria": "Diversos",
+      "preco": 467.91,
+      "link": "https://meli.la/1dQFaRJ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/panificadora-multipane-com-12-programas-e-potencia-de-550w-antiaderente-cor-branca-britania/p/MLB15278924",
+      "precoDe": 1500,
+      "pix": true,
+      "parcelas": "R$ 519,90 em outros meios",
+      "postado": "2026-11-19T20:17:45.588Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1dQFaRJ.jpg"
+    },
     {
       "id": "2aj5uGt",
       "nome": "Escova Secadora By Juliette Mondial 1300W - ES-JU-03",
