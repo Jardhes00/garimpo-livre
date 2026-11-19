@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T20:44:57.402Z",
+  "atualizado": "2026-11-19T20:46:12.497Z",
   "ofertas": [
+    {
+      "id": "1uu77Sg",
+      "nome": "Cascata de Natal LED 400 Luzes Branco Quente 10m com 8 Funções para Decoração",
+      "categoria": "Pet",
+      "preco": 66.39,
+      "link": "https://meli.la/1uu77Sg",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cascata-de-natal-led-400-luzes-branco-quente-10m-com-8-funcoes-para-decoracao-externa-e-interna/p/MLB78874864",
+      "precoDe": 199.9,
+      "postado": "2026-11-19T20:46:12.496Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1uu77Sg.jpg"
+    },
     {
       "id": "28pce4e",
       "nome": "La Roche-Posay Sérum Antimanchas Mela B3 com Ativo Patenteado Melasyl 30ml",
@@ -5401,23 +5417,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2E71bAb.jpg"
-    },
-    {
-      "id": "1DY48o1",
-      "nome": "Air Fryer Oven Britânia 11L 8 Funções 1800W Painel Digital BAF11A",
-      "categoria": "Casa",
-      "preco": 329,
-      "link": "https://meli.la/1DY48o1",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/air-fryer-oven-britania-11l-8-funcoes-1800w-painel-digital-baf11a/p/MLB62230579",
-      "precoDe": 473.1,
-      "parcelas": "6x de R$54,83 sem juros",
-      "postado": "2026-11-17T20:45:34.058Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1DY48o1.jpg"
     }
   ]
 }
