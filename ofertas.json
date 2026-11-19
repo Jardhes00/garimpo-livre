@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T20:31:12.516Z",
+  "atualizado": "2026-11-19T20:32:27.250Z",
   "ofertas": [
+    {
+      "id": "2APa2QJ",
+      "nome": "Magnésio Bisglicinato 1400mg 60 Cápsulas Nutrify",
+      "categoria": "Diversos",
+      "preco": 30.62,
+      "link": "https://meli.la/2APa2QJ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/magnesio-bisglicinato-1400mg-60-capsulas-nutrify/p/MLB19640094",
+      "precoDe": 65,
+      "postado": "2026-11-19T20:32:27.248Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2APa2QJ.jpg"
+    },
     {
       "id": "2A5h4sw",
       "nome": "Fone De Ouvido Para Capacete Moto Bluetooth Motoboy Headset RGB Sem Fio Comunicador Woosh",
