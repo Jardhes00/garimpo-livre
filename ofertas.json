@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T15:08:04.966Z",
+  "atualizado": "2026-11-19T15:09:20.282Z",
   "ofertas": [
+    {
+      "id": "27wYE5K",
+      "nome": "Bombom chocolate Sonho De Valsa Lacta 1Kg",
+      "categoria": "Diversos",
+      "preco": 56.99,
+      "link": "https://meli.la/27wYE5K",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bombom-chocolate-sonho-de-valsa-lacta-1kg/p/MLB21836683",
+      "precoDe": 104.5,
+      "postado": "2026-11-19T15:09:20.279Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-27wYE5K.jpg"
+    },
     {
       "id": "2UiT5zQ",
       "nome": "Bravecto Antipulgas e Carrapatos MSD para Cães de 4,5 a 10 kg",
