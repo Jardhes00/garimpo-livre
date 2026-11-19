@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T20:58:43.033Z",
+  "atualizado": "2026-11-19T20:59:57.843Z",
   "ofertas": [
+    {
+      "id": "2c7e8fL",
+      "nome": "Detergente Ypê Neutro 5 Litros",
+      "categoria": "Diversos",
+      "preco": 19.99,
+      "link": "https://meli.la/2c7e8fL",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/detergente-ype-neutro-5-litros/p/MLB23958420",
+      "precoDe": 32.99,
+      "postado": "2026-11-19T20:59:57.841Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2c7e8fL.jpg"
+    },
     {
       "id": "1dgq9Ch",
       "nome": "Sabonete em Barra Dove Original 6 Unidades 90g",
@@ -5264,42 +5280,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2CopMcC.jpg"
-    },
-    {
-      "id": "2XE689h",
-      "nome": "Cooktop 4 Bocas Dako Pratiko Mesa de Vidro a Gás Preto Bivolt",
-      "categoria": "Diversos",
-      "preco": 367.23,
-      "link": "https://meli.la/2XE689h",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cooktop-4-bocas-dako-pratiko-mesa-de-vidro-e-acendimento-super-automatico-a-gas-preto-bivolt/p/MLB65017086",
-      "precoDe": 729,
-      "pix": true,
-      "parcelas": "R$422,10 em outros meios",
-      "postado": "2026-11-17T20:59:49.887Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2XE689h.jpg"
-    },
-    {
-      "id": "26PsDMF",
-      "nome": "Suporte Articulado para Monitor 13\" a 32\" com Pistão a Gás Zinnia Nimbo 110",
-      "categoria": "Tech",
-      "preco": 89.89,
-      "link": "https://meli.la/26PsDMF",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/suporte-articulado-para-monitor-13-a-32-pistao-a-gas-ajustavel-zinnia-nimbo-110-preto/p/MLB50722875",
-      "precoDe": 199,
-      "pix": true,
-      "parcelas": "R$97,71 em outros meios",
-      "postado": "2026-11-17T20:59:04.443Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-26PsDMF.jpg"
     }
   ]
 }
