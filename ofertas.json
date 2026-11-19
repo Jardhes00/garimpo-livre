@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-19T20:41:12.349Z",
+  "atualizado": "2026-11-19T20:42:27.591Z",
   "ofertas": [
+    {
+      "id": "2XKAMaG",
+      "nome": "Cadeira Escritório Ergonômica Mesh Giratoria Reclinavel Olinda Plus RSH650",
+      "categoria": "Diversos",
+      "preco": 322.15,
+      "link": "https://meli.la/2XKAMaG",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-escritorio-ergonomica-mesh-giratoria-reclinavel-olinda-plus-rsh650-rishon-cor-preto-com-suporte-lombar-estofado/p/MLB80299571",
+      "precoDe": 1299,
+      "pix": true,
+      "parcelas": "R$379 em 7x R$54,14 sem juros",
+      "cupomAnuncio": "R$306,04 com Cupom por seguir a loja",
+      "postado": "2026-11-19T20:42:27.590Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2XKAMaG.jpg"
+    },
     {
       "id": "2MykR4X",
       "nome": "Whey Protein Concentrado 1kg Chocolate Branco Dark Lab",
@@ -5432,24 +5451,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1a479UW.jpg"
-    },
-    {
-      "id": "1pJPjES",
-      "nome": "Chave De Impacto Brushless 500nm Com 2 Baterias 48v Cinza-escuro 127/220v",
-      "categoria": "Ferramentas",
-      "preco": 168.14,
-      "link": "https://meli.la/1pJPjES",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/chave-de-impacto-brushless-500nm-com-2-baterias-48v/up/MLBU3803111237",
-      "precoDe": 325,
-      "pix": true,
-      "parcelas": "R$ 176,99 em outros meios",
-      "postado": "2026-11-17T20:41:49.299Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1pJPjES.jpg"
     }
   ]
 }
