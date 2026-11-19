@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T20:36:12.149Z",
+  "atualizado": "2026-11-19T20:37:27.051Z",
   "ofertas": [
+    {
+      "id": "1NGrdnw",
+      "nome": "Vinho Chileno Branco Concha Y Toro Reservado Sauvignon Blanc 750ml",
+      "categoria": "Diversos",
+      "preco": 16.15,
+      "link": "https://meli.la/1NGrdnw",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/vinho-chileno-branco-concha-y-toro-reservado-sauvignon-blanc-750ml/p/MLB18216581",
+      "precoDe": 39.36,
+      "pix": true,
+      "extra": "Preço no Pix com cupom",
+      "postado": "2026-11-19T20:37:27.050Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1NGrdnw.jpg"
+    },
     {
       "id": "2BT592w",
       "nome": "Telefone Pleno Intelbras Com Fio Preto",
@@ -5468,40 +5486,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2qU45PE.jpg"
-    },
-    {
-      "id": "21RWNej",
-      "nome": "O Boticário Glamour Midnight Feminino Colônia desodorante Spray 75ml",
-      "categoria": "Diversos",
-      "preco": 99.9,
-      "link": "https://meli.la/21RWNej",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/o-boticario-glamour-midnight-feminino-colonia-desodorante-spray-75ml/p/MLB24310715",
-      "precoDe": 199.9,
-      "parcelas": "3x de R$ 33,30 sem juros",
-      "postado": "2026-11-17T20:37:18.696Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-21RWNej.jpg"
-    },
-    {
-      "id": "1DJLTPV",
-      "nome": "Keune Care Keratin Smooth Mask 50ml",
-      "categoria": "Diversos",
-      "preco": 19.8,
-      "link": "https://meli.la/1DJLTPV",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/keune-care-keratin-smooth-mask-50ml/p/MLB49575751",
-      "precoDe": 73.8,
-      "cupomAnuncio": "Compre R$130 e ganhe 10% OFF",
-      "postado": "2026-11-17T20:36:33.642Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1DJLTPV.jpg"
     }
   ]
 }
