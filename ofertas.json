@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-19T20:33:41.951Z",
+  "atualizado": "2026-11-19T20:34:57.208Z",
   "ofertas": [
+    {
+      "id": "12cxGYM",
+      "nome": "Assento Booster Burigotto Protege para Carro, Preto, de 15 a 36 kg",
+      "categoria": "Auto",
+      "preco": 125,
+      "link": "https://meli.la/12cxGYM",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/assento-booster-burigotto-protege-para-carro-preto-de-15-a-36-kg/p/MLB16091843",
+      "precoDe": 250,
+      "parcelas": "4x de R$ 31,25 sem juros",
+      "postado": "2026-11-19T20:34:57.207Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-12cxGYM.jpg"
+    },
     {
       "id": "1ghh72Q",
       "nome": "Aparador de Pelos Super Groom 06 Mondial Bivolt - BG-04",
@@ -5506,23 +5523,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-12dEPkX.jpg"
-    },
-    {
-      "id": "1XaMiYF",
-      "nome": "Johnnie Walker Gold Label Reserve Blended de 750mL",
-      "categoria": "Diversos",
-      "preco": 197.69,
-      "link": "https://meli.la/1XaMiYF",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/johnnie-walker-gold-label-reserve-blended-de-750ml/p/MLB47077755",
-      "precoDe": 343.9,
-      "parcelas": "12x de R$ 19,57",
-      "postado": "2026-11-17T20:34:18.786Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1XaMiYF.jpg"
     }
   ]
 }
