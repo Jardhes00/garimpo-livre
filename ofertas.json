@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T20:22:01.178Z",
+  "atualizado": "2026-11-19T20:23:42.008Z",
   "ofertas": [
+    {
+      "id": "2CTPio6",
+      "nome": "Barraca Camping Iglu para até 4 Pessoas - Mor",
+      "categoria": "Diversos",
+      "preco": 87.22,
+      "link": "https://meli.la/2CTPio6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/barraca-camping-iglu-para-ate-4-pessoas-mor/p/MLB23113041",
+      "precoDe": 196.79,
+      "pix": true,
+      "parcelas": "R$ 94,80 em outros meios",
+      "postado": "2026-11-19T20:23:42.006Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2CTPio6.jpg"
+    },
     {
       "id": "11NTa4g",
       "nome": "Panela De Pressão Ceramic Life Pressure 4,2l Areia Brinox",
