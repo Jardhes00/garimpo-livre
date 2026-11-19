@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-19T15:36:51.081Z",
+  "atualizado": "2026-11-19T15:38:05.739Z",
   "ofertas": [
+    {
+      "id": "13crqXe",
+      "nome": "Cadeira Escritório Ergonômica Giratória Apoio Lombar Syber Preta",
+      "categoria": "Diversos",
+      "preco": 213.89,
+      "link": "https://meli.la/13crqXe",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-escritorio-ergonomica-giratoria-apoio-lombar-syber-preta/p/MLB62670347",
+      "precoDe": 709.99,
+      "pix": true,
+      "parcelas": "R$229,99 em outros meios",
+      "cupomAnuncio": "Compre R$240 e ganhe 5% OFF por seguir a loja",
+      "postado": "2026-11-19T15:38:05.738Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-13crqXe.jpg"
+    },
     {
       "id": "2tBUpoW",
       "nome": "Mini Ventilador Soprador Ar Potente Turbo 130000rpm Assoprador Elétrico Sem Fio",
