@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-19T15:29:20.955Z",
+  "atualizado": "2026-11-19T15:30:35.866Z",
   "ofertas": [
+    {
+      "id": "1ntBhCu",
+      "nome": "Kit 4 Toalhas De Banho Premium 100% Algodão Grandes Felpudas",
+      "categoria": "Casa",
+      "preco": 57.89,
+      "link": "https://meli.la/1ntBhCu",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-4-toalhas-de-banho-premium-100-algodao-grandes-felpudas/up/MLBU3891914013",
+      "precoDe": 89.9,
+      "cupomAnuncio": "Compre R$129 e ganhe 5% OFF por seguir a loja",
+      "postado": "2026-11-19T15:30:35.864Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ntBhCu.jpg"
+    },
     {
       "id": "1gGYQh3",
       "nome": "Kit Pro Saúde Alwaysfit | Pro3magnesio + Nac + Complexo B + Fits36 | 4",
