@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-19T19:43:46.537Z",
+  "atualizado": "2026-11-19T19:45:01.824Z",
   "ofertas": [
+    {
+      "id": "2JD39zs",
+      "nome": "Armani Beauty, Perfume Feminino, Acqua di Gioia, Eau de Parfum, 100ml",
+      "categoria": "Beleza",
+      "preco": 523.79,
+      "link": "https://meli.la/2JD39zs",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/armani-beauty-perfume-feminino-acqua-di-gioia-eau-de-parfum-100ml/p/MLB3820782",
+      "precoDe": 1029,
+      "pix": true,
+      "parcelas": "R$581,99 em outros meios",
+      "cupomAnuncio": "Compre R$599 e ganhe 5% OFF",
+      "postado": "2026-11-19T19:45:01.823Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2JD39zs.jpg"
+    },
     {
       "id": "1YrnZTX",
       "nome": "Ventilador Mallory Coluna Éolo 40cm Cor Da Estrutura Preto Cor Das Pás grafite",
