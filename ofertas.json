@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T15:01:49.777Z",
+  "atualizado": "2026-11-19T15:03:04.802Z",
   "ofertas": [
+    {
+      "id": "2Ar7wnL",
+      "nome": "Câmera Wi-fi Full Hd Intelbras Im7+ Zoom Full Color Cor Branco",
+      "categoria": "Diversos",
+      "preco": 359.81,
+      "link": "https://meli.la/2Ar7wnL",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/camera-wi-fi-full-hd-intelbras-im7-zoom-full-color-cor-branco/p/MLB45906387",
+      "precoDe": 719.9,
+      "pix": true,
+      "parcelas": "R$ 479,75 em 9x R$ 53,31 sem juros",
+      "postado": "2026-11-19T15:03:04.800Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Ar7wnL.jpg"
+    },
     {
       "id": "2hu49Qe",
       "nome": "Ômega 3 Vitafor EPA DHA + Vitamina E 240 Cápsulas Sem Sabor",
