@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T20:48:42.862Z",
+  "atualizado": "2026-11-19T20:49:57.728Z",
   "ofertas": [
+    {
+      "id": "19uBigW",
+      "nome": "Máquina De Acabamento Profissional Kemei Km-2299 0gap Bivolt",
+      "categoria": "Diversos",
+      "preco": 66.78,
+      "link": "https://meli.la/19uBigW",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquina-de-acabamento-profissional-kemei-km-2299-0gap-bivolt/up/MLBU3654236179",
+      "precoDe": 149.9,
+      "pix": true,
+      "parcelas": "R$74,20 em outros meios",
+      "postado": "2026-11-19T20:49:57.727Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-19uBigW.jpg"
+    },
     {
       "id": "1a4aQqd",
       "nome": "Máquina De Costura Jx-2053 Advance Plus 18 Pontos 63w Branco",
@@ -5364,23 +5382,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1W3S6iw.jpg"
-    },
-    {
-      "id": "1PZ37Hz",
-      "nome": "Bolsa Esportiva UINNATE 3 em 1 55L à Prova D'água com Compartimento para Tênis",
-      "categoria": "Moda",
-      "preco": 151.99,
-      "link": "https://meli.la/1PZ37Hz",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/bolsa-esportiva-uinnate-3-em-1-masculina-para-academia-e-viagem-prova-dagua-com-compartimento-para-sapatos-e-55-l/p/MLB66196209",
-      "precoDe": 298,
-      "cupomAnuncio": "R$143,99 com Cupom por seguir a loja",
-      "postado": "2026-11-17T20:49:19.239Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1PZ37Hz.jpg"
     }
   ]
 }
