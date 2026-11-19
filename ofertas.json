@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T19:11:20.738Z",
+  "atualizado": "2026-11-19T19:12:35.737Z",
   "ofertas": [
+    {
+      "id": "1urR5vV",
+      "nome": "Placa Mãe Asus Tuf Gaming B550m-plus Ddr4 AMD Am4 mATX RGB",
+      "categoria": "Diversos",
+      "preco": 675.28,
+      "link": "https://meli.la/1urR5vV",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/placa-mae-asus-tuf-gaming-b550m-plus-ddr4-amd-am4-matx-rgb/p/MLB36476927",
+      "precoDe": 1096.78,
+      "pix": true,
+      "parcelas": "R$734 em outros meios",
+      "postado": "2026-11-19T19:12:35.736Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1urR5vV.jpg"
+    },
     {
       "id": "16hacUP",
       "nome": "Smartwatch HUAWEI WATCH FIT 5 AMOLED de 182\" Design Leve Mini Treino Bateria",
