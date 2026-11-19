@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T18:47:34.808Z",
+  "atualizado": "2026-11-19T18:48:49.958Z",
   "ofertas": [
+    {
+      "id": "1ifrnD5",
+      "nome": "Amazon Echo Dot 5ª Geração Smart Speaker com Alexa Cor Preto Charcoal",
+      "categoria": "Tech",
+      "preco": 349,
+      "link": "https://meli.la/1ifrnD5",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/amazon-echo-dot-5-geracao-smart-speaker-com-alexa-cor-preto-charcoal/p/MLB19795010",
+      "precoDe": 649,
+      "postado": "2026-11-19T18:48:49.955Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ifrnD5.jpg"
+    },
     {
       "id": "2c7oFVB",
       "nome": "O Boticário Her Code Kit Presente (3 Itens)",
@@ -4551,41 +4567,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2XZS5NR.jpg"
-    },
-    {
-      "id": "1iZDGKF",
-      "nome": "O Boticário Boticollection Connexion Desodorante Colônia 100ml",
-      "categoria": "Diversos",
-      "preco": 84.9,
-      "link": "https://meli.la/1iZDGKF",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/o-boticario-boticollection-connexion-desodorante-colonia-100ml/p/MLB63523411",
-      "precoDe": 179.9,
-      "parcelas": "3x de R$28,30 sem juros",
-      "postado": "2026-11-17T18:48:24.772Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1iZDGKF.jpg"
-    },
-    {
-      "id": "1Pd9x11",
-      "nome": "Ar Condicionado Split Inverter TCL BreezeIn AI 9000 BTUs Frio",
-      "categoria": "Casa",
-      "preco": 1829,
-      "link": "https://meli.la/1Pd9x11",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-tcl-split-invt-breezein-ai-9000-btus-fr/p/MLB75342806",
-      "precoDe": 2983.4,
-      "pix": true,
-      "parcelas": "R$2.099 em 10x R$209,90 sem juros",
-      "postado": "2026-11-17T18:47:39.675Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1Pd9x11.jpg"
     }
   ]
 }
