@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T20:01:17.361Z",
+  "atualizado": "2026-11-19T20:02:32.270Z",
   "ofertas": [
+    {
+      "id": "2gHBUWx",
+      "nome": "Kit 2 Ventilador Parede Ventisol 70cm Bivolt 230w Industrial",
+      "categoria": "Casa",
+      "preco": 789.99,
+      "link": "https://meli.la/2gHBUWx",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-2-ventilador-parede-ventisol-70cm-bivolt-230w-industrial/up/MLBU5221004790",
+      "precoDe": 1373.5,
+      "parcelas": "10x de R$79 sem juros",
+      "cupomAnuncio": "R$777,99 com Cupom por seguir a loja",
+      "postado": "2026-11-19T20:02:32.269Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2gHBUWx.jpg"
+    },
     {
       "id": "2X8byvo",
       "nome": "Balcão Cozinha Itatiaia ROSE TRP 1, 05 Com Tampo 3 Portas 1 Gaveta cor Branco",
