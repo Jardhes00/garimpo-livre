@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T21:09:58.046Z",
+  "atualizado": "2026-11-19T21:11:13.078Z",
   "ofertas": [
+    {
+      "id": "1LwegGP",
+      "nome": "Máscara Wella Fusion Reconstrutora 500ml Cabelo Forte e Revitalizado",
+      "categoria": "Beleza",
+      "preco": 186.82,
+      "link": "https://meli.la/1LwegGP",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mascara-wella-fusion-reconstrutora-500ml-cabelo-forte-e-revitalizado/p/MLB19733586",
+      "precoDe": 300.56,
+      "postado": "2026-11-19T21:11:13.077Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1LwegGP.jpg"
+    },
     {
       "id": "2MQ3piS",
       "nome": "Depurador Slim 60cm Preto Dps161pt Suggar",
