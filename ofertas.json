@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T19:28:46.845Z",
+  "atualizado": "2026-11-19T19:30:00.981Z",
   "ofertas": [
+    {
+      "id": "2M5duNx",
+      "nome": "Depilador Philips Satinelli Bre229/00 Bivolt - Rosa",
+      "categoria": "Diversos",
+      "preco": 166.41,
+      "link": "https://meli.la/2M5duNx",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/depilador-philips-satinelli-bre22900-bivolt-rosa/p/MLB51065768",
+      "precoDe": 324.88,
+      "pix": true,
+      "parcelas": "R$184,90 em outros meios",
+      "postado": "2026-11-19T19:30:00.980Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2M5duNx.jpg"
+    },
     {
       "id": "1v4n7uP",
       "nome": "Piscina Inflável Grande De 2330l Com Bomba De Ar Elétrica",
