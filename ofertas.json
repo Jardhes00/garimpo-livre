@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T20:57:27.872Z",
+  "atualizado": "2026-11-19T20:58:43.033Z",
   "ofertas": [
+    {
+      "id": "1dgq9Ch",
+      "nome": "Sabonete em Barra Dove Original 6 Unidades 90g",
+      "categoria": "Diversos",
+      "preco": 20.61,
+      "link": "https://meli.la/1dgq9Ch",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/sabonete-em-barra-dove-original-6-unidades-90g/p/MLB34506179",
+      "precoDe": 29.9,
+      "postado": "2026-11-19T20:58:43.032Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1dgq9Ch.jpg"
+    },
     {
       "id": "22RFgw7",
       "nome": "Relógio Inteligente Gps Smartwatch Amoled 3atm Sport Gps Caixa Cinza",
@@ -5284,40 +5300,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-26PsDMF.jpg"
-    },
-    {
-      "id": "27GMzRh",
-      "nome": "Monitor LG UltraFine 27\" IPS 4K UHD HDR10 27U711B",
-      "categoria": "Tech",
-      "preco": 1199,
-      "link": "https://meli.la/27GMzRh",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/monitor-lg-ultrafine-tela-ips-de-27-4k-uhd-hdr10-dci-p3-90-60hz-5ms-gtg-super-resolution-hdmi-displayport-preto-27u711b/p/MLB74743644",
-      "precoDe": 1727.58,
-      "parcelas": "10x de R$119,90 sem juros",
-      "postado": "2026-11-17T20:58:19.498Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-27GMzRh.jpg"
-    },
-    {
-      "id": "2p5t9R5",
-      "nome": "Micro-ondas Panasonic NN-ST54RBRU 27 Litros Preto",
-      "categoria": "Casa",
-      "preco": 539,
-      "link": "https://meli.la/2p5t9R5",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-panasonic-nn-st54rbru-27-litros-preto/p/MLB65836536",
-      "precoDe": 799,
-      "parcelas": "10x de R$53,90 sem juros",
-      "postado": "2026-11-17T20:57:34.452Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2p5t9R5.jpg"
     }
   ]
 }
