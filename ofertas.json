@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T15:24:20.580Z",
+  "atualizado": "2026-11-19T15:25:35.387Z",
   "ofertas": [
+    {
+      "id": "2eRhatL",
+      "nome": "Barra Whey Grego 40g Display com 12 unidades Dulce de Leche Havanna Nutrata",
+      "categoria": "Suplementos",
+      "preco": 62.44,
+      "link": "https://meli.la/2eRhatL",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/barra-whey-grego-40g-display-com-12-unidades-dulce-de-leche-havanna-nutrata/p/MLB43292149",
+      "precoDe": 105,
+      "postado": "2026-11-19T15:25:35.385Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2eRhatL.jpg"
+    },
     {
       "id": "1TnQz7F",
       "nome": "Kit Organizadores Com 14 Multiuso Gavetas Empilhavel",
