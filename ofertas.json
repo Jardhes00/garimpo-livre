@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T15:43:06.209Z",
+  "atualizado": "2026-11-19T15:44:20.944Z",
   "ofertas": [
+    {
+      "id": "2y8zj8A",
+      "nome": "Varal de Chão Com Abas Dobrável Aço Reforçado Compacto para Apartamento",
+      "categoria": "Diversos",
+      "preco": 69.99,
+      "link": "https://meli.la/2y8zj8A",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/varal-de-chao-com-abas-dobravel-aco-reforcado-compacto-para-apartamento-lavanderia-ate-20kgs-maxi-easy-preto/p/MLB79371736",
+      "precoDe": 119.9,
+      "postado": "2026-11-19T15:44:20.943Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2y8zj8A.jpg"
+    },
     {
       "id": "2PQTjYk",
       "nome": "Armário Gabinete Suspenso para Banheiro com Cuba Compacta Moderna Nature/Off",
