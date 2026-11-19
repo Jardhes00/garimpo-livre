@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T18:55:04.919Z",
+  "atualizado": "2026-11-19T18:56:20.040Z",
   "ofertas": [
+    {
+      "id": "18CG1PH",
+      "nome": "Parafusadeira e Furadeira WF12K3.2 Bateria 12V WAP",
+      "categoria": "Ferramentas",
+      "preco": 116.1,
+      "link": "https://meli.la/18CG1PH",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/parafusadeira-e-furadeira-wf12k32-bateria-12v-wap/p/MLB46189259",
+      "precoDe": 196,
+      "pix": true,
+      "parcelas": "R$129 em 7x R$18,43 sem juros",
+      "postado": "2026-11-19T18:56:20.038Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-18CG1PH.jpg"
+    },
     {
       "id": "2n8Js9e",
       "nome": "TP-Link Deco X10(2-pack) Roteador Mesh Wifi6 AX1500 Cobre até 360m²",
@@ -4485,40 +4503,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2FbrfaQ.jpg"
-    },
-    {
-      "id": "1spNpBw",
-      "nome": "Chuveiro Eletrônico Lorenzetti Acqua Storm Ultra 7800W Preto",
-      "categoria": "Diversos",
-      "preco": 415.57,
-      "link": "https://meli.la/1spNpBw",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/chuveiro-eletronico-lorenzetti-acqua-storm-ultra-7800w-preto/p/MLB54235193",
-      "precoDe": 699,
-      "parcelas": "8x de R$55,11 sem juros",
-      "postado": "2026-11-17T18:55:54.983Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1spNpBw.jpg"
-    },
-    {
-      "id": "26dqGDi",
-      "nome": "O Boticário Quasar Deep Blue Desodorante Colônia 100ml",
-      "categoria": "Diversos",
-      "preco": 99.9,
-      "link": "https://meli.la/26dqGDi",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/o-boticario-quasar-deep-blue-desodorante-colonia-100ml/p/MLB42111275",
-      "precoDe": 189.9,
-      "parcelas": "3x de R$33,30 sem juros",
-      "postado": "2026-11-17T18:55:09.716Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-26dqGDi.jpg"
     }
   ]
 }
