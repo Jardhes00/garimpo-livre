@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T18:45:05.012Z",
+  "atualizado": "2026-11-19T18:46:19.868Z",
   "ofertas": [
+    {
+      "id": "1TAsRYH",
+      "nome": "Máquina De Acabamento Profissional Kemei - Max5090 Visor Lcd",
+      "categoria": "Diversos",
+      "preco": 86.31,
+      "link": "https://meli.la/1TAsRYH",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquina-de-acabamento-profissional-kemei-max5090-visor-lcd/up/MLBU3361493011",
+      "precoDe": 139.9,
+      "pix": true,
+      "parcelas": "R$95,90 em outros meios",
+      "postado": "2026-11-19T18:46:19.866Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1TAsRYH.jpg"
+    },
     {
       "id": "2YPtijU",
       "nome": "Máquina De Acabamento Profissional Kemei Km-9163 Pézinho Usb",
@@ -4569,42 +4587,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-28kvrUV.jpg"
-    },
-    {
-      "id": "16bDq2M",
-      "nome": "Boneco Funko Pop! Marvel Miles Morales Homem-Aranha de Ferro",
-      "categoria": "Diversos",
-      "preco": 104.04,
-      "link": "https://meli.la/16bDq2M",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/boneco-funko-pop-marvel-hq-miles-homem-aranha-de-ferro-candide/p/MLB44408711",
-      "precoDe": 149.99,
-      "pix": true,
-      "parcelas": "R$109,52 em 4x R$27,38 sem juros",
-      "postado": "2026-11-17T18:46:09.651Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-16bDq2M.jpg"
-    },
-    {
-      "id": "1d415cc",
-      "nome": "Boneco Funko Pop! Marvel X-Men '97 - Apocalypse",
-      "categoria": "Diversos",
-      "preco": 88.37,
-      "link": "https://meli.la/1d415cc",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/boneco-funko-pop-marvel-x-men-97-apocalypse/p/MLB69621223",
-      "precoDe": 149.99,
-      "pix": true,
-      "parcelas": "R$93,02 em outros meios",
-      "postado": "2026-11-17T18:45:24.586Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1d415cc.jpg"
     }
   ]
 }
