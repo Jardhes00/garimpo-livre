@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T15:11:50.239Z",
+  "atualizado": "2026-11-19T15:13:05.474Z",
   "ofertas": [
+    {
+      "id": "32d684k",
+      "nome": "Chapinha De Cabelo Mq Professional Titanium Pro 480 Cor Chumbo",
+      "categoria": "Beleza",
+      "preco": 347.49,
+      "link": "https://meli.la/32d684k",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/chapinha-de-cabelo-mq-professional-titanium-pro-480-cor-chumbo/p/MLB15238956",
+      "precoDe": 577.9,
+      "pix": true,
+      "parcelas": "R$ 386,10 em 7x R$ 55,16 sem juros",
+      "postado": "2026-11-19T15:13:05.472Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-32d684k.jpg"
+    },
     {
       "id": "1W3oAYf",
       "nome": "Cetaphil Loção Advanced Hidratante Corporal para Pele Seca e Sensível 473ml - Hidratação 48h",
