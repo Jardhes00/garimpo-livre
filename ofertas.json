@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T15:31:50.782Z",
+  "atualizado": "2026-11-19T15:33:05.911Z",
   "ofertas": [
+    {
+      "id": "16ANEmo",
+      "nome": "Filamento PLA Preto Velvet Voolt3D 1kg 1,75mm Impressão 3D Aveludado",
+      "categoria": "Diversos",
+      "preco": 89.16,
+      "link": "https://meli.la/16ANEmo",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/filamento-pla-preto-velvet-voolt3d-1kg-175mm-impressao-3d-aveludado/p/MLB24741975",
+      "precoDe": 149.9,
+      "pix": true,
+      "parcelas": "R$104,90 em outros meios",
+      "postado": "2026-11-19T15:33:05.910Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-16ANEmo.jpg"
+    },
     {
       "id": "1vnbaC9",
       "nome": "Ponteira Estrela Natalina LED Bivolt Topo Árvore De Natal Pisca Branco Quente",
