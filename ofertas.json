@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T18:52:34.953Z",
+  "atualizado": "2026-11-19T18:53:49.920Z",
   "ofertas": [
+    {
+      "id": "2aQCr4f",
+      "nome": "Principia Kit Essencial Gl-03 + Ch + Vc + Ps Sensível Dia/noite",
+      "categoria": "Diversos",
+      "preco": 120.95,
+      "link": "https://meli.la/2aQCr4f",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/principia-kit-essencial-gl-03-ch-vc-ps-sensivel-dianoite/p/MLB60968045",
+      "precoDe": 211,
+      "postado": "2026-11-19T18:53:49.918Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2aQCr4f.jpg"
+    },
     {
       "id": "1c8T4jF",
       "nome": "Tablet Lenovo Tab 10.1¨ Wifi 5 64gb 4gb De Ram Android 14 Cinza",
@@ -4503,41 +4519,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-11RQKda.jpg"
-    },
-    {
-      "id": "1R9uJYu",
-      "nome": "Bracelete Pandora Pulseira de Prata com Fecho Coração",
-      "categoria": "Tech",
-      "preco": 433.29,
-      "link": "https://meli.la/1R9uJYu",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/bracelete-pandora-pulseira-de-prata-e-fecho-coracao/up/MLBU4437859578",
-      "precoDe": 619,
-      "parcelas": "10x de R$43,33 sem juros",
-      "postado": "2026-11-17T18:53:39.842Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1R9uJYu.jpg"
-    },
-    {
-      "id": "2poXUar",
-      "nome": "Kit 2 Chaves de Impacto Parafusadeira Furadeira com 2 Baterias",
-      "categoria": "Ferramentas",
-      "preco": 352.27,
-      "link": "https://meli.la/2poXUar",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit-2-chaves-de-impacto-parafusadeira-furadeira-2-bateria/p/MLB80089368",
-      "precoDe": 899,
-      "pix": true,
-      "parcelas": "R$387,11 em outros meios",
-      "postado": "2026-11-17T18:52:54.933Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2poXUar.jpg"
     }
   ]
 }
