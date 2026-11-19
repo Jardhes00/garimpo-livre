@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T19:55:01.964Z",
+  "atualizado": "2026-11-19T19:56:16.888Z",
   "ofertas": [
+    {
+      "id": "1Tna9T8",
+      "nome": "Impressora Epson Ecotank L1350 Colorida Wi-fi Bivolt",
+      "categoria": "Tech",
+      "preco": 826.2,
+      "link": "https://meli.la/1Tna9T8",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/impressora-epson-ecotank-l1350-colorida-wi-fi-bivolt/up/MLBU5762980644",
+      "precoDe": 1350,
+      "pix": true,
+      "parcelas": "R$918 em outros meios",
+      "postado": "2026-11-19T19:56:16.887Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Tna9T8.jpg"
+    },
     {
       "id": "29ysNBi",
       "nome": "Câmera Segurança Ip Externa Wifi A28 App Icsee À Prova Dágua",
