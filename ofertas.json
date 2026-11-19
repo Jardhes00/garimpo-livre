@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T15:40:36.037Z",
+  "atualizado": "2026-11-19T15:41:51.264Z",
   "ofertas": [
+    {
+      "id": "16gWrnw",
+      "nome": "Impressora De Termica Bluetooth Etiquetas Adesivas Armazém",
+      "categoria": "Tech",
+      "preco": 353.49,
+      "link": "https://meli.la/16gWrnw",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/impressora-de-termica-bluetooth-etiquetas-adesivas-armazem/up/MLBU3874918139",
+      "precoDe": 679.8,
+      "postado": "2026-11-19T15:41:51.262Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-16gWrnw.jpg"
+    },
     {
       "id": "2SqqmcL",
       "nome": "Chave De Impacto A Bateria 21V 1/2\" Pol 2400 Rpm Bivolt Com Acessórios E Maleta",
