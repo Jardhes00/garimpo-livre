@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T15:14:20.255Z",
+  "atualizado": "2026-11-19T15:15:35.265Z",
   "ofertas": [
+    {
+      "id": "113HwkT",
+      "nome": "Colchão Inflável Queen NEPUI com Bomba Elétrica e 2 Travesseiros",
+      "categoria": "Casa",
+      "preco": 283.74,
+      "link": "https://meli.la/113HwkT",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/colchao-inflavel-queen-nepui-com-bomba-eletrica-e-2-travesseiros/p/MLB67290243",
+      "precoDe": 600,
+      "pix": true,
+      "parcelas": "R$ 298,67 em outros meios",
+      "postado": "2026-11-19T15:15:35.263Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-113HwkT.jpg"
+    },
     {
       "id": "2cLfhFL",
       "nome": "Ventilador de Mesa Britânia Prime Air 60W com 6 Pás e 3 Velocidades",
