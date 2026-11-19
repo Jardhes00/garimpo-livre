@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T19:45:01.824Z",
+  "atualizado": "2026-11-19T19:46:16.910Z",
   "ofertas": [
+    {
+      "id": "1WcKahn",
+      "nome": "Câmera Segurança Externa Ip Wifi A28 App Icsee A Prova Dagua",
+      "categoria": "Diversos",
+      "preco": 113.48,
+      "link": "https://meli.la/1WcKahn",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/camera-seguranca-externa-ip-wifi-a28-app-icsee-a-prova-dagua/up/MLBU3989591164",
+      "precoDe": 200,
+      "pix": true,
+      "parcelas": "R$123,35 em outros meios",
+      "postado": "2026-11-19T19:46:16.908Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1WcKahn.jpg"
+    },
     {
       "id": "2JD39zs",
       "nome": "Armani Beauty, Perfume Feminino, Acqua di Gioia, Eau de Parfum, 100ml",
