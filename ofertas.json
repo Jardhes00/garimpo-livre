@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-19T15:16:50.245Z",
+  "atualizado": "2026-11-19T15:18:05.273Z",
   "ofertas": [
+    {
+      "id": "1KVWquL",
+      "nome": "Espumante Branco Brut Brasileiro 750ml Salton",
+      "categoria": "Diversos",
+      "preco": 30.37,
+      "link": "https://meli.la/1KVWquL",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/espumante-branco-brut-brasileiro-750ml-salton/p/MLB18308360",
+      "precoDe": 42.9,
+      "cupomAnuncio": "Compre R$100 e ganhe 10% OFF",
+      "postado": "2026-11-19T15:18:05.272Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1KVWquL.jpg"
+    },
     {
       "id": "1BabtAh",
       "nome": "Purificador Electrolux Água Gelada Cinza Pe15x - Bivolt",
