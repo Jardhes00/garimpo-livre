@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T19:42:31.642Z",
+  "atualizado": "2026-11-19T19:43:46.537Z",
   "ofertas": [
+    {
+      "id": "1YrnZTX",
+      "nome": "Ventilador Mallory Coluna Éolo 40cm Cor Da Estrutura Preto Cor Das Pás grafite",
+      "categoria": "Casa",
+      "preco": 197.1,
+      "link": "https://meli.la/1YrnZTX",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-mallory-coluna-eolo-40cm-cor-da-estrutura-preto-cor-das-pas-grafite-diametro-40-cm-6-pas/p/MLB25554105",
+      "precoDe": 311.96,
+      "pix": true,
+      "parcelas": "R$219 em outros meios",
+      "postado": "2026-11-19T19:43:46.536Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1YrnZTX.jpg"
+    },
     {
       "id": "2BP15rV",
       "nome": "Wap Empr 900k Martelete Sds Plus Com Seletor Reverso 900 W 127V",
