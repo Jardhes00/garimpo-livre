@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-19T15:03:04.802Z",
+  "atualizado": "2026-11-19T15:04:20.169Z",
   "ofertas": [
+    {
+      "id": "1gMUifa",
+      "nome": "Amazon Echo Dot 5a Geração Alexa Smart Speaker Azul",
+      "categoria": "Tech",
+      "preco": 291.89,
+      "link": "https://meli.la/1gMUifa",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/amazon-echo-dot-5a-geracao-alexa-smart-speaker-azul/p/MLB43007104",
+      "precoDe": 649,
+      "parcelas": "12x R$ 28,55",
+      "postado": "2026-11-19T15:04:20.167Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1gMUifa.jpg"
+    },
     {
       "id": "2Ar7wnL",
       "nome": "Câmera Wi-fi Full Hd Intelbras Im7+ Zoom Full Color Cor Branco",
