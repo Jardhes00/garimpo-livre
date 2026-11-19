@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T20:38:42.255Z",
+  "atualizado": "2026-11-19T20:39:57.218Z",
   "ofertas": [
+    {
+      "id": "2Rpe2Wo",
+      "nome": "Churrasqueira Elétrica Elgin Bbq Show 2000w Chu20 Preto",
+      "categoria": "Diversos",
+      "preco": 71,
+      "link": "https://meli.la/2Rpe2Wo",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/churrasqueira-eletrica-elgin-bbq-show-2000w-chu20-preto/p/MLB23860429",
+      "precoDe": 99,
+      "postado": "2026-11-19T20:39:57.216Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Rpe2Wo.jpg"
+    },
     {
       "id": "1kwWb3h",
       "nome": "Hidratante Facial Epidrat Calm B5 Para Pele Sensível 50ml Mantecorp",
@@ -5450,40 +5466,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2ZfF5P9.jpg"
-    },
-    {
-      "id": "2AJDsbr",
-      "nome": "Monitor Pressão Arterial Pulso Omron HEM-6181 Medidor Aparelho Digital Aferidor Esfigmomanômetro Portátil Grande Automático Anvisa Inmetro",
-      "categoria": "Tech",
-      "preco": 81.22,
-      "link": "https://meli.la/2AJDsbr",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/monitor-pressao-arterial-pulso-omron-hem-6181-medidor-aparelho-digital-aferidor-esfigmomanometro-portatil-grande-automatico-anvisa-inmetro/p/MLB21789455",
-      "precoDe": 149.9,
-      "parcelas": "12x de R$ 8",
-      "postado": "2026-11-17T20:39:33.918Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2AJDsbr.jpg"
-    },
-    {
-      "id": "1D8FPcj",
-      "nome": "Hoverboard Rmira 6.5 Bluetooth de 500W com Som e Luzes LED para Crianças e Adultos",
-      "categoria": "Diversos",
-      "preco": 436.99,
-      "link": "https://meli.la/1D8FPcj",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/hoverboard-rmira-65-bluetooth-de-500w-com-som-e-luzes-led-para-criancas-e-adultos/p/MLB67436501",
-      "precoDe": 1299,
-      "parcelas": "10x de R$ 43,70 sem juros",
-      "postado": "2026-11-17T20:38:49.268Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1D8FPcj.jpg"
     }
   ]
 }
