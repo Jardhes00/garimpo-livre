@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-19T18:46:19.868Z",
+  "atualizado": "2026-11-19T18:47:34.808Z",
   "ofertas": [
+    {
+      "id": "2c7oFVB",
+      "nome": "O Boticário Her Code Kit Presente (3 Itens)",
+      "categoria": "Diversos",
+      "preco": 199.9,
+      "link": "https://meli.la/2c7oFVB",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/o-boticario-her-code-kit-presente-3-itens/up/MLBU3825005580",
+      "precoDe": 402.7,
+      "parcelas": "6x de R$33,32 sem juros",
+      "postado": "2026-11-19T18:47:34.806Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2c7oFVB.jpg"
+    },
     {
       "id": "1TAsRYH",
       "nome": "Máquina De Acabamento Profissional Kemei - Max5090 Visor Lcd",
@@ -4569,24 +4586,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1Pd9x11.jpg"
-    },
-    {
-      "id": "28kvrUV",
-      "nome": "Boneco Funko Pop! Solo Leveling - Choi Jong-in",
-      "categoria": "Diversos",
-      "preco": 86.6,
-      "link": "https://meli.la/28kvrUV",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/boneco-funko-pop-solo-leveling-choi-jong-in/p/MLB68576301",
-      "precoDe": 149.99,
-      "pix": true,
-      "parcelas": "R$91,16 em outros meios",
-      "postado": "2026-11-17T18:46:55.148Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-28kvrUV.jpg"
     }
   ]
 }
