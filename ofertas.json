@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T19:27:30.942Z",
+  "atualizado": "2026-11-19T19:28:46.845Z",
   "ofertas": [
+    {
+      "id": "1v4n7uP",
+      "nome": "Piscina Inflável Grande De 2330l Com Bomba De Ar Elétrica",
+      "categoria": "Diversos",
+      "preco": 347.69,
+      "link": "https://meli.la/1v4n7uP",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/piscina-inflavel-grande-de-2330l-com-bomba-de-ar-eletrica/up/MLBU4665741468",
+      "precoDe": 859.76,
+      "pix": true,
+      "parcelas": "R$365,99 em 7x R$52,28 sem juros",
+      "postado": "2026-11-19T19:28:46.844Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1v4n7uP.jpg"
+    },
     {
       "id": "1tzh4aG",
       "nome": "Roteador TP-Link EX3000 Wi-Fi 6 de Banda Dupla, 3 Gbps e 4 Antenas para até 180",
