@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-19T20:20:15.629Z",
+  "atualizado": "2026-11-19T20:22:01.178Z",
   "ofertas": [
+    {
+      "id": "11NTa4g",
+      "nome": "Panela De Pressão Ceramic Life Pressure 4,2l Areia Brinox",
+      "categoria": "Casa",
+      "preco": 181.23,
+      "link": "https://meli.la/11NTa4g",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/panela-de-pressao-ceramic-life-pressure-42l-areia-brinox/p/MLB58728183",
+      "precoDe": 477.69,
+      "pix": true,
+      "parcelas": "R$ 196,99 em outros meios",
+      "cupomAnuncio": "Compre R$200 e ganhe 5% OFF por seguir a loja",
+      "postado": "2026-11-19T20:22:01.177Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-11NTa4g.jpg"
+    },
     {
       "id": "27ALYcn",
       "nome": "NIVEA Loção Hidratante Firmador Q10 + Vitamina C 400ml",
