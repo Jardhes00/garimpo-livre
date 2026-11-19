@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T20:00:02.078Z",
+  "atualizado": "2026-11-19T20:01:17.361Z",
   "ofertas": [
+    {
+      "id": "2X8byvo",
+      "nome": "Balcão Cozinha Itatiaia ROSE TRP 1, 05 Com Tampo 3 Portas 1 Gaveta cor Branco",
+      "categoria": "Casa",
+      "preco": 376.32,
+      "link": "https://meli.la/2X8byvo",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/balcao-cozinha-itatiaia-rose-trp-1-05-com-tampo-3-portas-1-gaveta-cor-branco/p/MLB27663521",
+      "precoDe": 999,
+      "pix": true,
+      "parcelas": "R$448 em 8x R$56 sem juros",
+      "postado": "2026-11-19T20:01:17.360Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2X8byvo.jpg"
+    },
     {
       "id": "16RG1N5",
       "nome": "Aspirador de Pó e Água Electrolux Acqua Power 1400W 11L com Função Sopro, Rodas",
