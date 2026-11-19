@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T19:17:36.170Z",
+  "atualizado": "2026-11-19T19:18:50.796Z",
   "ofertas": [
+    {
+      "id": "1TEzST4",
+      "nome": "Barra De Proteína Bold Bombom Crocante 40g",
+      "categoria": "Suplementos",
+      "preco": 73,
+      "link": "https://meli.la/1TEzST4",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/barra-de-proteina-bold-bombom-crocante-40g/p/MLB55847583",
+      "precoDe": 129,
+      "postado": "2026-11-19T19:18:50.795Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1TEzST4.jpg"
+    },
     {
       "id": "3235a1g",
       "nome": "Mega DHA Ômega 3 Ultra Concentrado 120 Cápsula Vitafor",
