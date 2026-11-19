@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T19:12:35.737Z",
+  "atualizado": "2026-11-19T19:13:50.839Z",
   "ofertas": [
+    {
+      "id": "1QLXCxU",
+      "nome": "Micro-ondas 33l Philco Teclas Fáceis Limpa Fácil 1400w Pm36 127V",
+      "categoria": "Casa",
+      "preco": 454.91,
+      "link": "https://meli.la/1QLXCxU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-33l-philco-teclas-faceis-limpa-facil-1400w-pm36-127v/p/MLB44898097",
+      "precoDe": 689.9,
+      "pix": true,
+      "parcelas": "R$499,90 em 9x R$55,54 sem juros",
+      "postado": "2026-11-19T19:13:50.837Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1QLXCxU.jpg"
+    },
     {
       "id": "1urR5vV",
       "nome": "Placa Mãe Asus Tuf Gaming B550m-plus Ddr4 AMD Am4 mATX RGB",
