@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T15:44:20.944Z",
+  "atualizado": "2026-11-19T15:45:36.159Z",
   "ofertas": [
+    {
+      "id": "1MUW42t",
+      "nome": "Kit Chave de Impacto Bateria Furadeira Parafusadeira Brushless",
+      "categoria": "Ferramentas",
+      "preco": 367.55,
+      "link": "https://meli.la/1MUW42t",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-chave-de-impacto-bateria-furadeira-parafusadeira-brushless/p/MLB75056242",
+      "precoDe": 799,
+      "pix": true,
+      "parcelas": "R$386,90 em outros meios",
+      "postado": "2026-11-19T15:45:36.157Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1MUW42t.jpg"
+    },
     {
       "id": "2y8zj8A",
       "nome": "Varal de Chão Com Abas Dobrável Aço Reforçado Compacto para Apartamento",
