@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T18:51:20.112Z",
+  "atualizado": "2026-11-19T18:52:34.953Z",
   "ofertas": [
+    {
+      "id": "1c8T4jF",
+      "nome": "Tablet Lenovo Tab 10.1¨ Wifi 5 64gb 4gb De Ram Android 14 Cinza",
+      "categoria": "Tech",
+      "preco": 864.9,
+      "link": "https://meli.la/1c8T4jF",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tablet-lenovo-tab-101-wifi-5-64gb-4gb-de-ram-android-14-cinza/p/MLB56676058",
+      "precoDe": 1784.28,
+      "pix": true,
+      "parcelas": "R$961 em outros meios",
+      "postado": "2026-11-19T18:52:34.951Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1c8T4jF.jpg"
+    },
     {
       "id": "2e22Xf5",
       "nome": "Projetor Smart Portátil Full Hd 4k Android 11 Wi-fi Bluetooth Mini Projetor",
@@ -4520,39 +4538,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2poXUar.jpg"
-    },
-    {
-      "id": "2TEMa8m",
-      "nome": "Kit 3 Toalhas de Banho Grande 100% Algodão 68x135",
-      "categoria": "Casa",
-      "preco": 63.8,
-      "link": "https://meli.la/2TEMa8m",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit-3-toalhas-de-banho-grande-100-algodao-68x135-promocao/up/MLBU5131707077",
-      "precoDe": 119.9,
-      "postado": "2026-11-17T18:52:09.966Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2TEMa8m.jpg"
-    },
-    {
-      "id": "2znwgMf",
-      "nome": "Caixa de Som Bluetooth Sabala DR-500 Boombox Bluetooth 6.0 TWS RGB",
-      "categoria": "Tech",
-      "preco": 2287,
-      "link": "https://meli.la/2znwgMf",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-sabala-dr-500-boombox-bluetooth-60-tws-81000mah-rgb/p/MLB80837307",
-      "precoDe": 3999,
-      "parcelas": "10x de R$228,70 sem juros",
-      "postado": "2026-11-17T18:51:24.845Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2znwgMf.jpg"
     }
   ]
 }
