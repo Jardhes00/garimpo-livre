@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T15:10:35.119Z",
+  "atualizado": "2026-11-19T15:11:50.239Z",
   "ofertas": [
+    {
+      "id": "1W3oAYf",
+      "nome": "Cetaphil Loção Advanced Hidratante Corporal para Pele Seca e Sensível 473ml - Hidratação 48h",
+      "categoria": "Beleza",
+      "preco": 63.12,
+      "link": "https://meli.la/1W3oAYf",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cetaphil-locao-advanced-hidratante-corporal-para-pele-seca-e-sensivel-473ml-hidratacao-48h/p/MLB19918914",
+      "precoDe": 144.9,
+      "pix": true,
+      "parcelas": "R$ 78,90 em outros meios",
+      "postado": "2026-11-19T15:11:50.237Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1W3oAYf.jpg"
+    },
     {
       "id": "2KKYfbL",
       "nome": "Piscina Inflável Fun Redonda 1400l Com Kit Reparo - Mor",
