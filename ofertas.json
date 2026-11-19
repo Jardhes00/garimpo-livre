@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T19:56:16.888Z",
+  "atualizado": "2026-11-19T19:57:32.181Z",
   "ofertas": [
+    {
+      "id": "1dSHrVM",
+      "nome": "Tablet Android 15 Pad12 Ultra 12+512gb 10000mah 4g Lte Snapdragon incell",
+      "categoria": "Tech",
+      "preco": 742,
+      "link": "https://meli.la/1dSHrVM",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tablet-android-15-pad12-ultra-12512gb-10000mah-4g-lte-snapdragon-incell/p/MLB64358629",
+      "precoDe": 1499,
+      "postado": "2026-11-19T19:57:32.179Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1dSHrVM.jpg"
+    },
     {
       "id": "1Tna9T8",
       "nome": "Impressora Epson Ecotank L1350 Colorida Wi-fi Bivolt",
