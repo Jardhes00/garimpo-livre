@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T20:49:57.728Z",
+  "atualizado": "2026-11-19T20:51:12.797Z",
   "ofertas": [
+    {
+      "id": "1sKSEBa",
+      "nome": "Lavadora de Alta Pressão Electrolux 1850PSI 1500W Potência com Aplicador de",
+      "categoria": "Diversos",
+      "preco": 379,
+      "link": "https://meli.la/1sKSEBa",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-electrolux-1850psi-1500w-potencia-com-aplicador-de-detergente-powerwash-ews1850-lava-jato-lava-car/p/MLB38897454",
+      "precoDe": 559.99,
+      "postado": "2026-11-19T20:51:12.796Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1sKSEBa.jpg"
+    },
     {
       "id": "19uBigW",
       "nome": "Máquina De Acabamento Profissional Kemei Km-2299 0gap Bivolt",
@@ -5349,39 +5365,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1EFdeVP.jpg"
-    },
-    {
-      "id": "1PoWmUN",
-      "nome": "Vaso Sanitário Monobloco Tubrax VAB0002 com Caixa Acoplada Branco",
-      "categoria": "Diversos",
-      "preco": 614.9,
-      "link": "https://meli.la/1PoWmUN",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/vaso-sanitario-tubrax-monobloco-vab0002-caixa-acoplada-completo-privada-cor-branco/p/MLB24273671",
-      "precoDe": 1014.9,
-      "postado": "2026-11-17T20:50:49.192Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1PoWmUN.jpg"
-    },
-    {
-      "id": "1W3S6iw",
-      "nome": "Chave de Impacto Sem Fio 21V 250Nm com 2 Baterias - Arstheco",
-      "categoria": "Ferramentas",
-      "preco": 113,
-      "link": "https://meli.la/1W3S6iw",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/chave-de-impacto-sem-fio-21v-com-2-baterias-250nm-arstheco/up/MLBU5061086036",
-      "precoDe": 299.99,
-      "parcelas": "4x de R$28,25 sem juros",
-      "postado": "2026-11-17T20:50:04.117Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1W3S6iw.jpg"
     }
   ]
 }
