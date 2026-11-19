@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T20:37:27.051Z",
+  "atualizado": "2026-11-19T20:38:42.255Z",
   "ofertas": [
+    {
+      "id": "1kwWb3h",
+      "nome": "Hidratante Facial Epidrat Calm B5 Para Pele Sensível 50ml Mantecorp",
+      "categoria": "Beleza",
+      "preco": 72.66,
+      "link": "https://meli.la/1kwWb3h",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/hidratante-facial-epidrat-calm-b5-para-pele-sensivel-50ml-mantecorp/p/MLB20993983",
+      "precoDe": 104.9,
+      "postado": "2026-11-19T20:38:42.253Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1kwWb3h.jpg"
+    },
     {
       "id": "1NGrdnw",
       "nome": "Vinho Chileno Branco Concha Y Toro Reservado Sauvignon Blanc 750ml",
@@ -5468,24 +5484,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1D8FPcj.jpg"
-    },
-    {
-      "id": "2qU45PE",
-      "nome": "Mala Sweet Studio de Bordo Rígida Com Rodas 360° e Zíper Expansível Preto 2088",
-      "categoria": "Diversos",
-      "preco": 157.25,
-      "link": "https://meli.la/2qU45PE",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/mala-sweet-studio-de-bordo-rigida-com-rodas-360-e-ziper-expansivel-preto-2088/p/MLB44867872",
-      "precoDe": 311,
-      "pix": true,
-      "parcelas": "R$ 185 em outros meios",
-      "postado": "2026-11-17T20:38:03.916Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2qU45PE.jpg"
     }
   ]
 }
