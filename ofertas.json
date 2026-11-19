@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T20:06:17.227Z",
+  "atualizado": "2026-11-19T20:07:31.683Z",
   "ofertas": [
+    {
+      "id": "1UGrmYE",
+      "nome": "Aspirador de Água e Pó Electrolux Acqua Power Preto AQP20",
+      "categoria": "Casa",
+      "preco": 224.9,
+      "link": "https://meli.la/1UGrmYE",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aspirador-de-agua-e-po-electrolux-acqua-power-preto-aqp20/p/MLB6215150",
+      "precoDe": 339.99,
+      "postado": "2026-11-19T20:07:31.681Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1UGrmYE.jpg"
+    },
     {
       "id": "1pAFBUT",
       "nome": "Cadeirinha Cosco Kids, Tour, 9 a 36 Kg, Cinza e Preto",
