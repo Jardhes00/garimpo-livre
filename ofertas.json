@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-19T20:39:57.218Z",
+  "atualizado": "2026-11-19T20:41:12.349Z",
   "ofertas": [
+    {
+      "id": "2MykR4X",
+      "nome": "Whey Protein Concentrado 1kg Chocolate Branco Dark Lab",
+      "categoria": "Suplementos",
+      "preco": 134.93,
+      "link": "https://meli.la/2MykR4X",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-protein-concentrado-1kg-chocolate-branco-dark-lab/p/MLB40183218",
+      "precoDe": 349.9,
+      "pix": true,
+      "parcelas": "R$149,92 em outros meios",
+      "cupomAnuncio": "Compre R$187 e ganhe R$20 OFF",
+      "postado": "2026-11-19T20:41:12.348Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2MykR4X.jpg"
+    },
     {
       "id": "2Rpe2Wo",
       "nome": "Churrasqueira Elétrica Elgin Bbq Show 2000w Chu20 Preto",
@@ -5431,41 +5450,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1pJPjES.jpg"
-    },
-    {
-      "id": "2aUi4pP",
-      "nome": "Ar Condicionado Split Hi Wall Midea Airvolution Inverter 9.000 Btus Frio R-32",
-      "categoria": "Casa",
-      "preco": 1959,
-      "link": "https://meli.la/2aUi4pP",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-split-hi-wall-midea-airvolution-inverter-9000-btus-frio-r-32/p/MLB66129914",
-      "precoDe": 4591.5,
-      "postado": "2026-11-17T20:41:04.281Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2aUi4pP.jpg"
-    },
-    {
-      "id": "2ZfF5P9",
-      "nome": "Whey Isolate Protein Fuse 900g Dark Lab Sabor Morango",
-      "categoria": "Suplementos",
-      "preco": 78.9,
-      "link": "https://meli.la/2ZfF5P9",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/whey-isolate-protein-fuse-900g-dark-lab-sabor-morango/p/MLB19381120",
-      "precoDe": 129.9,
-      "parcelas": "12x de R$ 7,77",
-      "extra": "R$ 20 OFF com cupom no anúncio",
-      "cupomAnuncio": "Compre R$150 e ganhe R$20 OFF",
-      "postado": "2026-11-17T20:40:19.344Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2ZfF5P9.jpg"
     }
   ]
 }
