@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T19:37:31.478Z",
+  "atualizado": "2026-11-19T19:38:46.450Z",
   "ofertas": [
+    {
+      "id": "2s7VNWu",
+      "nome": "Cooktop Gás Fischer 5 Bocas Tripla Chama Infinity Mesa Inox Inox",
+      "categoria": "Diversos",
+      "preco": 989.91,
+      "link": "https://meli.la/2s7VNWu",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cooktop-gas-fischer-5-bocas-tripla-chama-infinity-mesa-inox-inox/p/MLB46151410",
+      "precoDe": 1599,
+      "pix": true,
+      "parcelas": "R$1.099,90 em outros meios",
+      "postado": "2026-11-19T19:38:46.449Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2s7VNWu.jpg"
+    },
     {
       "id": "1eStYpG",
       "nome": "Webcam Full HD Logitech Brio 100 - Grafite",
@@ -4763,24 +4781,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1XaMiYF.jpg"
-    },
-    {
-      "id": "2NBREZ1",
-      "nome": "Máquina De Lavar Electrolux 14,5kg Efficient Jetclean Lee15 Branco",
-      "categoria": "Diversos",
-      "preco": 1690.99,
-      "link": "https://meli.la/2NBREZ1",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/maquina-de-lavar-electrolux-145kg-efficient-jetclean-lee15-branco/p/MLB51477744",
-      "precoDe": 2789,
-      "pix": true,
-      "parcelas": "R$ 1.779,99 em 10x de R$ 178 sem juros",
-      "postado": "2026-11-17T19:38:29.579Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2NBREZ1.jpg"
     }
   ]
 }
