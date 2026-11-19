@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T21:03:43.053Z",
+  "atualizado": "2026-11-19T21:04:57.948Z",
   "ofertas": [
+    {
+      "id": "1tqXueG",
+      "nome": "Controle Joystick Sem Fio Microsoft Xbox Series X|s Robot",
+      "categoria": "Games",
+      "preco": 319.99,
+      "link": "https://meli.la/1tqXueG",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/controle-joystick-sem-fio-microsoft-xbox-series-xs-robot/p/MLB23249699",
+      "precoDe": 529.95,
+      "pix": true,
+      "parcelas": "R$399,99 em outros meios",
+      "postado": "2026-11-19T21:04:57.947Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1tqXueG.jpg"
+    },
     {
       "id": "1uuCM7w",
       "nome": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
