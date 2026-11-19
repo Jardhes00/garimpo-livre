@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T20:53:42.689Z",
+  "atualizado": "2026-11-19T20:54:57.809Z",
   "ofertas": [
+    {
+      "id": "1btZmum",
+      "nome": "Kit Ventosa Automática Recarregável Fallove, 2 Baterias e Re-Sucção Para",
+      "categoria": "Diversos",
+      "preco": 182.07,
+      "link": "https://meli.la/1btZmum",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-ventosa-automatica-recarregavel-fallove-2-baterias-e-re-succao-para-granito-e-vidro/p/MLB76569527",
+      "precoDe": 269.98,
+      "pix": true,
+      "parcelas": "R$191,65 em 6x R$31,94 sem juros",
+      "postado": "2026-11-19T20:54:57.808Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1btZmum.jpg"
+    },
     {
       "id": "15yJQhd",
       "nome": "Armário de Cozinha Poliman Móveis Clarice 12 Portas 1 Gaveta",
@@ -5316,40 +5334,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2EkYikB.jpg"
-    },
-    {
-      "id": "33dd4Zh",
-      "nome": "Perfume Armaf Club de Nuit Intense Man EDT 105ml",
-      "categoria": "Beleza",
-      "preco": 211.5,
-      "link": "https://meli.la/33dd4Zh",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/perfume-club-de-nuit-intense-da-armaf-edt-105ml-masculino/up/MLBU3782392794",
-      "precoDe": 319,
-      "pix": true,
-      "parcelas": "R$235 em outros meios",
-      "postado": "2026-11-17T20:54:34.363Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-33dd4Zh.jpg"
-    },
-    {
-      "id": "1isctZe",
-      "nome": "Cascata de Natal Luz Fixa 400 LEDs 10 Metros Branco Quente à Prova D'água - Laruno",
-      "categoria": "Diversos",
-      "preco": 67.9,
-      "link": "https://meli.la/1isctZe",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cascata-natal-luz-fixa-400-leds-10-metros-branco-quente-extensivel-macho-femea-a-prova-dagua-area-interna-e-externa-laruno/p/MLB78857841",
-      "precoDe": 249.9,
-      "postado": "2026-11-17T20:53:49.418Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1isctZe.jpg"
     }
   ]
 }
