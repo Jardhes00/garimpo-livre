@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-19T19:15:05.677Z",
+  "atualizado": "2026-11-19T19:16:21.048Z",
   "ofertas": [
+    {
+      "id": "1XjhhkE",
+      "nome": "Mouse inalámbrico Logitech MX Master 4S grafite",
+      "categoria": "Tech",
+      "preco": 519.9,
+      "link": "https://meli.la/1XjhhkE",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mouse-inalambrico-logitech-mx-master-4s-grafite/p/MLB80697264",
+      "precoDe": 799.9,
+      "parcelas": "8x de R$64,99 sem juros",
+      "postado": "2026-11-19T19:16:21.046Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1XjhhkE.jpg"
+    },
     {
       "id": "1MXE5QG",
       "nome": "Gel De Limpeza Facial Effaclar Concentrado 300g La Roche Posay",
