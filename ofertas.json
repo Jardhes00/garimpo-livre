@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-19T20:32:27.250Z",
+  "atualizado": "2026-11-19T20:33:41.951Z",
   "ofertas": [
+    {
+      "id": "1ghh72Q",
+      "nome": "Aparador de Pelos Super Groom 06 Mondial Bivolt - BG-04",
+      "categoria": "Diversos",
+      "preco": 83.8,
+      "link": "https://meli.la/1ghh72Q",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aparador-de-pelos-super-groom-06-mondial-bivolt-bg-04/p/MLB54944960",
+      "precoDe": 184.9,
+      "parcelas": "12x R$ 8,25",
+      "postado": "2026-11-19T20:33:41.950Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ghh72Q.jpg"
+    },
     {
       "id": "2APa2QJ",
       "nome": "Magnésio Bisglicinato 1400mg 60 Cápsulas Nutrify",
