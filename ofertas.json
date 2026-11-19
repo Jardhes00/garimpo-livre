@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-19T20:47:27.548Z",
+  "atualizado": "2026-11-19T20:48:42.862Z",
   "ofertas": [
+    {
+      "id": "1a4aQqd",
+      "nome": "Máquina De Costura Jx-2053 Advance Plus 18 Pontos 63w Branco",
+      "categoria": "Diversos",
+      "preco": 499,
+      "link": "https://meli.la/1a4aQqd",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquina-de-costura-jx-2053-advance-plus-18-pontos-63w-branco/p/MLB78022853",
+      "precoDe": 699,
+      "parcelas": "9x de R$55,44 sem juros",
+      "postado": "2026-11-19T20:48:42.861Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1a4aQqd.jpg"
+    },
     {
       "id": "2Reb4N8",
       "nome": "Smart Tv Lg 43\" Nano 4k Uhd Hdmi Usb Wi-fi Bluetooth Thinq Ai Alexa Apple",
@@ -5364,41 +5381,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1PZ37Hz.jpg"
-    },
-    {
-      "id": "2phUyGf",
-      "nome": "Bicicleta Elétrica Xroymexroy EB3 Aro 26 750W Bateria 36V Shimano 7 Marchas",
-      "categoria": "Esporte",
-      "preco": 2850.72,
-      "link": "https://meli.la/2phUyGf",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/bicicleta-eletrica-xroymexroy-eb3-26-750w-com-bateria-36v-autonomia-40km-suspensao-dianteira-shimano-7-marchas-e-app/p/MLB75497569",
-      "precoDe": 5999,
-      "parcelas": "10x de R$285,07 sem juros",
-      "postado": "2026-11-17T20:48:34.180Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2phUyGf.jpg"
-    },
-    {
-      "id": "2hqFpot",
-      "nome": "Ar Condicionado Split Inverter Midea Airvolution AI 12000 BTUs 220V",
-      "categoria": "Casa",
-      "preco": 2266.87,
-      "link": "https://meli.la/2hqFpot",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-inverter-midea-airvolution-ai-12000-btu-220v/up/MLBU5177127754",
-      "precoDe": 3539.6,
-      "pix": true,
-      "parcelas": "R$2.366,87 em 10x R$236,69 sem juros",
-      "postado": "2026-11-17T20:47:49.217Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2hqFpot.jpg"
     }
   ]
 }
