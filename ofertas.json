@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T19:32:31.324Z",
+  "atualizado": "2026-11-19T19:33:46.329Z",
   "ofertas": [
+    {
+      "id": "1m3Tr7e",
+      "nome": "Ar Condicionado Electrolux Color Adapt Inverter 12k Frio 220",
+      "categoria": "Casa",
+      "preco": 2207.08,
+      "link": "https://meli.la/1m3Tr7e",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-electrolux-color-adapt-inverter-12k-frio-220/up/MLBU5430558108",
+      "precoDe": 3625.2,
+      "pix": true,
+      "parcelas": "R$2.399 em 10x R$239,90 sem juros",
+      "postado": "2026-11-19T19:33:46.327Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1m3Tr7e.jpg"
+    },
     {
       "id": "1QCoS8S",
       "nome": "Churrasqueira Elétrica De Mesa Elgin 42CHU2001000 Cor Preta",
@@ -4747,24 +4765,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1wQUe4z.jpg"
-    },
-    {
-      "id": "1YjzVtZ",
-      "nome": "Fritadeira Air fryer philco 4l redstone 1500w paf40a Cor Preto",
-      "categoria": "Casa",
-      "preco": 197.1,
-      "link": "https://meli.la/1YjzVtZ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/fritadeira-air-fryer-philco-4l-redstone-1500w-paf40a-cor-preto/p/MLB45966495",
-      "precoDe": 379.9,
-      "pix": true,
-      "parcelas": "R$ 219 em 6x de R$ 36,50 sem juros",
-      "postado": "2026-11-17T19:32:44.174Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1YjzVtZ.jpg"
     }
   ]
 }
