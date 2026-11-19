@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T19:20:06.590Z",
+  "atualizado": "2026-11-19T19:21:20.717Z",
   "ofertas": [
+    {
+      "id": "2cuMpAr",
+      "nome": "Micro-ondas De Mesa Panasonic, 21 Litros, Branco, Espelhada",
+      "categoria": "Casa",
+      "preco": 449.68,
+      "link": "https://meli.la/2cuMpAr",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-de-mesa-panasonic-21-litros-branco-espelhada/p/MLB16591405",
+      "precoDe": 699,
+      "pix": true,
+      "parcelas": "R$463,59 em outros meios",
+      "postado": "2026-11-19T19:21:20.716Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2cuMpAr.jpg"
+    },
     {
       "id": "1JmFdem",
       "nome": "Ventilador de Mesa Britânia Turbo BVT491 Preto de 40 cm com 10 Pás",
