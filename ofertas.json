@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-19T19:03:50.660Z",
+  "atualizado": "2026-11-19T19:05:05.500Z",
   "ofertas": [
+    {
+      "id": "1fYz1be",
+      "nome": "Whisky Johnnie Walker Black Label de 1L",
+      "categoria": "Diversos",
+      "preco": 129.9,
+      "link": "https://meli.la/1fYz1be",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whisky-johnnie-walker-black-label-de-1l/p/MLB20896408",
+      "precoDe": 222.9,
+      "postado": "2026-11-19T19:05:05.498Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1fYz1be.jpg"
+    },
     {
       "id": "2Fq9qJH",
       "nome": "Cadeira De Escritório Gamer Python Fly Ergonômica Estofado Couro Sintético",
@@ -4396,39 +4412,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2EWw6Tc.jpg"
-    },
-    {
-      "id": "1wWKBy5",
-      "nome": "Cascata de Natal 400 LEDs 10 Metros 8 Funções Branco Frio à Prova D'água - Laruno",
-      "categoria": "Diversos",
-      "preco": 64.99,
-      "link": "https://meli.la/1wWKBy5",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cascata-natal-com-8-funcoes-branco-frio-400-leds-10-metros-extensivel-macho-femea-a-prova-dagua-area-interna-e-externa-laruno/p/MLB78875858",
-      "precoDe": 249.9,
-      "postado": "2026-11-17T19:04:55.359Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1wWKBy5.jpg"
-    },
-    {
-      "id": "1A1icxe",
-      "nome": "Micro-ondas Philco PMO39E 33L 1400W Prateado",
-      "categoria": "Casa",
-      "preco": 559,
-      "link": "https://meli.la/1A1icxe",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-philco-prateado-pmo39e-33l-1400w/p/MLB75041717",
-      "precoDe": 799,
-      "parcelas": "10x de R$55,90 sem juros",
-      "postado": "2026-11-17T19:04:09.485Z",
-      "conferido": "2026-11-17",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1A1icxe.jpg"
     }
   ]
 }
