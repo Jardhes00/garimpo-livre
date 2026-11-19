@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-19T15:28:05.392Z",
+  "atualizado": "2026-11-19T15:29:20.955Z",
   "ofertas": [
+    {
+      "id": "1gGYQh3",
+      "nome": "Kit Pro Saúde Alwaysfit | Pro3magnesio + Nac + Complexo B + Fits36 | 4",
+      "categoria": "Diversos",
+      "preco": 100,
+      "link": "https://meli.la/1gGYQh3",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-pro-saude-alwaysfit-pro3magnesio-nac-complexo-b-fits36-4-suplementos/p/MLB66107476",
+      "precoDe": 159.9,
+      "parcelas": "4x de R$25 sem juros",
+      "cupomAnuncio": "Compre R$150 e ganhe R$15 OFF por seguir a loja",
+      "postado": "2026-11-19T15:29:20.954Z",
+      "conferido": "2026-11-19",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1gGYQh3.jpg"
+    },
     {
       "id": "1P9YJa4",
       "nome": "Liquidificador Daily HR2155 Philips Walita Preto 800 Watts",
