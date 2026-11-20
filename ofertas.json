@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-20T16:31:49.826Z",
+  "atualizado": "2026-11-20T16:34:05.060Z",
   "ofertas": [
+    {
+      "id": "2n6nxGs",
+      "nome": "Ventilador De Torre Midea Preto, Programável, Silencioso com ajuste de 3",
+      "categoria": "Casa",
+      "preco": 314.55,
+      "link": "https://meli.la/2n6nxGs",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-torre-midea-preto-programavel-silencioso-com-ajuste-de-3-velocidades/p/MLB43510534",
+      "precoDe": 488.55,
+      "pix": true,
+      "parcelas": "R$331,11 em outros meios",
+      "cupomAnuncio": "R$298,82 com Cupom por seguir a loja",
+      "postado": "2026-11-20T16:34:05.059Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2n6nxGs.jpg"
+    },
     {
       "id": "2AQyM1c",
       "nome": "Proteína Black Skull Whey 100% HD em pó sabor Cookies and cream x 900g",
@@ -6205,42 +6224,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1ekAw5a.jpg"
-    },
-    {
-      "id": "2Y2sTD2",
-      "nome": "Smartphone OPPO A6t 128gb, 12gb Ram (4gb + 8gb Virtual Ram), Bateria Gigante de",
-      "categoria": "Tech",
-      "preco": 833.52,
-      "link": "https://meli.la/2Y2sTD2",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/smartphone-oppo-a6t-128gb-12gb-ram-4gb-8gb-virtual-ram-bateria-gigante-de-6500mah-processador-snapdragon-tela-120hz-ai-camera-ip64-azul-cristal/p/MLB66447547",
-      "precoDe": 1299,
-      "pix": true,
-      "parcelas": "R$877,39 em 2x R$438,70 sem juros",
-      "postado": "2026-11-18T16:33:53.902Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2Y2sTD2.jpg"
-    },
-    {
-      "id": "18t7TQS",
-      "nome": "Caixa De Som Boombox Aiwa Aws-bbs-01b 200w Rms Bluetooth Res Cor Preto",
-      "categoria": "Tech",
-      "preco": 1182.02,
-      "link": "https://meli.la/18t7TQS",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-boombox-aiwa-aws-bbs-01b-200w-rms-bluetooth-res-cor-preto/p/MLB47311388",
-      "precoDe": 1998,
-      "pix": true,
-      "parcelas": "R$1.358,64 em outros meios",
-      "postado": "2026-11-18T16:32:38.692Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-18t7TQS.jpg"
     }
   ]
 }
