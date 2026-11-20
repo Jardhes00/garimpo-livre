@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-20T14:03:15.336Z",
+  "atualizado": "2026-11-20T14:05:30.344Z",
   "ofertas": [
+    {
+      "id": "2BY9vYF",
+      "nome": "Ventilador Coluna 40cm Super Turbo Tech, Mondial, 140W - VTX-40C-8P-CR",
+      "categoria": "Casa",
+      "preco": 279.9,
+      "link": "https://meli.la/2BY9vYF",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-coluna-40cm-super-turbo-tech-mondial-140w-vtx-40c-8p-cr/p/MLB15749217",
+      "precoDe": 444.9,
+      "parcelas": "6x de R$46,65 sem juros",
+      "postado": "2026-11-20T14:05:30.343Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2BY9vYF.jpg"
+    },
     {
       "id": "1CYKG3i",
       "nome": "Ar-condicionado LG Dual Inverter Compact 9000 Frio 220v",
