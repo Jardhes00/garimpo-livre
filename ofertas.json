@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T14:39:16.386Z",
+  "atualizado": "2026-11-20T14:41:31.323Z",
   "ofertas": [
+    {
+      "id": "12tMUzf",
+      "nome": "Lavadora de alta pressão Electrolux 1650psi 1400w Easywash Qws1650",
+      "categoria": "Diversos",
+      "preco": 263.12,
+      "link": "https://meli.la/12tMUzf",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-electrolux-1650psi-1400w-easywash-qws1650/p/MLB74055172",
+      "precoDe": 449.99,
+      "pix": true,
+      "parcelas": "R$299 em outros meios",
+      "postado": "2026-11-20T14:41:31.322Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-12tMUzf.jpg"
+    },
     {
       "id": "1dy1VQE",
       "nome": "Zenrelia 8,5 - 30 comprimidos ELANCO",
