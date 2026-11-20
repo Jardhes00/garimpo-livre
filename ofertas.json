@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T14:25:46.072Z",
+  "atualizado": "2026-11-20T14:28:00.994Z",
   "ofertas": [
+    {
+      "id": "1D75The",
+      "nome": "Creatina Integralmédica Monohidratada Hardcore em pó Sem sabor x 300g",
+      "categoria": "Suplementos",
+      "preco": 35.79,
+      "link": "https://meli.la/1D75The",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/creatina-integralmedica-monohidratada-hardcore-em-po-sem-sabor-x-300g/p/MLB6204289",
+      "precoDe": 79.9,
+      "postado": "2026-11-20T14:28:00.993Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1D75The.jpg"
+    },
     {
       "id": "1eZBfEc",
       "nome": "Marinex Conjunto De Assadeiras Opaline 6 Peças Branco",
