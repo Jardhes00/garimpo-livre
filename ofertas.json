@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T16:49:50.723Z",
+  "atualizado": "2026-11-20T16:52:05.416Z",
   "ofertas": [
+    {
+      "id": "31Fx4fP",
+      "nome": "Lavadora de Alta Pressão Kärcher K2 Plus Turbo 1740 PSI 1400W 127 v",
+      "categoria": "Diversos",
+      "preco": 351.99,
+      "link": "https://meli.la/31Fx4fP",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-krcher-k2-plus-turbo-1740-psi-1400w-127-v/p/MLB25413983",
+      "precoDe": 599.9,
+      "pix": true,
+      "parcelas": "R$399,99 em outros meios",
+      "postado": "2026-11-20T16:52:05.415Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-31Fx4fP.jpg"
+    },
     {
       "id": "2BREmc4",
       "nome": "Ar-condicionado Portátil Wi-fi 12.000 Btus Frio Hisense 127v",
