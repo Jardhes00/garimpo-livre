@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T16:25:04.750Z",
+  "atualizado": "2026-11-20T16:27:19.828Z",
   "ofertas": [
+    {
+      "id": "24knuMa",
+      "nome": "Piscina Infantil Retangular Mor Estrutural 1000 L Lona Pvc",
+      "categoria": "Bebê",
+      "preco": 173.5,
+      "link": "https://meli.la/24knuMa",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/piscina-infantil-retangular-mor-estrutural-1000-l-lona-pvc/up/MLBU5364055927",
+      "precoDe": 249.99,
+      "pix": true,
+      "parcelas": "R$188,59 em outros meios",
+      "postado": "2026-11-20T16:27:19.826Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-24knuMa.jpg"
+    },
     {
       "id": "259xV5G",
       "nome": "Compressor Ar Direto 1/2hp 350w 40 Psi Com Kit Bivolt Evald Amarelo",
@@ -6260,40 +6278,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2nKyNRP.jpg"
-    },
-    {
-      "id": "1eYQJ52",
-      "nome": "Whisky Blended Scotch 12 Anos 1 Litro Grand Old Parr",
-      "categoria": "Diversos",
-      "preco": 108.8,
-      "link": "https://meli.la/1eYQJ52",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB17384401",
-      "precoDe": 191.9,
-      "parcelas": "4x R$ 27,20 sem juros",
-      "postado": "2026-11-18T16:26:23.593Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1eYQJ52.jpg"
-    },
-    {
-      "id": "1MNGWz1",
-      "nome": "Whisky Johnnie Walker Red Label Blended Scotch 1 Litro Original",
-      "categoria": "Diversos",
-      "preco": 69.9,
-      "link": "https://meli.la/1MNGWz1",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB17331957",
-      "precoDe": 115.9,
-      "parcelas": "12x R$ 6,88",
-      "postado": "2026-11-18T16:25:08.543Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1MNGWz1.jpg"
     }
   ]
 }
