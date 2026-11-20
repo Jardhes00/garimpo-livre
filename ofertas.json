@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-20T17:21:21.333Z",
+  "atualizado": "2026-11-20T17:23:36.419Z",
   "ofertas": [
+    {
+      "id": "1ga26gw",
+      "nome": "Shampoo Anticaspa Esfoliante Limpeza Profunda Ação Calmante com Ácido",
+      "categoria": "Beleza",
+      "preco": 89.9,
+      "link": "https://meli.la/1ga26gw",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/shampoo-anticaspa-esfoliante-limpeza-profunda-acao-calmante-com-acido-salicilico-e-piroctona-olamina-dercos-micro-peel-vichy-150ml/p/MLB19506407",
+      "precoDe": 147.9,
+      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
+      "postado": "2026-11-20T17:23:36.418Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ga26gw.jpg"
+    },
     {
       "id": "2zAnqvm",
       "nome": "Ômega 3 Epa Dha 240 Cápsulas - Dark Lab",
@@ -6280,39 +6297,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1wjruCJ.jpg"
-    },
-    {
-      "id": "2BLKCa2",
-      "nome": "ANTENA STARLINK MINI INTERNET VIA SATÉLITE SPACEX KIT COMPACTO E PORTÁTIL",
-      "categoria": "Diversos",
-      "preco": 499.9,
-      "link": "https://meli.la/2BLKCa2",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/antena-starlink-mini-internet-via-satelite-spacex-kit-compacto-e-portatil/p/MLB79489248",
-      "precoDe": 813.64,
-      "postado": "2026-11-18T17:22:44.569Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2BLKCa2.jpg"
-    },
-    {
-      "id": "2tK5GpK",
-      "nome": "Relógio Tommy Hilfiger David Masculino Em Borracha Azul 1710",
-      "categoria": "Moda",
-      "preco": 495,
-      "link": "https://meli.la/2tK5GpK",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/relogio-tommy-hilfiger-david-masculino-em-borracha-azul-1710/up/MLBU5387141631",
-      "precoDe": 990,
-      "parcelas": "10x de R$49,50 sem juros",
-      "postado": "2026-11-18T17:21:29.499Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2tK5GpK.jpg"
     }
   ]
 }
