@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T15:58:03.885Z",
+  "atualizado": "2026-11-20T16:00:19.044Z",
   "ofertas": [
+    {
+      "id": "2iZGsTs",
+      "nome": "Árvore De Natal Pinheiro Canadense Luxo 2,10m 1200 Galhos Tradicional Verde",
+      "categoria": "Diversos",
+      "preco": 284.99,
+      "link": "https://meli.la/2iZGsTs",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/arvore-de-natal-pinheiro-canadense-luxo-210m-1200-galhos-tradicional-verde-imperial-premium-grande-cheia-luvinco/p/MLB52866009",
+      "precoDe": 562.38,
+      "pix": true,
+      "parcelas": "R$299,99 em 6x R$50 sem juros",
+      "postado": "2026-11-20T16:00:19.043Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2iZGsTs.jpg"
+    },
     {
       "id": "1zVp5dc",
       "nome": "Whisky Jack Daniel's Old No. 7 Tennessee 1 L",
