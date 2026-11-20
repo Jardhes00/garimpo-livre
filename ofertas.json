@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T16:13:49.239Z",
+  "atualizado": "2026-11-20T16:16:04.228Z",
   "ofertas": [
+    {
+      "id": "2mmQMfv",
+      "nome": "Aparador Cortador De Grama Bipartido 1500w Apb1600t 280mm Tramontina 110v",
+      "categoria": "Diversos",
+      "preco": 249.9,
+      "link": "https://meli.la/2mmQMfv",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aparador-cortador-de-grama-bipartido-1500w-apb1600t-280mm-tramontina-110v/p/MLB63647241",
+      "precoDe": 365.33,
+      "postado": "2026-11-20T16:16:04.227Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2mmQMfv.jpg"
+    },
     {
       "id": "1vEwdyM",
       "nome": "Triciclo Elétrico Drift Infantil 36v 250w Motor Brushless Bluetooth Luz Led Com",
@@ -6341,24 +6357,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2dF2cU6.jpg"
-    },
-    {
-      "id": "2mKXTYR",
-      "nome": "Samsung Smart TV 50\" Mini LED 4K M75H 26/2027",
-      "categoria": "Tech",
-      "preco": 2499,
-      "link": "https://meli.la/2mKXTYR",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB75994421",
-      "precoDe": 3799,
-      "parcelas": "12x R$ 240,20",
-      "cupomAnuncio": "R$2.419 com Cupom",
-      "postado": "2026-11-18T16:15:08.507Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2mKXTYR.jpg"
     }
   ]
 }
