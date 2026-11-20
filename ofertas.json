@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T14:01:00.643Z",
+  "atualizado": "2026-11-20T14:03:15.336Z",
   "ofertas": [
+    {
+      "id": "1CYKG3i",
+      "nome": "Ar-condicionado LG Dual Inverter Compact 9000 Frio 220v",
+      "categoria": "Casa",
+      "preco": 1932,
+      "link": "https://meli.la/1CYKG3i",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-lg-dual-inverter-compact-9000-frio-220v/up/MLBU5200472382",
+      "precoDe": 3599,
+      "postado": "2026-11-20T14:03:15.335Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1CYKG3i.jpg"
+    },
     {
       "id": "1XtaHRc",
       "nome": "Smart TV Philips 32 polegadas QLED HD Wi-Fi HDR10 Dolby Áudio 32PQG6921/78",
