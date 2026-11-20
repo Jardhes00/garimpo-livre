@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T16:43:05.212Z",
+  "atualizado": "2026-11-20T16:45:20.325Z",
   "ofertas": [
+    {
+      "id": "2soXZae",
+      "nome": "Kit 4L De Óleo Motor 5w40 100% Sintético Lubrax Original Volkswagen",
+      "categoria": "Diversos",
+      "preco": 168.78,
+      "link": "https://meli.la/2soXZae",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-4l-de-oleo-motor-5w40-100-sintetico-lubrax-original-volkswagen/p/MLB65431926",
+      "precoDe": 257.22,
+      "pix": true,
+      "parcelas": "R$194 em outros meios",
+      "postado": "2026-11-20T16:45:20.324Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2soXZae.jpg"
+    },
     {
       "id": "2vxhnwx",
       "nome": "Jogo Talheres Faqueiro Búzios Aço Inox 24 Peças Tramontina",
