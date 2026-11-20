@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T14:46:01.623Z",
+  "atualizado": "2026-11-20T14:48:16.510Z",
   "ofertas": [
+    {
+      "id": "2ortHUP",
+      "nome": "Cpap Automático Airsense S10 Autoset C/ Umidificador Resmed",
+      "categoria": "Diversos",
+      "preco": 2773.9,
+      "link": "https://meli.la/2ortHUP",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cpap-automatico-airsense-s10-autoset-c-umidificador-resmed/p/MLB27738933",
+      "precoDe": 5999.9,
+      "pix": true,
+      "parcelas": "R$2.919,90 em 10x R$291,99 sem juros",
+      "postado": "2026-11-20T14:48:16.509Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ortHUP.jpg"
+    },
     {
       "id": "22ZW3Bz",
       "nome": "Liquidificador Pratic Turbo III, Mondial, 550W - L-93-BG",
