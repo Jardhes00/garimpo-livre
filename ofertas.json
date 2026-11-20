@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T17:25:51.532Z",
+  "atualizado": "2026-11-20T17:27:54.440Z",
   "ofertas": [
+    {
+      "id": "2P87NaP",
+      "nome": "Cadeira de Escritório Vincere Brasil Elegance Graphite II Ergonômica com Apoio",
+      "categoria": "Diversos",
+      "preco": 312.55,
+      "link": "https://meli.la/2P87NaP",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-escritorio-vincere-brasil-elegance-graphite-ii-ergonomica-com-apoio-lombar-preta-em-malha/p/MLB67956278",
+      "precoDe": 799,
+      "pix": true,
+      "parcelas": "R$329 em 6x R$54,83 sem juros",
+      "postado": "2026-11-20T17:27:54.438Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2P87NaP.jpg"
+    },
     {
       "id": "2zEKmVp",
       "nome": "LEGO Classic Caixa Média de Peças Criativas 10696; peças LEGO em 35 cores",
@@ -6248,41 +6266,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-24Xyat6.jpg"
-    },
-    {
-      "id": "1MZKdS3",
-      "nome": "Arvore De Natal Verde 210cm 1000 Galhos Pinheiro Canadense",
-      "categoria": "Diversos",
-      "preco": 165.29,
-      "link": "https://meli.la/1MZKdS3",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/arvore-de-natal-verde-210cm-1000-galhos-pinheiro-canadense/up/MLBU5783453673",
-      "precoDe": 289.99,
-      "pix": true,
-      "parcelas": "R$173,99 em 5x R$34,80 sem juros",
-      "cupomAnuncio": "Compre R$200 e ganhe 5% OFF por seguir a loja",
-      "postado": "2026-11-18T17:27:44.589Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1MZKdS3.jpg"
-    },
-    {
-      "id": "2P9v4fz",
-      "nome": "Monitor Gamer Phillips de 23.8\" Full HD IPS com 200Hz",
-      "categoria": "Tech",
-      "preco": 609,
-      "link": "https://meli.la/2P9v4fz",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/monitor-gamer-phillips-de-238-full-hd-ips-com-200hz/p/MLB67500776",
-      "precoDe": 1049,
-      "postado": "2026-11-18T17:26:29.498Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2P9v4fz.jpg"
     }
   ]
 }
