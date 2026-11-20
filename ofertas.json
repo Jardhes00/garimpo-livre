@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T14:52:46.774Z",
+  "atualizado": "2026-11-20T14:55:01.838Z",
   "ofertas": [
+    {
+      "id": "1nrXAtR",
+      "nome": "Zenrelia 6,4mg 30 Comprimidos para Cães Elanco",
+      "categoria": "Diversos",
+      "preco": 184.85,
+      "link": "https://meli.la/1nrXAtR",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/zenrelia-64mg-30-comprimidos-para-caes-elanco/p/MLB69123517",
+      "precoDe": 275.9,
+      "postado": "2026-11-20T14:55:01.837Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1nrXAtR.jpg"
+    },
     {
       "id": "11REz3C",
       "nome": "Mochila Sem Gênero, Impermeável, Reforçada, Com Capacidade Ampliada De 30-42l",
