@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T16:00:19.044Z",
+  "atualizado": "2026-11-20T16:02:34.166Z",
   "ofertas": [
+    {
+      "id": "2toeSdq",
+      "nome": "Bateria Moto Titan Fan Biz Bros Fazer 125 150 160 Mix Flex",
+      "categoria": "Auto",
+      "preco": 155.17,
+      "link": "https://meli.la/2toeSdq",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bateria-moto-titan-fan-biz-bros-fazer-125-150-160-mix-flex/up/MLBU1718451610",
+      "precoDe": 299.99,
+      "pix": true,
+      "parcelas": "R$163,34 em outros meios",
+      "postado": "2026-11-20T16:02:34.164Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2toeSdq.jpg"
+    },
     {
       "id": "2iZGsTs",
       "nome": "Árvore De Natal Pinheiro Canadense Luxo 2,10m 1200 Galhos Tradicional Verde",
