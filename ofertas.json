@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T15:28:48.458Z",
+  "atualizado": "2026-11-20T15:31:02.929Z",
   "ofertas": [
+    {
+      "id": "1izXgVc",
+      "nome": "Panela De Pressão Elétrica 5 Litros Aço Inox Preto Multifuncional Kian Ppe 101",
+      "categoria": "Casa",
+      "preco": 277.4,
+      "link": "https://meli.la/1izXgVc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/panela-de-pressao-eletrica-5-litros-aco-inox-preto-multifuncional-kian-ppe-101/p/MLB50190417",
+      "precoDe": 499.99,
+      "pix": true,
+      "parcelas": "R$292 em outros meios",
+      "postado": "2026-11-20T15:31:02.928Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1izXgVc.jpg"
+    },
     {
       "id": "1EPdwqk",
       "nome": "Amazon Echo Dot 5ª Geração Smart Speaker Com Alexa Cor Branco Glacier White",
