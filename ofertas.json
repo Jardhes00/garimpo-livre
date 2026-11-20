@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T14:41:31.323Z",
+  "atualizado": "2026-11-20T14:43:46.908Z",
   "ofertas": [
+    {
+      "id": "2CGw9nr",
+      "nome": "Capacete para moto Fw3 gtx fox com viseira solar grafite brilhante tamanho 58",
+      "categoria": "Auto",
+      "preco": 379,
+      "link": "https://meli.la/2CGw9nr",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/capacete-para-moto-fw3-gtx-fox-com-viseira-solar-grafite-brilhante-tamanho-58/p/MLB29730604",
+      "precoDe": 529,
+      "pix": true,
+      "parcelas": "R$409,99 em 10x R$41 sem juros",
+      "postado": "2026-11-20T14:43:46.907Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2CGw9nr.jpg"
+    },
     {
       "id": "12tMUzf",
       "nome": "Lavadora de alta pressão Electrolux 1650psi 1400w Easywash Qws1650",
