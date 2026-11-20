@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-20T14:23:31.218Z",
+  "atualizado": "2026-11-20T14:25:46.072Z",
   "ofertas": [
+    {
+      "id": "1eZBfEc",
+      "nome": "Marinex Conjunto De Assadeiras Opaline 6 Peças Branco",
+      "categoria": "Diversos",
+      "preco": 89.9,
+      "link": "https://meli.la/1eZBfEc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/marinex-conjunto-de-assadeiras-opaline-6-pecas-branco/p/MLB75501920",
+      "precoDe": 149,
+      "parcelas": "6x de R$14,98 sem juros",
+      "postado": "2026-11-20T14:25:46.070Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1eZBfEc.jpg"
+    },
     {
       "id": "1hrT2e6",
       "nome": "Smart Tv Samsung 32 Ls32h5000fgxzd Hd Led Wifi Hdmi 110/220v",
