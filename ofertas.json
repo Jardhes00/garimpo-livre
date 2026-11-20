@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T16:56:35.657Z",
+  "atualizado": "2026-11-20T16:58:50.782Z",
   "ofertas": [
+    {
+      "id": "2mrpk5f",
+      "nome": "Kit Cetaphil Creme Hidratante 453g + Loção de Limpeza 100ml - Hidratação 48h",
+      "categoria": "Beleza",
+      "preco": 71.15,
+      "link": "https://meli.la/2mrpk5f",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-cetaphil-creme-hidratante-453g-locao-de-limpeza-100ml-hidratacao-48h-corporal-e-facial-para-pele-sensivel-normal-a-seca/p/MLB65038519",
+      "precoDe": 134.9,
+      "pix": true,
+      "parcelas": "R$74,90 em outros meios",
+      "postado": "2026-11-20T16:58:50.781Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2mrpk5f.jpg"
+    },
     {
       "id": "1e7qaGS",
       "nome": "Kit Com 5 Carrinhos Sortidos Hot Wheels Coloridos Mattel",
