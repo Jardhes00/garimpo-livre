@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-20T17:07:51.080Z",
+  "atualizado": "2026-11-20T17:10:06.134Z",
   "ofertas": [
+    {
+      "id": "1gCvHZh",
+      "nome": "Inalador Nebulizador Aero Tech Portátil Tec. Mesh Relaxmedic",
+      "categoria": "Diversos",
+      "preco": 175,
+      "link": "https://meli.la/1gCvHZh",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/inalador-nebulizador-aero-tech-portatil-tec-mesh-relaxmedic/up/MLBU3750650384",
+      "precoDe": 499.9,
+      "cupomAnuncio": "R$166,25 com Cupom por seguir a loja",
+      "postado": "2026-11-20T17:10:06.133Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1gCvHZh.jpg"
+    },
     {
       "id": "1JcrrND",
       "nome": "Projetor Smart Portátil Full Hd 4k Bluetooth Android Wifi",
@@ -6365,23 +6382,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1J4X8rb.jpg"
-    },
-    {
-      "id": "1qktrx8",
-      "nome": "Ventilador de Mesa 16 Pás Turbo Preto, 40cm, 3 velocidades, Ventisol",
-      "categoria": "Casa",
-      "preco": 129.9,
-      "link": "https://meli.la/1qktrx8",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-mesa-16-pas-turbo-preto-40cm-3-velocidades-ventisol/p/MLB81813280",
-      "precoDe": 209.9,
-      "parcelas": "4x de R$32,48 sem juros",
-      "postado": "2026-11-18T17:08:59.442Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1qktrx8.jpg"
     }
   ]
 }
