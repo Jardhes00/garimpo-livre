@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-20T15:08:32.120Z",
+  "atualizado": "2026-11-20T15:10:47.316Z",
   "ofertas": [
+    {
+      "id": "2ypJK8a",
+      "nome": "Colchão Casal Luuna Blue, Espuma 20 cm com Bloqueio de Movimento, 10 Anos de",
+      "categoria": "Casa",
+      "preco": 1449,
+      "link": "https://meli.la/2ypJK8a",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/colchao-casal-luuna-blue-espuma-20-cm-com-bloqueio-de-movimento-10-anos-de-garantia/p/MLB26215871",
+      "precoDe": 2852.5,
+      "parcelas": "10x de R$144,90 sem juros",
+      "postado": "2026-11-20T15:10:47.314Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ypJK8a.jpg"
+    },
     {
       "id": "1EH9WDC",
       "nome": "Climatizador de Ar Portátil 15L Umidificador Evaporativo 3 Velocidades 3 Modos",
