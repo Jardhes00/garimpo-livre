@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-20T16:36:19.909Z",
+  "atualizado": "2026-11-20T16:38:34.831Z",
   "ofertas": [
+    {
+      "id": "18JXBZL",
+      "nome": "Fechadura Digital De Sobrepor Fd 1000 D Intelbras Preta",
+      "categoria": "Casa",
+      "preco": 249,
+      "link": "https://meli.la/18JXBZL",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fechadura-digital-de-sobrepor-fd-1000-d-intelbras-preta/p/MLB63323182",
+      "precoDe": 359.9,
+      "parcelas": "6x de R$41,50 sem juros",
+      "postado": "2026-11-20T16:38:34.830Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-18JXBZL.jpg"
+    },
     {
       "id": "1TyGL9J",
       "nome": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte",
@@ -6207,24 +6224,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2DBNAXT.jpg"
-    },
-    {
-      "id": "2vQ8Jwz",
-      "nome": "Batedeira Planetária Philco 900W 5L Preta 12 Velocidades Turbo PBP90A",
-      "categoria": "Diversos",
-      "preco": 260.1,
-      "link": "https://meli.la/2vQ8Jwz",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/batedeira-planetaria-philco-900w-5l-preta-12-velocidades-turbo-pbp90a/p/MLB49848921",
-      "precoDe": 379.9,
-      "pix": true,
-      "parcelas": "R$289 em 6x R$48,17 sem juros",
-      "postado": "2026-11-18T16:36:25.056Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2vQ8Jwz.jpg"
     }
   ]
 }
