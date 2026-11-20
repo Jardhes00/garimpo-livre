@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T14:37:01.417Z",
+  "atualizado": "2026-11-20T14:39:16.386Z",
   "ofertas": [
+    {
+      "id": "1dy1VQE",
+      "nome": "Zenrelia 8,5 - 30 comprimidos ELANCO",
+      "categoria": "Diversos",
+      "preco": 193,
+      "link": "https://meli.la/1dy1VQE",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/zenrelia-85-30-comprimidos-elanco/p/MLB43424234",
+      "precoDe": 327.27,
+      "postado": "2026-11-20T14:39:16.385Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1dy1VQE.jpg"
+    },
     {
       "id": "11kTEqi",
       "nome": "Chave De Impacto Shawty Com Bateria 20V 1/2\" E 1/4\" Sem Fio - Verde-Musgo",
