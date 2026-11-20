@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T16:58:50.782Z",
+  "atualizado": "2026-11-20T17:01:05.714Z",
   "ofertas": [
+    {
+      "id": "2B9GeZJ",
+      "nome": "Tenda Praia Gazebo Dobrável Impermeável 3x3m Barraca Camping Azul",
+      "categoria": "Diversos",
+      "preco": 336.66,
+      "link": "https://meli.la/2B9GeZJ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tenda-praia-gazebo-dobravel-impermeavel-3x3m-barraca-camping/p/MLB59109726",
+      "precoDe": 546.12,
+      "pix": true,
+      "parcelas": "R$354,38 em outros meios",
+      "postado": "2026-11-20T17:01:05.713Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2B9GeZJ.jpg"
+    },
     {
       "id": "2mrpk5f",
       "nome": "Kit Cetaphil Creme Hidratante 453g + Loção de Limpeza 100ml - Hidratação 48h",
