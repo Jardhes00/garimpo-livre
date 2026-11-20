@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T15:26:32.740Z",
+  "atualizado": "2026-11-20T15:28:48.458Z",
   "ofertas": [
+    {
+      "id": "1EPdwqk",
+      "nome": "Amazon Echo Dot 5ª Geração Smart Speaker Com Alexa Cor Branco Glacier White",
+      "categoria": "Tech",
+      "preco": 361.28,
+      "link": "https://meli.la/1EPdwqk",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/amazon-echo-dot-5-geracao-smart-speaker-com-alexa-cor-branco-glacier-white/p/MLB58978915",
+      "precoDe": 649,
+      "postado": "2026-11-20T15:28:48.457Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1EPdwqk.jpg"
+    },
     {
       "id": "2sREwB1",
       "nome": "Módulo Amplificador Taramps DS 800X4 800W RMS para Som Automotivo de 4 Canais e",
