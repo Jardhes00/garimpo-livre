@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T15:46:48.598Z",
+  "atualizado": "2026-11-20T15:49:03.576Z",
   "ofertas": [
+    {
+      "id": "2YeWzLt",
+      "nome": "Babá Eletrônica Video Baby Noturna Sem Fio Recarregável Branco Estary Shop",
+      "categoria": "Diversos",
+      "preco": 187.85,
+      "link": "https://meli.la/2YeWzLt",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/baba-eletronica-video-baby-noturna-sem-fio-recarregavel-branco-estary-shop/p/MLB54159991",
+      "precoDe": 459,
+      "pix": true,
+      "parcelas": "R$221 em outros meios",
+      "postado": "2026-11-20T15:49:03.575Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2YeWzLt.jpg"
+    },
     {
       "id": "1bmnUYH",
       "nome": "Ventilador de Mesa Multilaser Multi Turbo VL401",
