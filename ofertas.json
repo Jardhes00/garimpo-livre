@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T15:17:32.468Z",
+  "atualizado": "2026-11-20T15:19:47.500Z",
   "ofertas": [
+    {
+      "id": "2MYD643",
+      "nome": "Shampoo Tonalizante Grecin Control GX Reduz Grisalho 118ml",
+      "categoria": "Beleza",
+      "preco": 78.33,
+      "link": "https://meli.la/2MYD643",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/shampoo-tonalizante-grecin-control-gx-reduz-grisalho-118ml/p/MLB25708528",
+      "precoDe": 111.9,
+      "postado": "2026-11-20T15:19:47.498Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2MYD643.jpg"
+    },
     {
       "id": "24hXPUa",
       "nome": "Transformador 7000va 220 Para 110 110v Para 220v Bivolt Conversor Adaptador De",
