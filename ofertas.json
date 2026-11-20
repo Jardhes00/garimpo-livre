@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T15:33:17.893Z",
+  "atualizado": "2026-11-20T15:35:33.901Z",
   "ofertas": [
+    {
+      "id": "1ygptfc",
+      "nome": "Pack Cerveja Budweiser Lager americana clara lata 350ml - 12 unidades",
+      "categoria": "Diversos",
+      "preco": 33.68,
+      "link": "https://meli.la/1ygptfc",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/pack-cerveja-budweiser-lager-americana-clara-lata-350ml-12-unidades/p/MLB18498516",
+      "precoDe": 55.08,
+      "postado": "2026-11-20T15:35:33.900Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ygptfc.jpg"
+    },
     {
       "id": "2WpwzQz",
       "nome": "Liquidificador RI2244 Série 5000 Com Jarra Inquebrável Inox 1400W Capacidade",
