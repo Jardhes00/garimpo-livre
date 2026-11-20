@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T14:50:31.931Z",
+  "atualizado": "2026-11-20T14:52:46.774Z",
   "ofertas": [
+    {
+      "id": "11REz3C",
+      "nome": "Mochila Sem Gênero, Impermeável, Reforçada, Com Capacidade Ampliada De 30-42l",
+      "categoria": "Moda",
+      "preco": 65.59,
+      "link": "https://meli.la/11REz3C",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mochila-sem-genero-impermeavel-reforcada-com-capacidade-ampliada-de-30-42l-adequada-para-portatil-viagens-diarias-cor-preta/p/MLB75625924",
+      "precoDe": 216,
+      "parcelas": "3x de R$21,86 sem juros",
+      "cupomAnuncio": "R$63,59 com Cupom por seguir a loja",
+      "postado": "2026-11-20T14:52:46.773Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-11REz3C.jpg"
+    },
     {
       "id": "2UckUMH",
       "nome": "Electrolux Kit 3 Bowls Tigelas de Aço Inox com Tampa Plástica, 1,4L, 2L e 2,6L",
