@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-20T15:22:02.697Z",
+  "atualizado": "2026-11-20T15:24:17.802Z",
   "ofertas": [
+    {
+      "id": "1zMTpBY",
+      "nome": "Lavadora de Alta Pressão Kärcher K6 2250PSI 480L/h 2000W Motor a Indução e Jato",
+      "categoria": "Diversos",
+      "preco": 1099,
+      "link": "https://meli.la/1zMTpBY",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-krcher-k6-2250psi-480lh-2000w-motor-a-inducao-e-jato-turbo-rotativo-220v/p/MLB65927203",
+      "precoDe": 2100,
+      "parcelas": "10x de R$109,90 sem juros",
+      "postado": "2026-11-20T15:24:17.801Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1zMTpBY.jpg"
+    },
     {
       "id": "2AHXVAP",
       "nome": "Smartwatch HUAWEI WATCH FIT 5 AMOLED de 182\" Design Leve Mini Treino Bateria",
