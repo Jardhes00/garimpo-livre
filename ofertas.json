@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T14:43:46.908Z",
+  "atualizado": "2026-11-20T14:46:01.623Z",
   "ofertas": [
+    {
+      "id": "22ZW3Bz",
+      "nome": "Liquidificador Pratic Turbo III, Mondial, 550W - L-93-BG",
+      "categoria": "Casa",
+      "preco": 89.93,
+      "link": "https://meli.la/22ZW3Bz",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/liquidificador-pratic-turbo-iii-mondial-550w-l-93-bg/p/MLB46053181",
+      "precoDe": 154.9,
+      "postado": "2026-11-20T14:46:01.622Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-22ZW3Bz.jpg"
+    },
     {
       "id": "2CGw9nr",
       "nome": "Capacete para moto Fw3 gtx fox com viseira solar grafite brilhante tamanho 58",
