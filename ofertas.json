@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T15:06:17.248Z",
+  "atualizado": "2026-11-20T15:08:32.120Z",
   "ofertas": [
+    {
+      "id": "1EH9WDC",
+      "nome": "Climatizador de Ar Portátil 15L Umidificador Evaporativo 3 Velocidades 3 Modos",
+      "categoria": "Diversos",
+      "preco": 469.99,
+      "link": "https://meli.la/1EH9WDC",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/climatizador-de-ar-portatil-15l-umidificador-evaporativo-3-velocidades-3-modos-de-vento-temporizador-resfriamento-touch-controle-remoto/p/MLB80744091",
+      "precoDe": 1199.99,
+      "postado": "2026-11-20T15:08:32.119Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1EH9WDC.jpg"
+    },
     {
       "id": "1sffHPo",
       "nome": "Smart TV 4K 43\" LG NANO UHD AI NU850 2026 Processador α7 Ger9 HDR10 Xbox",
