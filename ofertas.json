@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T14:34:46.200Z",
+  "atualizado": "2026-11-20T14:37:01.417Z",
   "ofertas": [
+    {
+      "id": "11kTEqi",
+      "nome": "Chave De Impacto Shawty Com Bateria 20V 1/2\" E 1/4\" Sem Fio - Verde-Musgo",
+      "categoria": "Ferramentas",
+      "preco": 162.14,
+      "link": "https://meli.la/11kTEqi",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/chave-de-impacto-shawty-com-bateria-20v-12-e-14-sem-fio-verde-musgo/p/MLB76187930",
+      "precoDe": 596.97,
+      "postado": "2026-11-20T14:37:01.416Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-11kTEqi.jpg"
+    },
     {
       "id": "1coprKE",
       "nome": "Creatina Soldiers Nutrition Em Pó Sem Sabor 600g",
