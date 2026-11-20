@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T14:05:30.344Z",
+  "atualizado": "2026-11-20T14:07:45.401Z",
   "ofertas": [
+    {
+      "id": "29AHU4j",
+      "nome": "Whey Protein Concentrado Dux Nutrition 1.8 Kg Sabor Chocolate",
+      "categoria": "Suplementos",
+      "preco": 299.99,
+      "link": "https://meli.la/29AHU4j",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-protein-concentrado-dux-nutrition-18-kg-sabor-chocolate/p/MLB15067118",
+      "precoDe": 599.9,
+      "postado": "2026-11-20T14:07:45.400Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-29AHU4j.jpg"
+    },
     {
       "id": "2BY9vYF",
       "nome": "Ventilador Coluna 40cm Super Turbo Tech, Mondial, 140W - VTX-40C-8P-CR",
