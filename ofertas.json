@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T14:21:15.855Z",
+  "atualizado": "2026-11-20T14:23:31.218Z",
   "ofertas": [
+    {
+      "id": "1hrT2e6",
+      "nome": "Smart Tv Samsung 32 Ls32h5000fgxzd Hd Led Wifi Hdmi 110/220v",
+      "categoria": "Tech",
+      "preco": 1086.3,
+      "link": "https://meli.la/1hrT2e6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smart-tv-samsung-32-ls32h5000fgxzd-hd-led-wifi-hdmi-110220v/p/MLB66191173",
+      "precoDe": 2000,
+      "postado": "2026-11-20T14:23:31.217Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1hrT2e6.jpg"
+    },
     {
       "id": "1xJFX9s",
       "nome": "Conjunto De Panelas Antiaderente 10 Peças Coffee Cappuccino Imperial",
