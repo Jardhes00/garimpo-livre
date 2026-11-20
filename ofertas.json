@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T16:45:20.325Z",
+  "atualizado": "2026-11-20T16:47:35.331Z",
   "ofertas": [
+    {
+      "id": "14AsBzF",
+      "nome": "Whey protein XPro Nutrition Iso Blend Complex em pó sabor Chocolate x 2kg",
+      "categoria": "Suplementos",
+      "preco": 86.39,
+      "link": "https://meli.la/14AsBzF",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-protein-xpro-nutrition-iso-blend-complex-em-po-sabor-chocolate-x-2kg/p/MLB53198099",
+      "precoDe": 139.99,
+      "postado": "2026-11-20T16:47:35.330Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-14AsBzF.jpg"
+    },
     {
       "id": "2soXZae",
       "nome": "Kit 4L De Óleo Motor 5w40 100% Sintético Lubrax Original Volkswagen",
