@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T17:03:20.775Z",
+  "atualizado": "2026-11-20T17:05:36.285Z",
   "ofertas": [
+    {
+      "id": "2Bji6df",
+      "nome": "Whey protein Musclebox Iso Blend Complex zero açucar Low em pó sabor Morango x",
+      "categoria": "Suplementos",
+      "preco": 86.39,
+      "link": "https://meli.la/2Bji6df",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-protein-musclebox-iso-blend-complex-zero-acucar-low-em-po-sabor-morango-x-2kg/p/MLB65357764",
+      "precoDe": 139.99,
+      "postado": "2026-11-20T17:05:36.283Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Bji6df.jpg"
+    },
     {
       "id": "1LezUov",
       "nome": "Elanco Zenrelia 4,8mg tratamento coceira dermatite atopica alergia queda de",
@@ -6382,40 +6398,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-24j4Vvs.jpg"
-    },
-    {
-      "id": "2uMRyHF",
-      "nome": "Celimax Original Retinal Shot Tightening Booster Corean 15ml",
-      "categoria": "Diversos",
-      "preco": 91.62,
-      "link": "https://meli.la/2uMRyHF",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/celimax-original-retinal-shot-tightening-booster-corean-15ml/up/MLBU5911770946",
-      "precoDe": 175,
-      "postado": "2026-11-18T17:05:13.948Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2uMRyHF.jpg"
-    },
-    {
-      "id": "2DBNAXT",
-      "nome": "Ar Cond Split Invt Midea Ai Ecomaster 9000 Btus Frio 220v",
-      "categoria": "Diversos",
-      "preco": 1804.99,
-      "link": "https://meli.la/2DBNAXT",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ar-cond-split-invt-midea-ai-ecomaster-9000-btus-frio-220v/up/MLBU5704543695",
-      "precoDe": 2919,
-      "pix": true,
-      "parcelas": "R$1.899,99 em outros meios",
-      "postado": "2026-11-18T17:03:59.216Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2DBNAXT.jpg"
     }
   ]
 }
