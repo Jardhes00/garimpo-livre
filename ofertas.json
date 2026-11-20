@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T17:32:24.477Z",
+  "atualizado": "2026-11-20T17:34:39.700Z",
   "ofertas": [
+    {
+      "id": "1n6QUj3",
+      "nome": "Filamento PLA 1,75mm Voolt3D Premium Bege para Impressora 3D 1 kg",
+      "categoria": "Tech",
+      "preco": 113.9,
+      "link": "https://meli.la/1n6QUj3",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/filamento-pla-175mm-voolt3d-premium-bege-para-impressora-3d-1-kg/p/MLB26212093",
+      "precoDe": 159.9,
+      "pix": true,
+      "parcelas": "R$119,90 em outros meios",
+      "postado": "2026-11-20T17:34:39.699Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1n6QUj3.jpg"
+    },
     {
       "id": "1Bgh1Sd",
       "nome": "Armário Aéreo de Cozinha Branco Itatiaia 3 Portas Rose",
@@ -6213,40 +6231,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2UujkgU.jpg"
-    },
-    {
-      "id": "2L44upd",
-      "nome": "Grill E Sanduicheira PGR21PI Maxx Clean 1000W Cinza Philco",
-      "categoria": "Diversos",
-      "preco": 105.9,
-      "link": "https://meli.la/2L44upd",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/grill-e-sanduicheira-pgr21pi-maxx-clean-1000w-cinza-philco/p/MLB22852655",
-      "precoDe": 179.99,
-      "postado": "2026-11-18T17:34:00.091Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2L44upd.jpg"
-    },
-    {
-      "id": "2jxsmaJ",
-      "nome": "Ar Condicionado LG Dual Inverter Ai Voice 12000 Btus Qf Branco",
-      "categoria": "Casa",
-      "preco": 2879.9,
-      "link": "https://meli.la/2jxsmaJ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-lg-dual-inverter-ai-voice-12000-btus-qf-branco/p/MLB66187058",
-      "precoDe": 4183.79,
-      "pix": true,
-      "parcelas": "R$2.999,90 em 10x R$299,99 sem juros",
-      "postado": "2026-11-18T17:32:44.628Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2jxsmaJ.jpg"
     }
   ]
 }
