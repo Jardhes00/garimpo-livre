@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-20T14:12:15.473Z",
+  "atualizado": "2026-11-20T14:14:30.739Z",
   "ofertas": [
+    {
+      "id": "27pFseH",
+      "nome": "Ventilador Britânia 2 em 1 Maxx Force Silencioso 174W BVT481",
+      "categoria": "Casa",
+      "preco": 168.71,
+      "link": "https://meli.la/27pFseH",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-britania-2-em-1-maxx-force-silencioso-174w-bvt481/p/MLB27649957",
+      "precoDe": 264.66,
+      "parcelas": "5x de R$33,74 sem juros",
+      "postado": "2026-11-20T14:14:30.738Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-27pFseH.jpg"
+    },
     {
       "id": "2H6ds15",
       "nome": "Óleo Capilar Kérastase Gloss Absolu Glaze Drops, Brilho Intenso Para Cabelos",
