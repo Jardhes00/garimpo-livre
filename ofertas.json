@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T16:20:34.837Z",
+  "atualizado": "2026-11-20T16:22:49.493Z",
   "ofertas": [
+    {
+      "id": "347VuXq",
+      "nome": "Soundbar 350W XINGWON com 4 alto-falantes e 4.0 canais, Home Theater destacável",
+      "categoria": "Tech",
+      "preco": 312,
+      "link": "https://meli.la/347VuXq",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/soundbar-350w-xingwon-com-4-alto-falantes-e-40-canais-home-theater-destacavel-com-dolby-e-dts-caixa-de-som-bluetooth-53-entradas-auxhdmiarcusbopticacoaxialfm-tela-led-e-controle-remoto/p/MLB81483994",
+      "precoDe": 700,
+      "postado": "2026-11-20T16:22:49.491Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-347VuXq.jpg"
+    },
     {
       "id": "2Fpvp2E",
       "nome": "Aparelho De Jantar E Chá Donna Lírios 20 Peças Biona",
@@ -6281,41 +6297,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2UrArWU.jpg"
-    },
-    {
-      "id": "22hpT51",
-      "nome": "Maquina Maquininha Dragao Acabamento Com visor Display Cortar Cabelo Aparador Barba Pelos Elétrica Sem Fio Recarregavel - Crowley",
-      "categoria": "Diversos",
-      "preco": 29.61,
-      "link": "https://meli.la/22hpT51",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB62550252",
-      "precoDe": 64.9,
-      "pix": true,
-      "postado": "2026-11-18T16:22:38.583Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-22hpT51.jpg"
-    },
-    {
-      "id": "18vapF4",
-      "nome": "Senscience Inner Restore Mascara De Tratamento 500 Ml",
-      "categoria": "Diversos",
-      "preco": 222.57,
-      "link": "https://meli.la/18vapF4",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB21724864",
-      "precoDe": 419.9,
-      "pix": true,
-      "parcelas": "R$ 247,30 em outros meios",
-      "postado": "2026-11-18T16:21:23.746Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-18vapF4.jpg"
     }
   ]
 }
