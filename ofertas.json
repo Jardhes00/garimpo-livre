@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T16:54:20.649Z",
+  "atualizado": "2026-11-20T16:56:35.657Z",
   "ofertas": [
+    {
+      "id": "1e7qaGS",
+      "nome": "Kit Com 5 Carrinhos Sortidos Hot Wheels Coloridos Mattel",
+      "categoria": "Diversos",
+      "preco": 52.99,
+      "link": "https://meli.la/1e7qaGS",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-com-5-carrinhos-sortidos-hot-wheels-coloridos-mattel/p/MLB43344829",
+      "precoDe": 84.99,
+      "postado": "2026-11-20T16:56:35.656Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1e7qaGS.jpg"
+    },
     {
       "id": "3291dX2",
       "nome": "Bravecto Cães 10-20kg 500mg 1 Comp. Mastigável Msd Verde",
