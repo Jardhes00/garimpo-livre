@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-20T16:11:34.395Z",
+  "atualizado": "2026-11-20T16:13:49.239Z",
   "ofertas": [
+    {
+      "id": "1vEwdyM",
+      "nome": "Triciclo Elétrico Drift Infantil 36v 250w Motor Brushless Bluetooth Luz Led Com",
+      "categoria": "Bebê",
+      "preco": 899,
+      "link": "https://meli.la/1vEwdyM",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/triciclo-eletrico-drift-infantil-36v-250w-motor-brushless-bluetooth-luz-led-com-capacete-e-joelheira-presente-para-menino-e-menina/p/MLB66393109",
+      "precoDe": 1299,
+      "parcelas": "10x de R$89,90 sem juros",
+      "postado": "2026-11-20T16:13:49.237Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1vEwdyM.jpg"
+    },
     {
       "id": "2cidygz",
       "nome": "Kit 4 Cadeiras Resistentes Estofadas Para Mesa De Jantar Sala E Cozinha - Trio",
@@ -6342,41 +6359,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2mKXTYR.jpg"
-    },
-    {
-      "id": "2B3yseU",
-      "nome": "Smart TV AIWA 43” Android Full HD Borda Ultrafina HDR10 Dolby Áudio AWS-TV-43-BL-02-A",
-      "categoria": "Tech",
-      "preco": 1168,
-      "link": "https://meli.la/2B3yseU",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB20662382",
-      "precoDe": 1899.9,
-      "parcelas": "12x R$ 113,38",
-      "postado": "2026-11-18T16:12:51.262Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2B3yseU.jpg"
-    },
-    {
-      "id": "2MzMWMM",
-      "nome": "Tênis Sandrini Aero Spark Corrida Academia Caminhada Leve",
-      "categoria": "Moda",
-      "preco": 110.39,
-      "link": "https://meli.la/2MzMWMM",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://produto.mercadolivre.com.br/MLB-4340888693-tnis-sandrini-aero-spark-corrida-academia-caminhada-leve-_JM",
-      "precoDe": 271.56,
-      "pix": true,
-      "parcelas": "R$ 119,99 em outros meios",
-      "postado": "2026-11-18T16:11:36.365Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2MzMWMM.jpg"
     }
   ]
 }
