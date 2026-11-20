@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T16:09:19.179Z",
+  "atualizado": "2026-11-20T16:11:34.395Z",
   "ofertas": [
+    {
+      "id": "2cidygz",
+      "nome": "Kit 4 Cadeiras Resistentes Estofadas Para Mesa De Jantar Sala E Cozinha - Trio",
+      "categoria": "Casa",
+      "preco": 465.52,
+      "link": "https://meli.la/2cidygz",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-4-cadeiras-resistentes-estofadas-para-mesa-de-jantar-sala-e-cozinha-trio-casa/p/MLB79318346",
+      "precoDe": 686,
+      "pix": true,
+      "parcelas": "R$535,08 em outros meios",
+      "postado": "2026-11-20T16:11:34.394Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2cidygz.jpg"
+    },
     {
       "id": "1xyhRhs",
       "nome": "Ventilador Mallory Coluna Chronos Dourado -",
@@ -6359,24 +6377,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2MzMWMM.jpg"
-    },
-    {
-      "id": "1mbGGQw",
-      "nome": "Camiseta Tech Light Insider Masculino",
-      "categoria": "Moda",
-      "preco": 53.86,
-      "link": "https://meli.la/1mbGGQw",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://produto.mercadolivre.com.br/MLB-4232914111-camiseta-tech-light-insider-masculino-_JM",
-      "precoDe": 189,
-      "pix": true,
-      "parcelas": "R$ 56,70 em outros meios",
-      "postado": "2026-11-18T16:10:06.242Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1mbGGQw.jpg"
     }
   ]
 }
