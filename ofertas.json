@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T16:22:49.493Z",
+  "atualizado": "2026-11-20T16:25:04.750Z",
   "ofertas": [
+    {
+      "id": "259xV5G",
+      "nome": "Compressor Ar Direto 1/2hp 350w 40 Psi Com Kit Bivolt Evald Amarelo",
+      "categoria": "Ferramentas",
+      "preco": 459.9,
+      "link": "https://meli.la/259xV5G",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/compressor-ar-direto-12hp-350w-40-psi-com-kit-bivolt-evald-amarelo/p/MLB61932736",
+      "precoDe": 693.63,
+      "postado": "2026-11-20T16:25:04.748Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-259xV5G.jpg"
+    },
     {
       "id": "347VuXq",
       "nome": "Soundbar 350W XINGWON com 4 alto-falantes e 4.0 canais, Home Theater destacável",
@@ -6278,25 +6294,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1MNGWz1.jpg"
-    },
-    {
-      "id": "2UrArWU",
-      "nome": "Câmera Inteligente Visão 360° IM4 C Intelbras",
-      "categoria": "Diversos",
-      "preco": 186.75,
-      "link": "https://meli.la/2UrArWU",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB22569962",
-      "precoDe": 323.9,
-      "pix": true,
-      "parcelas": "R$ 249 em 6x R$ 41,50 sem juros",
-      "cupomAnuncio": "R$171,75 com Cupom",
-      "postado": "2026-11-18T16:23:53.357Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2UrArWU.jpg"
     }
   ]
 }
