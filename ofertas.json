@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T15:55:49.337Z",
+  "atualizado": "2026-11-20T15:58:03.885Z",
   "ofertas": [
+    {
+      "id": "1zVp5dc",
+      "nome": "Whisky Jack Daniel's Old No. 7 Tennessee 1 L",
+      "categoria": "Diversos",
+      "preco": 108.8,
+      "link": "https://meli.la/1zVp5dc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whisky-jack-daniels-old-no-7-tennessee-1-l/p/MLB19546263",
+      "precoDe": 192.9,
+      "pix": true,
+      "parcelas": "R$128 em outros meios",
+      "postado": "2026-11-20T15:58:03.884Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1zVp5dc.jpg"
+    },
     {
       "id": "2Xum4Mz",
       "nome": "Kit 2 Cadeiras Sala De Jantar Madeira Maciça Encosto Palha",
