@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T15:44:33.284Z",
+  "atualizado": "2026-11-20T15:46:48.598Z",
   "ofertas": [
+    {
+      "id": "1bmnUYH",
+      "nome": "Ventilador de Mesa Multilaser Multi Turbo VL401",
+      "categoria": "Casa",
+      "preco": 135.99,
+      "link": "https://meli.la/1bmnUYH",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-mesa-multilaser-multi-turbo-vl401/p/MLB20888404",
+      "precoDe": 260.37,
+      "postado": "2026-11-20T15:46:48.596Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1bmnUYH.jpg"
+    },
     {
       "id": "1q1jx8d",
       "nome": "Lavadora De Alta Pressão Aqua Power Mondial Preto 1400w Lap-04-gy",
