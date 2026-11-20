@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T16:52:05.416Z",
+  "atualizado": "2026-11-20T16:54:20.649Z",
   "ofertas": [
+    {
+      "id": "3291dX2",
+      "nome": "Bravecto Cães 10-20kg 500mg 1 Comp. Mastigável Msd Verde",
+      "categoria": "Diversos",
+      "preco": 141.64,
+      "link": "https://meli.la/3291dX2",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bravecto-caes-10-20kg-500mg-1-comp-mastigavel-msd-verde/p/MLB16082840",
+      "precoDe": 280.8,
+      "pix": true,
+      "parcelas": "R$149,10 em outros meios",
+      "postado": "2026-11-20T16:54:20.648Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-3291dX2.jpg"
+    },
     {
       "id": "31Fx4fP",
       "nome": "Lavadora de Alta Pressão Kärcher K2 Plus Turbo 1740 PSI 1400W 127 v",
