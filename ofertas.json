@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T17:34:39.700Z",
+  "atualizado": "2026-11-20T17:36:54.667Z",
   "ofertas": [
+    {
+      "id": "2pxPVkh",
+      "nome": "Hoverboard Skate Elétrico 6.5 Polegadas Com Led E Bluetooth Fogo E Gelo",
+      "categoria": "Diversos",
+      "preco": 425.6,
+      "link": "https://meli.la/2pxPVkh",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/hoverboard-skate-eletrico-65-polegadas-com-led-e-bluetooth-fogo-e-gelo/p/MLB65350219",
+      "precoDe": 1299,
+      "pix": true,
+      "parcelas": "R$448 em outros meios",
+      "postado": "2026-11-20T17:36:54.665Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2pxPVkh.jpg"
+    },
     {
       "id": "1n6QUj3",
       "nome": "Filamento PLA 1,75mm Voolt3D Premium Bege para Impressora 3D 1 kg",
@@ -6194,43 +6212,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-28bEQU9.jpg"
-    },
-    {
-      "id": "1eJQDZv",
-      "nome": "Ventilador De Mesa 30cm Super Power 60w Vsp-30-b Turbo",
-      "categoria": "Casa",
-      "preco": 118.78,
-      "link": "https://meli.la/1eJQDZv",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-mesa-30cm-super-power-60w-vsp-30-b-turbo/up/MLBU3522691545",
-      "precoDe": 290,
-      "pix": true,
-      "parcelas": "R$125,03 em outros meios",
-      "postado": "2026-11-18T17:36:30.247Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1eJQDZv.jpg"
-    },
-    {
-      "id": "2UujkgU",
-      "nome": "Árvore De Natal 1,80 Metros 540 Galhos Pinheiro Premium Verde Cheia Realista",
-      "categoria": "Diversos",
-      "preco": 132.04,
-      "link": "https://meli.la/2UujkgU",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/arvore-de-natal-180-metros-540-galhos-pinheiro-premium-verde-cheia-realista-base-de-metal-dobravel-decoracao-natalina-yab/p/MLB54515182",
-      "precoDe": 299.9,
-      "pix": true,
-      "parcelas": "R$138,99 em outros meios",
-      "cupomAnuncio": "R$130,14 com Cupom por seguir a loja",
-      "postado": "2026-11-18T17:35:14.915Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2UujkgU.jpg"
     }
   ]
 }
