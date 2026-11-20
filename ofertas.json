@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T15:49:03.576Z",
+  "atualizado": "2026-11-20T15:51:18.863Z",
   "ofertas": [
+    {
+      "id": "1LarX7G",
+      "nome": "Maquina Acabamento Cortar Cabelo Barba E Pelos Kemei 032",
+      "categoria": "Diversos",
+      "preco": 34.62,
+      "link": "https://meli.la/1LarX7G",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquina-acabamento-cortar-cabelo-barba-e-pelos-kemei-032/up/MLBU4992668498",
+      "precoDe": 78.9,
+      "postado": "2026-11-20T15:51:18.862Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1LarX7G.jpg"
+    },
     {
       "id": "2YeWzLt",
       "nome": "Babá Eletrônica Video Baby Noturna Sem Fio Recarregável Branco Estary Shop",
