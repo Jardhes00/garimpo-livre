@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-20T16:34:05.060Z",
+  "atualizado": "2026-11-20T16:36:19.909Z",
   "ofertas": [
+    {
+      "id": "1TyGL9J",
+      "nome": "Projetor HY320 Davely Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte",
+      "categoria": "Tech",
+      "preco": 239.9,
+      "link": "https://meli.la/1TyGL9J",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/projetor-hy320-davely-smart-tv-android-wifi-6-390-ansi-lumens-full-hd-suporte-4k-hdmi-bluetooth-85-200-polegadas-alto-falante-com-controle-remoto-bivolt-portatil-mini/p/MLB48959123",
+      "precoDe": 365.9,
+      "cupomAnuncio": "R$238,90 com Cupom por seguir a loja",
+      "postado": "2026-11-20T16:36:19.907Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1TyGL9J.jpg"
+    },
     {
       "id": "2n6nxGs",
       "nome": "Ventilador De Torre Midea Preto, Programável, Silencioso com ajuste de 3",
@@ -6208,22 +6225,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2vQ8Jwz.jpg"
-    },
-    {
-      "id": "1ekAw5a",
-      "nome": "Fone de Ouvido Gamer com Fio - Quantum 100M2 - Driver de 40mm, Microfone Boom",
-      "categoria": "Tech",
-      "preco": 153.83,
-      "link": "https://meli.la/1ekAw5a",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/fone-de-ouvido-gamer-com-fio-quantum-100m2-driver-de-40mm-microfone-boom-removivel-compativel-com-pc-e-consoles-jbl-quantumsound-signature-preto/p/MLB47044981",
-      "precoDe": 229,
-      "postado": "2026-11-18T16:35:08.676Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1ekAw5a.jpg"
     }
   ]
 }
