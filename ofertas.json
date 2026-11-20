@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T14:59:31.928Z",
+  "atualizado": "2026-11-20T15:01:46.384Z",
   "ofertas": [
+    {
+      "id": "2ZM9bbL",
+      "nome": "Lavadora de Alta Pressão Electrolux 1850PSI 1500W Potência com Aplicador de",
+      "categoria": "Diversos",
+      "preco": 379,
+      "link": "https://meli.la/2ZM9bbL",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-electrolux-1850psi-1500w-potencia-com-aplicador-de-detergente-powerwash-ews1850-lava-jato-lava-car/p/MLB38831487",
+      "precoDe": 559.99,
+      "postado": "2026-11-20T15:01:46.383Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ZM9bbL.jpg"
+    },
     {
       "id": "1FzdWPZ",
       "nome": "Relógio Inteligente Gps Smartwatch Amoled 3atm Sport Gps Caixa Preto",
