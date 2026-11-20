@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T15:37:48.230Z",
+  "atualizado": "2026-11-20T15:40:03.583Z",
   "ofertas": [
+    {
+      "id": "2oyop5w",
+      "nome": "Kit 2 Travesseiros Cervicais Abranuv Pro 2.0 Original",
+      "categoria": "Casa",
+      "preco": 349,
+      "link": "https://meli.la/2oyop5w",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-2-travesseiros-cervicais-abranuv-pro-20-original/up/MLBU5835094825",
+      "precoDe": 489,
+      "postado": "2026-11-20T15:40:03.582Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2oyop5w.jpg"
+    },
     {
       "id": "1WuwDhi",
       "nome": "Gel de Limpeza Facial Refil para Pele Oleosa e Acneica com Ácido Salicílico",
