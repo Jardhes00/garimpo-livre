@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T16:16:04.228Z",
+  "atualizado": "2026-11-20T16:18:19.748Z",
   "ofertas": [
+    {
+      "id": "23YBQ4v",
+      "nome": "Climatizador de Ar Portátil Paboxin 15L com Umidificador, 6 Velocidades e",
+      "categoria": "Diversos",
+      "preco": 499.99,
+      "link": "https://meli.la/23YBQ4v",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/climatizador-de-ar-portatil-paboxin-15l-com-umidificador-6-velocidades-e-controle-remoto/p/MLB79751693",
+      "precoDe": 1139.99,
+      "postado": "2026-11-20T16:18:19.747Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-23YBQ4v.jpg"
+    },
     {
       "id": "2mmQMfv",
       "nome": "Aparador Cortador De Grama Bipartido 1500w Apb1600t 280mm Tramontina 110v",
@@ -6321,42 +6337,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2FZs8XW.jpg"
-    },
-    {
-      "id": "1ujqpQA",
-      "nome": "Monitor Samsung ViewFinity S5 34” UWQHD VA LS34C500GALMZD 100Hz 5(GTG) HDMI Headphone Display Port",
-      "categoria": "Tech",
-      "preco": 1208.07,
-      "link": "https://meli.la/1ujqpQA",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB58364282",
-      "precoDe": 1999,
-      "pix": true,
-      "parcelas": "R$ 1.299 em 2x R$ 649,50 sem juros",
-      "postado": "2026-11-18T16:17:38.367Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1ujqpQA.jpg"
-    },
-    {
-      "id": "2dF2cU6",
-      "nome": "Headset Confortável com fio USB- C Logitech H390 - Preto",
-      "categoria": "Tech",
-      "preco": 125.91,
-      "link": "https://meli.la/2dF2cU6",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB60605146",
-      "precoDe": 229.9,
-      "pix": true,
-      "parcelas": "R$ 139,90 em 2x R$ 69,95 sem juros",
-      "postado": "2026-11-18T16:16:23.300Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2dF2cU6.jpg"
     }
   ]
 }
