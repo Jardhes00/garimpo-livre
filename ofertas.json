@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T14:28:00.994Z",
+  "atualizado": "2026-11-20T14:30:16.155Z",
   "ofertas": [
+    {
+      "id": "2ZASFsE",
+      "nome": "Ar Condicionado Hi Wall Inverter Connect Aufit 12k Frio Branco 220v",
+      "categoria": "Casa",
+      "preco": 1799,
+      "link": "https://meli.la/2ZASFsE",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-hi-wall-inverter-connect-aufit-12k-frio-branco/p/MLB78881772",
+      "precoDe": 3000,
+      "pix": true,
+      "parcelas": "R$1.899 em 10x R$189,90 sem juros",
+      "postado": "2026-11-20T14:30:16.153Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ZASFsE.jpg"
+    },
     {
       "id": "1D75The",
       "nome": "Creatina Integralmédica Monohidratada Hardcore em pó Sem sabor x 300g",
