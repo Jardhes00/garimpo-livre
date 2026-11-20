@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-20T14:55:01.838Z",
+  "atualizado": "2026-11-20T14:57:17.264Z",
   "ofertas": [
+    {
+      "id": "1HWDT2b",
+      "nome": "Creatina Monohidratada 500g 100% Pura - Soldiers Nutrition",
+      "categoria": "Suplementos",
+      "preco": 39.9,
+      "link": "https://meli.la/1HWDT2b",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/creatina-monohidratada-500g-100-pura-soldiers-nutrition/p/MLB18725308",
+      "precoDe": 79.9,
+      "cupomAnuncio": "Compre R$150 e ganhe R$10 OFF",
+      "postado": "2026-11-20T14:57:17.263Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1HWDT2b.jpg"
+    },
     {
       "id": "1nrXAtR",
       "nome": "Zenrelia 6,4mg 30 Comprimidos para Cães Elanco",
