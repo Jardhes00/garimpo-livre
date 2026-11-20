@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T16:07:04.676Z",
+  "atualizado": "2026-11-20T16:09:19.179Z",
   "ofertas": [
+    {
+      "id": "1xyhRhs",
+      "nome": "Ventilador Mallory Coluna Chronos Dourado -",
+      "categoria": "Casa",
+      "preco": 211.65,
+      "link": "https://meli.la/1xyhRhs",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-mallory-coluna-chronos-dourado-/p/MLB22780624",
+      "precoDe": 392.04,
+      "pix": true,
+      "parcelas": "R$249 em outros meios",
+      "postado": "2026-11-20T16:09:19.177Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1xyhRhs.jpg"
+    },
     {
       "id": "1MAR4rq",
       "nome": "Air Fryer Philco 9,5L Visor Glass Redstone 1800W PAF95A",
