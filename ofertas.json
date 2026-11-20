@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-20T16:02:34.166Z",
+  "atualizado": "2026-11-20T16:04:49.302Z",
   "ofertas": [
+    {
+      "id": "1LUjE6x",
+      "nome": "Relógio Inteligente Smartwatch Gps 5atm Amoled Mapas Offline",
+      "categoria": "Tech",
+      "preco": 309.99,
+      "link": "https://meli.la/1LUjE6x",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/relogio-inteligente-smartwatch-gps-5atm-amoled-mapas-offline/up/MLBU3870864899",
+      "precoDe": 1199,
+      "parcelas": "6x de R$51,67 sem juros",
+      "postado": "2026-11-20T16:04:49.301Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1LUjE6x.jpg"
+    },
     {
       "id": "2toeSdq",
       "nome": "Bateria Moto Titan Fan Biz Bros Fazer 125 150 160 Mix Flex",
