@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T14:16:45.576Z",
+  "atualizado": "2026-11-20T14:19:00.844Z",
   "ofertas": [
+    {
+      "id": "1hWAZDj",
+      "nome": "Combo Teclado e Mouse sem fio Logitech MK235 Layout ABNT2",
+      "categoria": "Tech",
+      "preco": 98.91,
+      "link": "https://meli.la/1hWAZDj",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/combo-teclado-e-mouse-sem-fio-logitech-mk235-layout-abnt2/p/MLB37790373",
+      "precoDe": 169.9,
+      "pix": true,
+      "parcelas": "R$109,90 em 4x R$27,48 sem juros",
+      "postado": "2026-11-20T14:19:00.843Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1hWAZDj.jpg"
+    },
     {
       "id": "23L4J4x",
       "nome": "Roteador Wi-Fi 7 Mesh TP-Link Deco Be22 Be3600 Gigabit Dual Band 3.6gbps com 3",
