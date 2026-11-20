@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T15:40:03.583Z",
+  "atualizado": "2026-11-20T15:42:18.180Z",
   "ofertas": [
+    {
+      "id": "1jZSJpU",
+      "nome": "Cooktop De Indução 5 Bocas Eos 90cm 9500w Preto Eci05epf",
+      "categoria": "Diversos",
+      "preco": 1605.49,
+      "link": "https://meli.la/1jZSJpU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cooktop-de-inducao-5-bocas-eos-90cm-9500w-preto-eci05epf/p/MLB44591093",
+      "precoDe": 3999,
+      "pix": true,
+      "parcelas": "R$1.689,99 em 10x R$169 sem juros",
+      "postado": "2026-11-20T15:42:18.179Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1jZSJpU.jpg"
+    },
     {
       "id": "2oyop5w",
       "nome": "Kit 2 Travesseiros Cervicais Abranuv Pro 2.0 Original",
