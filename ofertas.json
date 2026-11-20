@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T14:48:16.510Z",
+  "atualizado": "2026-11-20T14:50:31.931Z",
   "ofertas": [
+    {
+      "id": "2UckUMH",
+      "nome": "Electrolux Kit 3 Bowls Tigelas de Aço Inox com Tampa Plástica, 1,4L, 2L e 2,6L",
+      "categoria": "Diversos",
+      "preco": 78.85,
+      "link": "https://meli.la/2UckUMH",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/electrolux-kit-3-bowls-tigelas-de-aco-inox-com-tampa-plastica-14l-2l-e-26l/p/MLB25125996",
+      "precoDe": 146.9,
+      "postado": "2026-11-20T14:50:31.930Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2UckUMH.jpg"
+    },
     {
       "id": "2ortHUP",
       "nome": "Cpap Automático Airsense S10 Autoset C/ Umidificador Resmed",
