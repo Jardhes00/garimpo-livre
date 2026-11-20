@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T14:57:17.264Z",
+  "atualizado": "2026-11-20T14:59:31.928Z",
   "ofertas": [
+    {
+      "id": "1FzdWPZ",
+      "nome": "Relógio Inteligente Gps Smartwatch Amoled 3atm Sport Gps Caixa Preto",
+      "categoria": "Tech",
+      "preco": 258.3,
+      "link": "https://meli.la/1FzdWPZ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/relogio-inteligente-gps-smartwatch-amoled-3atm-sport-gps-caixa-preto/p/MLB62756066",
+      "precoDe": 599,
+      "pix": true,
+      "parcelas": "R$287 em 6x R$47,83 sem juros",
+      "postado": "2026-11-20T14:59:31.926Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1FzdWPZ.jpg"
+    },
     {
       "id": "1HWDT2b",
       "nome": "Creatina Monohidratada 500g 100% Pura - Soldiers Nutrition",
