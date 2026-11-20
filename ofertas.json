@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-20T15:35:33.901Z",
+  "atualizado": "2026-11-20T15:37:48.230Z",
   "ofertas": [
+    {
+      "id": "1WuwDhi",
+      "nome": "Gel de Limpeza Facial Refil para Pele Oleosa e Acneica com Ácido Salicílico",
+      "categoria": "Diversos",
+      "preco": 53.91,
+      "link": "https://meli.la/1WuwDhi",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/gel-de-limpeza-facial-refil-para-pele-oleosa-e-acneica-com-acido-salicilico-lha-e-zinco-de-limpeza-profunda-e-controle-duradouro-da-oleosidade-effaclar-la-roche-posay-240g/p/MLB19763189",
+      "precoDe": 93.9,
+      "pix": true,
+      "parcelas": "R$59,90 em outros meios",
+      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
+      "postado": "2026-11-20T15:37:48.228Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1WuwDhi.jpg"
+    },
     {
       "id": "1ygptfc",
       "nome": "Pack Cerveja Budweiser Lager americana clara lata 350ml - 12 unidades",
