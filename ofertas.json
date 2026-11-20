@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T17:14:36.188Z",
+  "atualizado": "2026-11-20T17:16:51.231Z",
   "ofertas": [
+    {
+      "id": "1ot4cdV",
+      "nome": "Central Multimídia Mp5 1 Din Carplay Android-auto 7'+ Cam Ré",
+      "categoria": "Diversos",
+      "preco": 228.9,
+      "link": "https://meli.la/1ot4cdV",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/central-multimidia-mp5-1-din-carplay-android-auto-7-cam-re/up/MLBU1477411735",
+      "precoDe": 460,
+      "pix": true,
+      "parcelas": "R$254,33 em 10x R$25,43 sem juros",
+      "postado": "2026-11-20T17:16:51.229Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ot4cdV.jpg"
+    },
     {
       "id": "21YS4zr",
       "nome": "Vodka Smirnoff 998ml",
@@ -6310,42 +6328,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1p7U6fZ.jpg"
-    },
-    {
-      "id": "2Kgm2n6",
-      "nome": "Mangueira LED LuvinCo em Carretel de 100m para Decoração, Branco Quente IP67",
-      "categoria": "Pet",
-      "preco": 379.9,
-      "link": "https://meli.la/2Kgm2n6",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB80730289",
-      "precoDe": 699.9,
-      "pix": true,
-      "parcelas": "R$ 399,90 em 7x R$ 57,13 sem juros",
-      "postado": "2026-11-18T17:16:29.460Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2Kgm2n6.jpg"
-    },
-    {
-      "id": "2ST9QVQ",
-      "nome": "Micro-ondas Electrolux Branco 23L Efficient ME23B",
-      "categoria": "Casa",
-      "preco": 474.33,
-      "link": "https://meli.la/2ST9QVQ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB19617679",
-      "precoDe": 659,
-      "pix": true,
-      "parcelas": "R$ 489 em outros meios",
-      "postado": "2026-11-18T17:15:14.259Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2ST9QVQ.jpg"
     }
   ]
 }
