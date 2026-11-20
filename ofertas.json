@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T15:01:46.384Z",
+  "atualizado": "2026-11-20T15:04:02.097Z",
   "ofertas": [
+    {
+      "id": "2poYaXQ",
+      "nome": "NIVEA Creme Hidratante Lata 145g, Hidratação Profunda 24h, Corporal",
+      "categoria": "Beleza",
+      "preco": 23.2,
+      "link": "https://meli.la/2poYaXQ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/nivea-creme-hidratante-lata-145g-hidratacao-profunda-24h-corporal-multibeneficios-todas-as-peles/p/MLB19055489",
+      "precoDe": 50.39,
+      "postado": "2026-11-20T15:04:02.096Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2poYaXQ.jpg"
+    },
     {
       "id": "2ZM9bbL",
       "nome": "Lavadora de Alta Pressão Electrolux 1850PSI 1500W Potência com Aplicador de",
