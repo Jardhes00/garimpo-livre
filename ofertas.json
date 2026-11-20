@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T15:42:18.180Z",
+  "atualizado": "2026-11-20T15:44:33.284Z",
   "ofertas": [
+    {
+      "id": "1q1jx8d",
+      "nome": "Lavadora De Alta Pressão Aqua Power Mondial Preto 1400w Lap-04-gy",
+      "categoria": "Diversos",
+      "preco": 284.05,
+      "link": "https://meli.la/1q1jx8d",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-aqua-power-mondial-preto-1400w-lap-04-gy/p/MLB69328684",
+      "precoDe": 479.9,
+      "pix": true,
+      "parcelas": "R$299 em 6x R$49,83 sem juros",
+      "postado": "2026-11-20T15:44:33.283Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1q1jx8d.jpg"
+    },
     {
       "id": "1jZSJpU",
       "nome": "Cooktop De Indução 5 Bocas Eos 90cm 9500w Preto Eci05epf",
