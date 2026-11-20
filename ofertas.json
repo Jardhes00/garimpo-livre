@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-20T15:51:18.863Z",
+  "atualizado": "2026-11-20T15:53:33.527Z",
   "ofertas": [
+    {
+      "id": "275V55x",
+      "nome": "Aspirador de Pó Vertical Electrolux 220V SpeedForce Plus Azul STK14",
+      "categoria": "Casa",
+      "preco": 177.89,
+      "link": "https://meli.la/275V55x",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aspirador-de-po-vertical-electrolux-220v-speedforce-plus-azul-stk14/p/MLB55227679",
+      "precoDe": 264.59,
+      "parcelas": "5x de R$35,58 sem juros",
+      "postado": "2026-11-20T15:53:33.526Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-275V55x.jpg"
+    },
     {
       "id": "1LarX7G",
       "nome": "Maquina Acabamento Cortar Cabelo Barba E Pelos Kemei 032",
