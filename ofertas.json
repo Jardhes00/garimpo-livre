@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-20T16:04:49.302Z",
+  "atualizado": "2026-11-20T16:07:04.676Z",
   "ofertas": [
+    {
+      "id": "1MAR4rq",
+      "nome": "Air Fryer Philco 9,5L Visor Glass Redstone 1800W PAF95A",
+      "categoria": "Casa",
+      "preco": 349,
+      "link": "https://meli.la/1MAR4rq",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/air-fryer-philco-95l-visor-glass-redstone-1800w-paf95a/p/MLB64640503",
+      "precoDe": 503.27,
+      "parcelas": "6x de R$58,17 sem juros",
+      "postado": "2026-11-20T16:07:04.675Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1MAR4rq.jpg"
+    },
     {
       "id": "1LUjE6x",
       "nome": "Relógio Inteligente Smartwatch Gps 5atm Amoled Mapas Offline",
