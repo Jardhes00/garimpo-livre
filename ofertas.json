@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T16:27:19.828Z",
+  "atualizado": "2026-11-20T16:29:34.903Z",
   "ofertas": [
+    {
+      "id": "1wToXrN",
+      "nome": "Cadeira de Carro Infantil 0 a 36Kg Elite 4 em 1 - Maxi Baby - Preto/Cinza Ônix",
+      "categoria": "Auto",
+      "preco": 395.99,
+      "link": "https://meli.la/1wToXrN",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-carro-infantil-0-a-36kg-elite-4-em-1-maxi-baby-pretocinza-nix/p/MLB46565212",
+      "precoDe": 699.9,
+      "pix": true,
+      "parcelas": "R$439,99 em 8x R$55 sem juros",
+      "postado": "2026-11-20T16:29:34.901Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1wToXrN.jpg"
+    },
     {
       "id": "24knuMa",
       "nome": "Piscina Infantil Retangular Mor Estrutural 1000 L Lona Pvc",
@@ -6243,41 +6261,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2jQZeHw.jpg"
-    },
-    {
-      "id": "2arrnh9",
-      "nome": "Garrafa Térmica Quick Flip Stanley 710ml Go Bottle Branco Cor Polar",
-      "categoria": "Diversos",
-      "preco": 131.3,
-      "link": "https://meli.la/2arrnh9",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB24221867",
-      "precoDe": 289,
-      "parcelas": "4x R$ 32,83 sem juros",
-      "postado": "2026-11-18T16:28:53.461Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2arrnh9.jpg"
-    },
-    {
-      "id": "2nKyNRP",
-      "nome": "Cesta De Natal Bauducco G",
-      "categoria": "Diversos",
-      "preco": 129.99,
-      "link": "https://meli.la/2nKyNRP",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB2130945750",
-      "precoDe": 197.9,
-      "pix": true,
-      "parcelas": "R$ 133,55 em outros meios",
-      "postado": "2026-11-18T16:27:38.775Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2nKyNRP.jpg"
     }
   ]
 }
