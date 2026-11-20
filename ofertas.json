@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T14:19:00.844Z",
+  "atualizado": "2026-11-20T14:21:15.855Z",
   "ofertas": [
+    {
+      "id": "1xJFX9s",
+      "nome": "Conjunto De Panelas Antiaderente 10 Peças Coffee Cappuccino Imperial",
+      "categoria": "Casa",
+      "preco": 161.5,
+      "link": "https://meli.la/1xJFX9s",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/conjunto-de-panelas-antiaderente-10-pecas-coffee-cappuccino-imperial/p/MLB62276281",
+      "precoDe": 299.99,
+      "pix": true,
+      "parcelas": "R$179,45 em outros meios",
+      "postado": "2026-11-20T14:21:15.853Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1xJFX9s.jpg"
+    },
     {
       "id": "1hWAZDj",
       "nome": "Combo Teclado e Mouse sem fio Logitech MK235 Layout ABNT2",
