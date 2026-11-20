@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T16:18:19.748Z",
+  "atualizado": "2026-11-20T16:20:34.837Z",
   "ofertas": [
+    {
+      "id": "2Fpvp2E",
+      "nome": "Aparelho De Jantar E Chá Donna Lírios 20 Peças Biona",
+      "categoria": "Diversos",
+      "preco": 168.21,
+      "link": "https://meli.la/2Fpvp2E",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aparelho-de-jantar-e-cha-donna-lirios-20-pecas-biona/p/MLB32633848",
+      "precoDe": 319.9,
+      "pix": true,
+      "parcelas": "R$197,90 em 6x R$32,98 sem juros",
+      "postado": "2026-11-20T16:20:34.835Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Fpvp2E.jpg"
+    },
     {
       "id": "23YBQ4v",
       "nome": "Climatizador de Ar Portátil Paboxin 15L com Umidificador, 6 Velocidades e",
@@ -6298,45 +6316,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-18vapF4.jpg"
-    },
-    {
-      "id": "1647BjH",
-      "nome": "Protetor Solar Facial Antioleosidade FPS 80 Anthelios La Roche-Posay 40g",
-      "categoria": "Beleza",
-      "preco": 79.39,
-      "link": "https://meli.la/1647BjH",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB19755099",
-      "precoDe": 120.9,
-      "parcelas": "12x R$ 7,82",
-      "extra": "15% OFF com cupom no anúncio",
-      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
-      "postado": "2026-11-18T16:20:08.250Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1647BjH.jpg"
-    },
-    {
-      "id": "2FZs8XW",
-      "nome": "Creme Multirreparador Pele Sensível Cicaplast Baume B5+ La Roche-Posay 40ml",
-      "categoria": "Beleza",
-      "preco": 64.37,
-      "link": "https://meli.la/2FZs8XW",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB24326256",
-      "precoDe": 109.9,
-      "pix": true,
-      "parcelas": "R$ 71,52 em outros meios",
-      "extra": "15% OFF com cupom no anúncio",
-      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
-      "postado": "2026-11-18T16:18:53.447Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2FZs8XW.jpg"
     }
   ]
 }
