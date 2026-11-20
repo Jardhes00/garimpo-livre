@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T14:10:00.465Z",
+  "atualizado": "2026-11-20T14:12:15.473Z",
   "ofertas": [
+    {
+      "id": "2H6ds15",
+      "nome": "Óleo Capilar Kérastase Gloss Absolu Glaze Drops, Brilho Intenso Para Cabelos",
+      "categoria": "Diversos",
+      "preco": 281.2,
+      "link": "https://meli.la/2H6ds15",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/oleo-capilar-kerastase-gloss-absolu-glaze-drops-brilho-intenso-para-cabelos-controle-de-frizz-45ml/p/MLB53173424",
+      "precoDe": 399.9,
+      "parcelas": "6x de R$46,87 sem juros",
+      "cupomAnuncio": "Compre R$799 e ganhe R$100 OFF",
+      "postado": "2026-11-20T14:12:15.471Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2H6ds15.jpg"
+    },
     {
       "id": "1xpqqmz",
       "nome": "Ventilador Philco Pvt41a Tecnologia Maxx Force 150w",
