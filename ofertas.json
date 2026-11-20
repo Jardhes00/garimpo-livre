@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T17:01:05.714Z",
+  "atualizado": "2026-11-20T17:03:20.775Z",
   "ofertas": [
+    {
+      "id": "1LezUov",
+      "nome": "Elanco Zenrelia 4,8mg tratamento coceira dermatite atopica alergia queda de",
+      "categoria": "Diversos",
+      "preco": 174,
+      "link": "https://meli.la/1LezUov",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/elanco-zenrelia-48mg-tratamento-coceira-dermatite-atopica-alergia-queda-de-pelo-caes/p/MLB41769477",
+      "precoDe": 255.5,
+      "postado": "2026-11-20T17:03:20.774Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1LezUov.jpg"
+    },
     {
       "id": "2B9GeZJ",
       "nome": "Tenda Praia Gazebo Dobrável Impermeável 3x3m Barraca Camping Azul",
