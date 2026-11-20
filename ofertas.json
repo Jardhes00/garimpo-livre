@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T15:31:02.929Z",
+  "atualizado": "2026-11-20T15:33:17.893Z",
   "ofertas": [
+    {
+      "id": "2WpwzQz",
+      "nome": "Liquidificador RI2244 Série 5000 Com Jarra Inquebrável Inox 1400W Capacidade",
+      "categoria": "Casa",
+      "preco": 227.05,
+      "link": "https://meli.la/2WpwzQz",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/liquidificador-ri2244-serie-5000-com-jarra-inquebravel-inox-1400w-capacidade-util-2l-philips-walita/p/MLB18158890",
+      "precoDe": 450,
+      "pix": true,
+      "parcelas": "R$239 em outros meios",
+      "postado": "2026-11-20T15:33:17.892Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2WpwzQz.jpg"
+    },
     {
       "id": "1izXgVc",
       "nome": "Panela De Pressão Elétrica 5 Litros Aço Inox Preto Multifuncional Kian Ppe 101",
