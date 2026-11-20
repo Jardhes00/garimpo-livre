@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T17:23:36.419Z",
+  "atualizado": "2026-11-20T17:25:51.532Z",
   "ofertas": [
+    {
+      "id": "2zEKmVp",
+      "nome": "LEGO Classic Caixa Média de Peças Criativas 10696; peças LEGO em 35 cores",
+      "categoria": "Diversos",
+      "preco": 177.84,
+      "link": "https://meli.la/2zEKmVp",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lego-classic-caixa-media-de-pecas-criativas-10696-pecas-lego-em-35-cores-diferentes-conjunto-criativo-para-construir-modelos-variados-para-construtores-de-todas-as-idades-presente-de-natal/p/MLB18581975",
+      "precoDe": 349.99,
+      "pix": true,
+      "parcelas": "R$183,34 em 6x R$30,56 sem juros",
+      "postado": "2026-11-20T17:25:51.530Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2zEKmVp.jpg"
+    },
     {
       "id": "1ga26gw",
       "nome": "Shampoo Anticaspa Esfoliante Limpeza Profunda Ação Calmante com Ácido",
@@ -6265,38 +6283,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2P9v4fz.jpg"
-    },
-    {
-      "id": "169eCDJ",
-      "nome": "Smart TV 50” Philco PTV50VA4REGB Roku TV LED Dolby Audio",
-      "categoria": "Tech",
-      "preco": 1979,
-      "link": "https://meli.la/169eCDJ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/smart-tv-50-philco-ptv50va4regb-roku-tv-led-dolby-audio/p/MLB44408782",
-      "precoDe": 2999,
-      "postado": "2026-11-18T17:25:14.532Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-169eCDJ.jpg"
-    },
-    {
-      "id": "1wjruCJ",
-      "nome": "Liquidificador Turbo Power Mondial Preto 550W L-99 FB",
-      "categoria": "Casa",
-      "preco": 90.96,
-      "link": "https://meli.la/1wjruCJ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/liquidificador-turbo-power-mondial-preto-550w-l-99-fb/p/MLB15578949",
-      "precoDe": 172.9,
-      "postado": "2026-11-18T17:23:59.314Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1wjruCJ.jpg"
     }
   ]
 }
