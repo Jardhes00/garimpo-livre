@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-20T17:19:06.393Z",
+  "atualizado": "2026-11-20T17:21:21.333Z",
   "ofertas": [
+    {
+      "id": "2zAnqvm",
+      "nome": "Ômega 3 Epa Dha 240 Cápsulas - Dark Lab",
+      "categoria": "Diversos",
+      "preco": 98.93,
+      "link": "https://meli.la/2zAnqvm",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mega-3-epa-dha-240-capsulas-dark-lab/p/MLB60940335",
+      "precoDe": 249.9,
+      "pix": true,
+      "parcelas": "R$109,92 em outros meios",
+      "cupomAnuncio": "Compre R$150 e ganhe R$20 OFF",
+      "postado": "2026-11-20T17:21:21.331Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2zAnqvm.jpg"
+    },
     {
       "id": "2ffN1Pu",
       "nome": "Projetor PFL5211 Full HD 5200lm Branco Intelbras 127/220V",
@@ -6294,24 +6313,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2tK5GpK.jpg"
-    },
-    {
-      "id": "2ouqsZb",
-      "nome": "Monitor Viewpro MWV21 LED de 21.5\" Full HD Com HDMI e VGA",
-      "categoria": "Tech",
-      "preco": 278.07,
-      "link": "https://meli.la/2ouqsZb",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/monitor-viewpro-mwv21-led-de-215-full-hd-com-hdmi-e-vga/p/MLB51873735",
-      "precoDe": 699,
-      "pix": true,
-      "parcelas": "R$299 em outros meios",
-      "postado": "2026-11-18T17:20:14.537Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2ouqsZb.jpg"
     }
   ]
 }
