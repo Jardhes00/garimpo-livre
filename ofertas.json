@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T15:24:17.802Z",
+  "atualizado": "2026-11-20T15:26:32.740Z",
   "ofertas": [
+    {
+      "id": "2sREwB1",
+      "nome": "Módulo Amplificador Taramps DS 800X4 800W RMS para Som Automotivo de 4 Canais e",
+      "categoria": "Auto",
+      "preco": 332.91,
+      "link": "https://meli.la/2sREwB1",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/modulo-amplificador-taramps-ds-800x4-800w-rms-para-som-automotivo-de-4-canais-e-2-ohms/p/MLB23903930",
+      "precoDe": 499,
+      "pix": true,
+      "parcelas": "R$369,90 em 7x R$52,84 sem juros",
+      "postado": "2026-11-20T15:26:32.739Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2sREwB1.jpg"
+    },
     {
       "id": "1zMTpBY",
       "nome": "Lavadora de Alta Pressão Kärcher K6 2250PSI 480L/h 2000W Motor a Indução e Jato",
