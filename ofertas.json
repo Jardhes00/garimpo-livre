@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T15:13:02.487Z",
+  "atualizado": "2026-11-20T15:15:17.431Z",
   "ofertas": [
+    {
+      "id": "114fHEF",
+      "nome": "Cadeira Hibisco De Madeira Maciça Durango Antilope",
+      "categoria": "Diversos",
+      "preco": 450,
+      "link": "https://meli.la/114fHEF",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-hibisco-de-madeira-macica-durango-antilope/p/MLB64967276",
+      "precoDe": 990,
+      "postado": "2026-11-20T15:15:17.430Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-114fHEF.jpg"
+    },
     {
       "id": "1nychN9",
       "nome": "Cafe Graos Torrado Torra Media Arábica Em Grãos 1kg Gourmet",
