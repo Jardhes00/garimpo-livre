@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T16:29:34.903Z",
+  "atualizado": "2026-11-20T16:31:49.826Z",
   "ofertas": [
+    {
+      "id": "2AQyM1c",
+      "nome": "Proteína Black Skull Whey 100% HD em pó sabor Cookies and cream x 900g",
+      "categoria": "Suplementos",
+      "preco": 98.92,
+      "link": "https://meli.la/2AQyM1c",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/proteina-black-skull-whey-100-hd-em-po-sabor-cookies-and-cream-x-900g/p/MLB18995414",
+      "precoDe": 149.9,
+      "postado": "2026-11-20T16:31:49.824Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2AQyM1c.jpg"
+    },
     {
       "id": "1wToXrN",
       "nome": "Cadeira de Carro Infantil 0 a 36Kg Elite 4 em 1 - Maxi Baby - Preto/Cinza Ônix",
@@ -6225,42 +6241,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-18t7TQS.jpg"
-    },
-    {
-      "id": "1ifs6CU",
-      "nome": "Impressora Epson Multifuncional Ecotank L3250 Wireless Bivolt",
-      "categoria": "Tech",
-      "preco": 936.52,
-      "link": "https://meli.la/1ifs6CU",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/impressora-epson-multifuncional-ecotank-l3250-wireless-bivolt/p/MLB47191870",
-      "precoDe": 1356.7,
-      "pix": true,
-      "parcelas": "R$1.040,58 em outros meios",
-      "postado": "2026-11-18T16:31:23.635Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1ifs6CU.jpg"
-    },
-    {
-      "id": "2jQZeHw",
-      "nome": "Climatizador portátil frio Midea AKAF1 branco",
-      "categoria": "Diversos",
-      "preco": 404.1,
-      "link": "https://meli.la/2jQZeHw",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB15458887",
-      "precoDe": 649,
-      "pix": true,
-      "parcelas": "R$ 449 em 8x R$ 56,12 sem juros",
-      "postado": "2026-11-18T16:30:08.513Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2jQZeHw.jpg"
     }
   ]
 }
