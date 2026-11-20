@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T16:47:35.331Z",
+  "atualizado": "2026-11-20T16:49:50.723Z",
   "ofertas": [
+    {
+      "id": "2BREmc4",
+      "nome": "Ar-condicionado Portátil Wi-fi 12.000 Btus Frio Hisense 127v",
+      "categoria": "Casa",
+      "preco": 2470,
+      "link": "https://meli.la/2BREmc4",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-portatil-wi-fi-12000-btus-frio-hisense-127v/up/MLBU2812797365",
+      "precoDe": 3599,
+      "pix": true,
+      "parcelas": "R$2.590 em 10x R$259 sem juros",
+      "postado": "2026-11-20T16:49:50.722Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2BREmc4.jpg"
+    },
     {
       "id": "14AsBzF",
       "nome": "Whey protein XPro Nutrition Iso Blend Complex em pó sabor Chocolate x 2kg",
