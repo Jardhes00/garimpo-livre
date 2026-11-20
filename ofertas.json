@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T16:40:50.308Z",
+  "atualizado": "2026-11-20T16:43:05.212Z",
   "ofertas": [
+    {
+      "id": "2vxhnwx",
+      "nome": "Jogo Talheres Faqueiro Búzios Aço Inox 24 Peças Tramontina",
+      "categoria": "Games",
+      "preco": 57.43,
+      "link": "https://meli.la/2vxhnwx",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/jogo-talheres-faqueiro-buzios-aco-inox-24-pecas-tramontina/p/MLB35092029",
+      "precoDe": 108.99,
+      "pix": true,
+      "parcelas": "R$67,57 em outros meios",
+      "postado": "2026-11-20T16:43:05.211Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2vxhnwx.jpg"
+    },
     {
       "id": "1qZAdPu",
       "nome": "Cadeira De Escritório Gamer Nitro Ergonômica Estofado Couro Sintético",
