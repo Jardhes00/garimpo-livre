@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T14:14:30.739Z",
+  "atualizado": "2026-11-20T14:16:45.576Z",
   "ofertas": [
+    {
+      "id": "23L4J4x",
+      "nome": "Roteador Wi-Fi 7 Mesh TP-Link Deco Be22 Be3600 Gigabit Dual Band 3.6gbps com 3",
+      "categoria": "Diversos",
+      "preco": 964.5,
+      "link": "https://meli.la/23L4J4x",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/roteador-wi-fi-7-mesh-tp-link-deco-be22-be3600-gigabit-dual-band-36gbps-com-3-unidades-para-lares-de-ate-600-m/p/MLB66909666",
+      "precoDe": 1599,
+      "pix": true,
+      "parcelas": "R$1.286 em 2x R$643 sem juros",
+      "postado": "2026-11-20T14:16:45.575Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-23L4J4x.jpg"
+    },
     {
       "id": "27pFseH",
       "nome": "Ventilador Britânia 2 em 1 Maxx Force Silencioso 174W BVT481",
