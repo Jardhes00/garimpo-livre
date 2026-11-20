@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T17:10:06.134Z",
+  "atualizado": "2026-11-20T17:12:21.177Z",
   "ofertas": [
+    {
+      "id": "1tUL2pH",
+      "nome": "Auxiliar De Partida Bateria Carro Compressor De Ar Portátil 4 Funções Digital",
+      "categoria": "Ferramentas",
+      "preco": 149.99,
+      "link": "https://meli.la/1tUL2pH",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/auxiliar-de-partida-bateria-carro-compressor-de-ar-portatil-4-funcoes-digital-calibrador-pneu-lanterna-emergencia-automotiva-moto-suv-bicicleta-caminhonete-hardline/p/MLB79892176",
+      "precoDe": 259.99,
+      "postado": "2026-11-20T17:12:21.175Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1tUL2pH.jpg"
+    },
     {
       "id": "1gCvHZh",
       "nome": "Inalador Nebulizador Aero Tech Portátil Tec. Mesh Relaxmedic",
@@ -6350,38 +6366,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1oejyNb.jpg"
-    },
-    {
-      "id": "1B2WVbf",
-      "nome": "Smart TV Philips 43 polegadas QLED Full HD Wi-Fi HDR10 Dolby Áudio 43PGQ6921/78",
-      "categoria": "Tech",
-      "preco": 1454.38,
-      "link": "https://meli.la/1B2WVbf",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/smart-tv-philips-43-polegadas-qled-full-hd-wi-fi-hdr10-dolby-audio-43pgq692178/p/MLB79529287",
-      "precoDe": 2149,
-      "postado": "2026-11-18T17:11:29.131Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1B2WVbf.jpg"
-    },
-    {
-      "id": "1J4X8rb",
-      "nome": "Creatina Integralmédica Hardcore em cápsula Sem sabor x 105g de 120 un",
-      "categoria": "Suplementos",
-      "preco": 26.94,
-      "link": "https://meli.la/1J4X8rb",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/creatina-integralmedica-hardcore-em-capsula-sem-sabor-x-105g-de-120-un/p/MLB19540092",
-      "precoDe": 58,
-      "postado": "2026-11-18T17:10:14.069Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1J4X8rb.jpg"
     }
   ]
 }
