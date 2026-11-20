@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T15:53:33.527Z",
+  "atualizado": "2026-11-20T15:55:49.337Z",
   "ofertas": [
+    {
+      "id": "2Xum4Mz",
+      "nome": "Kit 2 Cadeiras Sala De Jantar Madeira Maciça Encosto Palha",
+      "categoria": "Diversos",
+      "preco": 1098.68,
+      "link": "https://meli.la/2Xum4Mz",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-2-cadeiras-sala-de-jantar-madeira-macica-encosto-palha/up/MLBU3962738793",
+      "precoDe": 1999.59,
+      "pix": true,
+      "parcelas": "R$1.220,76 em 10x R$122,08 sem juros",
+      "postado": "2026-11-20T15:55:49.336Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Xum4Mz.jpg"
+    },
     {
       "id": "275V55x",
       "nome": "Aspirador de Pó Vertical Electrolux 220V SpeedForce Plus Azul STK14",
