@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T16:38:34.831Z",
+  "atualizado": "2026-11-20T16:40:50.308Z",
   "ofertas": [
+    {
+      "id": "1qZAdPu",
+      "nome": "Cadeira De Escritório Gamer Nitro Ergonômica Estofado Couro Sintético",
+      "categoria": "Games",
+      "preco": 475.52,
+      "link": "https://meli.la/1qZAdPu",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-escritorio-gamer-nitro-ergonomica-estofado-couro-sintetico-reclinavel-altura-ajustavel-apoio-para-pes-corpretoluvinco/p/MLB58890133",
+      "precoDe": 899.9,
+      "pix": true,
+      "parcelas": "R$579,90 em 10x R$57,99 sem juros",
+      "postado": "2026-11-20T16:40:50.307Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1qZAdPu.jpg"
+    },
     {
       "id": "18JXBZL",
       "nome": "Fechadura Digital De Sobrepor Fd 1000 D Intelbras Preta",
