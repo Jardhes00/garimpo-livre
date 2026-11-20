@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-20T14:32:31.094Z",
+  "atualizado": "2026-11-20T14:34:46.200Z",
   "ofertas": [
+    {
+      "id": "1coprKE",
+      "nome": "Creatina Soldiers Nutrition Em Pó Sem Sabor 600g",
+      "categoria": "Suplementos",
+      "preco": 44.9,
+      "link": "https://meli.la/1coprKE",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/creatina-soldiers-nutrition-em-po-sem-sabor-600g/p/MLB26989230",
+      "precoDe": 119.9,
+      "cupomAnuncio": "Compre R$150 e ganhe R$10 OFF",
+      "postado": "2026-11-20T14:34:46.199Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1coprKE.jpg"
+    },
     {
       "id": "11RWrvn",
       "nome": "Projetor HY320 Hardline Smart TV Android WiFi 6 390 ANSI Lumens Full HD Suporte",
