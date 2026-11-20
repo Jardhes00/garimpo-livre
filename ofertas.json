@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-20T17:27:54.440Z",
+  "atualizado": "2026-11-20T17:30:09.546Z",
   "ofertas": [
+    {
+      "id": "22QM6vF",
+      "nome": "Tapete 2.00x1.50 Casa Laura Enxovais Shaggy Felpudo Para Quarto Sala Luxo Bege",
+      "categoria": "Casa",
+      "preco": 55.19,
+      "link": "https://meli.la/22QM6vF",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tapete-200x150-casa-laura-enxovais-shaggy-felpudo-para-quarto-sala-luxo-bege-mesclado/p/MLB29378016",
+      "precoDe": 115.9,
+      "postado": "2026-11-20T17:30:09.544Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-22QM6vF.jpg"
+    },
     {
       "id": "2P87NaP",
       "nome": "Cadeira de Escritório Vincere Brasil Elegance Graphite II Ergonômica com Apoio",
@@ -6248,24 +6264,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2jRjUYd.jpg"
-    },
-    {
-      "id": "24Xyat6",
-      "nome": "Geladeira Electrolux Cycle Defrost 240L Degelo Prático Uma Porta Branca RE31",
-      "categoria": "Casa",
-      "preco": 1530.55,
-      "link": "https://meli.la/24Xyat6",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/geladeira-electrolux-cycle-defrost-240l-degelo-pratico-uma-porta-branca-re31/p/MLB6077911",
-      "precoDe": 2399,
-      "pix": true,
-      "parcelas": "R$1.577,89 em outros meios",
-      "postado": "2026-11-18T17:28:59.717Z",
-      "conferido": "2026-11-18",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-24Xyat6.jpg"
     }
   ]
 }
