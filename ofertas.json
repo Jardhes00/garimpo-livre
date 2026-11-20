@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-20T14:07:45.401Z",
+  "atualizado": "2026-11-20T14:10:00.465Z",
   "ofertas": [
+    {
+      "id": "1xpqqmz",
+      "nome": "Ventilador Philco Pvt41a Tecnologia Maxx Force 150w",
+      "categoria": "Casa",
+      "preco": 143.1,
+      "link": "https://meli.la/1xpqqmz",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-philco-pvt41a-tecnologia-maxx-force-150w/p/MLB43067058",
+      "precoDe": 243.63,
+      "pix": true,
+      "parcelas": "R$159 em outros meios",
+      "postado": "2026-11-20T14:10:00.464Z",
+      "conferido": "2026-11-20",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1xpqqmz.jpg"
+    },
     {
       "id": "29AHU4j",
       "nome": "Whey Protein Concentrado Dux Nutrition 1.8 Kg Sabor Chocolate",
