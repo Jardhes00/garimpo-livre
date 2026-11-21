@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T21:40:35.857Z",
+  "atualizado": "2026-11-21T21:42:50.970Z",
   "ofertas": [
+    {
+      "id": "1KNu17t",
+      "nome": "Aspirador De Pó Britânia Vertical E Portátil Bas1200c 1200w. Cor Cinza 127V",
+      "categoria": "Casa",
+      "preco": 113.9,
+      "link": "https://meli.la/1KNu17t",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aspirador-de-po-britania-vertical-e-portatil-bas1200c-1200w-cor-cinza-127v/p/MLB27262753",
+      "precoDe": 194.9,
+      "pix": true,
+      "parcelas": "R$ 119,90 em 4x de R$ 29,98 sem juros",
+      "postado": "2026-11-21T21:42:50.969Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1KNu17t.jpg"
+    },
     {
       "id": "2dDstGV",
       "nome": "Panettone Chocotone Gotas De Chocolate Lindt 390g",
