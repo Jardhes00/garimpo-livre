@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-21T21:20:20.443Z",
+  "atualizado": "2026-11-21T21:22:35.338Z",
   "ofertas": [
+    {
+      "id": "2AbEHbE",
+      "nome": "Perfume Lattafa Asad Eau De Parfum 100ml Masculino",
+      "categoria": "Beleza",
+      "preco": 137.97,
+      "link": "https://meli.la/2AbEHbE",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/perfume-lattafa-asad-eau-de-parfum-100ml-masculino/p/MLB46647514",
+      "precoDe": 189,
+      "parcelas": "12x de R$ 13,63",
+      "postado": "2026-11-21T21:22:35.336Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2AbEHbE.jpg"
+    },
     {
       "id": "1R8K6VP",
       "nome": "LEGO Classic Maleta Criativa com 213 Peças, Brinquedo de Montar para Crianças",
