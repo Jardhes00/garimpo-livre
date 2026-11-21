@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-21T22:45:53.066Z",
+  "atualizado": "2026-11-21T22:48:08.200Z",
   "ofertas": [
+    {
+      "id": "1qpHv5U",
+      "nome": "Roçadeira Gasolina Knakasaki 75cc 3,6hp 8 Em 1 Motopoda",
+      "categoria": "Diversos",
+      "preco": 516.59,
+      "link": "https://meli.la/1qpHv5U",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/rocadeira-gasolina-knakasaki-75cc-36hp-8-em-1-motopoda/up/MLBU2351996081",
+      "precoDe": 1399.99,
+      "pix": true,
+      "parcelas": "R$573,99 em 10x R$57,40 sem juros",
+      "cupomAnuncio": "R$507,59 com Cupom por seguir a loja",
+      "postado": "2026-11-21T22:48:08.199Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1qpHv5U.jpg"
+    },
     {
       "id": "2DymGkQ",
       "nome": "Caixa de Som Boombox Plus AIWA BBS-01-GR 200W Bluetooth 30H IP66 USB Verde",
