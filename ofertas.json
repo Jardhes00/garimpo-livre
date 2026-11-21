@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-21T22:52:38.459Z",
+  "atualizado": "2026-11-21T22:54:52.969Z",
   "ofertas": [
+    {
+      "id": "2bBZi7W",
+      "nome": "MICRO-ONDAS ELECTROLUX 31L COM PAINEL INTEGRADO EM AÇO INOX ESPELHADO 220V MI41S",
+      "categoria": "Casa",
+      "preco": 799,
+      "link": "https://meli.la/2bBZi7W",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-electrolux-31l-com-painel-integrado-em-aco-inox-espelhado-220v-mi41s/p/MLB18363111",
+      "precoDe": 1200,
+      "parcelas": "10x de R$79,90 sem juros",
+      "postado": "2026-11-21T22:54:52.968Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2bBZi7W.jpg"
+    },
     {
       "id": "2sLvTmv",
       "nome": "Máquina Singer Facilita Pro 4423 Zig Zag 23 Pontos Decorativos Portatil",
