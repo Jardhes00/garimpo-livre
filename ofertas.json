@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T19:48:02.537Z",
+  "atualizado": "2026-11-21T19:50:17.656Z",
   "ofertas": [
+    {
+      "id": "1Ydcna1",
+      "nome": "Monitor Gamer 27\" Acer Nitro KG0 com Tela Full HD 144Hz VA Resposta de 1ms GtoG AMD FreeSync Game Mode 8 Modos Cores 99% sRGB Design ZeroFrame Conexões HDMI e VGA KG270 P0bi",
+      "categoria": "Tech",
+      "preco": 561,
+      "link": "https://meli.la/1Ydcna1",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/monitor-gamer-27-acer-nitro-kg0-com-tela-full-hd-144hz-va-resposta-de-1ms-gtog-amd-freesync-game-mode-8-modos-cores-99-srgb-design-zeroframe-conexoes-hdmi-e-vga-kg270-p0bi/p/MLB66118959",
+      "precoDe": 1500,
+      "parcelas": "12x R$ 54,25",
+      "cupomAnuncio": "R$532,95 com Cupom por seguir a loja",
+      "postado": "2026-11-21T19:50:17.654Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Ydcna1.jpg"
+    },
     {
       "id": "1LnciWT",
       "nome": "Modulo Taramps 400 Rms Ts-400 Ts400x4 T400 4 Canais V6",
@@ -3171,41 +3189,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2cwUDei.jpg"
-    },
-    {
-      "id": "1nBuNM5",
-      "nome": "Pré Treino Évora Xt Neon Berry 300g Darkness",
-      "categoria": "Diversos",
-      "preco": 72.99,
-      "link": "https://meli.la/1nBuNM5",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/pre-treino-evora-xt-neon-berry-300g-darkness/p/MLB44803478",
-      "precoDe": 149.9,
-      "postado": "2026-11-19T19:50:01.831Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1nBuNM5.jpg"
-    },
-    {
-      "id": "29Bv6HA",
-      "nome": "Guarda-roupa Móveis Lopas Easy Slim 8 Portas com 2 Espelhos",
-      "categoria": "Diversos",
-      "preco": 975.11,
-      "link": "https://meli.la/29Bv6HA",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/guarda-roupa-moveis-lopas-easy-slim-8-portas-com-2-espelhos/p/MLB51396300",
-      "precoDe": 1399.9,
-      "pix": true,
-      "parcelas": "R$1.059,90 em 10x R$105,99 sem juros",
-      "cupomAnuncio": "R$883,11 com Cupom",
-      "postado": "2026-11-19T19:48:47.098Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-29Bv6HA.jpg"
     }
   ]
 }
