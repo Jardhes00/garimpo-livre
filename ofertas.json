@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-21T23:03:53.339Z",
+  "atualizado": "2026-11-21T23:06:08.457Z",
   "ofertas": [
+    {
+      "id": "1R4Tac7",
+      "nome": "Kit 3 - Copos Térmicos 3 Em 1 Stanley 1913 | 296ml",
+      "categoria": "Diversos",
+      "preco": 179.9,
+      "link": "https://meli.la/1R4Tac7",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-3-copos-termicos-3-em-1-stanley-1913-296ml/up/MLBU5782141063",
+      "precoDe": 657,
+      "parcelas": "5x de R$35,98 sem juros",
+      "postado": "2026-11-21T23:06:08.456Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1R4Tac7.jpg"
+    },
     {
       "id": "15HmCRC",
       "nome": "Aparador de Grama Elétrico WAP WG AG01E Diâmetro de Corte de 280mm 1600W 11000",
