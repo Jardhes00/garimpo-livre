@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T20:39:48.866Z",
+  "atualizado": "2026-11-21T20:42:03.965Z",
   "ofertas": [
+    {
+      "id": "1Q1bNWf",
+      "nome": "Aparador de Grama Elétrico WAP WG AG01E Diâmetro de Corte de 280mm 1600W 11000 RPM 127V",
+      "categoria": "Diversos",
+      "preco": 179.1,
+      "link": "https://meli.la/1Q1bNWf",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aparador-de-grama-eletrico-wap-wg-ag01e-diametro-de-corte-de-280mm-1600w-11000-rpm-127v/p/MLB56393938",
+      "precoDe": 381,
+      "pix": true,
+      "parcelas": "R$ 199 em outros meios",
+      "postado": "2026-11-21T20:42:03.963Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Q1bNWf.jpg"
+    },
     {
       "id": "2QYnX1j",
       "nome": "Proteína Dux Nutrition Whey Protein Isolado em pó sabor Baunilha x 900g",
@@ -2893,41 +2911,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2XKAMaG.jpg"
-    },
-    {
-      "id": "2MykR4X",
-      "nome": "Whey Protein Concentrado 1kg Chocolate Branco Dark Lab",
-      "categoria": "Suplementos",
-      "preco": 134.93,
-      "link": "https://meli.la/2MykR4X",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/whey-protein-concentrado-1kg-chocolate-branco-dark-lab/p/MLB40183218",
-      "precoDe": 349.9,
-      "pix": true,
-      "parcelas": "R$149,92 em outros meios",
-      "cupomAnuncio": "Compre R$187 e ganhe R$20 OFF",
-      "postado": "2026-11-19T20:41:12.348Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2MykR4X.jpg"
-    },
-    {
-      "id": "2Rpe2Wo",
-      "nome": "Churrasqueira Elétrica Elgin Bbq Show 2000w Chu20 Preto",
-      "categoria": "Diversos",
-      "preco": 71,
-      "link": "https://meli.la/2Rpe2Wo",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/churrasqueira-eletrica-elgin-bbq-show-2000w-chu20-preto/p/MLB23860429",
-      "precoDe": 99,
-      "postado": "2026-11-19T20:39:57.216Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2Rpe2Wo.jpg"
     }
   ]
 }
