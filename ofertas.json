@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-21T23:06:08.457Z",
+  "atualizado": "2026-11-21T23:08:23.470Z",
   "ofertas": [
+    {
+      "id": "28u4s7k",
+      "nome": "Sérum Hidratante Corporal Para Pele com Tom Irregular 48h de Hidratação",
+      "categoria": "Beleza",
+      "preco": 23.79,
+      "link": "https://meli.la/28u4s7k",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/serum-hidratante-corporal-para-pele-com-tom-irregular-48h-de-hidratacao-regenerativa-dove-dermo-renovador-niacinamida-redutor-de-marcas-escurecidas-clinicamente-comprovado-380ml/p/MLB39321766",
+      "precoDe": 57.39,
+      "postado": "2026-11-21T23:08:23.468Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-28u4s7k.jpg"
+    },
     {
       "id": "1R4Tac7",
       "nome": "Kit 3 - Copos Térmicos 3 Em 1 Stanley 1913 | 296ml",
