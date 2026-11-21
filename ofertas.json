@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T19:36:47.101Z",
+  "atualizado": "2026-11-21T19:39:02.072Z",
   "ofertas": [
+    {
+      "id": "1MWos3V",
+      "nome": "Kit Wella Pro Invigo Enrich Shampoo 1l + Condicionador 1l",
+      "categoria": "Beleza",
+      "preco": 248.4,
+      "link": "https://meli.la/1MWos3V",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-wella-pro-invigo-enrich-shampoo-1l-condicionador-1l/p/MLB61812355",
+      "precoDe": 600,
+      "pix": true,
+      "parcelas": "R$ 276 em outros meios",
+      "postado": "2026-11-21T19:39:02.070Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1MWos3V.jpg"
+    },
     {
       "id": "2ZhmVVn",
       "nome": "Kit Cetaphil Loção Hidratante e de Limpeza para Pele Sensível Normal a Seca",
@@ -3239,42 +3257,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-25fig4M.jpg"
-    },
-    {
-      "id": "2s7VNWu",
-      "nome": "Cooktop Gás Fischer 5 Bocas Tripla Chama Infinity Mesa Inox Inox",
-      "categoria": "Diversos",
-      "preco": 989.91,
-      "link": "https://meli.la/2s7VNWu",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cooktop-gas-fischer-5-bocas-tripla-chama-infinity-mesa-inox-inox/p/MLB46151410",
-      "precoDe": 1599,
-      "pix": true,
-      "parcelas": "R$1.099,90 em outros meios",
-      "postado": "2026-11-19T19:38:46.449Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2s7VNWu.jpg"
-    },
-    {
-      "id": "1eStYpG",
-      "nome": "Webcam Full HD Logitech Brio 100 - Grafite",
-      "categoria": "Diversos",
-      "preco": 169.75,
-      "link": "https://meli.la/1eStYpG",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/webcam-full-hd-logitech-brio-100-grafite/p/MLB28407045",
-      "precoDe": 299.9,
-      "pix": true,
-      "parcelas": "R$188,61 em 3x R$62,87 sem juros",
-      "postado": "2026-11-19T19:37:31.476Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1eStYpG.jpg"
     }
   ]
 }
