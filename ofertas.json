@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T19:14:17.198Z",
+  "atualizado": "2026-11-21T19:16:32.031Z",
   "ofertas": [
+    {
+      "id": "2QBZstB",
+      "nome": "Fechadura Digital De Sobrepor Fr 101 V Preta Intelbras",
+      "categoria": "Casa",
+      "preco": 194.92,
+      "link": "https://meli.la/2QBZstB",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fechadura-digital-de-sobrepor-fr-101-v-preta-intelbras/p/MLB63279922",
+      "precoDe": 359.9,
+      "pix": true,
+      "parcelas": "R$ 259,90 em 6x R$ 43,32 sem juros",
+      "postado": "2026-11-21T19:16:32.029Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2QBZstB.jpg"
+    },
     {
       "id": "2YzMUER",
       "nome": "Aparelho De Jantar 30 Peças Unni Oxford Orquidea",
@@ -3378,42 +3396,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-3235a1g.jpg"
-    },
-    {
-      "id": "1XjhhkE",
-      "nome": "Mouse inalámbrico Logitech MX Master 4S grafite",
-      "categoria": "Tech",
-      "preco": 519.9,
-      "link": "https://meli.la/1XjhhkE",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/mouse-inalambrico-logitech-mx-master-4s-grafite/p/MLB80697264",
-      "precoDe": 799.9,
-      "parcelas": "8x de R$64,99 sem juros",
-      "postado": "2026-11-19T19:16:21.046Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1XjhhkE.jpg"
-    },
-    {
-      "id": "1MXE5QG",
-      "nome": "Gel De Limpeza Facial Effaclar Concentrado 300g La Roche Posay",
-      "categoria": "Diversos",
-      "preco": 65.27,
-      "link": "https://meli.la/1MXE5QG",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/gel-de-limpeza-facial-effaclar-concentrado-300g-la-roche-posay/p/MLB19620491",
-      "precoDe": 133.9,
-      "pix": true,
-      "parcelas": "R$76,79 em outros meios",
-      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
-      "postado": "2026-11-19T19:15:05.675Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1MXE5QG.jpg"
     }
   ]
 }
