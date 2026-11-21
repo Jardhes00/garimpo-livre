@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T20:12:48.490Z",
+  "atualizado": "2026-11-21T20:15:03.204Z",
   "ofertas": [
+    {
+      "id": "2uKqXWi",
+      "nome": "Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera 50MP, IP68, Super AMOLED 6.7\", Recursos AI - Lilás",
+      "categoria": "Tech",
+      "preco": 1899,
+      "link": "https://meli.la/2uKqXWi",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a57-5g-128gb-8gb-ram-camera-50mp-ip68-super-amoled-67-recursos-ai-lilas/p/MLB68213841",
+      "precoDe": 3799,
+      "pix": true,
+      "parcelas": "R$ 2.110 em 10x de R$ 211 sem juros",
+      "postado": "2026-11-21T20:15:03.202Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2uKqXWi.jpg"
+    },
     {
       "id": "1AdDqit",
       "nome": "Caixa de Som PartyBox AIWA PB-07 Bluetooth 8H RGB USB TWS",
@@ -3033,24 +3051,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2aj5uGt.jpg"
-    },
-    {
-      "id": "2MVkjdL",
-      "nome": "Coleira Antiparasita Scalibor 65 cm Proteção 4 Meses Pulgas e Mosquitos",
-      "categoria": "Diversos",
-      "preco": 41,
-      "link": "https://meli.la/2MVkjdL",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/coleira-antiparasita-scalibor-65-cm-protecao-4-meses-pulgas-e-mosquitos/p/MLB35005734",
-      "precoDe": 116.5,
-      "pix": true,
-      "parcelas": "R$ 48,24 em outros meios",
-      "postado": "2026-11-19T20:14:15.736Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2MVkjdL.jpg"
     }
   ]
 }
