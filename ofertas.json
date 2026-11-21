@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-21T21:49:36.183Z",
+  "atualizado": "2026-11-21T21:51:50.946Z",
   "ofertas": [
+    {
+      "id": "33i3Chy",
+      "nome": "Kit Wella Invigo Nutri-Enrich para Cabelos Secos: Shampoo 1000ml e Máscara 500ml",
+      "categoria": "Beleza",
+      "preco": 263.99,
+      "link": "https://meli.la/33i3Chy",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-wella-invigo-nutri-enrich-para-cabelos-secos-shampoo-1000ml-e-mascara-500ml/p/MLB35296067",
+      "precoDe": 369.9,
+      "postado": "2026-11-21T21:51:50.945Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-33i3Chy.jpg"
+    },
     {
       "id": "1Yfg39U",
       "nome": "Triciclo Elétrico Drift Infantil 36v 250w Motor Brushless Bluetooth Luz Led Com",
