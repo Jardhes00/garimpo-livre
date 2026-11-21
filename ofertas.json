@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T22:09:51.873Z",
+  "atualizado": "2026-11-21T22:12:07.137Z",
   "ofertas": [
+    {
+      "id": "1wNQiwL",
+      "nome": "Bomba Periferica Ferrari Acquapump 1/2CV IP44 Monofasico Rotor em Bronze",
+      "categoria": "Diversos",
+      "preco": 122.31,
+      "link": "https://meli.la/1wNQiwL",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bomba-periferica-ferrari-acquapump-12cv-ip44-monofasico-rotor-em-bronze/p/MLB16052642",
+      "precoDe": 174,
+      "pix": true,
+      "parcelas": "R$135,90 em outros meios",
+      "postado": "2026-11-21T22:12:07.135Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1wNQiwL.jpg"
+    },
     {
       "id": "2khD1qb",
       "nome": "Chave De Impacto 880nm Brushless 2 Baterias 68vf Kinetx",
