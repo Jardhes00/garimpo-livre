@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T22:07:36.501Z",
+  "atualizado": "2026-11-21T22:09:51.873Z",
   "ofertas": [
+    {
+      "id": "2khD1qb",
+      "nome": "Chave De Impacto 880nm Brushless 2 Baterias 68vf Kinetx",
+      "categoria": "Ferramentas",
+      "preco": 177.65,
+      "link": "https://meli.la/2khD1qb",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/chave-de-impacto-880nm-brushless-2-baterias-68vf-kinetx/up/MLBU5284353194",
+      "precoDe": 299,
+      "pix": true,
+      "parcelas": "R$209 em 6x R$34,83 sem juros",
+      "postado": "2026-11-21T22:09:51.871Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2khD1qb.jpg"
+    },
     {
       "id": "2PxezjN",
       "nome": "Micro-ondas Philco 33l Acabamento Inox Espelhado Pmo38t",
