@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T21:56:21.331Z",
+  "atualizado": "2026-11-21T21:58:36.488Z",
   "ofertas": [
+    {
+      "id": "2dQEzML",
+      "nome": "Notebook Samsung Galaxy Book4 Intel Core 3-100U, Windows 11 Home, 8GB, 256GB",
+      "categoria": "Tech",
+      "preco": 2959.2,
+      "link": "https://meli.la/2dQEzML",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/notebook-samsung-galaxy-book4-intel-core-3-100u-windows-11-home-8gb-256gb-ssd-uhd-graphics-156-full-hd-led-155kg/p/MLB76266393",
+      "precoDe": 4699,
+      "pix": true,
+      "parcelas": "R$3.288 em 10x R$328,80 sem juros",
+      "postado": "2026-11-21T21:58:36.487Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2dQEzML.jpg"
+    },
     {
       "id": "11E47ut",
       "nome": "Relógio Life Amor Feminino Aço Prateado",
