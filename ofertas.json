@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-21T19:30:02.045Z",
+  "atualizado": "2026-11-21T19:32:16.928Z",
   "ofertas": [
+    {
+      "id": "1HbWVQT",
+      "nome": "Soundbar LG S40T Bluetooth, 300W, Som Imersivo Design Compacto, Conectividade, Ideal para TV e Entretenimento em Casa",
+      "categoria": "Tech",
+      "preco": 835.12,
+      "link": "https://meli.la/1HbWVQT",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/soundbar-lg-s40t-bluetooth-300w-som-imersivo-design-compacto-conectividade-ideal-para-tv-e-entretenimento-em-casa/p/MLB38471378",
+      "precoDe": 1299,
+      "pix": true,
+      "parcelas": "R$ 949 em 10x R$ 94,90 sem juros",
+      "cupomAnuncio": "R$791,12 com Cupom",
+      "postado": "2026-11-21T19:32:16.926Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1HbWVQT.jpg"
+    },
     {
       "id": "1XLv2c9",
       "nome": "Fonte Gamer Rise Mode Elektra 650w Full Modular Selo Teclab Preto",
@@ -3290,24 +3309,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1QCoS8S.jpg"
-    },
-    {
-      "id": "19QH31a",
-      "nome": "EA Sports FC 27 - NS2",
-      "categoria": "Diversos",
-      "preco": 232.41,
-      "link": "https://meli.la/19QH31a",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ea-sports-fc-27-ns2/p/MLB78307653",
-      "precoDe": 499.9,
-      "pix": true,
-      "parcelas": "R$249,90 em 2x R$124,95 sem juros",
-      "postado": "2026-11-19T19:31:16.259Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-19QH31a.jpg"
     }
   ]
 }
