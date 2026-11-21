@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-21T19:34:32.215Z",
+  "atualizado": "2026-11-21T19:36:47.101Z",
   "ofertas": [
+    {
+      "id": "2ZhmVVn",
+      "nome": "Kit Cetaphil Loção Hidratante e de Limpeza para Pele Sensível Normal a Seca",
+      "categoria": "Beleza",
+      "preco": 74.9,
+      "link": "https://meli.la/2ZhmVVn",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-cetaphil-locao-hidratante-e-de-limpeza-para-pele-sensivel-normal-a-seca/p/MLB79484039",
+      "precoDe": 134.9,
+      "parcelas": "12x R$ 7,38",
+      "postado": "2026-11-21T19:36:47.098Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ZhmVVn.jpg"
+    },
     {
       "id": "2nB2HQ6",
       "nome": "Clear Men Shampoo Anticaspa Ice Cool Menthol 400ml",
@@ -3258,40 +3275,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1eStYpG.jpg"
-    },
-    {
-      "id": "178oDmw",
-      "nome": "Mala de Bordo Rígida Sweet Studio em ABS com Rodas 360° para Viagem Preto 2075",
-      "categoria": "Diversos",
-      "preco": 166.5,
-      "link": "https://meli.la/178oDmw",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/mala-de-bordo-rigida-sweet-studio-em-abs-com-rodas-360-para-viagem-preto-2075/p/MLB61060284",
-      "precoDe": 311,
-      "pix": true,
-      "parcelas": "R$185 em outros meios",
-      "postado": "2026-11-19T19:36:16.371Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-178oDmw.jpg"
-    },
-    {
-      "id": "31R18c1",
-      "nome": "Papel Higiênico Personal Vip Folha Dupla Neutro L32p28 Rolos",
-      "categoria": "Diversos",
-      "preco": 34.11,
-      "link": "https://meli.la/31R18c1",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/papel-higienico-personal-vip-folha-dupla-neutro-l32p28-rolos/p/MLB66451149",
-      "precoDe": 63.89,
-      "postado": "2026-11-19T19:35:01.273Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-31R18c1.jpg"
     }
   ]
 }
