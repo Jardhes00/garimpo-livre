@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T20:06:03.208Z",
+  "atualizado": "2026-11-21T20:08:18.282Z",
   "ofertas": [
+    {
+      "id": "1Ht7gEb",
+      "nome": "Árvore De Natal 2.10 Metros 600 Galhos Grande Tradicional Luxo Cor Verde PREMIUM Sambalelê",
+      "categoria": "Diversos",
+      "preco": 94.9,
+      "link": "https://meli.la/1Ht7gEb",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/arvore-de-natal-210-metros-600-galhos-grande-tradicional-luxo-cor-verde-premium-sambalele/p/MLB79982377",
+      "precoDe": 199.9,
+      "pix": true,
+      "parcelas": "R$ 99,90 em outros meios",
+      "postado": "2026-11-21T20:08:18.280Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Ht7gEb.jpg"
+    },
     {
       "id": "1xfvKh6",
       "nome": "Kit 2 Pneus 175/65R14 Continental PowerContact 2 82T Aro 14",
@@ -3070,40 +3088,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1gppCMz.jpg"
-    },
-    {
-      "id": "1UGrmYE",
-      "nome": "Aspirador de Água e Pó Electrolux Acqua Power Preto AQP20",
-      "categoria": "Casa",
-      "preco": 224.9,
-      "link": "https://meli.la/1UGrmYE",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/aspirador-de-agua-e-po-electrolux-acqua-power-preto-aqp20/p/MLB6215150",
-      "precoDe": 339.99,
-      "postado": "2026-11-19T20:07:31.681Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1UGrmYE.jpg"
-    },
-    {
-      "id": "1pAFBUT",
-      "nome": "Cadeirinha Cosco Kids, Tour, 9 a 36 Kg, Cinza e Preto",
-      "categoria": "Diversos",
-      "preco": 284.9,
-      "link": "https://meli.la/1pAFBUT",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cadeirinha-cosco-kids-tour-9-a-36-kg-cinza-e-preto/p/MLB12706806",
-      "precoDe": 499,
-      "pix": true,
-      "parcelas": "R$299,90 em 4x R$74,97 sem juros",
-      "postado": "2026-11-19T20:06:17.226Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1pAFBUT.jpg"
     }
   ]
 }
