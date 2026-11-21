@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-21T20:35:18.981Z",
+  "atualizado": "2026-11-21T20:37:33.883Z",
   "ofertas": [
+    {
+      "id": "1nCA2o2",
+      "nome": "Gin London Dry 750 Ml Tanqueray Clássico",
+      "categoria": "Diversos",
+      "preco": 84.99,
+      "link": "https://meli.la/1nCA2o2",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/gin-london-dry-750-ml-tanqueray-classico/p/MLB16133534",
+      "precoDe": 131.9,
+      "parcelas": "12x de R$ 8,37",
+      "postado": "2026-11-21T20:37:33.881Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1nCA2o2.jpg"
+    },
     {
       "id": "2k3PKGJ",
       "nome": "Cadeira De Praia Alumínio Alta Preta Jardim Piscina Mor Preto",
@@ -2910,40 +2927,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1kwWb3h.jpg"
-    },
-    {
-      "id": "1NGrdnw",
-      "nome": "Vinho Chileno Branco Concha Y Toro Reservado Sauvignon Blanc 750ml",
-      "categoria": "Diversos",
-      "preco": 16.15,
-      "link": "https://meli.la/1NGrdnw",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/vinho-chileno-branco-concha-y-toro-reservado-sauvignon-blanc-750ml/p/MLB18216581",
-      "precoDe": 39.36,
-      "pix": true,
-      "extra": "Preço no Pix com cupom",
-      "postado": "2026-11-19T20:37:27.050Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1NGrdnw.jpg"
-    },
-    {
-      "id": "2BT592w",
-      "nome": "Telefone Pleno Intelbras Com Fio Preto",
-      "categoria": "Tech",
-      "preco": 51.72,
-      "link": "https://meli.la/2BT592w",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/telefone-pleno-intelbras-com-fio-preto/p/MLB7980692",
-      "precoDe": 100,
-      "postado": "2026-11-19T20:36:12.148Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2BT592w.jpg"
     }
   ]
 }
