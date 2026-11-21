@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T19:18:46.768Z",
+  "atualizado": "2026-11-21T19:21:01.789Z",
   "ofertas": [
+    {
+      "id": "139XrG6",
+      "nome": "Fritadeira Air Fryer 4,5l Widemax Com Interior De Alumínio 1500w Midea",
+      "categoria": "Casa",
+      "preco": 193.9,
+      "link": "https://meli.la/139XrG6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fritadeira-air-fryer-45l-widemax-com-interior-de-aluminio-1500w-midea/p/MLB51031889",
+      "precoDe": 289,
+      "pix": true,
+      "parcelas": "R$ 199,90 em 6x R$ 33,32 sem juros",
+      "postado": "2026-11-21T19:21:01.788Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-139XrG6.jpg"
+    },
     {
       "id": "1ogi2Nc",
       "nome": "Roteador Mercusys MR30G AC1200 Wi-Fi Gigabit Banda Dupla com 4 Antenas",
@@ -3365,39 +3383,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2cuMpAr.jpg"
-    },
-    {
-      "id": "1JmFdem",
-      "nome": "Ventilador de Mesa Britânia Turbo BVT491 Preto de 40 cm com 10 Pás",
-      "categoria": "Casa",
-      "preco": 169.25,
-      "link": "https://meli.la/1JmFdem",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-mesa-britania-turbo-bvt491-preto-de-40-cm-com-10-pas/p/MLB28260977",
-      "precoDe": 274.79,
-      "parcelas": "5x de R$33,85 sem juros",
-      "postado": "2026-11-19T19:20:06.588Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1JmFdem.jpg"
-    },
-    {
-      "id": "1TEzST4",
-      "nome": "Barra De Proteína Bold Bombom Crocante 40g",
-      "categoria": "Suplementos",
-      "preco": 73,
-      "link": "https://meli.la/1TEzST4",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/barra-de-proteina-bold-bombom-crocante-40g/p/MLB55847583",
-      "precoDe": 129,
-      "postado": "2026-11-19T19:18:50.795Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1TEzST4.jpg"
     }
   ]
 }
