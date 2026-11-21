@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T20:55:34.702Z",
+  "atualizado": "2026-11-21T20:57:49.447Z",
   "ofertas": [
+    {
+      "id": "1QbrKqb",
+      "nome": "Cadeira De Escritório Sweet Studio Cadeira Gamer Ergonômica Preto Gamer Couro Sintético",
+      "categoria": "Games",
+      "preco": 385.56,
+      "link": "https://meli.la/1QbrKqb",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-escritorio-sweet-studio-cadeira-gamer-ergonomica-preto-gamer-couro-sintetico/p/MLB68289612",
+      "precoDe": 900,
+      "pix": true,
+      "parcelas": "R$ 459 em outros meios",
+      "postado": "2026-11-21T20:57:49.445Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1QbrKqb.jpg"
+    },
     {
       "id": "1t9t1j3",
       "nome": "Escova Eletrica Philips Colgate Sonicpro 35 2 Unidades",
@@ -2791,42 +2809,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1dgq9Ch.jpg"
-    },
-    {
-      "id": "22RFgw7",
-      "nome": "Relógio Inteligente Gps Smartwatch Amoled 3atm Sport Gps Caixa Cinza",
-      "categoria": "Tech",
-      "preco": 264.04,
-      "link": "https://meli.la/22RFgw7",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/relogio-inteligente-gps-smartwatch-amoled-3atm-sport-gps-caixa-cinza/p/MLB62974231",
-      "precoDe": 599,
-      "pix": true,
-      "parcelas": "R$287 em 6x R$47,83 sem juros",
-      "postado": "2026-11-19T20:57:27.871Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-22RFgw7.jpg"
-    },
-    {
-      "id": "2fFGLaq",
-      "nome": "Purificador De Água Slimpure Midea Cinza Compressor",
-      "categoria": "Ferramentas",
-      "preco": 637.78,
-      "link": "https://meli.la/2fFGLaq",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/purificador-de-agua-slimpure-midea-cinza-compressor/p/MLB74867007",
-      "precoDe": 949,
-      "pix": true,
-      "parcelas": "R$685,79 em 10x R$68,58 sem juros",
-      "postado": "2026-11-19T20:56:12.671Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2fFGLaq.jpg"
     }
   ]
 }
