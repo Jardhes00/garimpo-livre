@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T21:04:35.053Z",
+  "atualizado": "2026-11-21T21:06:49.946Z",
   "ofertas": [
+    {
+      "id": "2W6jKVq",
+      "nome": "Controle Gamesir T4 Nova Lite sem Fio para Pc Switch Android Ios Steam Celular Hall Effect Cor Preto",
+      "categoria": "Tech",
+      "preco": 160.34,
+      "link": "https://meli.la/2W6jKVq",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/controle-gamesir-t4-nova-lite-sem-fio-para-pc-switch-android-ios-steam-celular-hall-effect-cor-preto/p/MLB36555516",
+      "precoDe": 299,
+      "pix": true,
+      "parcelas": "R$ 168,78 em outros meios",
+      "postado": "2026-11-21T21:06:49.944Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2W6jKVq.jpg"
+    },
     {
       "id": "1Bugpgg",
       "nome": "Aspirador Vertical WAP POWER SPEED MAX CI10 3 EM 1 1600W 127V",
@@ -2743,40 +2761,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-118zcbD.jpg"
-    },
-    {
-      "id": "13SPSrm",
-      "nome": "Divine Shampoo + Condicionador + Másc + Mini Essential 200 g- Braé",
-      "categoria": "Beleza",
-      "preco": 143,
-      "link": "https://meli.la/13SPSrm",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/divine-shampoo-condicionador-masc-mini-essential-200-g-brae/p/MLB66637007",
-      "precoDe": 363.45,
-      "postado": "2026-11-19T21:06:13.132Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-13SPSrm.jpg"
-    },
-    {
-      "id": "1tqXueG",
-      "nome": "Controle Joystick Sem Fio Microsoft Xbox Series X|s Robot",
-      "categoria": "Games",
-      "preco": 319.99,
-      "link": "https://meli.la/1tqXueG",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/controle-joystick-sem-fio-microsoft-xbox-series-xs-robot/p/MLB23249699",
-      "precoDe": 529.95,
-      "pix": true,
-      "parcelas": "R$399,99 em outros meios",
-      "postado": "2026-11-19T21:04:57.947Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1tqXueG.jpg"
     }
   ]
 }
