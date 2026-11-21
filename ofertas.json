@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T22:36:52.840Z",
+  "atualizado": "2026-11-21T22:39:07.695Z",
   "ofertas": [
+    {
+      "id": "2b6PXky",
+      "nome": "Ar Condicionado Split Philco 18.000 Btus Frio Inverter Wi-fi",
+      "categoria": "Casa",
+      "preco": 2754.05,
+      "link": "https://meli.la/2b6PXky",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-split-philco-18000-btus-frio-inverter-wi-fi/p/MLB80289260",
+      "precoDe": 3999,
+      "pix": true,
+      "parcelas": "R$2.899 em outros meios",
+      "postado": "2026-11-21T22:39:07.694Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2b6PXky.jpg"
+    },
     {
       "id": "1PWVUiz",
       "nome": "Cascata Natal 20m 800 Leds 8 Funções Colorida Extensível Macho Fêmea A Prova",
