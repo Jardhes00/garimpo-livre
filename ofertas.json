@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-21T20:51:04.359Z",
+  "atualizado": "2026-11-21T20:53:19.281Z",
   "ofertas": [
+    {
+      "id": "24jZJbr",
+      "nome": "Cadeira de Refeição Poke Marfim - Burigotto",
+      "categoria": "Diversos",
+      "preco": 185,
+      "link": "https://meli.la/24jZJbr",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-refeicao-poke-marfim-burigotto/p/MLB75226529",
+      "precoDe": 379,
+      "parcelas": "12x R$ 18,31",
+      "postado": "2026-11-21T20:53:19.279Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-24jZJbr.jpg"
+    },
     {
       "id": "22inKRh",
       "nome": "Balança Digital Bioimpedância Profissional smart imc 180kg Bluetooth Corporal",
@@ -2826,40 +2843,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-15yJQhd.jpg"
-    },
-    {
-      "id": "1SqqGeS",
-      "nome": "Celular Samsung Galaxy A37 5g 256gb, 8gb Ram, Câmera 50mp Verde-escuro",
-      "categoria": "Tech",
-      "preco": 1989,
-      "link": "https://meli.la/1SqqGeS",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a37-5g-256gb-8gb-ram-camera-50mp-verde-escuro/p/MLB68213245",
-      "precoDe": 3899,
-      "pix": true,
-      "parcelas": "R$2.210 em 10x R$221 sem juros",
-      "postado": "2026-11-19T20:52:27.517Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1SqqGeS.jpg"
-    },
-    {
-      "id": "1sKSEBa",
-      "nome": "Lavadora de Alta Pressão Electrolux 1850PSI 1500W Potência com Aplicador de",
-      "categoria": "Diversos",
-      "preco": 379,
-      "link": "https://meli.la/1sKSEBa",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-electrolux-1850psi-1500w-potencia-com-aplicador-de-detergente-powerwash-ews1850-lava-jato-lava-car/p/MLB38897454",
-      "precoDe": 559.99,
-      "postado": "2026-11-19T20:51:12.796Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1sKSEBa.jpg"
     }
   ]
 }
