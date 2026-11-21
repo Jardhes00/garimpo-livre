@@ -1,6 +1,26 @@
 {
-  "atualizado": "2026-11-21T20:30:48.622Z",
+  "atualizado": "2026-11-21T20:33:03.832Z",
   "ofertas": [
+    {
+      "id": "2tZQd4n",
+      "nome": "Taiff Secador Cabelo Style Preto Ion Profissional 2000w",
+      "categoria": "Beleza",
+      "preco": 177.59,
+      "link": "https://meli.la/2tZQd4n",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/taiff-secador-cabelo-style-preto-ion-profissional-2000w/p/MLB22343293",
+      "precoDe": 404.91,
+      "pix": true,
+      "parcelas": "R$ 206,50 em outros meios",
+      "extra": "R$ 40 OFF com cupom no anúncio",
+      "cupomAnuncio": "Compre R$783 e ganhe R$40 OFF",
+      "postado": "2026-11-21T20:33:03.829Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2tZQd4n.jpg"
+    },
     {
       "id": "2mMnFSa",
       "nome": "Fritadeira Airfryer Digital Philips Walita NA230/00",
@@ -2941,40 +2961,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1ghh72Q.jpg"
-    },
-    {
-      "id": "2APa2QJ",
-      "nome": "Magnésio Bisglicinato 1400mg 60 Cápsulas Nutrify",
-      "categoria": "Diversos",
-      "preco": 30.62,
-      "link": "https://meli.la/2APa2QJ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/magnesio-bisglicinato-1400mg-60-capsulas-nutrify/p/MLB19640094",
-      "precoDe": 65,
-      "postado": "2026-11-19T20:32:27.248Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2APa2QJ.jpg"
-    },
-    {
-      "id": "2A5h4sw",
-      "nome": "Fone De Ouvido Para Capacete Moto Bluetooth Motoboy Headset RGB Sem Fio Comunicador Woosh",
-      "categoria": "Tech",
-      "preco": 36.33,
-      "link": "https://meli.la/2A5h4sw",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/fone-de-ouvido-para-capacete-moto-bluetooth-motoboy-headset-rgb-sem-fio-comunicador-woosh/p/MLB65461162",
-      "precoDe": 78.99,
-      "pix": true,
-      "parcelas": "R$ 39,49 em outros meios",
-      "postado": "2026-11-19T20:31:12.515Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2A5h4sw.jpg"
     }
   ]
 }
