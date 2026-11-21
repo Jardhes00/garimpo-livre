@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-21T20:33:03.832Z",
+  "atualizado": "2026-11-21T20:35:18.981Z",
   "ofertas": [
+    {
+      "id": "2k3PKGJ",
+      "nome": "Cadeira De Praia Alumínio Alta Preta Jardim Piscina Mor Preto",
+      "categoria": "Diversos",
+      "preco": 75.04,
+      "link": "https://meli.la/2k3PKGJ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-praia-aluminio-alta-preta-jardim-piscina-mor-preto/p/MLB66914508",
+      "precoDe": 189.9,
+      "parcelas": "12x de R$ 7,39",
+      "postado": "2026-11-21T20:35:18.979Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2k3PKGJ.jpg"
+    },
     {
       "id": "2tZQd4n",
       "nome": "Taiff Secador Cabelo Style Preto Ion Profissional 2000w",
@@ -2927,40 +2944,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2BT592w.jpg"
-    },
-    {
-      "id": "12cxGYM",
-      "nome": "Assento Booster Burigotto Protege para Carro, Preto, de 15 a 36 kg",
-      "categoria": "Auto",
-      "preco": 125,
-      "link": "https://meli.la/12cxGYM",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/assento-booster-burigotto-protege-para-carro-preto-de-15-a-36-kg/p/MLB16091843",
-      "precoDe": 250,
-      "parcelas": "4x de R$ 31,25 sem juros",
-      "postado": "2026-11-19T20:34:57.207Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-12cxGYM.jpg"
-    },
-    {
-      "id": "1ghh72Q",
-      "nome": "Aparador de Pelos Super Groom 06 Mondial Bivolt - BG-04",
-      "categoria": "Diversos",
-      "preco": 83.8,
-      "link": "https://meli.la/1ghh72Q",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/aparador-de-pelos-super-groom-06-mondial-bivolt-bg-04/p/MLB54944960",
-      "precoDe": 184.9,
-      "parcelas": "12x R$ 8,25",
-      "postado": "2026-11-19T20:33:41.950Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1ghh72Q.jpg"
     }
   ]
 }
