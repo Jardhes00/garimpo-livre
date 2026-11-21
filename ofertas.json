@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-21T21:09:04.676Z",
+  "atualizado": "2026-11-21T21:11:19.934Z",
   "ofertas": [
+    {
+      "id": "26Le68C",
+      "nome": "Whey Protein Concentrado - 1,8 Kg Dux Nutrition Sabor Baunilha",
+      "categoria": "Suplementos",
+      "preco": 361.99,
+      "link": "https://meli.la/26Le68C",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-protein-concentrado-18-kg-dux-nutrition-sabor-baunilha/p/MLB15067115",
+      "precoDe": 599.9,
+      "parcelas": "12x de R$ 35,41",
+      "postado": "2026-11-21T21:11:19.932Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-26Le68C.jpg"
+    },
     {
       "id": "16a4TdW",
       "nome": "Kit Braé Essential Duo Diário Shampoo/Condicionador para Cabelos Danificados",
@@ -2709,40 +2726,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1GpWxjb.jpg"
-    },
-    {
-      "id": "1LwegGP",
-      "nome": "Máscara Wella Fusion Reconstrutora 500ml Cabelo Forte e Revitalizado",
-      "categoria": "Beleza",
-      "preco": 186.82,
-      "link": "https://meli.la/1LwegGP",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/mascara-wella-fusion-reconstrutora-500ml-cabelo-forte-e-revitalizado/p/MLB19733586",
-      "precoDe": 300.56,
-      "postado": "2026-11-19T21:11:13.077Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1LwegGP.jpg"
-    },
-    {
-      "id": "2MQ3piS",
-      "nome": "Depurador Slim 60cm Preto Dps161pt Suggar",
-      "categoria": "Diversos",
-      "preco": 337.45,
-      "link": "https://meli.la/2MQ3piS",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/depurador-slim-60cm-preto-dps161pt-suggar/p/MLB21720839",
-      "precoDe": 599,
-      "pix": true,
-      "parcelas": "R$397 em outros meios",
-      "postado": "2026-11-19T21:09:58.045Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2MQ3piS.jpg"
     }
   ]
 }
