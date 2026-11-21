@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-21T21:54:08.631Z",
+  "atualizado": "2026-11-21T21:56:21.331Z",
   "ofertas": [
+    {
+      "id": "11E47ut",
+      "nome": "Relógio Life Amor Feminino Aço Prateado",
+      "categoria": "Moda",
+      "preco": 375,
+      "link": "https://meli.la/11E47ut",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/relogio-life-amor-feminino-aco-prateado/p/MLB35239712",
+      "precoDe": 750,
+      "parcelas": "10x de R$37,50 sem juros",
+      "postado": "2026-11-21T21:56:21.330Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-11E47ut.jpg"
+    },
     {
       "id": "16BEPdL",
       "nome": "Jogo De Panelas Francesas Galya 12 Peças Aço Inoxidável",
