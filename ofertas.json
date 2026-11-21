@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T20:19:32.858Z",
+  "atualizado": "2026-11-21T20:21:48.393Z",
   "ofertas": [
+    {
+      "id": "1DHuF7F",
+      "nome": "Starlink Mini X Com Roteador Wifi 6 Branco",
+      "categoria": "Diversos",
+      "preco": 425.7,
+      "link": "https://meli.la/1DHuF7F",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/starlink-mini-x-com-roteador-wifi-6-branco/p/MLB2121038984",
+      "precoDe": 799,
+      "pix": true,
+      "parcelas": "R$ 473 em 9x de R$ 52,56 sem juros",
+      "postado": "2026-11-21T20:21:48.392Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1DHuF7F.jpg"
+    },
     {
       "id": "1xfRiQw",
       "nome": "Smart TV 4K 50\" LG NANO UHD AI NU850 2026 Processador α7 Ger9 HDR10 Xbox Bluetooth Wi-Fi AI Search Google Gemini webOS 26 - 50NU850BPSA",
@@ -3014,24 +3032,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-11NTa4g.jpg"
-    },
-    {
-      "id": "27ALYcn",
-      "nome": "NIVEA Loção Hidratante Firmador Q10 + Vitamina C 400ml",
-      "categoria": "Suplementos",
-      "preco": 18.2,
-      "link": "https://meli.la/27ALYcn",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/nivea-locao-hidratante-firmador-q10-vitamina-c-400ml-hidratacao-intensa-48h-pele-firme-e-elasticidade-corporal-todos-os-tipos-de-pele/p/MLB21598769",
-      "precoDe": 43.19,
-      "pix": true,
-      "parcelas": "R$ 22,75 em outros meios",
-      "postado": "2026-11-19T20:20:15.628Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-27ALYcn.jpg"
     }
   ]
 }
