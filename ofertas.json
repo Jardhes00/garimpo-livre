@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-21T20:17:18.391Z",
+  "atualizado": "2026-11-21T20:19:32.858Z",
   "ofertas": [
+    {
+      "id": "1xfRiQw",
+      "nome": "Smart TV 4K 50\" LG NANO UHD AI NU850 2026 Processador α7 Ger9 HDR10 Xbox Bluetooth Wi-Fi AI Search Google Gemini webOS 26 - 50NU850BPSA",
+      "categoria": "Tech",
+      "preco": 2419,
+      "link": "https://meli.la/1xfRiQw",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smart-tv-4k-50-lg-nano-uhd-ai-nu850-2026-processador-7-ger9-hdr10-xbox-bluetooth-wi-fi-ai-search-google-gemini-webos-26-50nu850bpsa/p/MLB76779956",
+      "precoDe": 5000,
+      "parcelas": "10x de R$ 241,90 sem juros",
+      "postado": "2026-11-21T20:19:32.857Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1xfRiQw.jpg"
+    },
     {
       "id": "2cRibqw",
       "nome": "Revlon Uniq One Tratamento 10 Em 1 Leave In 150ml - Selo",
@@ -3015,42 +3032,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-27ALYcn.jpg"
-    },
-    {
-      "id": "1CBiQDQ",
-      "nome": "Defenza Antipulgas E Carrapatos Msd Cães 20 A 40 Kg Cor Azul",
-      "categoria": "Diversos",
-      "preco": 46.6,
-      "link": "https://meli.la/1CBiQDQ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/defenza-antipulgas-e-carrapatos-msd-caes-20-a-40-kg-cor-azul/p/MLB36465796",
-      "precoDe": 137.9,
-      "pix": true,
-      "parcelas": "R$ 54,82 em outros meios",
-      "postado": "2026-11-19T20:19:00.546Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1CBiQDQ.jpg"
-    },
-    {
-      "id": "1dQFaRJ",
-      "nome": "Panificadora Multipane Com 12 Programas E Potência De 550w Antiaderente Cor Branca Britânia",
-      "categoria": "Diversos",
-      "preco": 467.91,
-      "link": "https://meli.la/1dQFaRJ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/panificadora-multipane-com-12-programas-e-potencia-de-550w-antiaderente-cor-branca-britania/p/MLB15278924",
-      "precoDe": 1500,
-      "pix": true,
-      "parcelas": "R$ 519,90 em outros meios",
-      "postado": "2026-11-19T20:17:45.588Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1dQFaRJ.jpg"
     }
   ]
 }
