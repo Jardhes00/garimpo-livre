@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T20:46:34.342Z",
+  "atualizado": "2026-11-21T20:48:49.294Z",
   "ofertas": [
+    {
+      "id": "1gZggaP",
+      "nome": "Mini Projetor Portátil Smart 4K Full HD 1080P 12000 Lumens Android 11 Wi-Fi 6 5G Bluetooth 5.0 LED Rotação 180° Correção Automática",
+      "categoria": "Diversos",
+      "preco": 187.99,
+      "link": "https://meli.la/1gZggaP",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mini-projetor-portatil-smart-4k-full-hd-1080p-12000-lumens-android-11-wi-fi-6-5g-bluetooth-50-led-rotacao-180-correcao-automatica-cinema-em-casa-para-filmes-series-e-jogos/p/MLB82627361",
+      "precoDe": 399.99,
+      "parcelas": "12x R$ 18,61",
+      "cupomAnuncio": "R$178,59 com Cupom por seguir a loja",
+      "postado": "2026-11-21T20:48:49.292Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1gZggaP.jpg"
+    },
     {
       "id": "2izeEaw",
       "nome": "Fechadura de Porta Eletrônica Digital Biométrica com Senha Embutir Alumínio Preto Motion Avant",
@@ -2841,41 +2859,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-19uBigW.jpg"
-    },
-    {
-      "id": "1a4aQqd",
-      "nome": "Máquina De Costura Jx-2053 Advance Plus 18 Pontos 63w Branco",
-      "categoria": "Diversos",
-      "preco": 499,
-      "link": "https://meli.la/1a4aQqd",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/maquina-de-costura-jx-2053-advance-plus-18-pontos-63w-branco/p/MLB78022853",
-      "precoDe": 699,
-      "parcelas": "9x de R$55,44 sem juros",
-      "postado": "2026-11-19T20:48:42.861Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1a4aQqd.jpg"
-    },
-    {
-      "id": "2Reb4N8",
-      "nome": "Smart Tv Lg 43\" Nano 4k Uhd Hdmi Usb Wi-fi Bluetooth Thinq Ai Alexa Apple",
-      "categoria": "Tech",
-      "preco": 1867.51,
-      "link": "https://meli.la/2Reb4N8",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/smart-tv-lg-43-nano-4k-uhd-hdmi-usb-wi-fi-bluetooth-thinq-ai-alexa-apple-airplay-43un85cbpsaawz/p/MLB76785639",
-      "precoDe": 4000,
-      "pix": true,
-      "parcelas": "R$2.029,90 em outros meios",
-      "postado": "2026-11-19T20:47:27.546Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2Reb4N8.jpg"
     }
   ]
 }
