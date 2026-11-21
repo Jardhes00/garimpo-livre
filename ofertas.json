@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-21T20:48:49.294Z",
+  "atualizado": "2026-11-21T20:51:04.359Z",
   "ofertas": [
+    {
+      "id": "22inKRh",
+      "nome": "Balança Digital Bioimpedância Profissional smart imc 180kg Bluetooth Corporal",
+      "categoria": "Diversos",
+      "preco": 26.99,
+      "link": "https://meli.la/22inKRh",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/balanca-digital-bioimpedancia-profissional-smart-imc-180kg-bluetooth-corporal-aparelho-alta-capacidade-aplicativo-app-para-android-e-para-ios-balanca-de-banheiro-academia/p/MLB54514525",
+      "precoDe": 84.9,
+      "pix": true,
+      "parcelas": "R$ 29,99 em outros meios",
+      "cupomAnuncio": "R$25,64 com Cupom por seguir a loja",
+      "postado": "2026-11-21T20:51:04.357Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-22inKRh.jpg"
+    },
     {
       "id": "1gZggaP",
       "nome": "Mini Projetor Portátil Smart 4K Full HD 1080P 12000 Lumens Android 11 Wi-Fi 6 5G Bluetooth 5.0 LED Rotação 180° Correção Automática",
@@ -2841,24 +2860,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1sKSEBa.jpg"
-    },
-    {
-      "id": "19uBigW",
-      "nome": "Máquina De Acabamento Profissional Kemei Km-2299 0gap Bivolt",
-      "categoria": "Diversos",
-      "preco": 66.78,
-      "link": "https://meli.la/19uBigW",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/maquina-de-acabamento-profissional-kemei-km-2299-0gap-bivolt/up/MLBU3654236179",
-      "precoDe": 149.9,
-      "pix": true,
-      "parcelas": "R$74,20 em outros meios",
-      "postado": "2026-11-19T20:49:57.727Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-19uBigW.jpg"
     }
   ]
 }
