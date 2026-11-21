@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-21T22:27:52.741Z",
+  "atualizado": "2026-11-21T22:30:07.504Z",
   "ofertas": [
+    {
+      "id": "31aL7AU",
+      "nome": "Guarda-roupa Casal Móveis Lopas Easy Slim 8 Portas Com Espelho E Gavetas",
+      "categoria": "Diversos",
+      "preco": 1007.91,
+      "link": "https://meli.la/31aL7AU",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/guarda-roupa-casal-moveis-lopas-easy-slim-8-portas-com-espelho-e-gavetas/p/MLB37802797",
+      "precoDe": 1732.28,
+      "pix": true,
+      "parcelas": "R$1.119,90 em 10x R$111,99 sem juros",
+      "cupomAnuncio": "R$872,91 com Cupom",
+      "postado": "2026-11-21T22:30:07.502Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-31aL7AU.jpg"
+    },
     {
       "id": "2XXJZbR",
       "nome": "Bicicleta Elétrica Gts Black Fish 500w Aro 14 Sem Cnh",
