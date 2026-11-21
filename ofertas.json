@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T21:06:49.946Z",
+  "atualizado": "2026-11-21T21:09:04.676Z",
   "ofertas": [
+    {
+      "id": "16a4TdW",
+      "nome": "Kit Braé Essential Duo Diário Shampoo/Condicionador para Cabelos Danificados",
+      "categoria": "Beleza",
+      "preco": 73.63,
+      "link": "https://meli.la/16a4TdW",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-brae-essential-duo-diario-shampoocondicionador-para-cabelos-danificados/p/MLB24862366",
+      "precoDe": 221.51,
+      "pix": true,
+      "parcelas": "R$ 81,81 em outros meios",
+      "postado": "2026-11-21T21:09:04.674Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-16a4TdW.jpg"
+    },
     {
       "id": "2W6jKVq",
       "nome": "Controle Gamesir T4 Nova Lite sem Fio para Pc Switch Android Ios Steam Celular Hall Effect Cor Preto",
@@ -2725,42 +2743,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2MQ3piS.jpg"
-    },
-    {
-      "id": "2DXQRYz",
-      "nome": "Filamento Pla Impressão 3d High Speed 1kg Onyon3d 1.75mm Ful Branco Porcelana",
-      "categoria": "Diversos",
-      "preco": 92.15,
-      "link": "https://meli.la/2DXQRYz",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/filamento-pla-impressao-3d-high-speed-1kg-onyon3d-175mm-ful-branco-porcelana/p/MLB74198053",
-      "precoDe": 135,
-      "pix": true,
-      "parcelas": "R$97 em outros meios",
-      "postado": "2026-11-19T21:08:43.304Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2DXQRYz.jpg"
-    },
-    {
-      "id": "118zcbD",
-      "nome": "EA Sports FC 27 Nintendo Physical Switch",
-      "categoria": "Games",
-      "preco": 213.81,
-      "link": "https://meli.la/118zcbD",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ea-sports-fc-27-nintendo-physical-switch/p/MLB79375806",
-      "precoDe": 449.9,
-      "pix": true,
-      "parcelas": "R$229,90 em 3x R$76,63 sem juros",
-      "postado": "2026-11-19T21:07:28.182Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-118zcbD.jpg"
     }
   ]
 }
