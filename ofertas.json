@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T22:39:07.695Z",
+  "atualizado": "2026-11-21T22:41:23.065Z",
   "ofertas": [
+    {
+      "id": "14jKQPm",
+      "nome": "Bota De Compressão Pneumática F10 Pro Sem Fio Relaxmedic Cor Preto G",
+      "categoria": "Auto",
+      "preco": 2430.19,
+      "link": "https://meli.la/14jKQPm",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bota-de-compressao-pneumatica-f10-pro-sem-fio-relaxmedic-cor-preto-g/p/MLB46324458",
+      "precoDe": 4190,
+      "parcelas": "10x de R$243,02 sem juros",
+      "cupomAnuncio": "R$2.351,19 com Cupom por seguir a loja",
+      "postado": "2026-11-21T22:41:23.064Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-14jKQPm.jpg"
+    },
     {
       "id": "2b6PXky",
       "nome": "Ar Condicionado Split Philco 18.000 Btus Frio Inverter Wi-fi",
