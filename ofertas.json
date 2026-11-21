@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T23:10:38.633Z",
+  "atualizado": "2026-11-21T23:12:53.945Z",
   "ofertas": [
+    {
+      "id": "12QGPxc",
+      "nome": "Kit 4 Pneus 175/65R14 Continental PowerContact 2 82T Aro 14",
+      "categoria": "Auto",
+      "preco": 1207.88,
+      "link": "https://meli.la/12QGPxc",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-4-pneus-17565r14-continental-powercontact-2-82t-aro-14/p/MLB27931979",
+      "precoDe": 1966.29,
+      "pix": true,
+      "parcelas": "R$1.271,45 em outros meios",
+      "postado": "2026-11-21T23:12:53.944Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-12QGPxc.jpg"
+    },
     {
       "id": "1nN861Q",
       "nome": "Air Fryer Oven 12L WAP 10 Funções Pré-Programadas Dois Andares Antiaderente",
