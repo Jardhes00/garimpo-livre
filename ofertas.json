@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-21T19:23:16.915Z",
+  "atualizado": "2026-11-21T19:25:31.844Z",
   "ofertas": [
+    {
+      "id": "1iDJPdw",
+      "nome": "Protetor Solar Facial Neostrata Minesol Oil Control Sem Cor FPS 70, 40g",
+      "categoria": "Beleza",
+      "preco": 55.44,
+      "link": "https://meli.la/1iDJPdw",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/protetor-solar-facial-neostrata-minesol-oil-control-sem-cor-fps-70-40g/p/MLB16313979",
+      "precoDe": 122.99,
+      "postado": "2026-11-21T19:25:31.843Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1iDJPdw.jpg"
+    },
     {
       "id": "1bvmkRm",
       "nome": "Kit C/ 4 Toalha De Banho Gigante 80 X 150 Cm Atacado + Softmax",
@@ -3329,41 +3345,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1noh8h8.jpg"
-    },
-    {
-      "id": "1z6osm8",
-      "nome": "Kit Máquina Acabamento Kemei Km-032 E Shaver Km-2024 Bivolt",
-      "categoria": "Diversos",
-      "preco": 78.42,
-      "link": "https://meli.la/1z6osm8",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit-maquina-acabamento-kemei-km-032-e-shaver-km-2024-bivolt/up/MLBU3319066032",
-      "precoDe": 189.9,
-      "pix": true,
-      "parcelas": "R$87,13 em outros meios",
-      "postado": "2026-11-19T19:25:01.034Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1z6osm8.jpg"
-    },
-    {
-      "id": "2A3hg2f",
-      "nome": "Aspirador de Pó Vertical Electrolux 1.100W STK12 cabo de 5m portátil de mão 2",
-      "categoria": "Casa",
-      "preco": 154.3,
-      "link": "https://meli.la/2A3hg2f",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/aspirador-de-po-vertical-electrolux-1100w-stk12-cabo-de-5m-portatil-de-mao-2-em-1-potente-com-capacidade-12l-filtro-hepa-preto/p/MLB18781058",
-      "precoDe": 219,
-      "parcelas": "5x de R$30,86 sem juros",
-      "postado": "2026-11-19T19:23:50.967Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2A3hg2f.jpg"
     }
   ]
 }
