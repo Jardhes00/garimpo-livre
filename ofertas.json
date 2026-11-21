@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T23:17:23.767Z",
+  "atualizado": "2026-11-21T23:19:39.116Z",
   "ofertas": [
+    {
+      "id": "1PxcKWh",
+      "nome": "Roçadeira Cortador De Grama Eletrico 2 Baterias Com Road",
+      "categoria": "Diversos",
+      "preco": 168.78,
+      "link": "https://meli.la/1PxcKWh",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/rocadeira-cortador-de-grama-eletrico-2-baterias-com-road/up/MLBU3331187994",
+      "precoDe": 399,
+      "pix": true,
+      "parcelas": "R$187,53 em outros meios",
+      "postado": "2026-11-21T23:19:39.114Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1PxcKWh.jpg"
+    },
     {
       "id": "21hdfJY",
       "nome": "Café União Tradicional Pouch 500g",
