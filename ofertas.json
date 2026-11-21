@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T22:48:08.200Z",
+  "atualizado": "2026-11-21T22:50:22.876Z",
   "ofertas": [
+    {
+      "id": "16JtRTa",
+      "nome": "Ar-condicionado Portátil 10000 Btus Eos Slim Eap10f Cor Branco Voltagem da",
+      "categoria": "Casa",
+      "preco": 1983.71,
+      "link": "https://meli.la/16JtRTa",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-portatil-10000-btus-eos-slim-eap10f-cor-branco-voltagem-da-unidade-externa/p/MLB43551841",
+      "precoDe": 6513.24,
+      "pix": true,
+      "parcelas": "R$2.179,90 em outros meios",
+      "postado": "2026-11-21T22:50:22.875Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-16JtRTa.jpg"
+    },
     {
       "id": "1qpHv5U",
       "nome": "Roçadeira Gasolina Knakasaki 75cc 3,6hp 8 Em 1 Motopoda",
