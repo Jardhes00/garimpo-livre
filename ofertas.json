@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-21T19:50:17.656Z",
+  "atualizado": "2026-11-21T19:52:32.636Z",
   "ofertas": [
+    {
+      "id": "2xZW2v9",
+      "nome": "Batedeira Planetaria Britania 900w Bbp900a",
+      "categoria": "Diversos",
+      "preco": 263.62,
+      "link": "https://meli.la/2xZW2v9",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/batedeira-planetaria-britania-900w-bbp900a/p/MLB66584656",
+      "precoDe": 444.15,
+      "parcelas": "6x R$ 43,94 sem juros",
+      "postado": "2026-11-21T19:52:32.634Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2xZW2v9.jpg"
+    },
     {
       "id": "1Ydcna1",
       "nome": "Monitor Gamer 27\" Acer Nitro KG0 com Tela Full HD 144Hz VA Resposta de 1ms GtoG AMD FreeSync Game Mode 8 Modos Cores 99% sRGB Design ZeroFrame Conexões HDMI e VGA KG270 P0bi",
@@ -3154,41 +3171,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1x1Jy2q.jpg"
-    },
-    {
-      "id": "2Efo7hV",
-      "nome": "Monitor LG Ultragear 27 , 144hz, 1ms(mbr), Preto - 27g411b",
-      "categoria": "Tech",
-      "preco": 692,
-      "link": "https://meli.la/2Efo7hV",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/monitor-lg-ultragear-27-144hz-1msmbr-preto-27g411b/up/MLBU5081658851",
-      "precoDe": 1039,
-      "parcelas": "10x de R$69,20 sem juros",
-      "postado": "2026-11-19T19:52:31.846Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2Efo7hV.jpg"
-    },
-    {
-      "id": "2cwUDei",
-      "nome": "O Boticário Boticollection Connexion Desodorante Colônia Masculino 100ml",
-      "categoria": "Diversos",
-      "preco": 84.9,
-      "link": "https://meli.la/2cwUDei",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/o-boticario-boticollection-connexion-desodorante-colonia-masculino-100ml/p/MLB22849426",
-      "precoDe": 179.9,
-      "parcelas": "3x de R$28,30 sem juros",
-      "cupomAnuncio": "R$76,41 com Cupom por seguir a loja",
-      "postado": "2026-11-19T19:51:16.836Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2cwUDei.jpg"
     }
   ]
 }
