@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-21T22:54:52.969Z",
+  "atualizado": "2026-11-21T22:57:08.189Z",
   "ofertas": [
+    {
+      "id": "2myi5Jh",
+      "nome": "Seringa de Insulina SR com Agulha Fixa 0.5 mL, Kit com 100 Unidades",
+      "categoria": "Diversos",
+      "preco": 119.9,
+      "link": "https://meli.la/2myi5Jh",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/seringa-de-insulina-sr-com-agulha-fixa-05-ml-kit-com-100-unidades/p/MLB63436992",
+      "precoDe": 249.9,
+      "cupomAnuncio": "R$113,90 com Cupom por seguir a loja",
+      "postado": "2026-11-21T22:57:08.188Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2myi5Jh.jpg"
+    },
     {
       "id": "2bBZi7W",
       "nome": "MICRO-ONDAS ELECTROLUX 31L COM PAINEL INTEGRADO EM AÇO INOX ESPELHADO 220V MI41S",
