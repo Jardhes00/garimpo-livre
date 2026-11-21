@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-21T20:10:33.080Z",
+  "atualizado": "2026-11-21T20:12:48.490Z",
   "ofertas": [
+    {
+      "id": "1AdDqit",
+      "nome": "Caixa de Som PartyBox AIWA PB-07 Bluetooth 8H RGB USB TWS",
+      "categoria": "Tech",
+      "preco": 499,
+      "link": "https://meli.la/1AdDqit",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-partybox-aiwa-pb-07-bluetooth-8h-rgb-usb-tws/p/MLB42460486",
+      "precoDe": 1199,
+      "parcelas": "9x de R$ 55,44 sem juros",
+      "postado": "2026-11-21T20:12:48.488Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1AdDqit.jpg"
+    },
     {
       "id": "1UvKDqn",
       "nome": "Aspirador de Pó Vertical Electrolux 1450W STK15 com Fio Portátil de Mão 2 em 1 e 1,6 Litros de capacidade com Filtro Hepa Cinza-escuro",
@@ -3034,45 +3051,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2MVkjdL.jpg"
-    },
-    {
-      "id": "1ygV95B",
-      "nome": "Mochila para Notebook Feminina Expansível de 25L a 40L, com USB e Impermeável",
-      "categoria": "Tech",
-      "preco": 67.84,
-      "link": "https://meli.la/1ygV95B",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/mochila-para-notebook-feminina-expansivel-de-25l-a-40l-com-usb-e-impermeavel/p/MLB75521100",
-      "precoDe": 268,
-      "pix": true,
-      "parcelas": "R$ 71,41 em 3x de R$ 23,80 sem juros",
-      "extra": "Preço no Pix com cupom",
-      "postado": "2026-11-19T20:12:30.378Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1ygV95B.jpg"
-    },
-    {
-      "id": "2nSmqfk",
-      "nome": "Whey Protein Concentrado 100% 900g Refil Dark Lab Sabor Chocolate",
-      "categoria": "Suplementos",
-      "preco": 139.43,
-      "link": "https://meli.la/2nSmqfk",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/whey-protein-concentrado-100-900g-refil-dark-lab-sabor-chocolate/p/MLB25929485",
-      "precoDe": 499.9,
-      "pix": true,
-      "parcelas": "R$ 154,92 em outros meios",
-      "extra": "R$ 20 OFF com cupom no anúncio",
-      "cupomAnuncio": "Compre R$187 e ganhe R$20 OFF",
-      "postado": "2026-11-19T20:10:45.904Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2nSmqfk.jpg"
     }
   ]
 }
