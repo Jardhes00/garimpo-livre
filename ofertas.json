@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-21T21:38:20.642Z",
+  "atualizado": "2026-11-21T21:40:35.857Z",
   "ofertas": [
+    {
+      "id": "2dDstGV",
+      "nome": "Panettone Chocotone Gotas De Chocolate Lindt 390g",
+      "categoria": "Diversos",
+      "preco": 59.99,
+      "link": "https://meli.la/2dDstGV",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/panettone-chocotone-gotas-de-chocolate-lindt-390g/p/MLB43798068",
+      "precoDe": 99.99,
+      "parcelas": "12x de R$ 5,91",
+      "postado": "2026-11-21T21:40:35.856Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2dDstGV.jpg"
+    },
     {
       "id": "2GaPLru",
       "nome": "Multi Cook Antiaderente Philco Inox Frítadeira Sem Óleo",
