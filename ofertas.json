@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T23:01:38.326Z",
+  "atualizado": "2026-11-21T23:03:53.339Z",
   "ofertas": [
+    {
+      "id": "15HmCRC",
+      "nome": "Aparador de Grama Elétrico WAP WG AG01E Diâmetro de Corte de 280mm 1600W 11000",
+      "categoria": "Diversos",
+      "preco": 179.1,
+      "link": "https://meli.la/15HmCRC",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aparador-de-grama-eletrico-wap-wg-ag01e-diametro-de-corte-de-280mm-1600w-11000-rpm-220v/p/MLB56393928",
+      "precoDe": 381,
+      "pix": true,
+      "parcelas": "R$199 em outros meios",
+      "postado": "2026-11-21T23:03:53.337Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-15HmCRC.jpg"
+    },
     {
       "id": "2hzWRqY",
       "nome": "Air Fryer Oven 11 Litros Wap Waod4 Grey Stone Painel Digital 11 Funções 220V",
