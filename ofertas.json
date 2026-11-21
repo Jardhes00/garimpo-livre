@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T23:12:53.945Z",
+  "atualizado": "2026-11-21T23:15:09.133Z",
   "ofertas": [
+    {
+      "id": "1tEQxa5",
+      "nome": "Escova Rotativa Bivolt Rotating Hyaluronic Conair Cor Preto E Azul",
+      "categoria": "Diversos",
+      "preco": 629.91,
+      "link": "https://meli.la/1tEQxa5",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/escova-rotativa-bivolt-rotating-hyaluronic-conair-cor-preto-e-azul/p/MLB79427427",
+      "precoDe": 999.9,
+      "pix": true,
+      "parcelas": "R$699,90 em 10x R$69,99 sem juros",
+      "postado": "2026-11-21T23:15:09.132Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1tEQxa5.jpg"
+    },
     {
       "id": "12QGPxc",
       "nome": "Kit 4 Pneus 175/65R14 Continental PowerContact 2 82T Aro 14",
