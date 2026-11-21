@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T21:24:50.252Z",
+  "atualizado": "2026-11-21T21:27:05.300Z",
   "ofertas": [
+    {
+      "id": "1pVUgEv",
+      "nome": "Soundbar Philips 2.0, bluetooth, USB e HDMI ARC TAB4000/78",
+      "categoria": "Tech",
+      "preco": 312.55,
+      "link": "https://meli.la/1pVUgEv",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/soundbar-philips-20-bluetooth-usb-e-hdmi-arc-tab400078/p/MLB69621250",
+      "precoDe": 639,
+      "pix": true,
+      "parcelas": "R$ 329 em 6x de R$ 54,83 sem juros",
+      "postado": "2026-11-21T21:27:05.299Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1pVUgEv.jpg"
+    },
     {
       "id": "1eBxQ1V",
       "nome": "Balança Digital Corporal Bioimpedância Aplicativo Bluetooth Relaxmedic",
