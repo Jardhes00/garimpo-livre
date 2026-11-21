@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-21T19:43:32.494Z",
+  "atualizado": "2026-11-21T19:45:48.031Z",
   "ofertas": [
+    {
+      "id": "2LiLL2x",
+      "nome": "Cafeína Caffeine Army Supercoffee Classic Size em pó Sem sabor x 380g",
+      "categoria": "Diversos",
+      "preco": 162,
+      "link": "https://meli.la/2LiLL2x",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafeina-caffeine-army-supercoffee-classic-size-em-po-sem-sabor-x-380g/p/MLB19556431",
+      "precoDe": 216.9,
+      "pix": true,
+      "parcelas": "R$ 180 em 6x R$ 30 sem juros",
+      "cupomAnuncio": "R$145,80 com Cupom por seguir a loja",
+      "postado": "2026-11-21T19:45:48.029Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2LiLL2x.jpg"
+    },
     {
       "id": "31SCA12",
       "nome": "Panela Elétrica Mecânica Pressão 4l Preta E Inox Midea",
@@ -3204,43 +3223,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1WcKahn.jpg"
-    },
-    {
-      "id": "2JD39zs",
-      "nome": "Armani Beauty, Perfume Feminino, Acqua di Gioia, Eau de Parfum, 100ml",
-      "categoria": "Beleza",
-      "preco": 523.79,
-      "link": "https://meli.la/2JD39zs",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/armani-beauty-perfume-feminino-acqua-di-gioia-eau-de-parfum-100ml/p/MLB3820782",
-      "precoDe": 1029,
-      "pix": true,
-      "parcelas": "R$581,99 em outros meios",
-      "cupomAnuncio": "Compre R$599 e ganhe 5% OFF",
-      "postado": "2026-11-19T19:45:01.823Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2JD39zs.jpg"
-    },
-    {
-      "id": "1YrnZTX",
-      "nome": "Ventilador Mallory Coluna Éolo 40cm Cor Da Estrutura Preto Cor Das Pás grafite",
-      "categoria": "Casa",
-      "preco": 197.1,
-      "link": "https://meli.la/1YrnZTX",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ventilador-mallory-coluna-eolo-40cm-cor-da-estrutura-preto-cor-das-pas-grafite-diametro-40-cm-6-pas/p/MLB25554105",
-      "precoDe": 311.96,
-      "pix": true,
-      "parcelas": "R$219 em outros meios",
-      "postado": "2026-11-19T19:43:46.536Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1YrnZTX.jpg"
     }
   ]
 }
