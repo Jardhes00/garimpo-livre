@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-21T19:54:47.835Z",
+  "atualizado": "2026-11-21T19:57:02.811Z",
   "ofertas": [
+    {
+      "id": "1feiqbM",
+      "nome": "Jogo De Jantar E Chá 20 Peças Unni Brisa Oxford Aw20-5903",
+      "categoria": "Games",
+      "preco": 209.9,
+      "link": "https://meli.la/1feiqbM",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/jogo-de-jantar-e-cha-20-pecas-unni-brisa-oxford-aw20-5903/p/MLB33795714",
+      "precoDe": 499.9,
+      "parcelas": "6x de R$ 34,98 sem juros",
+      "postado": "2026-11-21T19:57:02.809Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1feiqbM.jpg"
+    },
     {
       "id": "29eaUdT",
       "nome": "Processador AMD Ryzen 7 5700X 3.4GHz (4.6GHz Max Turbo) AM4",
@@ -3136,42 +3153,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1dSHrVM.jpg"
-    },
-    {
-      "id": "1Tna9T8",
-      "nome": "Impressora Epson Ecotank L1350 Colorida Wi-fi Bivolt",
-      "categoria": "Tech",
-      "preco": 826.2,
-      "link": "https://meli.la/1Tna9T8",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/impressora-epson-ecotank-l1350-colorida-wi-fi-bivolt/up/MLBU5762980644",
-      "precoDe": 1350,
-      "pix": true,
-      "parcelas": "R$918 em outros meios",
-      "postado": "2026-11-19T19:56:16.887Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1Tna9T8.jpg"
-    },
-    {
-      "id": "29ysNBi",
-      "nome": "Câmera Segurança Ip Externa Wifi A28 App Icsee À Prova Dágua",
-      "categoria": "Diversos",
-      "preco": 111.15,
-      "link": "https://meli.la/29ysNBi",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/camera-seguranca-ip-externa-wifi-a28-app-icsee-prova-dagua/up/MLBU3403280878",
-      "precoDe": 300,
-      "pix": true,
-      "parcelas": "R$117 em outros meios",
-      "postado": "2026-11-19T19:55:01.962Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-29ysNBi.jpg"
     }
   ]
 }
