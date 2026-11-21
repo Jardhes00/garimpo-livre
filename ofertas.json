@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T19:41:17.248Z",
+  "atualizado": "2026-11-21T19:43:32.494Z",
   "ofertas": [
+    {
+      "id": "31SCA12",
+      "nome": "Panela Elétrica Mecânica Pressão 4l Preta E Inox Midea",
+      "categoria": "Casa",
+      "preco": 247.99,
+      "link": "https://meli.la/31SCA12",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/panela-eletrica-mecanica-pressao-4l-preta-e-inox-midea/p/MLB45410688",
+      "precoDe": 499,
+      "parcelas": "12x R$ 24,55",
+      "relampago": true,
+      "postado": "2026-11-21T19:43:32.492Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-31SCA12.jpg"
+    },
     {
       "id": "2YMcfwR",
       "nome": "Processador de Áudio Digital Automotivo Stetsom STX2448 com Crossover e Equalizador",
@@ -3223,24 +3241,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1YrnZTX.jpg"
-    },
-    {
-      "id": "2BP15rV",
-      "nome": "Wap Empr 900k Martelete Sds Plus Com Seletor Reverso 900 W 127V",
-      "categoria": "Diversos",
-      "preco": 284.05,
-      "link": "https://meli.la/2BP15rV",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/wap-empr-900k-martelete-sds-plus-com-seletor-reverso-900-w-127v/p/MLB19457514",
-      "precoDe": 870,
-      "pix": true,
-      "parcelas": "R$299 em 6x R$49,83 sem juros",
-      "postado": "2026-11-19T19:42:31.641Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2BP15rV.jpg"
     }
   ]
 }
