@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T19:27:47.306Z",
+  "atualizado": "2026-11-21T19:30:02.045Z",
   "ofertas": [
+    {
+      "id": "1XLv2c9",
+      "nome": "Fonte Gamer Rise Mode Elektra 650w Full Modular Selo Teclab Preto",
+      "categoria": "Games",
+      "preco": 251.48,
+      "link": "https://meli.la/1XLv2c9",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fonte-gamer-rise-mode-elektra-650w-full-modular-selo-teclab-preto/p/MLB61082491",
+      "precoDe": 498,
+      "pix": true,
+      "parcelas": "R$ 289,06 em outros meios",
+      "postado": "2026-11-21T19:30:02.043Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1XLv2c9.jpg"
+    },
     {
       "id": "15hk9GJ",
       "nome": "Aparelho medidor de pressão digital de braço BSP11 G-Tech",
@@ -3290,42 +3308,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-19QH31a.jpg"
-    },
-    {
-      "id": "2M5duNx",
-      "nome": "Depilador Philips Satinelli Bre229/00 Bivolt - Rosa",
-      "categoria": "Diversos",
-      "preco": 166.41,
-      "link": "https://meli.la/2M5duNx",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/depilador-philips-satinelli-bre22900-bivolt-rosa/p/MLB51065768",
-      "precoDe": 324.88,
-      "pix": true,
-      "parcelas": "R$184,90 em outros meios",
-      "postado": "2026-11-19T19:30:00.980Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2M5duNx.jpg"
-    },
-    {
-      "id": "1v4n7uP",
-      "nome": "Piscina Inflável Grande De 2330l Com Bomba De Ar Elétrica",
-      "categoria": "Diversos",
-      "preco": 347.69,
-      "link": "https://meli.la/1v4n7uP",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/piscina-inflavel-grande-de-2330l-com-bomba-de-ar-eletrica/up/MLBU4665741468",
-      "precoDe": 859.76,
-      "pix": true,
-      "parcelas": "R$365,99 em 7x R$52,28 sem juros",
-      "postado": "2026-11-19T19:28:46.844Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1v4n7uP.jpg"
     }
   ]
 }
