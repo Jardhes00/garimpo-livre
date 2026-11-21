@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T22:05:21.491Z",
+  "atualizado": "2026-11-21T22:07:36.501Z",
   "ofertas": [
+    {
+      "id": "2PxezjN",
+      "nome": "Micro-ondas Philco 33l Acabamento Inox Espelhado Pmo38t",
+      "categoria": "Casa",
+      "preco": 485.91,
+      "link": "https://meli.la/2PxezjN",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-philco-33l-acabamento-inox-espelhado-pmo38t/up/MLBU5327068629",
+      "precoDe": 1103.9,
+      "pix": true,
+      "parcelas": "R$539,90 em 10x R$53,99 sem juros",
+      "postado": "2026-11-21T22:07:36.500Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2PxezjN.jpg"
+    },
     {
       "id": "1TFmUTZ",
       "nome": "Luminária De Led Com Ventilador 60w Ccontrole 3 Cores",
