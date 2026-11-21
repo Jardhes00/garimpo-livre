@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T22:14:22.275Z",
+  "atualizado": "2026-11-21T22:16:36.875Z",
   "ofertas": [
+    {
+      "id": "1EizBqf",
+      "nome": "Fogão 4 Bocas Atlas Mônaco Lustro Automático Mesa De Aço Esmaltado Preto",
+      "categoria": "Diversos",
+      "preco": 615.4,
+      "link": "https://meli.la/1EizBqf",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fogao-4-bocas-atlas-monaco-lustro-automatico-mesa-de-aco-esmaltado-preto/p/MLB66734754",
+      "precoDe": 1039,
+      "pix": true,
+      "parcelas": "R$724 em outros meios",
+      "postado": "2026-11-21T22:16:36.874Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1EizBqf.jpg"
+    },
     {
       "id": "2HBJecc",
       "nome": "Extratora e Higienizadora Portátil WAP Spot Cleaner W2 1600W - Pulveriza",
