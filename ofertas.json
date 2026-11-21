@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T22:23:21.644Z",
+  "atualizado": "2026-11-21T22:25:36.672Z",
   "ofertas": [
+    {
+      "id": "24TbCiG",
+      "nome": "Aspirador Vertical WAP POWER SPEED MAX CI10 3 EM 1 1600W 220V",
+      "categoria": "Casa",
+      "preco": 197.91,
+      "link": "https://meli.la/24TbCiG",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aspirador-vertical-wap-power-speed-max-ci10-3-em-1-1600w-220v/p/MLB62021470",
+      "precoDe": 357,
+      "pix": true,
+      "parcelas": "R$219,90 em outros meios",
+      "postado": "2026-11-21T22:25:36.670Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-24TbCiG.jpg"
+    },
     {
       "id": "2LS2Ucv",
       "nome": "Climatizador de Ar Portátil 15L Umidificador Evaporativo 3 Velocidades 3 Modos",
