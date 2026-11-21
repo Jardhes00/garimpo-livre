@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T20:28:33.725Z",
+  "atualizado": "2026-11-21T20:30:48.622Z",
   "ofertas": [
+    {
+      "id": "2mMnFSa",
+      "nome": "Fritadeira Airfryer Digital Philips Walita NA230/00",
+      "categoria": "Casa",
+      "preco": 361,
+      "link": "https://meli.la/2mMnFSa",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fritadeira-airfryer-digital-philips-walita-na23000/p/MLB62495301",
+      "precoDe": 950,
+      "pix": true,
+      "parcelas": "R$ 380 em outros meios",
+      "postado": "2026-11-21T20:30:48.620Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2mMnFSa.jpg"
+    },
     {
       "id": "29CpE9i",
       "nome": "Fechadura Para Portão De Sobrepor Pratice 0231 - Soprano",
@@ -2957,43 +2975,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2A5h4sw.jpg"
-    },
-    {
-      "id": "2nH3gxd",
-      "nome": "Cafeteira Arno New Element Cfne",
-      "categoria": "Casa",
-      "preco": 244.99,
-      "link": "https://meli.la/2nH3gxd",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cafeteira-arno-new-element-cfne/p/MLB19063748",
-      "precoDe": 664.99,
-      "parcelas": "6x de R$ 40,83 sem juros",
-      "postado": "2026-11-19T20:29:57.063Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2nH3gxd.jpg"
-    },
-    {
-      "id": "1Dvx5ii",
-      "nome": "Armani Beauty Perfume Feminino My Way Eau de Parfum, Refilável 30ml",
-      "categoria": "Beleza",
-      "preco": 286.19,
-      "link": "https://meli.la/1Dvx5ii",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/armani-beauty-perfume-feminino-my-way-eau-de-parfum-refilavel-30ml/p/MLB17941252",
-      "precoDe": 589,
-      "pix": true,
-      "parcelas": "R$ 317,99 em outros meios",
-      "extra": "5% OFF com cupom no anúncio",
-      "cupomAnuncio": "Compre R$599 e ganhe 5% OFF",
-      "postado": "2026-11-19T20:28:41.834Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1Dvx5ii.jpg"
     }
   ]
 }
