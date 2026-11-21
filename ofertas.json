@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T21:27:05.300Z",
+  "atualizado": "2026-11-21T21:29:20.544Z",
   "ofertas": [
+    {
+      "id": "16xCQJ9",
+      "nome": "Simparic 80mg Antipulgas Carrapatos Cães 20,1-40kg 3 Comprimidos",
+      "categoria": "Diversos",
+      "preco": 142.33,
+      "link": "https://meli.la/16xCQJ9",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/simparic-80mg-antipulgas-carrapatos-caes-201-40kg-3-comprimidos/p/MLB32339382",
+      "precoDe": 310,
+      "pix": true,
+      "parcelas": "R$ 149,82 em outros meios",
+      "postado": "2026-11-21T21:29:20.543Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-16xCQJ9.jpg"
+    },
     {
       "id": "1pVUgEv",
       "nome": "Soundbar Philips 2.0, bluetooth, USB e HDMI ARC TAB4000/78",
