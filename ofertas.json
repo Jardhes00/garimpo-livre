@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T21:58:36.488Z",
+  "atualizado": "2026-11-21T22:00:51.523Z",
   "ofertas": [
+    {
+      "id": "1xRqkGU",
+      "nome": "Carolina Herrera 212 Vip Black Ny Rodeo - 100ml",
+      "categoria": "Diversos",
+      "preco": 426,
+      "link": "https://meli.la/1xRqkGU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/carolina-herrera-212-vip-black-ny-rodeo-100ml/p/MLB51335487",
+      "precoDe": 719,
+      "parcelas": "8x de R$53,25 sem juros",
+      "cupomAnuncio": "R$411 com Cupom por seguir a loja",
+      "postado": "2026-11-21T22:00:51.522Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1xRqkGU.jpg"
+    },
     {
       "id": "2dQEzML",
       "nome": "Notebook Samsung Galaxy Book4 Intel Core 3-100U, Windows 11 Home, 8GB, 256GB",
