@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T19:52:32.636Z",
+  "atualizado": "2026-11-21T19:54:47.835Z",
   "ofertas": [
+    {
+      "id": "29eaUdT",
+      "nome": "Processador AMD Ryzen 7 5700X 3.4GHz (4.6GHz Max Turbo) AM4",
+      "categoria": "Diversos",
+      "preco": 1115.07,
+      "link": "https://meli.la/29eaUdT",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/processador-amd-ryzen-7-5700x-34ghz-46ghz-max-turbo-am4/p/MLB19159879",
+      "precoDe": 1519,
+      "pix": true,
+      "parcelas": "R$ 1.199 em 10x de R$ 119,90 sem juros",
+      "postado": "2026-11-21T19:54:47.833Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-29eaUdT.jpg"
+    },
     {
       "id": "2xZW2v9",
       "nome": "Batedeira Planetaria Britania 900w Bbp900a",
@@ -3154,23 +3172,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-29ysNBi.jpg"
-    },
-    {
-      "id": "1x1Jy2q",
-      "nome": "Árvore De Natal Pinheiro Canadense Luxo 2,40m 1500 Galhos Tradicional Verde",
-      "categoria": "Diversos",
-      "preco": 449.42,
-      "link": "https://meli.la/1x1Jy2q",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/arvore-de-natal-pinheiro-canadense-luxo-240m-1500-galhos-tradicional-verde-imperial-premium-grande-cheia-luvinco/p/MLB51714544",
-      "precoDe": 724.88,
-      "parcelas": "8x de R$56,18 sem juros",
-      "postado": "2026-11-19T19:53:47.053Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1x1Jy2q.jpg"
     }
   ]
 }
