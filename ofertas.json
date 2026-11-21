@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T20:44:19.172Z",
+  "atualizado": "2026-11-21T20:46:34.342Z",
   "ofertas": [
+    {
+      "id": "2izeEaw",
+      "nome": "Fechadura de Porta Eletrônica Digital Biométrica com Senha Embutir Alumínio Preto Motion Avant",
+      "categoria": "Casa",
+      "preco": 128.02,
+      "link": "https://meli.la/2izeEaw",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fechadura-de-porta-eletronica-digital-biometrica-com-senha-embutir-aluminio-preto-motion-avant/p/MLB67207662",
+      "precoDe": 379.9,
+      "pix": true,
+      "parcelas": "R$ 256,05 em 6x R$ 42,68 sem juros",
+      "postado": "2026-11-21T20:46:34.340Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2izeEaw.jpg"
+    },
     {
       "id": "1Gdn7Xb",
       "nome": "Ventilador PVT491 2 em 1 Mesa e Parede Maxx Force 8 Pás 174W Philco",
@@ -2858,40 +2876,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2Reb4N8.jpg"
-    },
-    {
-      "id": "1uu77Sg",
-      "nome": "Cascata de Natal LED 400 Luzes Branco Quente 10m com 8 Funções para Decoração",
-      "categoria": "Pet",
-      "preco": 66.39,
-      "link": "https://meli.la/1uu77Sg",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cascata-de-natal-led-400-luzes-branco-quente-10m-com-8-funcoes-para-decoracao-externa-e-interna/p/MLB78874864",
-      "precoDe": 199.9,
-      "postado": "2026-11-19T20:46:12.496Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1uu77Sg.jpg"
-    },
-    {
-      "id": "28pce4e",
-      "nome": "La Roche-Posay Sérum Antimanchas Mela B3 com Ativo Patenteado Melasyl 30ml",
-      "categoria": "Beleza",
-      "preco": 188.9,
-      "link": "https://meli.la/28pce4e",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/la-roche-posay-serum-antimanchas-mela-b3-com-ativo-patenteado-melasyl-30ml-dianoite/p/MLB63945788",
-      "precoDe": 329.9,
-      "parcelas": "6x de R$31,48 sem juros",
-      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
-      "postado": "2026-11-19T20:44:57.401Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-28pce4e.jpg"
     }
   ]
 }
