@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-21T20:37:33.883Z",
+  "atualizado": "2026-11-21T20:39:48.866Z",
   "ofertas": [
+    {
+      "id": "2QYnX1j",
+      "nome": "Proteína Dux Nutrition Whey Protein Isolado em pó sabor Baunilha x 900g",
+      "categoria": "Suplementos",
+      "preco": 302,
+      "link": "https://meli.la/2QYnX1j",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/proteina-dux-nutrition-whey-protein-isolado-em-po-sabor-baunilha-x-900g/p/MLB18512109",
+      "precoDe": 530,
+      "parcelas": "12x R$ 29,54",
+      "postado": "2026-11-21T20:39:48.864Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2QYnX1j.jpg"
+    },
     {
       "id": "1nCA2o2",
       "nome": "Gin London Dry 750 Ml Tanqueray Clássico",
@@ -2911,22 +2928,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2Rpe2Wo.jpg"
-    },
-    {
-      "id": "1kwWb3h",
-      "nome": "Hidratante Facial Epidrat Calm B5 Para Pele Sensível 50ml Mantecorp",
-      "categoria": "Beleza",
-      "preco": 72.66,
-      "link": "https://meli.la/1kwWb3h",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/hidratante-facial-epidrat-calm-b5-para-pele-sensivel-50ml-mantecorp/p/MLB20993983",
-      "precoDe": 104.9,
-      "postado": "2026-11-19T20:38:42.253Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1kwWb3h.jpg"
     }
   ]
 }
