@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-21T20:26:18.573Z",
+  "atualizado": "2026-11-21T20:28:33.725Z",
   "ofertas": [
+    {
+      "id": "29CpE9i",
+      "nome": "Fechadura Para Portão De Sobrepor Pratice 0231 - Soprano",
+      "categoria": "Casa",
+      "preco": 27.49,
+      "link": "https://meli.la/29CpE9i",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fechadura-para-portao-de-sobrepor-pratice-0231-soprano/p/MLB22358027",
+      "precoDe": 78.9,
+      "postado": "2026-11-21T20:28:33.723Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-29CpE9i.jpg"
+    },
     {
       "id": "3293vna",
       "nome": "Máscara de Tratamento Antiqueda para Cabelos Grossos Genesis Kérastase 200ml",
@@ -2978,25 +2994,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1Dvx5ii.jpg"
-    },
-    {
-      "id": "1eDtTfL",
-      "nome": "Hipercalórico Dark Mass 3kg Chocolate Branco c/ Morango Dark Lab",
-      "categoria": "Diversos",
-      "preco": 78.92,
-      "link": "https://meli.la/1eDtTfL",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/hipercalorico-dark-mass-3kg-chocolate-branco-c-morango-dark-lab/p/MLB19451610",
-      "precoDe": 249.9,
-      "parcelas": "12x R$ 7,77",
-      "extra": "R$ 20 OFF com cupom no anúncio",
-      "cupomAnuncio": "Compre R$150 e ganhe R$20 OFF",
-      "postado": "2026-11-19T20:27:26.887Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1eDtTfL.jpg"
     }
   ]
 }
