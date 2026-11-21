@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T22:41:23.065Z",
+  "atualizado": "2026-11-21T22:43:37.894Z",
   "ofertas": [
+    {
+      "id": "1kZbzF9",
+      "nome": "Pistola De Pintura Elétrica 1,4l 550w Fasterr Fst054 Cor Amarelo 220v",
+      "categoria": "Diversos",
+      "preco": 121.71,
+      "link": "https://meli.la/1kZbzF9",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/pistola-de-pintura-eletrica-14l-550w-fasterr-fst054-cor-amarelo-220v/p/MLB49796215",
+      "precoDe": 189.6,
+      "pix": true,
+      "parcelas": "R$139,90 em 4x R$34,98 sem juros",
+      "postado": "2026-11-21T22:43:37.893Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1kZbzF9.jpg"
+    },
     {
       "id": "14jKQPm",
       "nome": "Bota De Compressão Pneumática F10 Pro Sem Fio Relaxmedic Cor Preto G",
