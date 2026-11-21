@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T21:18:05.050Z",
+  "atualizado": "2026-11-21T21:20:20.443Z",
   "ofertas": [
+    {
+      "id": "1R8K6VP",
+      "nome": "LEGO Classic Maleta Criativa com 213 Peças, Brinquedo de Montar para Crianças",
+      "categoria": "Diversos",
+      "preco": 94.9,
+      "link": "https://meli.la/1R8K6VP",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lego-classic-maleta-criativa-com-213-pecas-brinquedo-de-montar-para-criancas/p/MLB17489277",
+      "precoDe": 199.99,
+      "pix": true,
+      "parcelas": "R$ 99,90 em 3x de R$ 33,30 sem juros",
+      "postado": "2026-11-21T21:20:20.442Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1R8K6VP.jpg"
+    },
     {
       "id": "1qAQuPf",
       "nome": "Fritadeira Airfryer Digital Série 2000 Xl Na239/00 Preto",
