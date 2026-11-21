@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T22:00:51.523Z",
+  "atualizado": "2026-11-21T22:03:06.448Z",
   "ofertas": [
+    {
+      "id": "2fhnPTm",
+      "nome": "Aspirador de Pó Vertical Electrolux 1450W STK15 com Fio Portátil de Mão 2 em 1",
+      "categoria": "Casa",
+      "preco": 164.9,
+      "link": "https://meli.la/2fhnPTm",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aspirador-de-po-vertical-electrolux-1450w-stk15-com-fio-portatil-de-mao-2-em-1-e-16-litros-de-capacidade-com-filtro-hepa-cinza-escuro/p/MLB18238727",
+      "precoDe": 239.99,
+      "pix": true,
+      "parcelas": "R$189,90 em 6x R$31,65 sem juros",
+      "postado": "2026-11-21T22:03:06.447Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2fhnPTm.jpg"
+    },
     {
       "id": "1xRqkGU",
       "nome": "Carolina Herrera 212 Vip Black Ny Rodeo - 100ml",
