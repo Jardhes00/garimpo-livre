@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-21T19:59:17.869Z",
+  "atualizado": "2026-11-21T20:01:32.954Z",
   "ofertas": [
+    {
+      "id": "2ghuzxQ",
+      "nome": "Celular Samsung Galaxy S25 Fe 5g, 128gb, 8gb Ram, Câmera Tripla De 50+12+8, Tela Grande De 6.7 Azul Marinho",
+      "categoria": "Tech",
+      "preco": 2751.89,
+      "link": "https://meli.la/2ghuzxQ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/celular-samsung-galaxy-s25-fe-5g-128gb-8gb-ram-camera-tripla-de-50128-tela-grande-de-67-azul-marinho/p/MLB61655019",
+      "precoDe": 4499,
+      "pix": true,
+      "parcelas": "R$ 2.837 em 10x de R$ 283,70 sem juros",
+      "relampago": true,
+      "postado": "2026-11-21T20:01:32.953Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ghuzxQ.jpg"
+    },
     {
       "id": "2fBP8g3",
       "nome": "Fralda Pampers Pants Ajuste Total Tamanho XG, 82 Un",
@@ -3102,40 +3121,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2gHBUWx.jpg"
-    },
-    {
-      "id": "2X8byvo",
-      "nome": "Balcão Cozinha Itatiaia ROSE TRP 1, 05 Com Tampo 3 Portas 1 Gaveta cor Branco",
-      "categoria": "Casa",
-      "preco": 376.32,
-      "link": "https://meli.la/2X8byvo",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/balcao-cozinha-itatiaia-rose-trp-1-05-com-tampo-3-portas-1-gaveta-cor-branco/p/MLB27663521",
-      "precoDe": 999,
-      "pix": true,
-      "parcelas": "R$448 em 8x R$56 sem juros",
-      "postado": "2026-11-19T20:01:17.360Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2X8byvo.jpg"
-    },
-    {
-      "id": "16RG1N5",
-      "nome": "Aspirador de Pó e Água Electrolux Acqua Power 1400W 11L com Função Sopro, Rodas",
-      "categoria": "Casa",
-      "preco": 224.9,
-      "link": "https://meli.la/16RG1N5",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/aspirador-de-po-e-agua-electrolux-acqua-power-1400w-11l-com-funcao-sopro-rodas-360-alta-succao-e-acessorios-para-limpeza-residencial-e-automotiva-aqp20/p/MLB6215149",
-      "precoDe": 339.99,
-      "postado": "2026-11-19T20:00:02.077Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-16RG1N5.jpg"
     }
   ]
 }
