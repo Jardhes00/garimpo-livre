@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-21T21:51:50.946Z",
+  "atualizado": "2026-11-21T21:54:08.631Z",
   "ofertas": [
+    {
+      "id": "16BEPdL",
+      "nome": "Jogo De Panelas Francesas Galya 12 Peças Aço Inoxidável",
+      "categoria": "Games",
+      "preco": 323.38,
+      "link": "https://meli.la/16BEPdL",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/jogo-de-panelas-francesas-galya-12-pecas-aco-inoxidavel/up/MLBU694474991",
+      "precoDe": 499.99,
+      "pix": true,
+      "parcelas": "R$329,98 em outros meios",
+      "cupomAnuncio": "R$313,58 com Cupom por seguir a loja",
+      "postado": "2026-11-21T21:54:08.630Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-16BEPdL.jpg"
+    },
     {
       "id": "33i3Chy",
       "nome": "Kit Wella Invigo Nutri-Enrich para Cabelos Secos: Shampoo 1000ml e Máscara 500ml",
