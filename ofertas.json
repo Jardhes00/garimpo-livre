@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T21:11:19.934Z",
+  "atualizado": "2026-11-21T21:13:35.090Z",
   "ofertas": [
+    {
+      "id": "1tFpJDX",
+      "nome": "Ração Seca Fórmula Natural Gatos Castrados Adultos Salmão 10 Kg",
+      "categoria": "Pet",
+      "preco": 270.13,
+      "link": "https://meli.la/1tFpJDX",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/racao-seca-formula-natural-gatos-castrados-adultos-salmao-10-kg/p/MLB61672441",
+      "precoDe": 593,
+      "pix": true,
+      "parcelas": "R$ 310,50 em outros meios",
+      "postado": "2026-11-21T21:13:35.089Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1tFpJDX.jpg"
+    },
     {
       "id": "26Le68C",
       "nome": "Whey Protein Concentrado - 1,8 Kg Dux Nutrition Sabor Baunilha",
@@ -2709,23 +2727,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-27jdb4h.jpg"
-    },
-    {
-      "id": "1GpWxjb",
-      "nome": "Fone De Ouvido Soundcore by Anker Liberty 4nc ANC Redução de Ruído de 98,5%",
-      "categoria": "Tech",
-      "preco": 389,
-      "link": "https://meli.la/1GpWxjb",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/fone-de-ouvido-soundcore-by-anker-liberty-4nc-anc-reducao-de-ruido-de-985-cancelamento-adaptativo-bluetooth-53-multiponto-cor-preto-para-ouvidos-e-ambiente-audio-hi-res-50h-bateria-carga-sem-fio/p/MLB27021442",
-      "precoDe": 712,
-      "parcelas": "7x de R$55,57 sem juros",
-      "postado": "2026-11-19T21:12:28.522Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1GpWxjb.jpg"
     }
   ]
 }
