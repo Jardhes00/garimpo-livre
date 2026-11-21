@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T22:25:36.672Z",
+  "atualizado": "2026-11-21T22:27:52.741Z",
   "ofertas": [
+    {
+      "id": "2XXJZbR",
+      "nome": "Bicicleta Elétrica Gts Black Fish 500w Aro 14 Sem Cnh",
+      "categoria": "Esporte",
+      "preco": 2944.41,
+      "link": "https://meli.la/2XXJZbR",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bicicleta-eletrica-gts-black-fish-500w-aro-14-sem-cnh/up/MLBU5489415749",
+      "precoDe": 4999,
+      "pix": true,
+      "parcelas": "R$3.099,38 em outros meios",
+      "postado": "2026-11-21T22:27:52.740Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2XXJZbR.jpg"
+    },
     {
       "id": "24TbCiG",
       "nome": "Aspirador Vertical WAP POWER SPEED MAX CI10 3 EM 1 1600W 220V",
