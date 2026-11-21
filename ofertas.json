@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T21:36:05.573Z",
+  "atualizado": "2026-11-21T21:38:20.642Z",
   "ofertas": [
+    {
+      "id": "2GaPLru",
+      "nome": "Multi Cook Antiaderente Philco Inox Frítadeira Sem Óleo",
+      "categoria": "Diversos",
+      "preco": 187.59,
+      "link": "https://meli.la/2GaPLru",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/multi-cook-antiaderente-philco-inox-fritadeira-sem-oleo/p/MLB22643121",
+      "precoDe": 344.9,
+      "pix": true,
+      "parcelas": "R$ 203,90 em 6x de R$ 33,98 sem juros",
+      "postado": "2026-11-21T21:38:20.641Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2GaPLru.jpg"
+    },
     {
       "id": "1eR1AGJ",
       "nome": "Parafusadeira E Furadeira De Impacto Wap Wf 700k10",
