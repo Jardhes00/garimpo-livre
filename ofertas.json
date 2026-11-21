@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T23:08:23.470Z",
+  "atualizado": "2026-11-21T23:10:38.633Z",
   "ofertas": [
+    {
+      "id": "1nN861Q",
+      "nome": "Air Fryer Oven 12L WAP 10 Funções Pré-Programadas Dois Andares Antiaderente",
+      "categoria": "Casa",
+      "preco": 464.55,
+      "link": "https://meli.la/1nN861Q",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/air-fryer-oven-12l-wap-10-funcoes-pre-programadas-dois-andares-antiaderente-graystone-fritadeira-eletrica-220v/p/MLB42225245",
+      "precoDe": 849.86,
+      "pix": true,
+      "parcelas": "R$489 em 9x R$54,33 sem juros",
+      "postado": "2026-11-21T23:10:38.632Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1nN861Q.jpg"
+    },
     {
       "id": "28u4s7k",
       "nome": "Sérum Hidratante Corporal Para Pele com Tom Irregular 48h de Hidratação",
