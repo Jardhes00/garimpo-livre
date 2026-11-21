@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T19:16:32.031Z",
+  "atualizado": "2026-11-21T19:18:46.768Z",
   "ofertas": [
+    {
+      "id": "1ogi2Nc",
+      "nome": "Roteador Mercusys MR30G AC1200 Wi-Fi Gigabit Banda Dupla com 4 Antenas",
+      "categoria": "Diversos",
+      "preco": 103.15,
+      "link": "https://meli.la/1ogi2Nc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/roteador-mercusys-mr30g-ac1200-wi-fi-gigabit-banda-dupla-com-4-antenas/p/MLB62310676",
+      "precoDe": 149.9,
+      "pix": true,
+      "parcelas": "R$ 137,53 em outros meios",
+      "postado": "2026-11-21T19:18:46.766Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ogi2Nc.jpg"
+    },
     {
       "id": "2QBZstB",
       "nome": "Fechadura Digital De Sobrepor Fr 101 V Preta Intelbras",
@@ -3380,22 +3398,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1TEzST4.jpg"
-    },
-    {
-      "id": "3235a1g",
-      "nome": "Mega DHA Ômega 3 Ultra Concentrado 120 Cápsula Vitafor",
-      "categoria": "Diversos",
-      "preco": 126.86,
-      "link": "https://meli.la/3235a1g",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/mega-dha-mega-3-ultra-concentrado-120-capsula-vitafor/p/MLB41010745",
-      "precoDe": 236,
-      "postado": "2026-11-19T19:17:36.169Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-3235a1g.jpg"
     }
   ]
 }
