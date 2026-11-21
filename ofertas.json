@@ -1,6 +1,26 @@
 {
-  "atualizado": "2026-11-21T20:24:03.648Z",
+  "atualizado": "2026-11-21T20:26:18.573Z",
   "ofertas": [
+    {
+      "id": "3293vna",
+      "nome": "Máscara de Tratamento Antiqueda para Cabelos Grossos Genesis Kérastase 200ml",
+      "categoria": "Diversos",
+      "preco": 278.1,
+      "link": "https://meli.la/3293vna",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mascara-de-tratamento-antiqueda-para-cabelos-grossos-genesis-kerastase-200ml/p/MLB31414367",
+      "precoDe": 429.9,
+      "pix": true,
+      "parcelas": "R$ 309 em outros meios",
+      "extra": "R$ 100 OFF com cupom no anúncio",
+      "cupomAnuncio": "Compre R$799 e ganhe R$100 OFF",
+      "postado": "2026-11-21T20:26:18.571Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-3293vna.jpg"
+    },
     {
       "id": "1BWfhf1",
       "nome": "Fone de ouvido Tws Philips Tat1109bk/00 preto Ipx4",
@@ -2977,41 +2997,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1eDtTfL.jpg"
-    },
-    {
-      "id": "2rTqiye",
-      "nome": "Relógio Inteligente Smartwatch GPS Autônomo À prova d'água 3ATM Novante",
-      "categoria": "Tech",
-      "preco": 189.99,
-      "link": "https://meli.la/2rTqiye",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/relogio-inteligente-smartwatch-gps-autonomo-prova-dagua-3atm-novante-masculino-feminino-esportivo-digital-530mah-preto-bluetooth-chamadas-notificacoes-instantaneas-android-ios-com-lanterna-bussola/p/MLB64212276",
-      "precoDe": 598,
-      "parcelas": "6x de R$ 31,67 sem juros",
-      "postado": "2026-11-19T20:26:11.944Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2rTqiye.jpg"
-    },
-    {
-      "id": "25GzAF9",
-      "nome": "Mouse Gamer M711 Cobra Chroma Redragon Com fio Para Jogos 12400 DPI Com LED RGB Preto",
-      "categoria": "Tech",
-      "preco": 71.91,
-      "link": "https://meli.la/25GzAF9",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/mouse-gamer-m711-cobra-chroma-redragon-com-fio-para-jogos-12400-dpi-com-led-rgb-preto/p/MLB45160657",
-      "precoDe": 143.43,
-      "pix": true,
-      "parcelas": "R$ 79,90 em outros meios",
-      "postado": "2026-11-19T20:24:56.808Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-25GzAF9.jpg"
     }
   ]
 }
