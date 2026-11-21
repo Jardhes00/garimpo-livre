@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T19:12:01.729Z",
+  "atualizado": "2026-11-21T19:14:17.198Z",
   "ofertas": [
+    {
+      "id": "2YzMUER",
+      "nome": "Aparelho De Jantar 30 Peças Unni Oxford Orquidea",
+      "categoria": "Diversos",
+      "preco": 260.86,
+      "link": "https://meli.la/2YzMUER",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aparelho-de-jantar-30-pecas-unni-oxford-orquidea/p/MLB43353700",
+      "precoDe": 549.8,
+      "pix": true,
+      "parcelas": "R$ 306,90 em outros meios",
+      "postado": "2026-11-21T19:14:17.196Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2YzMUER.jpg"
+    },
     {
       "id": "2Je8kB3",
       "nome": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
@@ -3396,42 +3414,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1MXE5QG.jpg"
-    },
-    {
-      "id": "1QLXCxU",
-      "nome": "Micro-ondas 33l Philco Teclas Fáceis Limpa Fácil 1400w Pm36 127V",
-      "categoria": "Casa",
-      "preco": 454.91,
-      "link": "https://meli.la/1QLXCxU",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-33l-philco-teclas-faceis-limpa-facil-1400w-pm36-127v/p/MLB44898097",
-      "precoDe": 689.9,
-      "pix": true,
-      "parcelas": "R$499,90 em 9x R$55,54 sem juros",
-      "postado": "2026-11-19T19:13:50.837Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1QLXCxU.jpg"
-    },
-    {
-      "id": "1urR5vV",
-      "nome": "Placa Mãe Asus Tuf Gaming B550m-plus Ddr4 AMD Am4 mATX RGB",
-      "categoria": "Diversos",
-      "preco": 675.28,
-      "link": "https://meli.la/1urR5vV",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/placa-mae-asus-tuf-gaming-b550m-plus-ddr4-amd-am4-matx-rgb/p/MLB36476927",
-      "precoDe": 1096.78,
-      "pix": true,
-      "parcelas": "R$734 em outros meios",
-      "postado": "2026-11-19T19:12:35.736Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1urR5vV.jpg"
     }
   ]
 }
