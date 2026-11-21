@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T19:45:48.031Z",
+  "atualizado": "2026-11-21T19:48:02.537Z",
   "ofertas": [
+    {
+      "id": "1LnciWT",
+      "nome": "Modulo Taramps 400 Rms Ts-400 Ts400x4 T400 4 Canais V6",
+      "categoria": "Diversos",
+      "preco": 148.1,
+      "link": "https://meli.la/1LnciWT",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/modulo-taramps-400-rms-ts-400-ts400x4-t400-4-canais-v6/p/MLB24783436",
+      "precoDe": 199,
+      "pix": true,
+      "parcelas": "R$ 155,90 em 5x R$ 31,18 sem juros",
+      "postado": "2026-11-21T19:48:02.536Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1LnciWT.jpg"
+    },
     {
       "id": "2LiLL2x",
       "nome": "Cafeína Caffeine Army Supercoffee Classic Size em pó Sem sabor x 380g",
@@ -3188,41 +3206,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-29Bv6HA.jpg"
-    },
-    {
-      "id": "262dL6W",
-      "nome": "Ilía Flor De Laranjeira 50ml Deo Parfum Feminino Natura",
-      "categoria": "Diversos",
-      "preco": 99.95,
-      "link": "https://meli.la/262dL6W",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ilia-flor-de-laranjeira-50ml-deo-parfum-feminino-natura/p/MLB19441372",
-      "precoDe": 199.9,
-      "parcelas": "3x de R$33,32 sem juros",
-      "postado": "2026-11-19T19:47:32.473Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-262dL6W.jpg"
-    },
-    {
-      "id": "1WcKahn",
-      "nome": "Câmera Segurança Externa Ip Wifi A28 App Icsee A Prova Dagua",
-      "categoria": "Diversos",
-      "preco": 113.48,
-      "link": "https://meli.la/1WcKahn",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/camera-seguranca-externa-ip-wifi-a28-app-icsee-a-prova-dagua/up/MLBU3989591164",
-      "precoDe": 200,
-      "pix": true,
-      "parcelas": "R$123,35 em outros meios",
-      "postado": "2026-11-19T19:46:16.908Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1WcKahn.jpg"
     }
   ]
 }
