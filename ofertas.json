@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-21T22:21:07.273Z",
+  "atualizado": "2026-11-21T22:23:21.644Z",
   "ofertas": [
+    {
+      "id": "2LS2Ucv",
+      "nome": "Climatizador de Ar Portátil 15L Umidificador Evaporativo 3 Velocidades 3 Modos",
+      "categoria": "Diversos",
+      "preco": 450,
+      "link": "https://meli.la/2LS2Ucv",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/climatizador-de-ar-portatil-15l-umidificador-evaporativo-3-velocidades-3-modos-de-vento-temporizador-resfriamento-touch-controle-remoto/p/MLB80744090",
+      "precoDe": 1199.99,
+      "postado": "2026-11-21T22:23:21.643Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2LS2Ucv.jpg"
+    },
     {
       "id": "1sFL2dC",
       "nome": "Piscina Inflável Retangular 3600L Grande Familiar Infantil para Adultos e",
