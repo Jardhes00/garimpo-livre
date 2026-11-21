@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T21:02:19.813Z",
+  "atualizado": "2026-11-21T21:04:35.053Z",
   "ofertas": [
+    {
+      "id": "1Bugpgg",
+      "nome": "Aspirador Vertical WAP POWER SPEED MAX CI10 3 EM 1 1600W 127V",
+      "categoria": "Casa",
+      "preco": 197.91,
+      "link": "https://meli.la/1Bugpgg",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aspirador-vertical-wap-power-speed-max-ci10-3-em-1-1600w-127v/p/MLB62021471",
+      "precoDe": 359.9,
+      "pix": true,
+      "parcelas": "R$ 219,90 em outros meios",
+      "postado": "2026-11-21T21:04:35.051Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Bugpgg.jpg"
+    },
     {
       "id": "2xLnufh",
       "nome": "Tira Manchas Vanish Líquido Multiuso para Roupas Coloridas Pro Line 5L",
@@ -2759,40 +2777,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1tqXueG.jpg"
-    },
-    {
-      "id": "1uuCM7w",
-      "nome": "Shampoo Johnson's Baby Glicerina Hipoalergênico 750ml",
-      "categoria": "Beleza",
-      "preco": 30.1,
-      "link": "https://meli.la/1uuCM7w",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/shampoo-johnsons-baby-glicerina-hipoalergenico-750ml/p/MLB24208936",
-      "precoDe": 62.99,
-      "postado": "2026-11-19T21:03:43.051Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1uuCM7w.jpg"
-    },
-    {
-      "id": "2FzCaMD",
-      "nome": "Micro-ondas Electrolux 36L Branco Efficient com Descongelamento Assistido ME36B",
-      "categoria": "Casa",
-      "preco": 616.23,
-      "link": "https://meli.la/2FzCaMD",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-electrolux-36l-branco-efficient-com-descongelamento-assistido-me36b/p/MLB19790746",
-      "precoDe": 899,
-      "pix": true,
-      "parcelas": "R$635,29 em outros meios",
-      "postado": "2026-11-19T21:02:27.980Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2FzCaMD.jpg"
     }
   ]
 }
