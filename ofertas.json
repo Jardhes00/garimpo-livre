@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T21:22:35.338Z",
+  "atualizado": "2026-11-21T21:24:50.252Z",
   "ofertas": [
+    {
+      "id": "1eBxQ1V",
+      "nome": "Balança Digital Corporal Bioimpedância Aplicativo Bluetooth Relaxmedic",
+      "categoria": "Diversos",
+      "preco": 103.5,
+      "link": "https://meli.la/1eBxQ1V",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/balanca-digital-corporal-bioimpedancia-aplicativo-bluetooth-relaxmedic/p/MLB21814751",
+      "precoDe": 279.9,
+      "parcelas": "12x de R$ 10,23",
+      "cupomAnuncio": "R$98,32 com Cupom por seguir a loja",
+      "postado": "2026-11-21T21:24:50.250Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1eBxQ1V.jpg"
+    },
     {
       "id": "2AbEHbE",
       "nome": "Perfume Lattafa Asad Eau De Parfum 100ml Masculino",
