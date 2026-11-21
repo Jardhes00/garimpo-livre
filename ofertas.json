@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T21:15:50.017Z",
+  "atualizado": "2026-11-21T21:18:05.050Z",
   "ofertas": [
+    {
+      "id": "1qAQuPf",
+      "nome": "Fritadeira Airfryer Digital Série 2000 Xl Na239/00 Preto",
+      "categoria": "Casa",
+      "preco": 331.55,
+      "link": "https://meli.la/1qAQuPf",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fritadeira-airfryer-digital-serie-2000-xl-na23900-preto/p/MLB68717302",
+      "precoDe": 629.9,
+      "pix": true,
+      "parcelas": "R$ 349 em 6x de R$ 58,17 sem juros",
+      "postado": "2026-11-21T21:18:05.049Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1qAQuPf.jpg"
+    },
     {
       "id": "2VCuw73",
       "nome": "Parafusadeira 48 Volts Furadeira De Precisão C/ 2 Baterias Com Maleta Kit Completo Multifuncional Led Eixo Flexível Vários Níveis Torque Para Parafusos Telhados Manutenção Pc - Mackie ferramentas",
