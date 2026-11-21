@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-21T22:12:07.137Z",
+  "atualizado": "2026-11-21T22:14:22.275Z",
   "ofertas": [
+    {
+      "id": "2HBJecc",
+      "nome": "Extratora e Higienizadora Portátil WAP Spot Cleaner W2 1600W - Pulveriza",
+      "categoria": "Diversos",
+      "preco": 599,
+      "link": "https://meli.la/2HBJecc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/extratora-e-higienizadora-portatil-wap-spot-cleaner-w2-1600w-pulveriza-esfrega-e-extrai/p/MLB22511802",
+      "precoDe": 1174,
+      "parcelas": "10x de R$59,90 sem juros",
+      "postado": "2026-11-21T22:14:22.274Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2HBJecc.jpg"
+    },
     {
       "id": "1wNQiwL",
       "nome": "Bomba Periferica Ferrari Acquapump 1/2CV IP44 Monofasico Rotor em Bronze",
