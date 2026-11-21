@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T22:50:22.876Z",
+  "atualizado": "2026-11-21T22:52:38.459Z",
   "ofertas": [
+    {
+      "id": "2sLvTmv",
+      "nome": "Máquina Singer Facilita Pro 4423 Zig Zag 23 Pontos Decorativos Portatil",
+      "categoria": "Diversos",
+      "preco": 1214.1,
+      "link": "https://meli.la/2sLvTmv",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquina-singer-facilita-pro-4423-zig-zag-23-pontos-decorativos-portatil/p/MLB16323394",
+      "precoDe": 1799,
+      "pix": true,
+      "parcelas": "R$1.349 em 10x R$134,90 sem juros",
+      "postado": "2026-11-21T22:52:38.458Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2sLvTmv.jpg"
+    },
     {
       "id": "16JtRTa",
       "nome": "Ar-condicionado Portátil 10000 Btus Eos Slim Eap10f Cor Branco Voltagem da",
