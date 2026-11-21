@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T19:57:02.811Z",
+  "atualizado": "2026-11-21T19:59:17.869Z",
   "ofertas": [
+    {
+      "id": "2fBP8g3",
+      "nome": "Fralda Pampers Pants Ajuste Total Tamanho XG, 82 Un",
+      "categoria": "Bebê",
+      "preco": 88.8,
+      "link": "https://meli.la/2fBP8g3",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fralda-pampers-pants-ajuste-total-tamanho-xg-82-un/p/MLB69621632",
+      "precoDe": 135.9,
+      "parcelas": "12x de R$ 8,75",
+      "relampago": true,
+      "postado": "2026-11-21T19:59:17.867Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2fBP8g3.jpg"
+    },
     {
       "id": "1feiqbM",
       "nome": "Jogo De Jantar E Chá 20 Peças Unni Brisa Oxford Aw20-5903",
@@ -3118,41 +3136,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-16RG1N5.jpg"
-    },
-    {
-      "id": "1SNFJM3",
-      "nome": "Relógio Masculino Saint Germain Murray Caixa Prateada de 40mm",
-      "categoria": "Moda",
-      "preco": 91.43,
-      "link": "https://meli.la/1SNFJM3",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/relogio-masculino-saint-germain-murray-caixa-prateada-de-40mm/p/MLB21404840",
-      "precoDe": 249.9,
-      "pix": true,
-      "parcelas": "R$96,43 em outros meios",
-      "cupomAnuncio": "Compre R$150 e ganhe 5% OFF por seguir a loja",
-      "postado": "2026-11-19T19:58:47.083Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1SNFJM3.jpg"
-    },
-    {
-      "id": "1dSHrVM",
-      "nome": "Tablet Android 15 Pad12 Ultra 12+512gb 10000mah 4g Lte Snapdragon incell",
-      "categoria": "Tech",
-      "preco": 742,
-      "link": "https://meli.la/1dSHrVM",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/tablet-android-15-pad12-ultra-12512gb-10000mah-4g-lte-snapdragon-incell/p/MLB64358629",
-      "precoDe": 1499,
-      "postado": "2026-11-19T19:57:32.179Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1dSHrVM.jpg"
     }
   ]
 }
