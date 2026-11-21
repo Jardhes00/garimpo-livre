@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-21T20:53:19.281Z",
+  "atualizado": "2026-11-21T20:55:34.702Z",
   "ofertas": [
+    {
+      "id": "1t9t1j3",
+      "nome": "Escova Eletrica Philips Colgate Sonicpro 35 2 Unidades",
+      "categoria": "Diversos",
+      "preco": 202.81,
+      "link": "https://meli.la/1t9t1j3",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/escova-eletrica-philips-colgate-sonicpro-35-2-unidades/p/MLB52868995",
+      "precoDe": 563.85,
+      "parcelas": "12x R$ 20,08",
+      "extra": "R$ 70 OFF com cupom no anúncio",
+      "cupomAnuncio": "Compre R$249 e ganhe R$70 OFF",
+      "postado": "2026-11-21T20:55:34.700Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1t9t1j3.jpg"
+    },
     {
       "id": "24jZJbr",
       "nome": "Cadeira de Refeição Poke Marfim - Burigotto",
@@ -2808,41 +2827,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2fFGLaq.jpg"
-    },
-    {
-      "id": "1btZmum",
-      "nome": "Kit Ventosa Automática Recarregável Fallove, 2 Baterias e Re-Sucção Para",
-      "categoria": "Diversos",
-      "preco": 182.07,
-      "link": "https://meli.la/1btZmum",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit-ventosa-automatica-recarregavel-fallove-2-baterias-e-re-succao-para-granito-e-vidro/p/MLB76569527",
-      "precoDe": 269.98,
-      "pix": true,
-      "parcelas": "R$191,65 em 6x R$31,94 sem juros",
-      "postado": "2026-11-19T20:54:57.808Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1btZmum.jpg"
-    },
-    {
-      "id": "15yJQhd",
-      "nome": "Armário de Cozinha Poliman Móveis Clarice 12 Portas 1 Gaveta",
-      "categoria": "Casa",
-      "preco": 664.99,
-      "link": "https://meli.la/15yJQhd",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/armario-de-cozinha-poliman-moveis-clarice-12-portas-1-gaveta/p/MLB62724058",
-      "precoDe": 949.95,
-      "parcelas": "10x de R$66,50 sem juros",
-      "postado": "2026-11-19T20:53:42.688Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-15yJQhd.jpg"
     }
   ]
 }
