@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T20:42:03.965Z",
+  "atualizado": "2026-11-21T20:44:19.172Z",
   "ofertas": [
+    {
+      "id": "1Gdn7Xb",
+      "nome": "Ventilador PVT491 2 em 1 Mesa e Parede Maxx Force 8 Pás 174W Philco",
+      "categoria": "Casa",
+      "preco": 162.45,
+      "link": "https://meli.la/1Gdn7Xb",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-pvt491-2-em-1-mesa-e-parede-maxx-force-8-pas-174w-philco/p/MLB27296788",
+      "precoDe": 274.06,
+      "pix": true,
+      "parcelas": "R$ 180,50 em 6x R$ 30,08 sem juros",
+      "postado": "2026-11-21T20:44:19.170Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Gdn7Xb.jpg"
+    },
     {
       "id": "1Q1bNWf",
       "nome": "Aparador de Grama Elétrico WAP WG AG01E Diâmetro de Corte de 280mm 1600W 11000 RPM 127V",
@@ -2874,43 +2892,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-28pce4e.jpg"
-    },
-    {
-      "id": "2r4rJU2",
-      "nome": "Babá Eletrônica VLX VB603 sem Fio com Câmera cor branco",
-      "categoria": "Diversos",
-      "preco": 185.31,
-      "link": "https://meli.la/2r4rJU2",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/baba-eletronica-vlx-vb603-sem-fio-com-camera-cor-branco/p/MLB47549605",
-      "precoDe": 340.67,
-      "pix": true,
-      "parcelas": "R$213 em outros meios",
-      "postado": "2026-11-19T20:43:42.505Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2r4rJU2.jpg"
-    },
-    {
-      "id": "2XKAMaG",
-      "nome": "Cadeira Escritório Ergonômica Mesh Giratoria Reclinavel Olinda Plus RSH650",
-      "categoria": "Diversos",
-      "preco": 322.15,
-      "link": "https://meli.la/2XKAMaG",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cadeira-escritorio-ergonomica-mesh-giratoria-reclinavel-olinda-plus-rsh650-rishon-cor-preto-com-suporte-lombar-estofado/p/MLB80299571",
-      "precoDe": 1299,
-      "pix": true,
-      "parcelas": "R$379 em 7x R$54,14 sem juros",
-      "cupomAnuncio": "R$306,04 com Cupom por seguir a loja",
-      "postado": "2026-11-19T20:42:27.590Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2XKAMaG.jpg"
     }
   ]
 }
