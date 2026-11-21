@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-21T20:21:48.393Z",
+  "atualizado": "2026-11-21T20:24:03.648Z",
   "ofertas": [
+    {
+      "id": "1BWfhf1",
+      "nome": "Fone de ouvido Tws Philips Tat1109bk/00 preto Ipx4",
+      "categoria": "Tech",
+      "preco": 89,
+      "link": "https://meli.la/1BWfhf1",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fone-de-ouvido-tws-philips-tat1109bk00-preto-ipx4/p/MLB46051297",
+      "precoDe": 199,
+      "parcelas": "12x de R$ 8,77",
+      "postado": "2026-11-21T20:24:03.646Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1BWfhf1.jpg"
+    },
     {
       "id": "1DHuF7F",
       "nome": "Starlink Mini X Com Roteador Wifi 6 Branco",
@@ -2995,43 +3012,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-25GzAF9.jpg"
-    },
-    {
-      "id": "2CTPio6",
-      "nome": "Barraca Camping Iglu para até 4 Pessoas - Mor",
-      "categoria": "Diversos",
-      "preco": 87.22,
-      "link": "https://meli.la/2CTPio6",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/barraca-camping-iglu-para-ate-4-pessoas-mor/p/MLB23113041",
-      "precoDe": 196.79,
-      "pix": true,
-      "parcelas": "R$ 94,80 em outros meios",
-      "postado": "2026-11-19T20:23:42.006Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2CTPio6.jpg"
-    },
-    {
-      "id": "11NTa4g",
-      "nome": "Panela De Pressão Ceramic Life Pressure 4,2l Areia Brinox",
-      "categoria": "Casa",
-      "preco": 181.23,
-      "link": "https://meli.la/11NTa4g",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/panela-de-pressao-ceramic-life-pressure-42l-areia-brinox/p/MLB58728183",
-      "precoDe": 477.69,
-      "pix": true,
-      "parcelas": "R$ 196,99 em outros meios",
-      "cupomAnuncio": "Compre R$200 e ganhe 5% OFF por seguir a loja",
-      "postado": "2026-11-19T20:22:01.177Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-11NTa4g.jpg"
     }
   ]
 }
