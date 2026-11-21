@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-21T21:00:04.730Z",
+  "atualizado": "2026-11-21T21:02:19.813Z",
   "ofertas": [
+    {
+      "id": "2xLnufh",
+      "nome": "Tira Manchas Vanish Líquido Multiuso para Roupas Coloridas Pro Line 5L",
+      "categoria": "Diversos",
+      "preco": 49.99,
+      "link": "https://meli.la/2xLnufh",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tira-manchas-vanish-liquido-multiuso-para-roupas-coloridas-pro-line-5l/p/MLB19465892",
+      "precoDe": 79.9,
+      "postado": "2026-11-21T21:02:19.811Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2xLnufh.jpg"
+    },
     {
       "id": "1nLPor6",
       "nome": "Perfume Jean Paul Gaultier Le Male Elixir Parfum 75 ml Masculino",
@@ -2777,23 +2793,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2FzCaMD.jpg"
-    },
-    {
-      "id": "2zYCfFb",
-      "nome": "Fórmula Natural Fresh Meat Sensitive Cães Adultos Mini e Pequeno Portes Sabor",
-      "categoria": "Diversos",
-      "preco": 114.98,
-      "link": "https://meli.la/2zYCfFb",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/formula-natural-fresh-meat-sensitive-caes-adultos-mini-e-pequeno-portes-sabor-cordeiro-25kg/p/MLB18720059",
-      "precoDe": 200,
-      "cupomAnuncio": "R$110,98 com Cupom por seguir a loja",
-      "postado": "2026-11-19T21:01:13.068Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2zYCfFb.jpg"
     }
   ]
 }
