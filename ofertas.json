@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T21:29:20.544Z",
+  "atualizado": "2026-11-21T21:31:35.599Z",
   "ofertas": [
+    {
+      "id": "1aHJTB2",
+      "nome": "Cafeteira Nescafé Dolce Gusto Mini Me 2.0 Preto",
+      "categoria": "Casa",
+      "preco": 367.91,
+      "link": "https://meli.la/1aHJTB2",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafeteira-nescafe-dolce-gusto-mini-me-20-preto/p/MLB81300764",
+      "precoDe": 599.9,
+      "pix": true,
+      "parcelas": "R$ 399,90 em outros meios",
+      "postado": "2026-11-21T21:31:35.598Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1aHJTB2.jpg"
+    },
     {
       "id": "16xCQJ9",
       "nome": "Simparic 80mg Antipulgas Carrapatos Cães 20,1-40kg 3 Comprimidos",
