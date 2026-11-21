@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-21T20:57:49.447Z",
+  "atualizado": "2026-11-21T21:00:04.730Z",
   "ofertas": [
+    {
+      "id": "1nLPor6",
+      "nome": "Perfume Jean Paul Gaultier Le Male Elixir Parfum 75 ml Masculino",
+      "categoria": "Beleza",
+      "preco": 420.97,
+      "link": "https://meli.la/1nLPor6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/perfume-jean-paul-gaultier-le-male-elixir-parfum-75-ml-masculino/p/MLB24630800",
+      "precoDe": 739,
+      "parcelas": "12x R$ 40,71",
+      "postado": "2026-11-21T21:00:04.728Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1nLPor6.jpg"
+    },
     {
       "id": "1QbrKqb",
       "nome": "Cadeira De Escritório Sweet Studio Cadeira Gamer Ergonômica Preto Gamer Couro Sintético",
@@ -2777,38 +2794,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2zYCfFb.jpg"
-    },
-    {
-      "id": "2c7e8fL",
-      "nome": "Detergente Ypê Neutro 5 Litros",
-      "categoria": "Diversos",
-      "preco": 19.99,
-      "link": "https://meli.la/2c7e8fL",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/detergente-ype-neutro-5-litros/p/MLB23958420",
-      "precoDe": 32.99,
-      "postado": "2026-11-19T20:59:57.841Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2c7e8fL.jpg"
-    },
-    {
-      "id": "1dgq9Ch",
-      "nome": "Sabonete em Barra Dove Original 6 Unidades 90g",
-      "categoria": "Diversos",
-      "preco": 20.61,
-      "link": "https://meli.la/1dgq9Ch",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/sabonete-em-barra-dove-original-6-unidades-90g/p/MLB34506179",
-      "precoDe": 29.9,
-      "postado": "2026-11-19T20:58:43.032Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1dgq9Ch.jpg"
     }
   ]
 }
