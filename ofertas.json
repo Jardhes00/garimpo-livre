@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-21T23:15:09.133Z",
+  "atualizado": "2026-11-21T23:17:23.767Z",
   "ofertas": [
+    {
+      "id": "21hdfJY",
+      "nome": "Café União Tradicional Pouch 500g",
+      "categoria": "Diversos",
+      "preco": 18.99,
+      "link": "https://meli.la/21hdfJY",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafe-uniao-tradicional-pouch-500g/p/MLB34178051",
+      "precoDe": 28.06,
+      "postado": "2026-11-21T23:17:23.765Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-21hdfJY.jpg"
+    },
     {
       "id": "1tEQxa5",
       "nome": "Escova Rotativa Bivolt Rotating Hyaluronic Conair Cor Preto E Azul",
