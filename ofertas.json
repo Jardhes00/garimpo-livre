@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T22:32:22.600Z",
+  "atualizado": "2026-11-21T22:34:37.536Z",
   "ofertas": [
+    {
+      "id": "1SrnpJX",
+      "nome": "Rack Estante Para Tv Com Painel De Até 65 Havana Para Sala De Estar Moderna",
+      "categoria": "Tech",
+      "preco": 359.48,
+      "link": "https://meli.la/1SrnpJX",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/rack-estante-para-tv-com-painel-de-ate-65-havana-para-sala-de-estar-moderna-cinema-blue-moby/p/MLB65585950",
+      "precoDe": 899,
+      "pix": true,
+      "parcelas": "R$422,92 em outros meios",
+      "postado": "2026-11-21T22:34:37.535Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1SrnpJX.jpg"
+    },
     {
       "id": "2CK6UvG",
       "nome": "Gin London Dry 750ml Beefeater Sabor Refrescante E Equilibrado, Com Um Toque",
