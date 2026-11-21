@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-21T20:08:18.282Z",
+  "atualizado": "2026-11-21T20:10:33.080Z",
   "ofertas": [
+    {
+      "id": "1UvKDqn",
+      "nome": "Aspirador de Pó Vertical Electrolux 1450W STK15 com Fio Portátil de Mão 2 em 1 e 1,6 Litros de capacidade com Filtro Hepa Cinza-escuro",
+      "categoria": "Casa",
+      "preco": 164.9,
+      "link": "https://meli.la/1UvKDqn",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aspirador-de-po-vertical-electrolux-1450w-stk15-com-fio-portatil-de-mao-2-em-1-e-16-litros-de-capacidade-com-filtro-hepa-cinza-escuro/p/MLB18238728",
+      "precoDe": 239.99,
+      "parcelas": "12x de R$ 16,30",
+      "postado": "2026-11-21T20:10:33.078Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1UvKDqn.jpg"
+    },
     {
       "id": "1Ht7gEb",
       "nome": "Árvore De Natal 2.10 Metros 600 Galhos Grande Tradicional Luxo Cor Verde PREMIUM Sambalelê",
@@ -3056,38 +3073,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2nSmqfk.jpg"
-    },
-    {
-      "id": "2YP55ds",
-      "nome": "Vinho Chileno Tinto Seco Reserva Casillero del Diablo Cabernet Sauvignon 375 ml",
-      "categoria": "Diversos",
-      "preco": 16.93,
-      "link": "https://meli.la/2YP55ds",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/vinho-chileno-tinto-seco-reserva-casillero-del-diablo-cabernet-sauvignon-375-ml/p/MLB18411601",
-      "precoDe": 39.9,
-      "postado": "2026-11-19T20:10:02.270Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2YP55ds.jpg"
-    },
-    {
-      "id": "1gppCMz",
-      "nome": "Protetor Solar Facial Neutrogena Sun Fresh FPS 70, 40g",
-      "categoria": "Beleza",
-      "preco": 36.99,
-      "link": "https://meli.la/1gppCMz",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/protetor-solar-facial-neutrogena-sun-fresh-fps-70-40g/p/MLB21864279",
-      "precoDe": 66.99,
-      "postado": "2026-11-19T20:08:47.183Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1gppCMz.jpg"
     }
   ]
 }
