@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-21T20:01:32.954Z",
+  "atualizado": "2026-11-21T20:03:48.233Z",
   "ofertas": [
+    {
+      "id": "1hwKsAq",
+      "nome": "Whey Protein Concentrado Dux Nutrition Pote 900g Sabor Chocolate Branco - 20g de Proteínas Por Dose - 100% Puro - Rápida Absorção - 30 Doses",
+      "categoria": "Casa",
+      "preco": 192.68,
+      "link": "https://meli.la/1hwKsAq",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-protein-concentrado-dux-nutrition-pote-900g-sabor-chocolate-branco-20g-de-proteinas-por-dose-100-puro-rapida-absorcao-30-doses/p/MLB63949599",
+      "precoDe": 344,
+      "parcelas": "2x de R$ 96,34 sem juros",
+      "postado": "2026-11-21T20:03:48.231Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1hwKsAq.jpg"
+    },
     {
       "id": "2ghuzxQ",
       "nome": "Celular Samsung Galaxy S25 Fe 5g, 128gb, 8gb Ram, Câmera Tripla De 50+12+8, Tela Grande De 6.7 Azul Marinho",
@@ -3087,40 +3104,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-24Cu4TA.jpg"
-    },
-    {
-      "id": "1QzBzqn",
-      "nome": "Liquidificador Electrolux 1300W de Potência com 3.2 Litros de Capacidade 12",
-      "categoria": "Casa",
-      "preco": 133.31,
-      "link": "https://meli.la/1QzBzqn",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/liquidificador-electrolux-1300w-de-potencia-com-32-litros-de-capacidade-12-velocidades-6-lamina-triforce-e-pes-antiderrapantes-ebl1300-preto/p/MLB56545596",
-      "precoDe": 239,
-      "postado": "2026-11-19T20:03:47.328Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1QzBzqn.jpg"
-    },
-    {
-      "id": "2gHBUWx",
-      "nome": "Kit 2 Ventilador Parede Ventisol 70cm Bivolt 230w Industrial",
-      "categoria": "Casa",
-      "preco": 789.99,
-      "link": "https://meli.la/2gHBUWx",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit-2-ventilador-parede-ventisol-70cm-bivolt-230w-industrial/up/MLBU5221004790",
-      "precoDe": 1373.5,
-      "parcelas": "10x de R$79 sem juros",
-      "cupomAnuncio": "R$777,99 com Cupom por seguir a loja",
-      "postado": "2026-11-19T20:02:32.269Z",
-      "conferido": "2026-11-19",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2gHBUWx.jpg"
     }
   ]
 }
