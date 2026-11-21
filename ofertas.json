@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-21T22:03:06.448Z",
+  "atualizado": "2026-11-21T22:05:21.491Z",
   "ofertas": [
+    {
+      "id": "1TFmUTZ",
+      "nome": "Luminária De Led Com Ventilador 60w Ccontrole 3 Cores",
+      "categoria": "Games",
+      "preco": 39.2,
+      "link": "https://meli.la/1TFmUTZ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/luminaria-de-led-com-ventilador-60w-ccontrole-3-cores/up/MLBU5182705791",
+      "precoDe": 68.08,
+      "postado": "2026-11-21T22:05:21.490Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1TFmUTZ.jpg"
+    },
     {
       "id": "2fhnPTm",
       "nome": "Aspirador de Pó Vertical Electrolux 1450W STK15 com Fio Portátil de Mão 2 em 1",
