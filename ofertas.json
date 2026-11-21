@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-21T22:43:37.894Z",
+  "atualizado": "2026-11-21T22:45:53.066Z",
   "ofertas": [
+    {
+      "id": "2DymGkQ",
+      "nome": "Caixa de Som Boombox Plus AIWA BBS-01-GR 200W Bluetooth 30H IP66 USB Verde",
+      "categoria": "Tech",
+      "preco": 1149.08,
+      "link": "https://meli.la/2DymGkQ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-boombox-plus-aiwa-bbs-01-gr-200w-bluetooth-30h-ip66-usb-verde/p/MLB38650483",
+      "precoDe": 2290,
+      "pix": true,
+      "parcelas": "R$1.249 em outros meios",
+      "postado": "2026-11-21T22:45:53.065Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2DymGkQ.jpg"
+    },
     {
       "id": "1kZbzF9",
       "nome": "Pistola De Pintura Elétrica 1,4l 550w Fasterr Fst054 Cor Amarelo 220v",
