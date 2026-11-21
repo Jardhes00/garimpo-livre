@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-21T22:30:07.504Z",
+  "atualizado": "2026-11-21T22:32:22.600Z",
   "ofertas": [
+    {
+      "id": "2CK6UvG",
+      "nome": "Gin London Dry 750ml Beefeater Sabor Refrescante E Equilibrado, Com Um Toque",
+      "categoria": "Diversos",
+      "preco": 64,
+      "link": "https://meli.la/2CK6UvG",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/gin-london-dry-750ml-beefeater-sabor-refrescante-e-equilibrado-com-um-toque-frutado-e-levemente-citrico/p/MLB17978858",
+      "precoDe": 129.9,
+      "postado": "2026-11-21T22:32:22.598Z",
+      "conferido": "2026-11-21",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2CK6UvG.jpg"
+    },
     {
       "id": "31aL7AU",
       "nome": "Guarda-roupa Casal Móveis Lopas Easy Slim 8 Portas Com Espelho E Gavetas",
