@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T15:16:21.853Z",
+  "atualizado": "2026-11-22T15:18:36.907Z",
   "ofertas": [
+    {
+      "id": "33g3vUU",
+      "nome": "Cetaphil Loção Hidratante Corporal e Facial para Pele Sensível, Normal a Seca",
+      "categoria": "Beleza",
+      "preco": 67.41,
+      "link": "https://meli.la/33g3vUU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cetaphil-locao-hidratante-corporal-e-facial-para-pele-sensivel-normal-a-seca-473ml-hidratacao-48h/p/MLB20772474",
+      "precoDe": 134.9,
+      "pix": true,
+      "parcelas": "R$74,90 em outros meios",
+      "postado": "2026-11-22T15:18:36.905Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-33g3vUU.jpg"
+    },
     {
       "id": "1pFWf1b",
       "nome": "Jogo De Toalhas 4 Pçs Fio Cardado 100% Algodão Bosco Karsten Cinza Bosco",
@@ -3365,24 +3383,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2MYD643.jpg"
-    },
-    {
-      "id": "24hXPUa",
-      "nome": "Transformador 7000va 220 Para 110 110v Para 220v Bivolt Conversor Adaptador De",
-      "categoria": "Diversos",
-      "preco": 241.89,
-      "link": "https://meli.la/24hXPUa",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/transformador-7000va-220-para-110-110v-para-220v-bivolt-conversor-adaptador-de-voltagem-127v-inversor-energia-ar-condicionado-9000-12000-18000-btus-geladeira-freezer-lava-e-seca-escova-nespresso-forno/p/MLB27074801",
-      "precoDe": 352.51,
-      "pix": true,
-      "parcelas": "R$254,62 em outros meios",
-      "postado": "2026-11-20T15:17:32.467Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-24hXPUa.jpg"
     }
   ]
 }
