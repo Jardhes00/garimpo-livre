@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-22T15:34:22.298Z",
+  "atualizado": "2026-11-22T15:36:37.441Z",
   "ofertas": [
+    {
+      "id": "2SC3eNS",
+      "nome": "Cafeteira Espresso Lattego Ep2330 Série 2300 Philips Walita Cinza",
+      "categoria": "Casa",
+      "preco": 2854.98,
+      "link": "https://meli.la/2SC3eNS",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafeteira-espresso-lattego-ep2330-serie-2300-philips-walita-cinza/p/MLB49645923",
+      "precoDe": 4799.9,
+      "parcelas": "10x de R$285,50 sem juros",
+      "postado": "2026-11-22T15:36:37.439Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2SC3eNS.jpg"
+    },
     {
       "id": "1AMmyQ2",
       "nome": "Lanterna Tática Militar T9 Mais Forte Do Mundo Potente Led Recarregável",
@@ -3364,22 +3381,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1WuwDhi.jpg"
-    },
-    {
-      "id": "1ygptfc",
-      "nome": "Pack Cerveja Budweiser Lager americana clara lata 350ml - 12 unidades",
-      "categoria": "Diversos",
-      "preco": 33.68,
-      "link": "https://meli.la/1ygptfc",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/pack-cerveja-budweiser-lager-americana-clara-lata-350ml-12-unidades/p/MLB18498516",
-      "precoDe": 55.08,
-      "postado": "2026-11-20T15:35:33.900Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1ygptfc.jpg"
     }
   ]
 }
