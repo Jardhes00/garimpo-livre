@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-22T17:38:27.136Z",
+  "atualizado": "2026-11-22T17:39:41.812Z",
   "ofertas": [
+    {
+      "id": "1o7ekUu",
+      "nome": "Gillette Mach3 Carga Para Aparelho 16 Unidades",
+      "categoria": "Diversos",
+      "preco": 76.09,
+      "link": "https://meli.la/1o7ekUu",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/gillette-mach3-carga-para-aparelho-16-unidades/p/MLB17355353",
+      "precoDe": 115.9,
+      "postado": "2026-11-22T17:39:41.811Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1o7ekUu.jpg"
+    },
     {
       "id": "1dxrBVD",
       "nome": "Aparelho De Jantar E Chá 30 Pçs Oxford Ryo Bambu",
@@ -3100,24 +3116,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2kiX1sy.jpg"
-    },
-    {
-      "id": "1UKABQB",
-      "nome": "Caixa de som inteligente Amazon Echo Dot Max",
-      "categoria": "Tech",
-      "preco": 557.07,
-      "link": "https://meli.la/1UKABQB",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-inteligente-amazon-echo-dot-max/p/MLB60085379",
-      "precoDe": 999,
-      "pix": true,
-      "parcelas": "R$599 em 10x R$59,90 sem juros",
-      "postado": "2026-11-20T17:39:09.802Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1UKABQB.jpg"
     }
   ]
 }
