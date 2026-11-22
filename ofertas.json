@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-22T15:50:07.937Z",
+  "atualizado": "2026-11-22T15:52:22.962Z",
   "ofertas": [
+    {
+      "id": "25KMhMT",
+      "nome": "Relógio Casio Illumitator Sport World Map AE-1200whl - 5avdf Preto Marrom",
+      "categoria": "Moda",
+      "preco": 336,
+      "link": "https://meli.la/25KMhMT",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/relogio-casio-illumitator-sport-world-map-ae-1200whl-5avdf-preto-marrom-digital/p/MLB45438193",
+      "precoDe": 559,
+      "parcelas": "10x de R$33,60 sem juros",
+      "postado": "2026-11-22T15:52:22.960Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-25KMhMT.jpg"
+    },
     {
       "id": "1niH5rC",
       "nome": "Licor 43 Garrafa 700ml Original",
@@ -3363,22 +3380,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-275V55x.jpg"
-    },
-    {
-      "id": "1LarX7G",
-      "nome": "Maquina Acabamento Cortar Cabelo Barba E Pelos Kemei 032",
-      "categoria": "Diversos",
-      "preco": 34.62,
-      "link": "https://meli.la/1LarX7G",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/maquina-acabamento-cortar-cabelo-barba-e-pelos-kemei-032/up/MLBU4992668498",
-      "precoDe": 78.9,
-      "postado": "2026-11-20T15:51:18.862Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1LarX7G.jpg"
     }
   ]
 }
