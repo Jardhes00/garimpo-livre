@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T17:13:26.195Z",
+  "atualizado": "2026-11-22T17:14:41.035Z",
   "ofertas": [
+    {
+      "id": "1i24Hzr",
+      "nome": "Câmera de Segurança Inteligente Intelbras iM3 C Branca",
+      "categoria": "Diversos",
+      "preco": 143.91,
+      "link": "https://meli.la/1i24Hzr",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/camera-de-seguranca-inteligente-intelbras-im3-c-branca/p/MLB18596028",
+      "precoDe": 215.9,
+      "pix": true,
+      "parcelas": "R$159,90 em 5x R$31,98 sem juros",
+      "postado": "2026-11-22T17:14:41.033Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1i24Hzr.jpg"
+    },
     {
       "id": "1L4CdaR",
       "nome": "Aparelho de Jantar e Chá Ryo Maresia 20 Peças Off White e Marrom Oxford",
@@ -2935,22 +2953,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1ot4cdV.jpg"
-    },
-    {
-      "id": "21YS4zr",
-      "nome": "Vodka Smirnoff 998ml",
-      "categoria": "Diversos",
-      "preco": 29.9,
-      "link": "https://meli.la/21YS4zr",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/vodka-smirnoff-998ml/p/MLB18308309",
-      "precoDe": 41.9,
-      "postado": "2026-11-20T17:14:36.186Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-21YS4zr.jpg"
     }
   ]
 }
