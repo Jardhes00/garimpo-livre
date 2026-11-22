@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T15:07:21.459Z",
+  "atualizado": "2026-11-22T15:09:36.638Z",
   "ofertas": [
+    {
+      "id": "12cxZSd",
+      "nome": "Fritadeira Elétrica Air Fryer Oven Black INOX WAP WAOD2",
+      "categoria": "Casa",
+      "preco": 430.94,
+      "link": "https://meli.la/12cxZSd",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fritadeira-eletrica-air-fryer-oven-black-inox-wap-waod2/p/MLB43435820",
+      "precoDe": 741.43,
+      "pix": true,
+      "parcelas": "R$506,99 em 10x R$50,70 sem juros",
+      "postado": "2026-11-22T15:09:36.636Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-12cxZSd.jpg"
+    },
     {
       "id": "1u9p1ZG",
       "nome": "Piscina Inflável Redonda 4500l 3,05mx76cm Pvc Kit Reparo Azul",
@@ -3360,22 +3378,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2ypJK8a.jpg"
-    },
-    {
-      "id": "1EH9WDC",
-      "nome": "Climatizador de Ar Portátil 15L Umidificador Evaporativo 3 Velocidades 3 Modos",
-      "categoria": "Diversos",
-      "preco": 469.99,
-      "link": "https://meli.la/1EH9WDC",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/climatizador-de-ar-portatil-15l-umidificador-evaporativo-3-velocidades-3-modos-de-vento-temporizador-resfriamento-touch-controle-remoto/p/MLB80744091",
-      "precoDe": 1199.99,
-      "postado": "2026-11-20T15:08:32.119Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1EH9WDC.jpg"
     }
   ]
 }
