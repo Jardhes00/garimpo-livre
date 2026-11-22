@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T15:18:36.907Z",
+  "atualizado": "2026-11-22T15:20:51.951Z",
   "ofertas": [
+    {
+      "id": "2wMngwS",
+      "nome": "Bomba Periférica Foxlux Água 1Cv 750W Bivolt Automático",
+      "categoria": "Diversos",
+      "preco": 275.4,
+      "link": "https://meli.la/2wMngwS",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bomba-periferica-foxlux-agua-1cv-750w-bivolt-automatico/p/MLB61881850",
+      "precoDe": 499.9,
+      "pix": true,
+      "parcelas": "R$289,90 em outros meios",
+      "postado": "2026-11-22T15:20:51.949Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2wMngwS.jpg"
+    },
     {
       "id": "33g3vUU",
       "nome": "Cetaphil Loção Hidratante Corporal e Facial para Pele Sensível, Normal a Seca",
@@ -3367,22 +3385,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2AHXVAP.jpg"
-    },
-    {
-      "id": "2MYD643",
-      "nome": "Shampoo Tonalizante Grecin Control GX Reduz Grisalho 118ml",
-      "categoria": "Beleza",
-      "preco": 78.33,
-      "link": "https://meli.la/2MYD643",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/shampoo-tonalizante-grecin-control-gx-reduz-grisalho-118ml/p/MLB25708528",
-      "precoDe": 111.9,
-      "postado": "2026-11-20T15:19:47.498Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2MYD643.jpg"
     }
   ]
 }
