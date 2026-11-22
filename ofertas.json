@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T17:09:41.226Z",
+  "atualizado": "2026-11-22T17:10:56.180Z",
   "ofertas": [
+    {
+      "id": "243W4Hm",
+      "nome": "Celular Samsung Galaxy A57 5g 256gb, 8gb Ram, Recursos Ai Azul-escuro",
+      "categoria": "Tech",
+      "preco": 2278.8,
+      "link": "https://meli.la/243W4Hm",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a57-5g-256gb-8gb-ram-recursos-ai-azul-escuro/p/MLB69983500",
+      "precoDe": 4299,
+      "pix": true,
+      "parcelas": "R$2.532 em 10x R$253,20 sem juros",
+      "postado": "2026-11-22T17:10:56.178Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-243W4Hm.jpg"
+    },
     {
       "id": "18hZLsx",
       "nome": "Samsung Smart TV 55\" Mini LED 4K M75H 26/2027",
@@ -2913,23 +2931,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1tUL2pH.jpg"
-    },
-    {
-      "id": "1gCvHZh",
-      "nome": "Inalador Nebulizador Aero Tech Portátil Tec. Mesh Relaxmedic",
-      "categoria": "Diversos",
-      "preco": 175,
-      "link": "https://meli.la/1gCvHZh",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/inalador-nebulizador-aero-tech-portatil-tec-mesh-relaxmedic/up/MLBU3750650384",
-      "precoDe": 499.9,
-      "cupomAnuncio": "R$166,25 com Cupom por seguir a loja",
-      "postado": "2026-11-20T17:10:06.133Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1gCvHZh.jpg"
     }
   ]
 }
