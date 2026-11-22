@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T17:42:11.925Z",
+  "atualizado": "2026-11-22T17:43:27.019Z",
   "ofertas": [
+    {
+      "id": "1WeWFZ8",
+      "nome": "Jogo de Toalhas 4 Peças Fio Cardado 100 Algodão Softmax Bressan Karsten",
+      "categoria": "Games",
+      "preco": 101.91,
+      "link": "https://meli.la/1WeWFZ8",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/jogo-de-toalhas-4-pecas-fio-cardado-100-algodao-softmax-bressan-karsten/p/MLB55685029",
+      "precoDe": 169.9,
+      "pix": true,
+      "parcelas": "R$119,90 em 4x R$29,98 sem juros",
+      "postado": "2026-11-22T17:43:27.018Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1WeWFZ8.jpg"
+    },
     {
       "id": "2M1CkU3",
       "nome": "Tablet TCL A1 Plus 12,2\" 128GB para Android com Capa e Caneta",
