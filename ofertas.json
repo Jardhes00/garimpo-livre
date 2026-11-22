@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T15:41:07.621Z",
+  "atualizado": "2026-11-22T15:43:22.652Z",
   "ofertas": [
+    {
+      "id": "1zsHdhN",
+      "nome": "Tablet VAIO TL10 4GB RAM 128GB Octa-Core, Tela 10.4” 2K, 4G WiFi Dual Band",
+      "categoria": "Tech",
+      "preco": 1197,
+      "link": "https://meli.la/1zsHdhN",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tablet-vaio-tl10-4gb-ram-128gb-octa-core-tela-104-2k-4g-wifi-dual-band-camera-8mp-selfie-5mp-7000mah-android-16-com-teclado-magnetico-de-conexao-inteligente-preto/p/MLB67468569",
+      "precoDe": 2212.86,
+      "pix": true,
+      "parcelas": "R$1.330 em 10x R$133 sem juros",
+      "postado": "2026-11-22T15:43:22.650Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1zsHdhN.jpg"
+    },
     {
       "id": "1sucvRo",
       "nome": "Ventilador de Mesa 16 pás Turbo Preto 40cm, 3 Velocidades, Ventisol",
@@ -3362,24 +3380,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1q1jx8d.jpg"
-    },
-    {
-      "id": "1jZSJpU",
-      "nome": "Cooktop De Indução 5 Bocas Eos 90cm 9500w Preto Eci05epf",
-      "categoria": "Diversos",
-      "preco": 1605.49,
-      "link": "https://meli.la/1jZSJpU",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cooktop-de-inducao-5-bocas-eos-90cm-9500w-preto-eci05epf/p/MLB44591093",
-      "precoDe": 3999,
-      "pix": true,
-      "parcelas": "R$1.689,99 em 10x R$169 sem juros",
-      "postado": "2026-11-20T15:42:18.179Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1jZSJpU.jpg"
     }
   ]
 }
