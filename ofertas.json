@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-22T16:01:23.125Z",
+  "atualizado": "2026-11-22T16:03:38.397Z",
   "ofertas": [
+    {
+      "id": "11pNyj1",
+      "nome": "Multi-Inseticida Automático Óleo de Citronela SBP Caixa 250ml",
+      "categoria": "Diversos",
+      "preco": 56.52,
+      "link": "https://meli.la/11pNyj1",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/multi-inseticida-automatico-oleo-de-citronela-sbp-caixa-250ml/p/MLB16198453",
+      "precoDe": 100.02,
+      "postado": "2026-11-22T16:03:38.395Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-11pNyj1.jpg"
+    },
     {
       "id": "1PMYRFz",
       "nome": "Armário Cozinha Completa 100% Mdf 447cm Smart Madesa 02 Cor Branco/Rustic/Crema",
@@ -3360,24 +3376,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1LUjE6x.jpg"
-    },
-    {
-      "id": "2toeSdq",
-      "nome": "Bateria Moto Titan Fan Biz Bros Fazer 125 150 160 Mix Flex",
-      "categoria": "Auto",
-      "preco": 155.17,
-      "link": "https://meli.la/2toeSdq",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/bateria-moto-titan-fan-biz-bros-fazer-125-150-160-mix-flex/up/MLBU1718451610",
-      "precoDe": 299.99,
-      "pix": true,
-      "parcelas": "R$163,34 em outros meios",
-      "postado": "2026-11-20T16:02:34.164Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2toeSdq.jpg"
     }
   ]
 }
