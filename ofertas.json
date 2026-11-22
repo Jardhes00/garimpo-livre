@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-22T15:20:51.951Z",
+  "atualizado": "2026-11-22T15:23:06.924Z",
   "ofertas": [
+    {
+      "id": "1sNBkPD",
+      "nome": "Liquidificador Turbo Full Mondial 900W - L-900 FB",
+      "categoria": "Casa",
+      "preco": 103.92,
+      "link": "https://meli.la/1sNBkPD",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/liquidificador-turbo-full-mondial-900w-l-900-fb/p/MLB9581683",
+      "precoDe": 199.9,
+      "postado": "2026-11-22T15:23:06.923Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1sNBkPD.jpg"
+    },
     {
       "id": "2wMngwS",
       "nome": "Bomba Periférica Foxlux Água 1Cv 750W Bivolt Automático",
@@ -3368,23 +3384,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1zMTpBY.jpg"
-    },
-    {
-      "id": "2AHXVAP",
-      "nome": "Smartwatch HUAWEI WATCH FIT 5 AMOLED de 182\" Design Leve Mini Treino Bateria",
-      "categoria": "Tech",
-      "preco": 699,
-      "link": "https://meli.la/2AHXVAP",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/smartwatch-huawei-watch-fit-5-amoled-de-182-design-leve-mini-treino-bateria-com-ate-10-dias-64-gb-gerenciamento-avancado-da-saude-monitor-do-sono-spo2-gps-compativel-com-ios-e-android-branco/p/MLB67714382",
-      "precoDe": 1499,
-      "parcelas": "10x de R$69,90 sem juros",
-      "postado": "2026-11-20T15:22:02.696Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2AHXVAP.jpg"
     }
   ]
 }
