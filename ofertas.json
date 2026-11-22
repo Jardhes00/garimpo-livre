@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-22T14:58:21.175Z",
+  "atualizado": "2026-11-22T15:00:36.355Z",
   "ofertas": [
+    {
+      "id": "2MYRYQr",
+      "nome": "Whey protein XPro Nutrition Iso Blend Complex em pó sabor Baunilha x 2kg",
+      "categoria": "Suplementos",
+      "preco": 86.39,
+      "link": "https://meli.la/2MYRYQr",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-protein-xpro-nutrition-iso-blend-complex-em-po-sabor-baunilha-x-2kg/p/MLB53177203",
+      "precoDe": 139.99,
+      "postado": "2026-11-22T15:00:36.353Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2MYRYQr.jpg"
+    },
     {
       "id": "1to9QZS",
       "nome": "Fogão 4 Bocas À Gás Atlas Havana Glass Preto Bivolt",
@@ -3358,24 +3374,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2ZM9bbL.jpg"
-    },
-    {
-      "id": "1FzdWPZ",
-      "nome": "Relógio Inteligente Gps Smartwatch Amoled 3atm Sport Gps Caixa Preto",
-      "categoria": "Tech",
-      "preco": 258.3,
-      "link": "https://meli.la/1FzdWPZ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/relogio-inteligente-gps-smartwatch-amoled-3atm-sport-gps-caixa-preto/p/MLB62756066",
-      "precoDe": 599,
-      "pix": true,
-      "parcelas": "R$287 em 6x R$47,83 sem juros",
-      "postado": "2026-11-20T14:59:31.926Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1FzdWPZ.jpg"
     }
   ]
 }
