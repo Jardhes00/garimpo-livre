@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T17:17:11.144Z",
+  "atualizado": "2026-11-22T17:18:26.247Z",
   "ofertas": [
+    {
+      "id": "19qMzwQ",
+      "nome": "Mor Piscina Circular 7.000 Litros Cor Azul",
+      "categoria": "Diversos",
+      "preco": 776.51,
+      "link": "https://meli.la/19qMzwQ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mor-piscina-circular-7000-litros-cor-azul/p/MLB17456152",
+      "precoDe": 1087.54,
+      "pix": true,
+      "parcelas": "R$834,96 em 10x R$83,50 sem juros",
+      "postado": "2026-11-22T17:18:26.246Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-19qMzwQ.jpg"
+    },
     {
       "id": "2wkDyvn",
       "nome": "Smart Tv Aoc Roku Tv 40 Full Hd 40s5166/78g",
