@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-22T17:22:11.265Z",
+  "atualizado": "2026-11-22T17:23:26.474Z",
   "ofertas": [
+    {
+      "id": "2qKh8if",
+      "nome": "YoPRO Bebida Láctea UHT Chocolate 15g de proteínas 250ml - 12 unidades",
+      "categoria": "Suplementos",
+      "preco": 72.61,
+      "link": "https://meli.la/2qKh8if",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/yopro-bebida-lactea-uht-chocolate-15g-de-proteinas-250ml-12-unidades/p/MLB19466023",
+      "precoDe": 98.99,
+      "parcelas": "12x R$7,15",
+      "extra": "R$9,90 OFF com cupom no anúncio",
+      "cupomAnuncio": "Compre R$100 e ganhe R$9,90 OFF",
+      "postado": "2026-11-22T17:23:26.473Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2qKh8if.jpg"
+    },
     {
       "id": "1wv4Mp2",
       "nome": "Tenda Gazebo Articulada 3x3 Aço Proteção Solar Guepardo",
