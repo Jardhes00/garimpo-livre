@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T15:11:51.591Z",
+  "atualizado": "2026-11-22T15:14:06.698Z",
   "ofertas": [
+    {
+      "id": "1VAs7tY",
+      "nome": "Ar Condicionado High Wall Eco Inverter III Wifi 9000 Btus Frio Elgin Branco",
+      "categoria": "Casa",
+      "preco": 1948,
+      "link": "https://meli.la/1VAs7tY",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-high-wall-eco-inverter-iii-wifi-9000-btus-frio-elgin-branco/p/MLB66154233",
+      "precoDe": 2913.9,
+      "parcelas": "10x de R$194,80 sem juros",
+      "cupomAnuncio": "R$1.948 com Cupom",
+      "postado": "2026-11-22T15:14:06.696Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1VAs7tY.jpg"
+    },
     {
       "id": "2c8eetm",
       "nome": "Simparic 40mg Antipulgas e Carrapatos para Cães 10-20kg 3 Comprimidos Zoetis",
@@ -3362,22 +3380,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-114fHEF.jpg"
-    },
-    {
-      "id": "1nychN9",
-      "nome": "Cafe Graos Torrado Torra Media Arábica Em Grãos 1kg Gourmet",
-      "categoria": "Diversos",
-      "preco": 68.99,
-      "link": "https://meli.la/1nychN9",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cafe-graos-torrado-torra-media-arabica-em-graos-1kg-gourmet/p/MLB26184226",
-      "precoDe": 99.9,
-      "postado": "2026-11-20T15:13:02.486Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1nychN9.jpg"
     }
   ]
 }
