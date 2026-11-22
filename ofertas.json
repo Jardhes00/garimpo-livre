@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T15:25:22.154Z",
+  "atualizado": "2026-11-22T15:27:37.159Z",
   "ofertas": [
+    {
+      "id": "2Hanr8E",
+      "nome": "Liquidificador Turbo Power Mondial 550W L-99 WG",
+      "categoria": "Casa",
+      "preco": 88.96,
+      "link": "https://meli.la/2Hanr8E",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/liquidificador-turbo-power-mondial-550w-l-99-wg/p/MLB15699911",
+      "precoDe": 172.9,
+      "pix": true,
+      "parcelas": "R$98,84 em outros meios",
+      "postado": "2026-11-22T15:27:37.157Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Hanr8E.jpg"
+    },
     {
       "id": "2G2icT9",
       "nome": "Patinete Elétrico Drift 450w Triciclo Infantil 120w Vermelho",
@@ -3366,24 +3384,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1EPdwqk.jpg"
-    },
-    {
-      "id": "2sREwB1",
-      "nome": "Módulo Amplificador Taramps DS 800X4 800W RMS para Som Automotivo de 4 Canais e",
-      "categoria": "Auto",
-      "preco": 332.91,
-      "link": "https://meli.la/2sREwB1",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/modulo-amplificador-taramps-ds-800x4-800w-rms-para-som-automotivo-de-4-canais-e-2-ohms/p/MLB23903930",
-      "precoDe": 499,
-      "pix": true,
-      "parcelas": "R$369,90 em 7x R$52,84 sem juros",
-      "postado": "2026-11-20T15:26:32.739Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2sREwB1.jpg"
     }
   ]
 }
