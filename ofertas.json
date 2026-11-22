@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-22T15:38:52.639Z",
+  "atualizado": "2026-11-22T15:41:07.621Z",
   "ofertas": [
+    {
+      "id": "1sucvRo",
+      "nome": "Ventilador de Mesa 16 pás Turbo Preto 40cm, 3 Velocidades, Ventisol",
+      "categoria": "Casa",
+      "preco": 129.9,
+      "link": "https://meli.la/1sucvRo",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-mesa-16-pas-turbo-preto-40cm-3-velocidades-ventisol/p/MLB82634805",
+      "precoDe": 209.9,
+      "postado": "2026-11-22T15:41:07.619Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1sucvRo.jpg"
+    },
     {
       "id": "28YZLK9",
       "nome": "Bicicleta Passeio Aro 16 Para Crianças Unitoys Love Tiffany Com Cesta",
@@ -3364,22 +3380,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1jZSJpU.jpg"
-    },
-    {
-      "id": "2oyop5w",
-      "nome": "Kit 2 Travesseiros Cervicais Abranuv Pro 2.0 Original",
-      "categoria": "Casa",
-      "preco": 349,
-      "link": "https://meli.la/2oyop5w",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit-2-travesseiros-cervicais-abranuv-pro-20-original/up/MLBU5835094825",
-      "precoDe": 489,
-      "postado": "2026-11-20T15:40:03.582Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2oyop5w.jpg"
     }
   ]
 }
