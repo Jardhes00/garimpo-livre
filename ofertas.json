@@ -1,6 +1,26 @@
 {
-  "atualizado": "2026-11-22T17:19:41.514Z",
+  "atualizado": "2026-11-22T17:20:56.220Z",
   "ofertas": [
+    {
+      "id": "1kvZgvs",
+      "nome": "La Roche-Posay Mela B3 Double Dose, Gel-Creme Antimanchas e Antirrugas 40ml",
+      "categoria": "Beleza",
+      "preco": 186.91,
+      "link": "https://meli.la/1kvZgvs",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/la-roche-posay-mela-b3-double-dose-gel-creme-antimanchas-e-antirrugas-40ml/p/MLB68405556",
+      "precoDe": 351.9,
+      "pix": true,
+      "parcelas": "R$219,90 em outros meios",
+      "extra": "15% OFF com cupom no anúncio",
+      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
+      "postado": "2026-11-22T17:20:56.219Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1kvZgvs.jpg"
+    },
     {
       "id": "2mAxuth",
       "nome": "Impressora 3x1 Multifuncional Epson Ecotank L3250 Wifi Biv Cor Preto 100V/240V",
