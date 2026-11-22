@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T15:02:51.444Z",
+  "atualizado": "2026-11-22T15:05:06.953Z",
   "ofertas": [
+    {
+      "id": "2mtQ3BX",
+      "nome": "Ar Condicionado Hw Gree Gclassic Inverter 9000 Btu Frio 220v",
+      "categoria": "Casa",
+      "preco": 1839.08,
+      "link": "https://meli.la/2mtQ3BX",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-hw-gree-gclassic-inverter-9000-btu-frio-220v/up/MLBU5375988289",
+      "precoDe": 3028.15,
+      "pix": true,
+      "parcelas": "R$1.999 em outros meios",
+      "postado": "2026-11-22T15:05:06.951Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2mtQ3BX.jpg"
+    },
     {
       "id": "2XvNoMs",
       "nome": "Fonte Msi Mag 650w 80 Plus Bronze Pfc Ativo A650bnl Preto",
@@ -3359,22 +3377,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1sffHPo.jpg"
-    },
-    {
-      "id": "2poYaXQ",
-      "nome": "NIVEA Creme Hidratante Lata 145g, Hidratação Profunda 24h, Corporal",
-      "categoria": "Beleza",
-      "preco": 23.2,
-      "link": "https://meli.la/2poYaXQ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/nivea-creme-hidratante-lata-145g-hidratacao-profunda-24h-corporal-multibeneficios-todas-as-peles/p/MLB19055489",
-      "precoDe": 50.39,
-      "postado": "2026-11-20T15:04:02.096Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2poYaXQ.jpg"
     }
   ]
 }
