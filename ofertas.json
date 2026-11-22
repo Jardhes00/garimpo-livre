@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-22T15:09:36.638Z",
+  "atualizado": "2026-11-22T15:11:51.591Z",
   "ofertas": [
+    {
+      "id": "2c8eetm",
+      "nome": "Simparic 40mg Antipulgas e Carrapatos para Cães 10-20kg 3 Comprimidos Zoetis",
+      "categoria": "Diversos",
+      "preco": 88.95,
+      "link": "https://meli.la/2c8eetm",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/simparic-40mg-antipulgas-e-carrapatos-para-caes-10-20kg-3-comprimidos-zoetis/p/MLB32344566",
+      "precoDe": 166.23,
+      "parcelas": "3x de R$29,65 sem juros",
+      "postado": "2026-11-22T15:11:51.590Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2c8eetm.jpg"
+    },
     {
       "id": "12cxZSd",
       "nome": "Fritadeira Elétrica Air Fryer Oven Black INOX WAP WAOD2",
@@ -3361,23 +3378,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1nychN9.jpg"
-    },
-    {
-      "id": "2ypJK8a",
-      "nome": "Colchão Casal Luuna Blue, Espuma 20 cm com Bloqueio de Movimento, 10 Anos de",
-      "categoria": "Casa",
-      "preco": 1449,
-      "link": "https://meli.la/2ypJK8a",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/colchao-casal-luuna-blue-espuma-20-cm-com-bloqueio-de-movimento-10-anos-de-garantia/p/MLB26215871",
-      "precoDe": 2852.5,
-      "parcelas": "10x de R$144,90 sem juros",
-      "postado": "2026-11-20T15:10:47.314Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2ypJK8a.jpg"
     }
   ]
 }
