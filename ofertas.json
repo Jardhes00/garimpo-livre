@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-22T17:39:41.812Z",
+  "atualizado": "2026-11-22T17:40:56.221Z",
   "ofertas": [
+    {
+      "id": "2QScYAf",
+      "nome": "Aparelho De Jantar E Chá 30 Pçs Oxford Ryo Maresia Cor Multicor",
+      "categoria": "Diversos",
+      "preco": 443.9,
+      "link": "https://meli.la/2QScYAf",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aparelho-de-jantar-e-cha-30-pcs-oxford-ryo-maresia-cor-multicor/p/MLB32820417",
+      "precoDe": 749.9,
+      "postado": "2026-11-22T17:40:56.220Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2QScYAf.jpg"
+    },
     {
       "id": "1o7ekUu",
       "nome": "Gillette Mach3 Carga Para Aparelho 16 Unidades",
