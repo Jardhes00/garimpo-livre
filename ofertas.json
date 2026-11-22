@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T17:49:42.609Z",
+  "atualizado": "2026-11-22T17:50:57.125Z",
   "ofertas": [
+    {
+      "id": "1xRJNzr",
+      "nome": "Ventilador Flow Turbo De Coluna Wap 50 Cm 180w Preto Cinza Plástico 8",
+      "categoria": "Casa",
+      "preco": 284.42,
+      "link": "https://meli.la/1xRJNzr",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-flow-turbo-de-coluna-wap-50-cm-180w-preto-cinza-plastico-8/p/MLB70443773",
+      "precoDe": 499,
+      "pix": true,
+      "parcelas": "R$299,39 em outros meios",
+      "postado": "2026-11-22T17:50:57.124Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1xRJNzr.jpg"
+    },
     {
       "id": "1GComZC",
       "nome": "Pomada Bepantol Baby 120g Creme Preventivo Assaduras Hipoalergênico",
