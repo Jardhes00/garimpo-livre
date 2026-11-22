@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-22T15:14:06.698Z",
+  "atualizado": "2026-11-22T15:16:21.853Z",
   "ofertas": [
+    {
+      "id": "1pFWf1b",
+      "nome": "Jogo De Toalhas 4 Pçs Fio Cardado 100% Algodão Bosco Karsten Cinza Bosco",
+      "categoria": "Games",
+      "preco": 93.41,
+      "link": "https://meli.la/1pFWf1b",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/jogo-de-toalhas-4-pcs-fio-cardado-100-algodao-bosco-karsten-cinza-bosco/p/MLB53989572",
+      "precoDe": 149.9,
+      "pix": true,
+      "parcelas": "R$109,90 em 4x R$27,48 sem juros",
+      "cupomAnuncio": "R$76,41 com Cupom",
+      "postado": "2026-11-22T15:16:21.851Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1pFWf1b.jpg"
+    },
     {
       "id": "1VAs7tY",
       "nome": "Ar Condicionado High Wall Eco Inverter III Wifi 9000 Btus Frio Elgin Branco",
@@ -3364,22 +3383,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-24hXPUa.jpg"
-    },
-    {
-      "id": "114fHEF",
-      "nome": "Cadeira Hibisco De Madeira Maciça Durango Antilope",
-      "categoria": "Diversos",
-      "preco": 450,
-      "link": "https://meli.la/114fHEF",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cadeira-hibisco-de-madeira-macica-durango-antilope/p/MLB64967276",
-      "precoDe": 990,
-      "postado": "2026-11-20T15:15:17.430Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-114fHEF.jpg"
     }
   ]
 }
