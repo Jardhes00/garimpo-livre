@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T17:35:56.634Z",
+  "atualizado": "2026-11-22T17:37:11.812Z",
   "ofertas": [
+    {
+      "id": "1iXcdDP",
+      "nome": "Guarda Roupa Casal 6 Portas Easy Slim Com Espelho E Pés Amêndoa/Off white",
+      "categoria": "Diversos",
+      "preco": 859.9,
+      "link": "https://meli.la/1iXcdDP",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/guarda-roupa-casal-6-portas-easy-slim-com-espelho-e-pes-amendoaoff-white/p/MLB59113801",
+      "precoDe": 1607.76,
+      "parcelas": "10x de R$85,99 sem juros",
+      "cupomAnuncio": "R$859,90 com Cupom",
+      "postado": "2026-11-22T17:37:11.810Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1iXcdDP.jpg"
+    },
     {
       "id": "1qjHLVW",
       "nome": "Celular Samsung Galaxy A37 5g 256gb, 8gb Ram, Câmera 50mp Branco",
@@ -3082,24 +3100,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1UKABQB.jpg"
-    },
-    {
-      "id": "2pxPVkh",
-      "nome": "Hoverboard Skate Elétrico 6.5 Polegadas Com Led E Bluetooth Fogo E Gelo",
-      "categoria": "Diversos",
-      "preco": 425.6,
-      "link": "https://meli.la/2pxPVkh",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/hoverboard-skate-eletrico-65-polegadas-com-led-e-bluetooth-fogo-e-gelo/p/MLB65350219",
-      "precoDe": 1299,
-      "pix": true,
-      "parcelas": "R$448 em outros meios",
-      "postado": "2026-11-20T17:36:54.665Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2pxPVkh.jpg"
     }
   ]
 }
