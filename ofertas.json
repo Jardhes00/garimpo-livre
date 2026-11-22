@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-22T15:27:37.159Z",
+  "atualizado": "2026-11-22T15:29:52.230Z",
   "ofertas": [
+    {
+      "id": "2uxF6YS",
+      "nome": "Gokoco GD037 Modeladora/Cacheadora - Preto",
+      "categoria": "Diversos",
+      "preco": 199,
+      "link": "https://meli.la/2uxF6YS",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/gokoco-gd037-modeladoracacheadora-preto/p/MLB75682176",
+      "precoDe": 399,
+      "postado": "2026-11-22T15:29:52.228Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2uxF6YS.jpg"
+    },
     {
       "id": "2Hanr8E",
       "nome": "Liquidificador Turbo Power Mondial 550W L-99 WG",
@@ -3368,22 +3384,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1izXgVc.jpg"
-    },
-    {
-      "id": "1EPdwqk",
-      "nome": "Amazon Echo Dot 5ª Geração Smart Speaker Com Alexa Cor Branco Glacier White",
-      "categoria": "Tech",
-      "preco": 361.28,
-      "link": "https://meli.la/1EPdwqk",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/amazon-echo-dot-5-geracao-smart-speaker-com-alexa-cor-branco-glacier-white/p/MLB58978915",
-      "precoDe": 649,
-      "postado": "2026-11-20T15:28:48.457Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1EPdwqk.jpg"
     }
   ]
 }
