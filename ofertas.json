@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-22T17:48:27.097Z",
+  "atualizado": "2026-11-22T17:49:42.609Z",
   "ofertas": [
+    {
+      "id": "1GComZC",
+      "nome": "Pomada Bepantol Baby 120g Creme Preventivo Assaduras Hipoalergênico",
+      "categoria": "Beleza",
+      "preco": 44.2,
+      "link": "https://meli.la/1GComZC",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/pomada-bepantol-baby-120g-creme-preventivo-assaduras-hipoalergenico/p/MLB18397455",
+      "precoDe": 91,
+      "postado": "2026-11-22T17:49:42.608Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1GComZC.jpg"
+    },
     {
       "id": "2XS3gci",
       "nome": "Jogo Soquete Longo Sextavado Impacto 1/2 8 A 32 Mm 15pcs Giratas",
