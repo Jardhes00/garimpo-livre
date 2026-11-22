@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-22T17:47:12.000Z",
+  "atualizado": "2026-11-22T17:48:27.097Z",
   "ofertas": [
+    {
+      "id": "2XS3gci",
+      "nome": "Jogo Soquete Longo Sextavado Impacto 1/2 8 A 32 Mm 15pcs Giratas",
+      "categoria": "Games",
+      "preco": 21,
+      "link": "https://meli.la/2XS3gci",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/jogo-soquete-longo-sextavado-impacto-12-8-a-32-mm-15pcs-giratas/p/MLB70654875",
+      "precoDe": 100.3,
+      "postado": "2026-11-22T17:48:27.096Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2XS3gci.jpg"
+    },
     {
       "id": "1ryhKxH",
       "nome": "Loção Facial Hidratante FPS 50 com Ceramidas e Niacinamida, AM CeraVe, 52g",
