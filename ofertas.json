@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T17:14:41.035Z",
+  "atualizado": "2026-11-22T17:15:56.596Z",
   "ofertas": [
+    {
+      "id": "12eKN88",
+      "nome": "Air Fryer Britânia 6,5L 1700W 8 Funções Painel Digital Redstone BAF65A",
+      "categoria": "Casa",
+      "preco": 296.1,
+      "link": "https://meli.la/12eKN88",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/air-fryer-britania-65l-1700w-8-funcoes-painel-digital-redstone-baf65a/p/MLB68834252",
+      "precoDe": 456.18,
+      "pix": true,
+      "parcelas": "R$329 em 6x R$54,83 sem juros",
+      "postado": "2026-11-22T17:15:56.595Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-12eKN88.jpg"
+    },
     {
       "id": "1i24Hzr",
       "nome": "Câmera de Segurança Inteligente Intelbras iM3 C Branca",
