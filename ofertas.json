@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-22T14:49:20.886Z",
+  "atualizado": "2026-11-22T14:51:35.840Z",
   "ofertas": [
+    {
+      "id": "1bUGQEH",
+      "nome": "La Roche Posay Cicaplast Baume B5 Fps+ 50 40ml Todo Tipo De Pele Dia",
+      "categoria": "Diversos",
+      "preco": 85.81,
+      "link": "https://meli.la/1bUGQEH",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/la-roche-posay-cicaplast-baume-b5-fps-50-40ml-todo-tipo-de-pele-dia/p/MLB50118079",
+      "precoDe": 142.9,
+      "pix": true,
+      "parcelas": "R$100,95 em outros meios",
+      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
+      "postado": "2026-11-22T14:51:35.838Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1bUGQEH.jpg"
+    },
     {
       "id": "1YFdSFG",
       "nome": "Trilha Hot Wheels Jurassic World T-rex Vs Fire Station",
@@ -3356,22 +3375,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-11REz3C.jpg"
-    },
-    {
-      "id": "2UckUMH",
-      "nome": "Electrolux Kit 3 Bowls Tigelas de Aço Inox com Tampa Plástica, 1,4L, 2L e 2,6L",
-      "categoria": "Diversos",
-      "preco": 78.85,
-      "link": "https://meli.la/2UckUMH",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/electrolux-kit-3-bowls-tigelas-de-aco-inox-com-tampa-plastica-14l-2l-e-26l/p/MLB25125996",
-      "precoDe": 146.9,
-      "postado": "2026-11-20T14:50:31.930Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2UckUMH.jpg"
     }
   ]
 }
