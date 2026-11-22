@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-22T15:56:53.141Z",
+  "atualizado": "2026-11-22T15:59:08.167Z",
   "ofertas": [
+    {
+      "id": "2E9Gdur",
+      "nome": "Árvore De Natal Pinheiro Verde 2,10m Com 1.100 Galhos, De Montagem Fácil",
+      "categoria": "Diversos",
+      "preco": 154.99,
+      "link": "https://meli.la/2E9Gdur",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/arvore-de-natal-pinheiro-verde-210m-com-1100-galhos-de-montagem-facil/p/MLB26051427",
+      "precoDe": 224.99,
+      "postado": "2026-11-22T15:59:08.165Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2E9Gdur.jpg"
+    },
     {
       "id": "1coVkDk",
       "nome": "Jogo De Toalhas Buddemeyer Bella Extra Soft Banho 4 Peças Azul Claro/azul",
@@ -3361,24 +3377,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2iZGsTs.jpg"
-    },
-    {
-      "id": "1zVp5dc",
-      "nome": "Whisky Jack Daniel's Old No. 7 Tennessee 1 L",
-      "categoria": "Diversos",
-      "preco": 108.8,
-      "link": "https://meli.la/1zVp5dc",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/whisky-jack-daniels-old-no-7-tennessee-1-l/p/MLB19546263",
-      "precoDe": 192.9,
-      "pix": true,
-      "parcelas": "R$128 em outros meios",
-      "postado": "2026-11-20T15:58:03.884Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1zVp5dc.jpg"
     }
   ]
 }
