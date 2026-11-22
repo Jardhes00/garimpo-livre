@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T17:40:56.221Z",
+  "atualizado": "2026-11-22T17:42:11.925Z",
   "ofertas": [
+    {
+      "id": "2M1CkU3",
+      "nome": "Tablet TCL A1 Plus 12,2\" 128GB para Android com Capa e Caneta",
+      "categoria": "Tech",
+      "preco": 1347.2,
+      "link": "https://meli.la/2M1CkU3",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tablet-tcl-a1-plus-122-128gb-para-android-com-capa-e-caneta/p/MLB74476523",
+      "precoDe": 2699,
+      "pix": true,
+      "parcelas": "R$1.496,89 em 10x R$149,69 sem juros",
+      "postado": "2026-11-22T17:42:11.924Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2M1CkU3.jpg"
+    },
     {
       "id": "2QScYAf",
       "nome": "Aparelho De Jantar E Chá 30 Pçs Oxford Ryo Maresia Cor Multicor",
@@ -3116,22 +3134,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1PPzaS9.jpg"
-    },
-    {
-      "id": "2kiX1sy",
-      "nome": "Repelente Ultrassônico Zebu Ermu Turbo Rato Morcego Sonoro",
-      "categoria": "Diversos",
-      "preco": 140,
-      "link": "https://meli.la/2kiX1sy",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/repelente-ultrassonico-zebu-ermu-turbo-rato-morcego-sonoro/up/MLBU4226018846",
-      "precoDe": 194.7,
-      "postado": "2026-11-20T17:41:24.974Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2kiX1sy.jpg"
     }
   ]
 }
