@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T17:18:26.247Z",
+  "atualizado": "2026-11-22T17:19:41.514Z",
   "ofertas": [
+    {
+      "id": "2mAxuth",
+      "nome": "Impressora 3x1 Multifuncional Epson Ecotank L3250 Wifi Biv Cor Preto 100V/240V",
+      "categoria": "Tech",
+      "preco": 935.91,
+      "link": "https://meli.la/2mAxuth",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/impressora-3x1-multifuncional-epson-ecotank-l3250-wifi-biv-cor-preto-100v240v/p/MLB24028774",
+      "precoDe": 1817.84,
+      "pix": true,
+      "parcelas": "R$1.039,90 em outros meios",
+      "postado": "2026-11-22T17:19:41.513Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2mAxuth.jpg"
+    },
     {
       "id": "19qMzwQ",
       "nome": "Mor Piscina Circular 7.000 Litros Cor Azul",
@@ -2971,23 +2989,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2zAnqvm.jpg"
-    },
-    {
-      "id": "2ffN1Pu",
-      "nome": "Projetor PFL5211 Full HD 5200lm Branco Intelbras 127/220V",
-      "categoria": "Diversos",
-      "preco": 1090.48,
-      "link": "https://meli.la/2ffN1Pu",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/projetorpfl5211full-hd-5200lmbranco-intelbras127220v/p/MLB49756297",
-      "precoDe": 2200,
-      "parcelas": "10x de R$109,05 sem juros",
-      "postado": "2026-11-20T17:19:06.391Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2ffN1Pu.jpg"
     }
   ]
 }
