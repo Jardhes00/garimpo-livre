@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-22T17:50:57.125Z",
+  "atualizado": "2026-11-22T17:52:12.228Z",
   "ofertas": [
+    {
+      "id": "1tpxnmQ",
+      "nome": "Ventilador de Pé Oscilante Turbo Grade de Plástico Ventisol",
+      "categoria": "Casa",
+      "preco": 199.9,
+      "link": "https://meli.la/1tpxnmQ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-pe-oscilante-turbo-grade-de-plastico-ventisol/p/MLB52936713",
+      "precoDe": 278.9,
+      "postado": "2026-11-22T17:52:12.227Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1tpxnmQ.jpg"
+    },
     {
       "id": "1xRJNzr",
       "nome": "Ventilador Flow Turbo De Coluna Wap 50 Cm 180w Preto Cinza Plástico 8",
