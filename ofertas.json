@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-22T15:23:06.924Z",
+  "atualizado": "2026-11-22T15:25:22.154Z",
   "ofertas": [
+    {
+      "id": "2G2icT9",
+      "nome": "Patinete Elétrico Drift 450w Triciclo Infantil 120w Vermelho",
+      "categoria": "Bebê",
+      "preco": 921.49,
+      "link": "https://meli.la/2G2icT9",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/patinete-eletrico-drift-450w-triciclo-infantil-120w-vermelho/up/MLBU5920493546",
+      "precoDe": 1599,
+      "parcelas": "10x de R$92,15 sem juros",
+      "postado": "2026-11-22T15:25:22.152Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2G2icT9.jpg"
+    },
     {
       "id": "1sNBkPD",
       "nome": "Liquidificador Turbo Full Mondial 900W - L-900 FB",
@@ -3367,23 +3384,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2sREwB1.jpg"
-    },
-    {
-      "id": "1zMTpBY",
-      "nome": "Lavadora de Alta Pressão Kärcher K6 2250PSI 480L/h 2000W Motor a Indução e Jato",
-      "categoria": "Diversos",
-      "preco": 1099,
-      "link": "https://meli.la/1zMTpBY",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-krcher-k6-2250psi-480lh-2000w-motor-a-inducao-e-jato-turbo-rotativo-220v/p/MLB65927203",
-      "precoDe": 2100,
-      "parcelas": "10x de R$109,90 sem juros",
-      "postado": "2026-11-20T15:24:17.801Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1zMTpBY.jpg"
     }
   ]
 }
