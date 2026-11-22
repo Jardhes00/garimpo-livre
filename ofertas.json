@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T17:20:56.220Z",
+  "atualizado": "2026-11-22T17:22:11.265Z",
   "ofertas": [
+    {
+      "id": "1wv4Mp2",
+      "nome": "Tenda Gazebo Articulada 3x3 Aço Proteção Solar Guepardo",
+      "categoria": "Diversos",
+      "preco": 380.37,
+      "link": "https://meli.la/1wv4Mp2",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tenda-gazebo-articulada-3x3-aco-protecao-solar-guepardo/p/MLB22621622",
+      "precoDe": 559.9,
+      "pix": true,
+      "parcelas": "R$409 em 10x R$40,90 sem juros",
+      "postado": "2026-11-22T17:22:11.264Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1wv4Mp2.jpg"
+    },
     {
       "id": "1kvZgvs",
       "nome": "La Roche-Posay Mela B3 Double Dose, Gel-Creme Antimanchas e Antirrugas 40ml",
@@ -2990,25 +3008,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1ga26gw.jpg"
-    },
-    {
-      "id": "2zAnqvm",
-      "nome": "Ômega 3 Epa Dha 240 Cápsulas - Dark Lab",
-      "categoria": "Diversos",
-      "preco": 98.93,
-      "link": "https://meli.la/2zAnqvm",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/mega-3-epa-dha-240-capsulas-dark-lab/p/MLB60940335",
-      "precoDe": 249.9,
-      "pix": true,
-      "parcelas": "R$109,92 em outros meios",
-      "cupomAnuncio": "Compre R$150 e ganhe R$20 OFF",
-      "postado": "2026-11-20T17:21:21.331Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2zAnqvm.jpg"
     }
   ]
 }
