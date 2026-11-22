@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T17:43:27.019Z",
+  "atualizado": "2026-11-22T17:44:41.885Z",
   "ofertas": [
+    {
+      "id": "1a8vZP2",
+      "nome": "Tanquinho Colormaq 15kg Branco",
+      "categoria": "Diversos",
+      "preco": 549.99,
+      "link": "https://meli.la/1a8vZP2",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tanquinho-colormaq-15kg-branco/p/MLB25676946",
+      "precoDe": 899.99,
+      "parcelas": "10x de R$55 sem juros",
+      "cupomAnuncio": "R$534,99 com Cupom por seguir a loja",
+      "postado": "2026-11-22T17:44:41.884Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1a8vZP2.jpg"
+    },
     {
       "id": "1WeWFZ8",
       "nome": "Jogo de Toalhas 4 Peças Fio Cardado 100 Algodão Softmax Bressan Karsten",
@@ -3136,22 +3154,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1QFVWtz.jpg"
-    },
-    {
-      "id": "1PPzaS9",
-      "nome": "Base De Mesa Inox Redonda Para Tampos De Até 100cm Or 2202",
-      "categoria": "Diversos",
-      "preco": 243.15,
-      "link": "https://meli.la/1PPzaS9",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/base-de-mesa-inox-redonda-para-tampos-de-ate-100cm-or-2202/p/MLB27023359",
-      "precoDe": 365,
-      "postado": "2026-11-20T17:43:39.844Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1PPzaS9.jpg"
     }
   ]
 }
