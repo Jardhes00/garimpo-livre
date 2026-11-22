@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T14:44:50.983Z",
+  "atualizado": "2026-11-22T14:47:06.256Z",
   "ofertas": [
+    {
+      "id": "2hma7jE",
+      "nome": "Mop Esfregão Giratório Condor Balde Inox 13 Litros + Refil Microfibra + Cabo",
+      "categoria": "Diversos",
+      "preco": 91.91,
+      "link": "https://meli.la/2hma7jE",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mop-esfregao-giratorio-condor-balde-inox-13-litros-refil-microfibra-cabo-longo-14-metros/p/MLB47285674",
+      "precoDe": 130,
+      "pix": true,
+      "parcelas": "R$99,90 em outros meios",
+      "postado": "2026-11-22T14:47:06.254Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2hma7jE.jpg"
+    },
     {
       "id": "2qwQB1f",
       "nome": "Protein Crisp Bar Leite Ninho Com Creme De Avelã 12 Und Integralmédica",
@@ -3354,22 +3372,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2ortHUP.jpg"
-    },
-    {
-      "id": "22ZW3Bz",
-      "nome": "Liquidificador Pratic Turbo III, Mondial, 550W - L-93-BG",
-      "categoria": "Casa",
-      "preco": 89.93,
-      "link": "https://meli.la/22ZW3Bz",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/liquidificador-pratic-turbo-iii-mondial-550w-l-93-bg/p/MLB46053181",
-      "precoDe": 154.9,
-      "postado": "2026-11-20T14:46:01.622Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-22ZW3Bz.jpg"
     }
   ]
 }
