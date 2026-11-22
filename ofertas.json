@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-22T15:59:08.167Z",
+  "atualizado": "2026-11-22T16:01:23.125Z",
   "ofertas": [
+    {
+      "id": "1PMYRFz",
+      "nome": "Armário Cozinha Completa 100% Mdf 447cm Smart Madesa 02 Cor Branco/Rustic/Crema",
+      "categoria": "Casa",
+      "preco": 1809.69,
+      "link": "https://meli.la/1PMYRFz",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/armario-cozinha-completa-100-mdf-447cm-smart-madesa-02-cor-brancorusticcrema/p/MLB74045024",
+      "precoDe": 2570.58,
+      "pix": true,
+      "parcelas": "R$2.262,11 em 10x R$226,21 sem juros",
+      "cupomAnuncio": "R$1.809,69 com Cupom",
+      "postado": "2026-11-22T16:01:23.123Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1PMYRFz.jpg"
+    },
     {
       "id": "2E9Gdur",
       "nome": "Árvore De Natal Pinheiro Verde 2,10m Com 1.100 Galhos, De Montagem Fácil",
@@ -3359,24 +3378,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2toeSdq.jpg"
-    },
-    {
-      "id": "2iZGsTs",
-      "nome": "Árvore De Natal Pinheiro Canadense Luxo 2,10m 1200 Galhos Tradicional Verde",
-      "categoria": "Diversos",
-      "preco": 284.99,
-      "link": "https://meli.la/2iZGsTs",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/arvore-de-natal-pinheiro-canadense-luxo-210m-1200-galhos-tradicional-verde-imperial-premium-grande-cheia-luvinco/p/MLB52866009",
-      "precoDe": 562.38,
-      "pix": true,
-      "parcelas": "R$299,99 em 6x R$50 sem juros",
-      "postado": "2026-11-20T16:00:19.043Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2iZGsTs.jpg"
     }
   ]
 }
