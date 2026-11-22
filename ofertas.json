@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-22T17:24:41.377Z",
+  "atualizado": "2026-11-22T17:25:56.459Z",
   "ofertas": [
+    {
+      "id": "2ynxSW6",
+      "nome": "Ventilador De Teto 71cm Controle Remoto Bivolt Silencioso",
+      "categoria": "Games",
+      "preco": 339,
+      "link": "https://meli.la/2ynxSW6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-teto-71cm-controle-remoto-bivolt-silencioso/up/MLBU3796871676",
+      "precoDe": 699.9,
+      "parcelas": "12x R$33,16",
+      "postado": "2026-11-22T17:25:56.457Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ynxSW6.jpg"
+    },
     {
       "id": "2G5dqEk",
       "nome": "Ventilador 40cm Super Turbo 8 Pás Repelente Pastilha Mondial 140W VTX-40-8P-RP",
@@ -3009,24 +3026,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2P87NaP.jpg"
-    },
-    {
-      "id": "2zEKmVp",
-      "nome": "LEGO Classic Caixa Média de Peças Criativas 10696; peças LEGO em 35 cores",
-      "categoria": "Diversos",
-      "preco": 177.84,
-      "link": "https://meli.la/2zEKmVp",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/lego-classic-caixa-media-de-pecas-criativas-10696-pecas-lego-em-35-cores-diferentes-conjunto-criativo-para-construir-modelos-variados-para-construtores-de-todas-as-idades-presente-de-natal/p/MLB18581975",
-      "precoDe": 349.99,
-      "pix": true,
-      "parcelas": "R$183,34 em 6x R$30,56 sem juros",
-      "postado": "2026-11-20T17:25:51.530Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2zEKmVp.jpg"
     }
   ]
 }
