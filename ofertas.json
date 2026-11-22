@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-22T17:10:56.180Z",
+  "atualizado": "2026-11-22T17:12:10.982Z",
   "ofertas": [
+    {
+      "id": "1L6cowL",
+      "nome": "Ventilador De Teto Ventisol Aires Inverter Branco Com Controle Remoto 3",
+      "categoria": "Games",
+      "preco": 225.24,
+      "link": "https://meli.la/1L6cowL",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-teto-ventisol-aires-inverter-branco-com-controle-remoto-3/p/MLB20963980",
+      "precoDe": 349,
+      "pix": true,
+      "parcelas": "R$264,99 em outros meios",
+      "cupomAnuncio": "R$221,84 com Cupom por seguir a loja",
+      "postado": "2026-11-22T17:12:10.981Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1L6cowL.jpg"
+    },
     {
       "id": "243W4Hm",
       "nome": "Celular Samsung Galaxy A57 5g 256gb, 8gb Ram, Recursos Ai Azul-escuro",
