@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-22T17:44:41.885Z",
+  "atualizado": "2026-11-22T17:45:57.339Z",
   "ofertas": [
+    {
+      "id": "2WZYkcZ",
+      "nome": "Mixer 3 em 1 Electrolux com Tecnologia TruFlow EIB10 400W cor Preto",
+      "categoria": "Diversos",
+      "preco": 149.9,
+      "link": "https://meli.la/2WZYkcZ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mixer-3-em-1-electrolux-com-tecnologia-truflow-eib10-400w-cor-preto/p/MLB18425326",
+      "precoDe": 239.99,
+      "parcelas": "4x de R$37,48 sem juros",
+      "postado": "2026-11-22T17:45:57.339Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2WZYkcZ.jpg"
+    },
     {
       "id": "1a8vZP2",
       "nome": "Tanquinho Colormaq 15kg Branco",
