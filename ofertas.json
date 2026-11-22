@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T14:53:51.323Z",
+  "atualizado": "2026-11-22T14:56:06.358Z",
   "ofertas": [
+    {
+      "id": "1aBSWyL",
+      "nome": "Caixa de Som Joog Bold XS-1000 300w 2 Microfones Até 9 Horas",
+      "categoria": "Tech",
+      "preco": 699.99,
+      "link": "https://meli.la/1aBSWyL",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-joog-bold-xs-1000-300w-2-microfones-ate-9-horas/p/MLB78740877",
+      "precoDe": 2772.45,
+      "pix": true,
+      "parcelas": "R$999,99 em 10x R$100 sem juros",
+      "postado": "2026-11-22T14:56:06.356Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1aBSWyL.jpg"
+    },
     {
       "id": "1VnBE1g",
       "nome": "Espumante Brasileiro Rosé Aurora Moscatel Garrafa 750ml",
@@ -3357,22 +3375,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1HWDT2b.jpg"
-    },
-    {
-      "id": "1nrXAtR",
-      "nome": "Zenrelia 6,4mg 30 Comprimidos para Cães Elanco",
-      "categoria": "Diversos",
-      "preco": 184.85,
-      "link": "https://meli.la/1nrXAtR",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/zenrelia-64mg-30-comprimidos-para-caes-elanco/p/MLB69123517",
-      "precoDe": 275.9,
-      "postado": "2026-11-20T14:55:01.837Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1nrXAtR.jpg"
     }
   ]
 }
