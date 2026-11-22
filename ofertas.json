@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-22T17:15:56.596Z",
+  "atualizado": "2026-11-22T17:17:11.144Z",
   "ofertas": [
+    {
+      "id": "2wkDyvn",
+      "nome": "Smart Tv Aoc Roku Tv 40 Full Hd 40s5166/78g",
+      "categoria": "Tech",
+      "preco": 1299,
+      "link": "https://meli.la/2wkDyvn",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smart-tv-aoc-roku-tv-40-full-hd-40s516678g/p/MLB79512492",
+      "precoDe": 1749,
+      "parcelas": "12x R$126,10",
+      "postado": "2026-11-22T17:17:11.143Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2wkDyvn.jpg"
+    },
     {
       "id": "12eKN88",
       "nome": "Air Fryer Britânia 6,5L 1700W 8 Funções Painel Digital Redstone BAF65A",
@@ -2953,24 +2970,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2ffN1Pu.jpg"
-    },
-    {
-      "id": "1ot4cdV",
-      "nome": "Central Multimídia Mp5 1 Din Carplay Android-auto 7'+ Cam Ré",
-      "categoria": "Diversos",
-      "preco": 228.9,
-      "link": "https://meli.la/1ot4cdV",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/central-multimidia-mp5-1-din-carplay-android-auto-7-cam-re/up/MLBU1477411735",
-      "precoDe": 460,
-      "pix": true,
-      "parcelas": "R$254,33 em 10x R$25,43 sem juros",
-      "postado": "2026-11-20T17:16:51.229Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1ot4cdV.jpg"
     }
   ]
 }
