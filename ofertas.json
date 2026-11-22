@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T17:28:26.524Z",
+  "atualizado": "2026-11-22T17:29:41.610Z",
   "ofertas": [
+    {
+      "id": "1PtRvL6",
+      "nome": "Mala Wilson Viagem Rodinhas 19' Rodas Removíveis 10kg Anac",
+      "categoria": "Diversos",
+      "preco": 216.69,
+      "link": "https://meli.la/1PtRvL6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-5265379346-mala-wilson-viagem-rodinhas-19-rodas-removiveis-10kg-anac-_JM",
+      "precoDe": 699,
+      "parcelas": "10x R$21,67 sem juros",
+      "cupomAnuncio": "Compre R$379,99 e ganhe 5% OFF",
+      "postado": "2026-11-22T17:29:41.608Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1PtRvL6.jpg"
+    },
     {
       "id": "2Q6kvYk",
       "nome": "Kit Cueca Boxer Mash 10 Peças Masculina Algodão Elástico",
