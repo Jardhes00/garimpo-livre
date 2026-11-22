@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-22T15:47:52.895Z",
+  "atualizado": "2026-11-22T15:50:07.937Z",
   "ofertas": [
+    {
+      "id": "1niH5rC",
+      "nome": "Licor 43 Garrafa 700ml Original",
+      "categoria": "Diversos",
+      "preco": 131.92,
+      "link": "https://meli.la/1niH5rC",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/licor-43-garrafa-700ml-original/p/MLB66170745",
+      "precoDe": 189.9,
+      "postado": "2026-11-22T15:50:07.935Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1niH5rC.jpg"
+    },
     {
       "id": "1mhx4UA",
       "nome": "Berço Balanço Portátil Moises Com Mosquiteiro E Colchão Bebê Função Balanço",
@@ -3363,24 +3379,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1LarX7G.jpg"
-    },
-    {
-      "id": "2YeWzLt",
-      "nome": "Babá Eletrônica Video Baby Noturna Sem Fio Recarregável Branco Estary Shop",
-      "categoria": "Diversos",
-      "preco": 187.85,
-      "link": "https://meli.la/2YeWzLt",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/baba-eletronica-video-baby-noturna-sem-fio-recarregavel-branco-estary-shop/p/MLB54159991",
-      "precoDe": 459,
-      "pix": true,
-      "parcelas": "R$221 em outros meios",
-      "postado": "2026-11-20T15:49:03.575Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2YeWzLt.jpg"
     }
   ]
 }
