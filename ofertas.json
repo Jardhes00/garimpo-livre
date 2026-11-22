@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-22T15:29:52.230Z",
+  "atualizado": "2026-11-22T15:32:07.451Z",
   "ofertas": [
+    {
+      "id": "1DibooB",
+      "nome": "APARADOR Cortador De Grama Bipartido 1500w Apb1600t 280mm Tramontina 220v",
+      "categoria": "Diversos",
+      "preco": 249.9,
+      "link": "https://meli.la/1DibooB",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aparador-cortador-de-grama-bipartido-1500w-apb1600t-280mm-tramontina-220v/p/MLB63647240",
+      "precoDe": 374.87,
+      "postado": "2026-11-22T15:32:07.450Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1DibooB.jpg"
+    },
     {
       "id": "2uxF6YS",
       "nome": "Gokoco GD037 Modeladora/Cacheadora - Preto",
@@ -3366,24 +3382,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2WpwzQz.jpg"
-    },
-    {
-      "id": "1izXgVc",
-      "nome": "Panela De Pressão Elétrica 5 Litros Aço Inox Preto Multifuncional Kian Ppe 101",
-      "categoria": "Casa",
-      "preco": 277.4,
-      "link": "https://meli.la/1izXgVc",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/panela-de-pressao-eletrica-5-litros-aco-inox-preto-multifuncional-kian-ppe-101/p/MLB50190417",
-      "precoDe": 499.99,
-      "pix": true,
-      "parcelas": "R$292 em outros meios",
-      "postado": "2026-11-20T15:31:02.928Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1izXgVc.jpg"
     }
   ]
 }
