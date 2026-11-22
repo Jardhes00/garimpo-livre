@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T15:45:37.787Z",
+  "atualizado": "2026-11-22T15:47:52.895Z",
   "ofertas": [
+    {
+      "id": "1mhx4UA",
+      "nome": "Berço Balanço Portátil Moises Com Mosquiteiro E Colchão Bebê Função Balanço",
+      "categoria": "Casa",
+      "preco": 378.07,
+      "link": "https://meli.la/1mhx4UA",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/berco-balanco-portatil-moises-com-mosquiteiro-e-colchao-bebe-funcao-balanco-infantil-compacto-balancinho/p/MLB66266515",
+      "precoDe": 599.9,
+      "pix": true,
+      "parcelas": "R$397,97 em outros meios",
+      "postado": "2026-11-22T15:47:52.893Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1mhx4UA.jpg"
+    },
     {
       "id": "1HSM3hb",
       "nome": "Ventilador 2 em 1 Prime Air 8 Pás Maxx Force 150W AVTE400",
@@ -3363,22 +3381,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2YeWzLt.jpg"
-    },
-    {
-      "id": "1bmnUYH",
-      "nome": "Ventilador de Mesa Multilaser Multi Turbo VL401",
-      "categoria": "Casa",
-      "preco": 135.99,
-      "link": "https://meli.la/1bmnUYH",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-mesa-multilaser-multi-turbo-vl401/p/MLB20888404",
-      "precoDe": 260.37,
-      "postado": "2026-11-20T15:46:48.596Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1bmnUYH.jpg"
     }
   ]
 }
