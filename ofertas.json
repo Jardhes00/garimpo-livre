@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-22T17:33:26.685Z",
+  "atualizado": "2026-11-22T17:34:41.728Z",
   "ofertas": [
+    {
+      "id": "1xwNmpT",
+      "nome": "The Adventures Of Elliot The Millennium Tales - Ns2",
+      "categoria": "Diversos",
+      "preco": 229.32,
+      "link": "https://meli.la/1xwNmpT",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/the-adventures-of-elliot-the-millennium-tales-ns2/up/MLBU3964383403",
+      "precoDe": 349.9,
+      "parcelas": "6x de R$38,22 sem juros",
+      "postado": "2026-11-22T17:34:41.726Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1xwNmpT.jpg"
+    },
     {
       "id": "2Yh62Vk",
       "nome": "Tênis Nike Air Max Nuaxis Masculino",
@@ -3065,24 +3082,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2pxPVkh.jpg"
-    },
-    {
-      "id": "1n6QUj3",
-      "nome": "Filamento PLA 1,75mm Voolt3D Premium Bege para Impressora 3D 1 kg",
-      "categoria": "Tech",
-      "preco": 113.9,
-      "link": "https://meli.la/1n6QUj3",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/filamento-pla-175mm-voolt3d-premium-bege-para-impressora-3d-1-kg/p/MLB26212093",
-      "precoDe": 159.9,
-      "pix": true,
-      "parcelas": "R$119,90 em outros meios",
-      "postado": "2026-11-20T17:34:39.699Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1n6QUj3.jpg"
     }
   ]
 }
