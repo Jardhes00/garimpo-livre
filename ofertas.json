@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-22T17:53:27.100Z",
+  "atualizado": "2026-11-22T17:54:42.598Z",
   "ofertas": [
+    {
+      "id": "1GuuTAp",
+      "nome": "Bicicleta Ergométrica Spinning Para Treino Casa Academia",
+      "categoria": "Esporte",
+      "preco": 799.99,
+      "link": "https://meli.la/1GuuTAp",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bicicleta-ergometrica-spinning-para-treino-casa-academia/up/MLBU5301823395",
+      "precoDe": 1999,
+      "postado": "2026-11-22T17:54:42.597Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1GuuTAp.jpg"
+    },
     {
       "id": "2ZJbs2n",
       "nome": "Piscina redonda Mor cor bege 5200L",
