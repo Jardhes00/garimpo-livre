@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T17:29:41.610Z",
+  "atualizado": "2026-11-22T17:30:56.715Z",
   "ofertas": [
+    {
+      "id": "2oNP34V",
+      "nome": "Tênis Kappa Pulse Unissex Academia Caminhada",
+      "categoria": "Moda",
+      "preco": 119.99,
+      "link": "https://meli.la/2oNP34V",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-5325422870-tnis-kappa-pulse-unissex-academia-caminhada-_JM",
+      "precoDe": 229.99,
+      "parcelas": "12x R$11,86",
+      "cupomAnuncio": "R$113,99 com Cupom por seguir a loja",
+      "postado": "2026-11-22T17:30:56.714Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2oNP34V.jpg"
+    },
     {
       "id": "1PtRvL6",
       "nome": "Mala Wilson Viagem Rodinhas 19' Rodas Removíveis 10kg Anac",
@@ -3047,22 +3065,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1Bgh1Sd.jpg"
-    },
-    {
-      "id": "22QM6vF",
-      "nome": "Tapete 2.00x1.50 Casa Laura Enxovais Shaggy Felpudo Para Quarto Sala Luxo Bege",
-      "categoria": "Casa",
-      "preco": 55.19,
-      "link": "https://meli.la/22QM6vF",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/tapete-200x150-casa-laura-enxovais-shaggy-felpudo-para-quarto-sala-luxo-bege-mesclado/p/MLB29378016",
-      "precoDe": 115.9,
-      "postado": "2026-11-20T17:30:09.544Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-22QM6vF.jpg"
     }
   ]
 }
