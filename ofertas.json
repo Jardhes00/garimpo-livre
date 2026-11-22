@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T14:47:06.256Z",
+  "atualizado": "2026-11-22T14:49:20.886Z",
   "ofertas": [
+    {
+      "id": "1YFdSFG",
+      "nome": "Trilha Hot Wheels Jurassic World T-rex Vs Fire Station",
+      "categoria": "Diversos",
+      "preco": 207.85,
+      "link": "https://meli.la/1YFdSFG",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/trilha-hot-wheels-jurassic-world-t-rex-vs-fire-station/p/MLB45208910",
+      "precoDe": 299.99,
+      "pix": true,
+      "parcelas": "R$218,79 em 6x R$36,46 sem juros",
+      "postado": "2026-11-22T14:49:20.884Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1YFdSFG.jpg"
+    },
     {
       "id": "2hma7jE",
       "nome": "Mop Esfregão Giratório Condor Balde Inox 13 Litros + Refil Microfibra + Cabo",
@@ -3354,24 +3372,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2UckUMH.jpg"
-    },
-    {
-      "id": "2ortHUP",
-      "nome": "Cpap Automático Airsense S10 Autoset C/ Umidificador Resmed",
-      "categoria": "Diversos",
-      "preco": 2773.9,
-      "link": "https://meli.la/2ortHUP",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cpap-automatico-airsense-s10-autoset-c-umidificador-resmed/p/MLB27738933",
-      "precoDe": 5999.9,
-      "pix": true,
-      "parcelas": "R$2.919,90 em 10x R$291,99 sem juros",
-      "postado": "2026-11-20T14:48:16.509Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2ortHUP.jpg"
     }
   ]
 }
