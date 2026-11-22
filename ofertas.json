@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-22T14:51:35.840Z",
+  "atualizado": "2026-11-22T14:53:51.323Z",
   "ofertas": [
+    {
+      "id": "1VnBE1g",
+      "nome": "Espumante Brasileiro Rosé Aurora Moscatel Garrafa 750ml",
+      "categoria": "Diversos",
+      "preco": 25.99,
+      "link": "https://meli.la/1VnBE1g",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/espumante-brasileiro-rose-aurora-moscatel-garrafa-750ml/p/MLB18308495",
+      "precoDe": 39.9,
+      "postado": "2026-11-22T14:53:51.321Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1VnBE1g.jpg"
+    },
     {
       "id": "1bUGQEH",
       "nome": "La Roche Posay Cicaplast Baume B5 Fps+ 50 40ml Todo Tipo De Pele Dia",
@@ -3357,24 +3373,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1nrXAtR.jpg"
-    },
-    {
-      "id": "11REz3C",
-      "nome": "Mochila Sem Gênero, Impermeável, Reforçada, Com Capacidade Ampliada De 30-42l",
-      "categoria": "Moda",
-      "preco": 65.59,
-      "link": "https://meli.la/11REz3C",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/mochila-sem-genero-impermeavel-reforcada-com-capacidade-ampliada-de-30-42l-adequada-para-portatil-viagens-diarias-cor-preta/p/MLB75625924",
-      "precoDe": 216,
-      "parcelas": "3x de R$21,86 sem juros",
-      "cupomAnuncio": "R$63,59 com Cupom por seguir a loja",
-      "postado": "2026-11-20T14:52:46.773Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-11REz3C.jpg"
     }
   ]
 }
