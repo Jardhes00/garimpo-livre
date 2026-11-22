@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-22T17:45:57.339Z",
+  "atualizado": "2026-11-22T17:47:12.000Z",
   "ofertas": [
+    {
+      "id": "1ryhKxH",
+      "nome": "Loção Facial Hidratante FPS 50 com Ceramidas e Niacinamida, AM CeraVe, 52g",
+      "categoria": "Beleza",
+      "preco": 69.54,
+      "link": "https://meli.la/1ryhKxH",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/locao-facial-hidratante-fps-50-com-ceramidas-e-niacinamida-am-cerave-52g/p/MLB45025795",
+      "precoDe": 129.9,
+      "pix": true,
+      "parcelas": "R$77,27 em outros meios",
+      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
+      "postado": "2026-11-22T17:47:12.000Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ryhKxH.jpg"
+    },
     {
       "id": "2WZYkcZ",
       "nome": "Mixer 3 em 1 Electrolux com Tecnologia TruFlow EIB10 400W cor Preto",
