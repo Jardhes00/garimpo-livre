@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-22T17:55:57.168Z",
+  "atualizado": "2026-11-22T17:57:12.564Z",
   "ofertas": [
+    {
+      "id": "2HaUVJq",
+      "nome": "Cafeteira Espresso Philips Walita Cor Preto",
+      "categoria": "Casa",
+      "preco": 2159,
+      "link": "https://meli.la/2HaUVJq",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafeteira-espresso-philips-walita-cor-preto/p/MLB15704079",
+      "precoDe": 3999.9,
+      "parcelas": "10x de R$215,90 sem juros",
+      "postado": "2026-11-22T17:57:12.563Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2HaUVJq.jpg"
+    },
     {
       "id": "2GMdfFA",
       "nome": "Copo Térmico para Cerveja Stanley Pint Adventure Black 2.0 354ml",
