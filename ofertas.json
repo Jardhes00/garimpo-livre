@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T17:32:11.719Z",
+  "atualizado": "2026-11-22T17:33:26.685Z",
   "ofertas": [
+    {
+      "id": "2Yh62Vk",
+      "nome": "Tênis Nike Air Max Nuaxis Masculino",
+      "categoria": "Moda",
+      "preco": 322.99,
+      "link": "https://meli.la/2Yh62Vk",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-3884158173-tnis-nike-air-max-nuaxis-masculino-_JM",
+      "precoDe": 599.99,
+      "pix": true,
+      "parcelas": "R$339,99 em outros meios",
+      "postado": "2026-11-22T17:33:26.684Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Yh62Vk.jpg"
+    },
     {
       "id": "2dX193S",
       "nome": "Kit Com 10 Cuecas Boxer Algodão Adulto Usee Brasil",
@@ -3065,24 +3083,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1n6QUj3.jpg"
-    },
-    {
-      "id": "1Bgh1Sd",
-      "nome": "Armário Aéreo de Cozinha Branco Itatiaia 3 Portas Rose",
-      "categoria": "Casa",
-      "preco": 204.7,
-      "link": "https://meli.la/1Bgh1Sd",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/armario-aereo-de-cozinha-branco-itatiaia-3-portas-rose/p/MLB27988013",
-      "precoDe": 275.84,
-      "pix": true,
-      "parcelas": "R$227,45 em outros meios",
-      "postado": "2026-11-20T17:32:24.475Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1Bgh1Sd.jpg"
     }
   ]
 }
