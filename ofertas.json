@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-22T15:43:22.652Z",
+  "atualizado": "2026-11-22T15:45:37.787Z",
   "ofertas": [
+    {
+      "id": "1HSM3hb",
+      "nome": "Ventilador 2 em 1 Prime Air 8 Pás Maxx Force 150W AVTE400",
+      "categoria": "Casa",
+      "preco": 129.9,
+      "link": "https://meli.la/1HSM3hb",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-2-em-1-prime-air-8-pas-maxx-force-150w-avte400/p/MLB37908276",
+      "precoDe": 229.9,
+      "parcelas": "4x de R$32,48 sem juros",
+      "postado": "2026-11-22T15:45:37.785Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1HSM3hb.jpg"
+    },
     {
       "id": "1zsHdhN",
       "nome": "Tablet VAIO TL10 4GB RAM 128GB Octa-Core, Tela 10.4” 2K, 4G WiFi Dual Band",
@@ -3362,24 +3379,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1bmnUYH.jpg"
-    },
-    {
-      "id": "1q1jx8d",
-      "nome": "Lavadora De Alta Pressão Aqua Power Mondial Preto 1400w Lap-04-gy",
-      "categoria": "Diversos",
-      "preco": 284.05,
-      "link": "https://meli.la/1q1jx8d",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-aqua-power-mondial-preto-1400w-lap-04-gy/p/MLB69328684",
-      "precoDe": 479.9,
-      "pix": true,
-      "parcelas": "R$299 em 6x R$49,83 sem juros",
-      "postado": "2026-11-20T15:44:33.283Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1q1jx8d.jpg"
     }
   ]
 }
