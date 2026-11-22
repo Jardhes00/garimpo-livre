@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T17:54:42.598Z",
+  "atualizado": "2026-11-22T17:55:57.168Z",
   "ofertas": [
+    {
+      "id": "2GMdfFA",
+      "nome": "Copo Térmico para Cerveja Stanley Pint Adventure Black 2.0 354ml",
+      "categoria": "Diversos",
+      "preco": 60.72,
+      "link": "https://meli.la/2GMdfFA",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/copo-termico-para-cerveja-stanley-pint-adventure-black-20-354ml/p/MLB64387710",
+      "precoDe": 135,
+      "pix": true,
+      "parcelas": "R$67,47 em outros meios",
+      "postado": "2026-11-22T17:55:57.167Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2GMdfFA.jpg"
+    },
     {
       "id": "1GuuTAp",
       "nome": "Bicicleta Ergométrica Spinning Para Treino Casa Academia",
