@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T17:03:40.160Z",
+  "atualizado": "2026-11-22T17:09:41.226Z",
   "ofertas": [
+    {
+      "id": "18hZLsx",
+      "nome": "Samsung Smart TV 55\" Mini LED 4K M75H 26/2027",
+      "categoria": "Tech",
+      "preco": 2564.05,
+      "link": "https://meli.la/18hZLsx",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/samsung-smart-tv-55-mini-led-4k-m75h-262027/p/MLB76002662",
+      "precoDe": 4299,
+      "pix": true,
+      "parcelas": "R$2.699 em outros meios",
+      "postado": "2026-11-22T17:09:41.224Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-18hZLsx.jpg"
+    },
     {
       "id": "2JN9CnF",
       "nome": "Cadeira Carro Reclinável 5P 0-36kg Bauhaus Preto Maxi Baby",
@@ -2912,40 +2930,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1gCvHZh.jpg"
-    },
-    {
-      "id": "1JcrrND",
-      "nome": "Projetor Smart Portátil Full Hd 4k Bluetooth Android Wifi",
-      "categoria": "Diversos",
-      "preco": 171.69,
-      "link": "https://meli.la/1JcrrND",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/projetor-smart-portatil-full-hd-4k-bluetooth-android-wifi/up/MLBU765509845",
-      "precoDe": 359.9,
-      "pix": true,
-      "parcelas": "R$180,73 em 6x R$30,12 sem juros",
-      "postado": "2026-11-20T17:07:51.078Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1JcrrND.jpg"
-    },
-    {
-      "id": "2Bji6df",
-      "nome": "Whey protein Musclebox Iso Blend Complex zero açucar Low em pó sabor Morango x",
-      "categoria": "Suplementos",
-      "preco": 86.39,
-      "link": "https://meli.la/2Bji6df",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/whey-protein-musclebox-iso-blend-complex-zero-acucar-low-em-po-sabor-morango-x-2kg/p/MLB65357764",
-      "precoDe": 139.99,
-      "postado": "2026-11-20T17:05:36.283Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2Bji6df.jpg"
     }
   ]
 }
