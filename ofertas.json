@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T17:52:12.228Z",
+  "atualizado": "2026-11-22T17:53:27.100Z",
   "ofertas": [
+    {
+      "id": "2ZJbs2n",
+      "nome": "Piscina redonda Mor cor bege 5200L",
+      "categoria": "Diversos",
+      "preco": 619.71,
+      "link": "https://meli.la/2ZJbs2n",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/piscina-redonda-mor-cor-bege-5200l/p/MLB63044020",
+      "precoDe": 899.9,
+      "pix": true,
+      "parcelas": "R$681 em outros meios",
+      "postado": "2026-11-22T17:53:27.098Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ZJbs2n.jpg"
+    },
     {
       "id": "1tpxnmQ",
       "nome": "Ventilador de Pé Oscilante Turbo Grade de Plástico Ventisol",
