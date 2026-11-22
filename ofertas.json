@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T16:03:38.397Z",
+  "atualizado": "2026-11-22T16:05:53.258Z",
   "ofertas": [
+    {
+      "id": "1SGWpCJ",
+      "nome": "Electrolux Jogo de Panelas em Inox com 5 Peças Design com Fundo Triplo",
+      "categoria": "Games",
+      "preco": 450.49,
+      "link": "https://meli.la/1SGWpCJ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/electrolux-jogo-de-panelas-em-inox-com-5-pecas-design-com-fundo-triplo/p/MLB24264822",
+      "precoDe": 799.9,
+      "pix": true,
+      "parcelas": "R$474,20 em 9x R$52,69 sem juros",
+      "postado": "2026-11-22T16:05:53.257Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1SGWpCJ.jpg"
+    },
     {
       "id": "11pNyj1",
       "nome": "Multi-Inseticida Automático Óleo de Citronela SBP Caixa 250ml",
@@ -3359,23 +3377,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1MAR4rq.jpg"
-    },
-    {
-      "id": "1LUjE6x",
-      "nome": "Relógio Inteligente Smartwatch Gps 5atm Amoled Mapas Offline",
-      "categoria": "Tech",
-      "preco": 309.99,
-      "link": "https://meli.la/1LUjE6x",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/relogio-inteligente-smartwatch-gps-5atm-amoled-mapas-offline/up/MLBU3870864899",
-      "precoDe": 1199,
-      "parcelas": "6x de R$51,67 sem juros",
-      "postado": "2026-11-20T16:04:49.301Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1LUjE6x.jpg"
     }
   ]
 }
