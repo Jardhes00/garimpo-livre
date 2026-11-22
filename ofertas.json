@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-22T15:00:36.355Z",
+  "atualizado": "2026-11-22T15:02:51.444Z",
   "ofertas": [
+    {
+      "id": "2XvNoMs",
+      "nome": "Fonte Msi Mag 650w 80 Plus Bronze Pfc Ativo A650bnl Preto",
+      "categoria": "Diversos",
+      "preco": 349.9,
+      "link": "https://meli.la/2XvNoMs",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fonte-msi-mag-650w-80-plus-bronze-pfc-ativo-a650bnl-preto/p/MLB62535762",
+      "precoDe": 558.62,
+      "parcelas": "6x de R$58,32 sem juros",
+      "postado": "2026-11-22T15:02:51.442Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2XvNoMs.jpg"
+    },
     {
       "id": "2MYRYQr",
       "nome": "Whey protein XPro Nutrition Iso Blend Complex em pó sabor Baunilha x 2kg",
@@ -3358,22 +3375,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2poYaXQ.jpg"
-    },
-    {
-      "id": "2ZM9bbL",
-      "nome": "Lavadora de Alta Pressão Electrolux 1850PSI 1500W Potência com Aplicador de",
-      "categoria": "Diversos",
-      "preco": 379,
-      "link": "https://meli.la/2ZM9bbL",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-electrolux-1850psi-1500w-potencia-com-aplicador-de-detergente-powerwash-ews1850-lava-jato-lava-car/p/MLB38831487",
-      "precoDe": 559.99,
-      "postado": "2026-11-20T15:01:46.383Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2ZM9bbL.jpg"
     }
   ]
 }
