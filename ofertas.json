@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T17:37:11.812Z",
+  "atualizado": "2026-11-22T17:38:27.136Z",
   "ofertas": [
+    {
+      "id": "1dxrBVD",
+      "nome": "Aparelho De Jantar E Chá 30 Pçs Oxford Ryo Bambu",
+      "categoria": "Diversos",
+      "preco": 464.86,
+      "link": "https://meli.la/1dxrBVD",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aparelho-de-jantar-e-cha-30-pcs-oxford-ryo-bambu/p/MLB33316144",
+      "precoDe": 649.9,
+      "pix": true,
+      "parcelas": "R$546,90 em 3x R$182,30 sem juros",
+      "postado": "2026-11-22T17:38:27.135Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1dxrBVD.jpg"
+    },
     {
       "id": "1iXcdDP",
       "nome": "Guarda Roupa Casal 6 Portas Easy Slim Com Espelho E Pés Amêndoa/Off white",
