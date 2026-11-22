@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-22T17:27:11.525Z",
+  "atualizado": "2026-11-22T17:28:26.524Z",
   "ofertas": [
+    {
+      "id": "2Q6kvYk",
+      "nome": "Kit Cueca Boxer Mash 10 Peças Masculina Algodão Elástico",
+      "categoria": "Moda",
+      "preco": 140.44,
+      "link": "https://meli.la/2Q6kvYk",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-1920971205-kit-cueca-boxer-mash-10-pecas-masculina-algodo-elastico-_JM",
+      "precoDe": 189.9,
+      "pix": true,
+      "parcelas": "R$161,42 em 5x R$32,28 sem juros",
+      "postado": "2026-11-22T17:28:26.523Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Q6kvYk.jpg"
+    },
     {
       "id": "2ZeEjTX",
       "nome": "Tenda Gazebo Tenda Para Camping Azul Mor X-flex Oxford",
@@ -3027,24 +3045,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-22QM6vF.jpg"
-    },
-    {
-      "id": "2P87NaP",
-      "nome": "Cadeira de Escritório Vincere Brasil Elegance Graphite II Ergonômica com Apoio",
-      "categoria": "Diversos",
-      "preco": 312.55,
-      "link": "https://meli.la/2P87NaP",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-escritorio-vincere-brasil-elegance-graphite-ii-ergonomica-com-apoio-lombar-preta-em-malha/p/MLB67956278",
-      "precoDe": 799,
-      "pix": true,
-      "parcelas": "R$329 em 6x R$54,83 sem juros",
-      "postado": "2026-11-20T17:27:54.438Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2P87NaP.jpg"
     }
   ]
 }
