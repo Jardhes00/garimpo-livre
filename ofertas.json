@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-22T17:23:26.474Z",
+  "atualizado": "2026-11-22T17:24:41.377Z",
   "ofertas": [
+    {
+      "id": "2G5dqEk",
+      "nome": "Ventilador 40cm Super Turbo 8 Pás Repelente Pastilha Mondial 140W VTX-40-8P-RP",
+      "categoria": "Casa",
+      "preco": 193.33,
+      "link": "https://meli.la/2G5dqEk",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-40cm-super-turbo-8-pas-repelente-pastilha-mondial-140w-vtx-40-8p-rp/p/MLB15957901",
+      "precoDe": 366.9,
+      "parcelas": "6x R$32,22 sem juros",
+      "postado": "2026-11-22T17:24:41.376Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2G5dqEk.jpg"
+    },
     {
       "id": "2qKh8if",
       "nome": "YoPRO Bebida Láctea UHT Chocolate 15g de proteínas 250ml - 12 unidades",
@@ -3010,23 +3027,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2zEKmVp.jpg"
-    },
-    {
-      "id": "1ga26gw",
-      "nome": "Shampoo Anticaspa Esfoliante Limpeza Profunda Ação Calmante com Ácido",
-      "categoria": "Beleza",
-      "preco": 89.9,
-      "link": "https://meli.la/1ga26gw",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/shampoo-anticaspa-esfoliante-limpeza-profunda-acao-calmante-com-acido-salicilico-e-piroctona-olamina-dercos-micro-peel-vichy-150ml/p/MLB19506407",
-      "precoDe": 147.9,
-      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
-      "postado": "2026-11-20T17:23:36.418Z",
-      "conferido": "2026-11-20",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1ga26gw.jpg"
     }
   ]
 }
