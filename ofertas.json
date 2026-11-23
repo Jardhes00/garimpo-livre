@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T16:42:06.852Z",
+  "atualizado": "2026-11-23T16:43:21.803Z",
   "ofertas": [
+    {
+      "id": "1bkJZrk",
+      "nome": "Smartphone Motorola Moto g47 5G 128GB, 4GB RAM câmera 50 MP Sony LYTIA 600",
+      "categoria": "Tech",
+      "preco": 1131.3,
+      "link": "https://meli.la/1bkJZrk",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g47-5g-128gb-4gb-ram-camera-50-mp-sony-lytia-600-tela-67-fhd-120hz-nfc-ip64/p/MLB68698394",
+      "precoDe": 2199,
+      "pix": true,
+      "parcelas": "R$1.257 em 9x R$139,67 sem juros",
+      "postado": "2026-11-23T16:43:21.802Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1bkJZrk.jpg"
+    },
     {
       "id": "2NsJoPX",
       "nome": "Batedeira Planetária, Mondial, 700W - BP-03-P",
