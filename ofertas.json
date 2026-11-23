@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T14:48:44.607Z",
+  "atualizado": "2026-11-23T14:49:59.758Z",
   "ofertas": [
+    {
+      "id": "1mixWpA",
+      "nome": "Smart Tv Semp 43 Polegadas Led Full Hd S42r Roku Tv Wi-Fi Dolby Audio Brilho",
+      "categoria": "Tech",
+      "preco": 1399,
+      "link": "https://meli.la/1mixWpA",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smart-tv-semp-43-polegadas-led-full-hd-s42r-roku-tv-wi-fi-dolby-audio-brilho-ate-240-nits-43s42r/p/MLB77018845",
+      "precoDe": 2549,
+      "parcelas": "10x de R$139,90 sem juros",
+      "postado": "2026-11-23T14:49:59.757Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1mixWpA.jpg"
+    },
     {
       "id": "2U3Ctvx",
       "nome": "Cervejeira Consul Preta - Cze12me Preto 110v",
