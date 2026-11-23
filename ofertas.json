@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T20:13:52.215Z",
+  "atualizado": "2026-11-23T20:15:07.176Z",
   "ofertas": [
+    {
+      "id": "1PRhFXz",
+      "nome": "Ombrelone Solasol Redondo 240 Central Bagum Sem Abas Madeira",
+      "categoria": "Diversos",
+      "preco": 328.99,
+      "link": "https://meli.la/1PRhFXz",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ombrelone-solasol-redondo-240-central-bagum-sem-abas-madeira/up/MLBU5414308187",
+      "precoDe": 536.44,
+      "parcelas": "10x de R$32,90 sem juros",
+      "postado": "2026-11-23T20:15:07.175Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1PRhFXz.jpg"
+    },
     {
       "id": "2EGhbLU",
       "nome": "Espumante Rosé Brut Casa Perini 750 ml",
@@ -5407,24 +5424,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2cRibqw.jpg"
-    },
-    {
-      "id": "2uKqXWi",
-      "nome": "Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera 50MP, IP68, Super AMOLED 6.7\", Recursos AI - Lilás",
-      "categoria": "Tech",
-      "preco": 1899,
-      "link": "https://meli.la/2uKqXWi",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a57-5g-128gb-8gb-ram-camera-50mp-ip68-super-amoled-67-recursos-ai-lilas/p/MLB68213841",
-      "precoDe": 3799,
-      "pix": true,
-      "parcelas": "R$ 2.110 em 10x de R$ 211 sem juros",
-      "postado": "2026-11-21T20:15:03.202Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2uKqXWi.jpg"
     }
   ]
 }
