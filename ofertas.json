@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T19:10:05.957Z",
+  "atualizado": "2026-11-23T19:11:20.198Z",
   "ofertas": [
+    {
+      "id": "1eFm3ZW",
+      "nome": "Colchão Casal Emma Basics 17 – 138x188cm - Espuma D28 17cm com Tecnologia",
+      "categoria": "Casa",
+      "preco": 991.8,
+      "link": "https://meli.la/1eFm3ZW",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/colchao-casal-emma-basics-17-138x188cm-espuma-d28-17cm-com-tecnologia-alema-embalado-vacuo-firmeza-ideal-suporte-confortavel/p/MLB23873195",
+      "precoDe": 1999,
+      "pix": true,
+      "parcelas": "R$1.044 em 10x R$104,40 sem juros",
+      "postado": "2026-11-23T19:11:20.196Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1eFm3ZW.jpg"
+    },
     {
       "id": "1XRAT8L",
       "nome": "Bicicleta Ergométrica Bike Spinning 6kg de inércia Fitness Preto Ltx Fit Para",
@@ -5036,24 +5054,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2Je8kB3.jpg"
-    },
-    {
-      "id": "1QFVWtz",
-      "nome": "Controle Joystick Sem Fio Sony Playstation 5 Midnight Black Preto",
-      "categoria": "Games",
-      "preco": 371.07,
-      "link": "https://meli.la/1QFVWtz",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/controle-joystick-sem-fio-sony-playstation-5-midnight-black-preto/p/MLB18010993",
-      "precoDe": 499.9,
-      "pix": true,
-      "parcelas": "R$ 399 em 7x R$ 57 sem juros",
-      "postado": "2026-11-21T19:11:13.651Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1QFVWtz.jpg"
     }
   ]
 }
