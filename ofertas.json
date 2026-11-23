@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T16:49:37.191Z",
+  "atualizado": "2026-11-23T16:50:51.955Z",
   "ofertas": [
+    {
+      "id": "1FZ8NpW",
+      "nome": "Mesa Camping Palisad 695838 Alumínio Tampo MDF 90x60cm Pés Dobráveis",
+      "categoria": "Diversos",
+      "preco": 102.59,
+      "link": "https://meli.la/1FZ8NpW",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mesa-camping-palisad-695838-aluminio-tampo-mdf-90x60cm-pes-dobraveis/p/MLB26049268",
+      "precoDe": 159.9,
+      "pix": true,
+      "parcelas": "R$107,99 em outros meios",
+      "postado": "2026-11-23T16:50:51.953Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1FZ8NpW.jpg"
+    },
     {
       "id": "1GHcrP3",
       "nome": "Guarda-sol 2,6 Metro Piscina Praia Pesca Articulado Azul Mor",
