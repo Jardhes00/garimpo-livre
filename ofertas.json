@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T14:57:30.296Z",
+  "atualizado": "2026-11-23T14:58:45.091Z",
   "ofertas": [
+    {
+      "id": "2U7BqbN",
+      "nome": "Cama Elastica Profissional Pula Pula Trampolim de 3,05m com Rede e 380 kg de",
+      "categoria": "Diversos",
+      "preco": 1196.91,
+      "link": "https://meli.la/2U7BqbN",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cama-elastica-profissional-pula-pula-trampolim-de-305m-com-rede-e-380-kg-de-suporte/p/MLB23431955",
+      "precoDe": 1720,
+      "parcelas": "10x de R$119,69 sem juros",
+      "postado": "2026-11-23T14:58:45.090Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2U7BqbN.jpg"
+    },
     {
       "id": "2K8WC5p",
       "nome": "Energético Redbull 250ml Caixa C/ 24un",
