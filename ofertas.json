@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T20:06:22.008Z",
+  "atualizado": "2026-11-23T20:07:37.016Z",
   "ofertas": [
+    {
+      "id": "2rNBNr2",
+      "nome": "Colchão Solteiro Espuma D33 Pillow Top New Millenium Branco",
+      "categoria": "Casa",
+      "preco": 474.05,
+      "link": "https://meli.la/2rNBNr2",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/colchao-solteiro-espuma-d33-pillow-top-new-millenium-branco/p/MLB49877564",
+      "precoDe": 754.45,
+      "pix": true,
+      "parcelas": "R$499 em 9x R$55,44 sem juros",
+      "postado": "2026-11-23T20:07:37.015Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2rNBNr2.jpg"
+    },
     {
       "id": "191WQfc",
       "nome": "Nutella Creme de Avelã 1 uni 350g",
