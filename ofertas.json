@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T19:42:36.382Z",
+  "atualizado": "2026-11-23T19:43:51.816Z",
   "ofertas": [
+    {
+      "id": "1acj6Ns",
+      "nome": "Kit 12 Mini Espumante Monte Paschoal Brut 187ml",
+      "categoria": "Diversos",
+      "preco": 151.13,
+      "link": "https://meli.la/1acj6Ns",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-12-mini-espumante-monte-paschoal-brut-187ml/p/MLB29530566",
+      "precoDe": 411.85,
+      "postado": "2026-11-23T19:43:51.814Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1acj6Ns.jpg"
+    },
     {
       "id": "2eT8bYW",
       "nome": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera Tripla 50MP, Super AMOLED",
@@ -5224,24 +5240,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2LiLL2x.jpg"
-    },
-    {
-      "id": "31SCA12",
-      "nome": "Panela Elétrica Mecânica Pressão 4l Preta E Inox Midea",
-      "categoria": "Casa",
-      "preco": 247.99,
-      "link": "https://meli.la/31SCA12",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/panela-eletrica-mecanica-pressao-4l-preta-e-inox-midea/p/MLB45410688",
-      "precoDe": 499,
-      "parcelas": "12x R$ 24,55",
-      "relampago": true,
-      "postado": "2026-11-21T19:43:32.492Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-31SCA12.jpg"
     }
   ]
 }
