@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T20:12:37.091Z",
+  "atualizado": "2026-11-23T20:13:52.215Z",
   "ofertas": [
+    {
+      "id": "2EGhbLU",
+      "nome": "Espumante Rosé Brut Casa Perini 750 ml",
+      "categoria": "Diversos",
+      "preco": 41.39,
+      "link": "https://meli.la/2EGhbLU",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/espumante-rose-brut-casa-perini-750-ml/p/MLB19131150",
+      "precoDe": 84.72,
+      "postado": "2026-11-23T20:13:52.213Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2EGhbLU.jpg"
+    },
     {
       "id": "2ZKEfd3",
       "nome": "Torre para Armazenamento de Ferramentas com Rodas Stanley Pro-Stack FMST1-80103",
@@ -5409,23 +5425,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2uKqXWi.jpg"
-    },
-    {
-      "id": "1AdDqit",
-      "nome": "Caixa de Som PartyBox AIWA PB-07 Bluetooth 8H RGB USB TWS",
-      "categoria": "Tech",
-      "preco": 499,
-      "link": "https://meli.la/1AdDqit",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-partybox-aiwa-pb-07-bluetooth-8h-rgb-usb-tws/p/MLB42460486",
-      "precoDe": 1199,
-      "parcelas": "9x de R$ 55,44 sem juros",
-      "postado": "2026-11-21T20:12:48.488Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1AdDqit.jpg"
     }
   ]
 }
