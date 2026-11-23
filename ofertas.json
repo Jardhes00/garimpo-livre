@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T18:56:19.989Z",
+  "atualizado": "2026-11-23T18:57:35.126Z",
   "ofertas": [
+    {
+      "id": "31MFxyY",
+      "nome": "Motor Portao Eletronico Garen 400kg 3 Metros De Cremalheira",
+      "categoria": "Diversos",
+      "preco": 314,
+      "link": "https://meli.la/31MFxyY",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/motor-portao-eletronico-garen-400kg-3-metros-de-cremalheira/up/MLBU4131069278",
+      "precoDe": 489.9,
+      "postado": "2026-11-23T18:57:35.124Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-31MFxyY.jpg"
+    },
     {
       "id": "1kP46To",
       "nome": "Pack X2 Unidades Unique One Revlon Professional Tudo Em Um",
