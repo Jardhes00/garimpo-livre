@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T17:05:52.699Z",
+  "atualizado": "2026-11-23T17:07:07.477Z",
   "ofertas": [
+    {
+      "id": "2kmyuXP",
+      "nome": "Kit 3 Perfumes Cebolinha Jequiti 25ml Infantil Turma da Mônica Colônia",
+      "categoria": "Beleza",
+      "preco": 63.42,
+      "link": "https://meli.la/2kmyuXP",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-3-perfumes-cebolinha-jequiti-25ml-infantil-turma-da-monica-colonia-masculina-kit-presente-original/p/MLB41221309",
+      "precoDe": 119.7,
+      "pix": true,
+      "parcelas": "R$72,90 em outros meios",
+      "postado": "2026-11-23T17:07:07.475Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2kmyuXP.jpg"
+    },
     {
       "id": "13qoY8U",
       "nome": "Kit Teclado e Mouse Sem Fio CSI50, 2.4GHz, ABNT2, Preto Intelbras",
