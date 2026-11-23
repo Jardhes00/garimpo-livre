@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T16:55:52.149Z",
+  "atualizado": "2026-11-23T16:57:12.312Z",
   "ofertas": [
+    {
+      "id": "14PT1pj",
+      "nome": "Ventilador Industrial Osc Parede Power 70cm 230w 3pas Bivolt",
+      "categoria": "Casa",
+      "preco": 417.99,
+      "link": "https://meli.la/14PT1pj",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-industrial-osc-parede-power-70cm-230w-3pas-bivolt/up/MLBU3290791789",
+      "precoDe": 714.9,
+      "cupomAnuncio": "R$405,99 com Cupom por seguir a loja",
+      "postado": "2026-11-23T16:57:12.311Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-14PT1pj.jpg"
+    },
     {
       "id": "1QHqphs",
       "nome": "Controle Nintendo Switch Pro",
