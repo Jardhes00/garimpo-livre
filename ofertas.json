@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T17:07:07.477Z",
+  "atualizado": "2026-11-23T17:08:22.827Z",
   "ofertas": [
+    {
+      "id": "22ZGPZd",
+      "nome": "Fórmula Natural Life Cães Adultos Portes Médio E Grande Frango E Linhaça 15 kg",
+      "categoria": "Diversos",
+      "preco": 205,
+      "link": "https://meli.la/22ZGPZd",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/formula-natural-life-caes-adultos-portes-medio-e-grande-frango-e-linhaca-15-kg/p/MLB22501432",
+      "precoDe": 599.9,
+      "postado": "2026-11-23T17:08:22.825Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-22ZGPZd.jpg"
+    },
     {
       "id": "2kmyuXP",
       "nome": "Kit 3 Perfumes Cebolinha Jequiti 25ml Infantil Turma da Mônica Colônia",
