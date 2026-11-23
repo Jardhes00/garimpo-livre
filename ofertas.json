@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-23T19:55:07.130Z",
+  "atualizado": "2026-11-23T19:56:21.705Z",
   "ofertas": [
+    {
+      "id": "2gqeMxo",
+      "nome": "Whey Protein Concentrado 1kg Cookies & Cream Dark Lab",
+      "categoria": "Suplementos",
+      "preco": 134.93,
+      "link": "https://meli.la/2gqeMxo",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-protein-concentrado-1kg-cookies-cream-dark-lab/p/MLB40183187",
+      "precoDe": 349.9,
+      "pix": true,
+      "parcelas": "R$149,92 em outros meios",
+      "cupomAnuncio": "Compre R$187 e ganhe R$20 OFF",
+      "postado": "2026-11-23T19:56:21.704Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2gqeMxo.jpg"
+    },
     {
       "id": "1AygAuY",
       "nome": "Lixadeira Teto E Parede Telescópica Profissional Com Led E Saco Coletor The",
