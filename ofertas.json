@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T14:54:59.931Z",
+  "atualizado": "2026-11-23T14:56:14.894Z",
   "ofertas": [
+    {
+      "id": "1D7bJyB",
+      "nome": "Monitor PC LG 19.5'' 20MK400H-B LED HD HDMI VGA (D-Sub) 75Hz 2ms(GtG) Ajuste de",
+      "categoria": "Tech",
+      "preco": 376.28,
+      "link": "https://meli.la/1D7bJyB",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/monitor-pc-lg-195-20mk400h-b-led-hd-hdmi-vga-d-sub-75hz-2msgtg-ajuste-de-inclinacao-reader-mode/p/MLB38195715",
+      "precoDe": 947,
+      "pix": true,
+      "parcelas": "R$409 em 8x R$51,12 sem juros",
+      "postado": "2026-11-23T14:56:14.892Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1D7bJyB.jpg"
+    },
     {
       "id": "1zgYfyu",
       "nome": "Nobreak Intelbras Attiv 1200va Entrada Bivolt E Saida 127v Cor Preto",
