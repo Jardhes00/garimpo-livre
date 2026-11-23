@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T19:38:51.719Z",
+  "atualizado": "2026-11-23T19:40:06.516Z",
   "ofertas": [
+    {
+      "id": "2RjToZB",
+      "nome": "Cadeira De Rodas Dobrável Aço Resistente Desmontável 120kg",
+      "categoria": "Diversos",
+      "preco": 512.99,
+      "link": "https://meli.la/2RjToZB",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-rodas-dobravel-aco-resistente-desmontavel-120kg/up/MLBU3129546110",
+      "precoDe": 1399,
+      "pix": true,
+      "parcelas": "R$569,99 em outros meios",
+      "postado": "2026-11-23T19:40:06.514Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2RjToZB.jpg"
+    },
     {
       "id": "1jqwviA",
       "nome": "Bicicleta Elétrica Dobrável 500w-35km/h-130kg-48v-10ah",
@@ -5208,24 +5226,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2YMcfwR.jpg"
-    },
-    {
-      "id": "1MWos3V",
-      "nome": "Kit Wella Pro Invigo Enrich Shampoo 1l + Condicionador 1l",
-      "categoria": "Beleza",
-      "preco": 248.4,
-      "link": "https://meli.la/1MWos3V",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit-wella-pro-invigo-enrich-shampoo-1l-condicionador-1l/p/MLB61812355",
-      "precoDe": 600,
-      "pix": true,
-      "parcelas": "R$ 276 em outros meios",
-      "postado": "2026-11-21T19:39:02.070Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1MWos3V.jpg"
     }
   ]
 }
