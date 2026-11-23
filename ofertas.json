@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-23T15:18:45.487Z",
+  "atualizado": "2026-11-23T15:20:00.647Z",
   "ofertas": [
+    {
+      "id": "1QjFSQc",
+      "nome": "Whey protein Soldiers Nutrition em pó sabor Morango x 900g",
+      "categoria": "Suplementos",
+      "preco": 72.9,
+      "link": "https://meli.la/1QjFSQc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-protein-soldiers-nutrition-em-po-sabor-morango-x-900g/p/MLB74125007",
+      "precoDe": 110.9,
+      "parcelas": "12x R$7,18",
+      "extra": "R$ 15 OFF com cupom no anúncio",
+      "cupomAnuncio": "Compre R$187 e ganhe R$15 OFF",
+      "postado": "2026-11-23T15:20:00.646Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1QjFSQc.jpg"
+    },
     {
       "id": "1pwVdKB",
       "nome": "Caixa de Som Speaker Philco Extreme 220W PBS220BT",
