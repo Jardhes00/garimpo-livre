@@ -1,6 +1,38 @@
 {
-  "atualizado": "2026-11-23T15:25:00.837Z",
+  "atualizado": "2026-11-23T16:35:51.630Z",
   "ofertas": [
+    {
+      "id": "11RrnWF",
+      "nome": "Truss Uso Obrigatório Kit Sh + Cond + Masc + Reconstrutor",
+      "categoria": "Diversos",
+      "preco": 328,
+      "link": "https://meli.la/11RrnWF",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/truss-uso-obrigatorio-kit-sh-cond-masc-reconstrutor/p/MLB39608364",
+      "precoDe": 672.55,
+      "postado": "2026-11-23T16:35:51.628Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-11RrnWF.jpg"
+    },
+    {
+      "id": "2KAYRCW",
+      "nome": "Perfume Rabanne Invictus Victory Eau De Parfum 200 Ml Masculino",
+      "categoria": "Beleza",
+      "preco": 619.49,
+      "link": "https://meli.la/2KAYRCW",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/perfume-rabanne-invictus-victory-eau-de-parfum-200-ml-masculino/p/MLB18462360",
+      "precoDe": 1168.85,
+      "postado": "2026-11-23T15:26:15.757Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2KAYRCW.jpg"
+    },
     {
       "id": "1QD4yBq",
       "nome": "Cadeira Presidente Ergonômica com Apoio para Pés e Suporte Lombar Adaptável Sweet Studio Cinza",
