@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T15:08:45.340Z",
+  "atualizado": "2026-11-23T15:10:00.341Z",
   "ofertas": [
+    {
+      "id": "1tjKjwF",
+      "nome": "Dvr Intelbras Imhdx 3108 Full Hd 8 Canais",
+      "categoria": "Diversos",
+      "preco": 754,
+      "link": "https://meli.la/1tjKjwF",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/dvr-intelbras-imhdx-3108-full-hd-8-canais/p/MLB44554694",
+      "precoDe": 1065.9,
+      "cupomAnuncio": "R$746 com Cupom por seguir a loja",
+      "postado": "2026-11-23T15:10:00.340Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1tjKjwF.jpg"
+    },
     {
       "id": "1ntPwRQ",
       "nome": "Kit 2 Câmeras de Segurança Woosh A28B Full HD Dupla Lente com Visão Noturna",
