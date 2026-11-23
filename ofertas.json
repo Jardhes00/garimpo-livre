@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T19:00:05.037Z",
+  "atualizado": "2026-11-23T19:01:20.009Z",
   "ofertas": [
+    {
+      "id": "28DFTKe",
+      "nome": "Baú Bauleto 65 Litros Aluminio Base Universal Todas As Motos",
+      "categoria": "Diversos",
+      "preco": 646.2,
+      "link": "https://meli.la/28DFTKe",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bau-bauleto-65-litros-aluminio-base-universal-todas-as-motos/up/MLBU3345993306",
+      "precoDe": 1249,
+      "parcelas": "10x de R$64,62 sem juros",
+      "postado": "2026-11-23T19:01:20.007Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-28DFTKe.jpg"
+    },
     {
       "id": "1Vi3Vp3",
       "nome": "Cafeteira Elétrica Dolce Arome, Mondial, 550W - C-30-18X-FB",
