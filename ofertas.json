@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T16:53:22.021Z",
+  "atualizado": "2026-11-23T16:54:37.120Z",
   "ofertas": [
+    {
+      "id": "1KwBDUL",
+      "nome": "Luva Latex C/pó Kit Com 1000 Kit 10cx",
+      "categoria": "Diversos",
+      "preco": 217.99,
+      "link": "https://meli.la/1KwBDUL",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/luva-latex-cpo-kit-com-1000-kit-10cx/up/MLBU1152234946",
+      "precoDe": 499.9,
+      "postado": "2026-11-23T16:54:37.119Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1KwBDUL.jpg"
+    },
     {
       "id": "2x2vD65",
       "nome": "Monitor LG FHD Home & Office 22”, 1ms (MBR), 120Hz (O/C), Modo leitura, Flicker",
