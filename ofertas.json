@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T15:12:30.489Z",
+  "atualizado": "2026-11-23T15:13:45.316Z",
   "ofertas": [
+    {
+      "id": "2z8FDiS",
+      "nome": "Eternity Calvin Klein Edp Feminino 30ml",
+      "categoria": "Diversos",
+      "preco": 182.79,
+      "link": "https://meli.la/2z8FDiS",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/eternity-calvin-klein-edp-feminino-30ml/p/MLB28246496",
+      "precoDe": 429,
+      "pix": true,
+      "parcelas": "R$228,49 em 6x R$38,08 sem juros",
+      "postado": "2026-11-23T15:13:45.315Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2z8FDiS.jpg"
+    },
     {
       "id": "2DEPGGP",
       "nome": "Liquidificador L-93-BG 50/60hz Mk Arg",
