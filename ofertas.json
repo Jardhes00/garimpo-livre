@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T19:52:36.624Z",
+  "atualizado": "2026-11-23T19:53:51.723Z",
   "ofertas": [
+    {
+      "id": "2AMHgRN",
+      "nome": "SSD Interno 240GB 2.5 SATA III 6Gb/s Para PC Notebook - Up Gamer",
+      "categoria": "Tech",
+      "preco": 247.49,
+      "link": "https://meli.la/2AMHgRN",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ssd-interno-240gb-25-sata-iii-6gbs-para-pc-notebook-up-gamer/p/MLB24429373",
+      "precoDe": 449.99,
+      "postado": "2026-11-23T19:53:51.722Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2AMHgRN.jpg"
+    },
     {
       "id": "1wJbqoU",
       "nome": "Parafusadeira E Furadeira 3/8 A Bateria Bosch Gsr 120-li",
