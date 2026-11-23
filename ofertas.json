@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T16:48:21.846Z",
+  "atualizado": "2026-11-23T16:49:37.191Z",
   "ofertas": [
+    {
+      "id": "1GHcrP3",
+      "nome": "Guarda-sol 2,6 Metro Piscina Praia Pesca Articulado Azul Mor",
+      "categoria": "Diversos",
+      "preco": 162,
+      "link": "https://meli.la/1GHcrP3",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/guarda-sol-26-metro-piscina-praia-pesca-articulado-azul-mor/p/MLB28747487",
+      "precoDe": 277.94,
+      "pix": true,
+      "parcelas": "R$180 em outros meios",
+      "postado": "2026-11-23T16:49:37.190Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1GHcrP3.jpg"
+    },
     {
       "id": "1KnQBoK",
       "nome": "Ar Condicionado Hw G-classic Gree Inverter 12k Frio 220v R32",
