@@ -1,6 +1,42 @@
 {
-  "atualizado": "2026-11-22T17:57:12.564Z",
+  "atualizado": "2026-11-23T14:37:29.834Z",
   "ofertas": [
+    {
+      "id": "1gCE912",
+      "nome": "Serra Mármore 110mm 1300W Com 2 Discos 4100NH3ZX2 Makita Profissional",
+      "categoria": "Ferramentas",
+      "preco": 303.9,
+      "link": "https://meli.la/1gCE912",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/serra-marmore-110mm-1300w-com-2-discos-4100nh3zx2-makita-profissional/p/MLB19802405",
+      "precoDe": 499,
+      "pix": true,
+      "parcelas": "R$319,90 em outros meios",
+      "postado": "2026-11-23T14:37:29.831Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1gCE912.jpg"
+    },
+    {
+      "id": "1n7u5w1",
+      "nome": "Ferro de Passar Roupas A Vapor Philips Walita Dst5040 Série 5000 1470W Preto",
+      "categoria": "Diversos",
+      "preco": 246.05,
+      "link": "https://meli.la/1n7u5w1",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ferro-de-passar-roupas-a-vapor-philips-walita-dst5040-serie-5000-1470w-preto/p/MLB24125129",
+      "precoDe": 519.9,
+      "pix": true,
+      "parcelas": "R$259 em 6x R$43,17 sem juros",
+      "postado": "2026-11-22T17:58:27.499Z",
+      "conferido": "2026-11-22",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1n7u5w1.jpg"
+    },
     {
       "id": "2HaUVJq",
       "nome": "Cafeteira Espresso Philips Walita Cor Preto",
