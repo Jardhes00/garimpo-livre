@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T14:41:14.465Z",
+  "atualizado": "2026-11-23T14:42:29.379Z",
   "ofertas": [
+    {
+      "id": "14AFMB6",
+      "nome": "Cervejeira Consul Preta - Cze12me",
+      "categoria": "Diversos",
+      "preco": 1579.99,
+      "link": "https://meli.la/14AFMB6",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cervejeira-consul-preta-cze12me/up/MLBU3787477294",
+      "precoDe": 2258,
+      "parcelas": "10x de R$158 sem juros",
+      "postado": "2026-11-23T14:42:29.378Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-14AFMB6.jpg"
+    },
     {
       "id": "2XgrqoY",
       "nome": "Samsung Galaxy A57 256 gb e 8 Ram Dual Sim Lilás",
