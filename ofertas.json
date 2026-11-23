@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T19:15:05.610Z",
+  "atualizado": "2026-11-23T19:16:20.516Z",
   "ofertas": [
+    {
+      "id": "1fTH7y4",
+      "nome": "Protetor Solar Bastão Fps90 Com Cor 3 15g Sallve",
+      "categoria": "Beleza",
+      "preco": 52.3,
+      "link": "https://meli.la/1fTH7y4",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/protetor-solar-bastao-fps90-com-cor-3-15g-sallve/p/MLB44868356",
+      "precoDe": 79.9,
+      "postado": "2026-11-23T19:16:20.515Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1fTH7y4.jpg"
+    },
     {
       "id": "1EZDfz3",
       "nome": "Perfume Masculino Eau de Toilette Azzaro - Azzaro Pour Homme 100 ml",
