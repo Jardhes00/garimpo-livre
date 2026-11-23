@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T18:48:49.736Z",
+  "atualizado": "2026-11-23T18:50:05.116Z",
   "ofertas": [
+    {
+      "id": "2eM2StZ",
+      "nome": "Climatizador Portátil 16 Litros 130w Ventisol Clin16 Cor Cinza",
+      "categoria": "Diversos",
+      "preco": 466.99,
+      "link": "https://meli.la/2eM2StZ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/climatizador-portatil-16-litros-130w-ventisol-clin16-cor-cinza/p/MLB37633348",
+      "precoDe": 649.7,
+      "postado": "2026-11-23T18:50:05.115Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2eM2StZ.jpg"
+    },
     {
       "id": "2c2Uonw",
       "nome": "L'Oréal Paris Elseve Collagen Lifter Máscara de Tratamento Condicionante Efeito",
