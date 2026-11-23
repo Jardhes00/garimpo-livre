@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T19:20:05.664Z",
+  "atualizado": "2026-11-23T19:21:20.716Z",
   "ofertas": [
+    {
+      "id": "1zSVGk7",
+      "nome": "Kit 1000un Saco Inviolável 32x40 Envelope Preto Envios",
+      "categoria": "Diversos",
+      "preco": 209.99,
+      "link": "https://meli.la/1zSVGk7",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-1000un-saco-inviolavel-32x40-envelope-preto-envios/up/MLBU3078368969",
+      "precoDe": 299,
+      "cupomAnuncio": "Compre R$300 e ganhe R$15 OFF por seguir a loja",
+      "postado": "2026-11-23T19:21:20.714Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1zSVGk7.jpg"
+    },
     {
       "id": "1hGjG7V",
       "nome": "Fralda Geriátrica Derma Plus Unissex 16 Unidades G Bigfral Grande",
@@ -5083,24 +5100,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1bvmkRm.jpg"
-    },
-    {
-      "id": "139XrG6",
-      "nome": "Fritadeira Air Fryer 4,5l Widemax Com Interior De Alumínio 1500w Midea",
-      "categoria": "Casa",
-      "preco": 193.9,
-      "link": "https://meli.la/139XrG6",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/fritadeira-air-fryer-45l-widemax-com-interior-de-aluminio-1500w-midea/p/MLB51031889",
-      "precoDe": 289,
-      "pix": true,
-      "parcelas": "R$ 199,90 em 6x R$ 33,32 sem juros",
-      "postado": "2026-11-21T19:21:01.788Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-139XrG6.jpg"
     }
   ]
 }
