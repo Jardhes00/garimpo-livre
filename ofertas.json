@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T19:36:21.465Z",
+  "atualizado": "2026-11-23T19:37:36.216Z",
   "ofertas": [
+    {
+      "id": "2yUTxrq",
+      "nome": "Smartphone Motorola Moto G37 5G - 64GB 4GB RAM + 8GB RAM Boost, Camera 50MP com",
+      "categoria": "Tech",
+      "preco": 899.1,
+      "link": "https://meli.la/2yUTxrq",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g37-5g-64gb-4gb-ram-8gb-ram-boost-camera-50mp-com-editor-magico-bateria-de-5200-mah-e-tela-67-120hz-nfc-grafite/p/MLB78889495",
+      "precoDe": 1899,
+      "pix": true,
+      "parcelas": "R$999 em 10x R$99,90 sem juros",
+      "postado": "2026-11-23T19:37:36.214Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2yUTxrq.jpg"
+    },
     {
       "id": "24HeXPc",
       "nome": "Triciclo Elétrico De Drift Vifit Com Suspensão,350w,100kg",
@@ -5190,23 +5208,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1MWos3V.jpg"
-    },
-    {
-      "id": "2ZhmVVn",
-      "nome": "Kit Cetaphil Loção Hidratante e de Limpeza para Pele Sensível Normal a Seca",
-      "categoria": "Beleza",
-      "preco": 74.9,
-      "link": "https://meli.la/2ZhmVVn",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit-cetaphil-locao-hidratante-e-de-limpeza-para-pele-sensivel-normal-a-seca/p/MLB79484039",
-      "precoDe": 134.9,
-      "parcelas": "12x R$ 7,38",
-      "postado": "2026-11-21T19:36:47.098Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2ZhmVVn.jpg"
     }
   ]
 }
