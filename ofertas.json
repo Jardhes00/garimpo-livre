@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T15:21:15.595Z",
+  "atualizado": "2026-11-23T15:22:30.556Z",
   "ofertas": [
+    {
+      "id": "1RDxUkr",
+      "nome": "Espumante Freixenet Cordon Negro Brut 750ml",
+      "categoria": "Diversos",
+      "preco": 69.89,
+      "link": "https://meli.la/1RDxUkr",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/espumante-freixenet-cordon-negro-brut-750ml/p/MLB18980882",
+      "precoDe": 109.9,
+      "parcelas": "12x R$6,88",
+      "postado": "2026-11-23T15:22:30.555Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1RDxUkr.jpg"
+    },
     {
       "id": "31YgUMj",
       "nome": "Mantecorp Protetor Solar Facial Episol Fps 70 Tom 2 Claro",
