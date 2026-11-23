@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T17:22:07.805Z",
+  "atualizado": "2026-11-23T17:23:23.079Z",
   "ofertas": [
+    {
+      "id": "2xk1MrY",
+      "nome": "Cadeira De Alimentação Infantil Acolchoada 3 Em 1 Portátil Cor Cinza",
+      "categoria": "Casa",
+      "preco": 199,
+      "link": "https://meli.la/2xk1MrY",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-alimentacao-infantil-acolchoada-3-em-1-portatil-cor-cinza/p/MLB74644772",
+      "precoDe": 285.7,
+      "postado": "2026-11-23T17:23:23.078Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2xk1MrY.jpg"
+    },
     {
       "id": "1CurntQ",
       "nome": "Nobreak Ts Shara UPS XPro 4540 2000VA Senoidal Pura 8 Tomadas Bivolt",
