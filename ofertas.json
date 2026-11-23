@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T19:21:20.716Z",
+  "atualizado": "2026-11-23T19:22:35.908Z",
   "ofertas": [
+    {
+      "id": "2eWpvUD",
+      "nome": "Pulverizador Costal Agricola Jacto Pjh 20 L - Full Cor Azul",
+      "categoria": "Diversos",
+      "preco": 392.72,
+      "link": "https://meli.la/2eWpvUD",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/pulverizador-costal-agricola-jacto-pjh-20-l-full-cor-azul/p/MLB21743820",
+      "precoDe": 799,
+      "pix": true,
+      "parcelas": "R$426,87 em outros meios",
+      "postado": "2026-11-23T19:22:35.907Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2eWpvUD.jpg"
+    },
     {
       "id": "1zSVGk7",
       "nome": "Kit 1000un Saco Inviolável 32x40 Envelope Preto Envios",
