@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T17:17:07.799Z",
+  "atualizado": "2026-11-23T17:18:23.039Z",
   "ofertas": [
+    {
+      "id": "1auj4hX",
+      "nome": "Nivea Gel Creme Facial Ultra Leve 7 Em 1 Com Vitamina C 100g Todo Tipo De Pele",
+      "categoria": "Suplementos",
+      "preco": 24.29,
+      "link": "https://meli.la/1auj4hX",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/nivea-gel-creme-facial-ultra-leve-7-em-1-com-vitamina-c-100g-todo-tipo-de-pele/p/MLB77125209",
+      "precoDe": 37.99,
+      "postado": "2026-11-23T17:18:23.037Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1auj4hX.jpg"
+    },
     {
       "id": "1hV8TRC",
       "nome": "Fechadura Digital De Sobrepor Fr 102 Preto Intelbras",
