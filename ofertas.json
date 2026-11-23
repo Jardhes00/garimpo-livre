@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T17:10:52.501Z",
+  "atualizado": "2026-11-23T17:12:07.536Z",
   "ofertas": [
+    {
+      "id": "1Zx6HEa",
+      "nome": "Cafeteira Espresso Lattego Ep2330 Série 2300 Philips Walita Cinza",
+      "categoria": "Casa",
+      "preco": 2854.98,
+      "link": "https://meli.la/1Zx6HEa",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafeteira-espresso-lattego-ep2330-serie-2300-philips-walita-cinza/p/MLB49646722",
+      "precoDe": 4799.9,
+      "parcelas": "10x de R$285,50 sem juros",
+      "postado": "2026-11-23T17:12:07.534Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Zx6HEa.jpg"
+    },
     {
       "id": "1dMsGaM",
       "nome": "Monitor LG Fhd Gamer & Office Com Telaips 24, 1ms (mbr), 144hz Nativo",
