@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T16:38:21.719Z",
+  "atualizado": "2026-11-23T16:39:36.796Z",
   "ofertas": [
+    {
+      "id": "2bPkAaT",
+      "nome": "Armário de cozinha modulada completa compacta Emilly pop com armário e balcão",
+      "categoria": "Casa",
+      "preco": 597.99,
+      "link": "https://meli.la/2bPkAaT",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/armario-de-cozinha-modulada-completa-compacta-emilly-pop-com-armario-e-balcao-cor-rusticpreto-grem229002/p/MLB27417990",
+      "precoDe": 905.87,
+      "pix": true,
+      "parcelas": "R$649,99 em 10x R$65 sem juros",
+      "postado": "2026-11-23T16:39:36.794Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2bPkAaT.jpg"
+    },
     {
       "id": "1N2ERb1",
       "nome": "2 Pneus 225 75 R16c Master Iveco Daily Express Cargo 2500",
