@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T19:08:50.831Z",
+  "atualizado": "2026-11-23T19:10:05.957Z",
   "ofertas": [
+    {
+      "id": "1XRAT8L",
+      "nome": "Bicicleta Ergométrica Bike Spinning 6kg de inércia Fitness Preto Ltx Fit Para",
+      "categoria": "Esporte",
+      "preco": 468,
+      "link": "https://meli.la/1XRAT8L",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bicicleta-ergometrica-bike-spinning-6kg-de-inercia-fitness-preto-ltx-fit-para-cardio-e-musculacao-panther-x/p/MLB78083127",
+      "precoDe": 1200,
+      "parcelas": "9x de R$52 sem juros",
+      "postado": "2026-11-23T19:10:05.955Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1XRAT8L.jpg"
+    },
     {
       "id": "193iPAG",
       "nome": "Jogo de Panelas Rochedo Stone Pro 5 peças",
