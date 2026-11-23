@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T19:58:51.814Z",
+  "atualizado": "2026-11-23T20:00:06.816Z",
   "ofertas": [
+    {
+      "id": "1ddvWFo",
+      "nome": "Micro-ondas Electrolux Efficient 34L Branco Função Descongelar e Receitas",
+      "categoria": "Casa",
+      "preco": 522.83,
+      "link": "https://meli.la/1ddvWFo",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-electrolux-efficient-34l-branco-funcao-descongelar-e-receitas-pre-programadas-me34b/p/MLB77083764",
+      "precoDe": 759,
+      "pix": true,
+      "parcelas": "R$539 em 10x R$53,90 sem juros",
+      "postado": "2026-11-23T20:00:06.814Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ddvWFo.jpg"
+    },
     {
       "id": "2UUetti",
       "nome": "Panela Elétrica de Arroz, Mondial, 700W - PE-42-10X",
@@ -5325,24 +5343,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2ghuzxQ.jpg"
-    },
-    {
-      "id": "2fBP8g3",
-      "nome": "Fralda Pampers Pants Ajuste Total Tamanho XG, 82 Un",
-      "categoria": "Bebê",
-      "preco": 88.8,
-      "link": "https://meli.la/2fBP8g3",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/fralda-pampers-pants-ajuste-total-tamanho-xg-82-un/p/MLB69621632",
-      "precoDe": 135.9,
-      "parcelas": "12x de R$ 8,75",
-      "relampago": true,
-      "postado": "2026-11-21T19:59:17.867Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2fBP8g3.jpg"
     }
   ]
 }
