@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T14:58:45.091Z",
+  "atualizado": "2026-11-23T15:00:00.117Z",
   "ofertas": [
+    {
+      "id": "2T4eWcu",
+      "nome": "Rabanne Lady Million EDP 80ml para feminino",
+      "categoria": "Diversos",
+      "preco": 504.25,
+      "link": "https://meli.la/2T4eWcu",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/rabanne-lady-million-edp-80ml-para-feminino/p/MLB6093371",
+      "precoDe": 868.85,
+      "parcelas": "10x de R$50,43 sem juros",
+      "postado": "2026-11-23T15:00:00.116Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2T4eWcu.jpg"
+    },
     {
       "id": "2U7BqbN",
       "nome": "Cama Elastica Profissional Pula Pula Trampolim de 3,05m com Rede e 380 kg de",
