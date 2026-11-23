@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T19:05:05.241Z",
+  "atualizado": "2026-11-23T19:06:20.165Z",
   "ofertas": [
+    {
+      "id": "1b48HNF",
+      "nome": "Kit Hidrabene K-glass Sérum Completo Tratamento Facial",
+      "categoria": "Beleza",
+      "preco": 227.42,
+      "link": "https://meli.la/1b48HNF",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-hidrabene-k-glass-serum-completo-tratamento-facial/up/MLBU5755194148",
+      "precoDe": 799.6,
+      "pix": true,
+      "parcelas": "R$239,39 em outros meios",
+      "postado": "2026-11-23T19:06:20.164Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1b48HNF.jpg"
+    },
     {
       "id": "2nah41e",
       "nome": "Plastico Filme Stretch 50x220m 2,5kg Preto Embalagem Acesso® Bobina 25 Micras",
