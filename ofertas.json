@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T20:02:36.810Z",
+  "atualizado": "2026-11-23T20:03:51.922Z",
   "ofertas": [
+    {
+      "id": "2AhgYT7",
+      "nome": "Protetor Solar Facial L'Oréal Paris Solar Expertise Antirrugas Fps 60 Com Cor",
+      "categoria": "Beleza",
+      "preco": 37.99,
+      "link": "https://meli.la/2AhgYT7",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/protetor-solar-facial-loreal-paris-solar-expertise-antirrugas-fps-60-com-cor-tom-claro-40g/p/MLB19508912",
+      "precoDe": 60.19,
+      "cupomAnuncio": "Compre R$99 e ganhe 15% OFF",
+      "postado": "2026-11-23T20:03:51.920Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2AhgYT7.jpg"
+    },
     {
       "id": "1MzNjxD",
       "nome": "Purificador de Água IBBL Speciale FR600 Cor Prata",
@@ -5342,23 +5359,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1xfvKh6.jpg"
-    },
-    {
-      "id": "1hwKsAq",
-      "nome": "Whey Protein Concentrado Dux Nutrition Pote 900g Sabor Chocolate Branco - 20g de Proteínas Por Dose - 100% Puro - Rápida Absorção - 30 Doses",
-      "categoria": "Casa",
-      "preco": 192.68,
-      "link": "https://meli.la/1hwKsAq",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/whey-protein-concentrado-dux-nutrition-pote-900g-sabor-chocolate-branco-20g-de-proteinas-por-dose-100-puro-rapida-absorcao-30-doses/p/MLB63949599",
-      "precoDe": 344,
-      "parcelas": "2x de R$ 96,34 sem juros",
-      "postado": "2026-11-21T20:03:48.231Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1hwKsAq.jpg"
     }
   ]
 }
