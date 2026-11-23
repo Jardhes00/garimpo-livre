@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T19:12:35.211Z",
+  "atualizado": "2026-11-23T19:13:50.391Z",
   "ofertas": [
+    {
+      "id": "1PSS3pr",
+      "nome": "Tablet Samsung Galaxy Tab A11 Wi-Fi de 64GB com 4GB RAM e Tela de 8.7\" Prata",
+      "categoria": "Tech",
+      "preco": 985.06,
+      "link": "https://meli.la/1PSS3pr",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tablet-samsung-galaxy-tab-a11-wi-fi-de-64gb-com-4gb-ram-e-tela-de-87-prata/p/MLB59324352",
+      "precoDe": 1599,
+      "pix": true,
+      "parcelas": "R$1.158,89 em outros meios",
+      "postado": "2026-11-23T19:13:50.390Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1PSS3pr.jpg"
+    },
     {
       "id": "1XKYnWz",
       "nome": "Mouse sem fio M280 Preto Logitech",
