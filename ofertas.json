@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T20:08:52.223Z",
+  "atualizado": "2026-11-23T20:10:07.160Z",
   "ofertas": [
+    {
+      "id": "2xy1Z1m",
+      "nome": "Jogo de Jantar e Chá Oxford Mendi Marfim de Cerâmica com 20 Peças",
+      "categoria": "Games",
+      "preco": 266.85,
+      "link": "https://meli.la/2xy1Z1m",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/jogo-de-jantar-e-cha-oxford-mendi-marfim-de-ceramica-com-20-pecas/p/MLB32551422",
+      "precoDe": 449.9,
+      "pix": true,
+      "parcelas": "R$280,90 em 7x R$40,13 sem juros",
+      "postado": "2026-11-23T20:10:07.159Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2xy1Z1m.jpg"
+    },
     {
       "id": "1wSMyu3",
       "nome": "Auto transformador bivolt 110v 220v Techmax 7000VA 3850W ar condicionado forno",
