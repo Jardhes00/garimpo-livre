@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T18:57:35.126Z",
+  "atualizado": "2026-11-23T18:58:50.061Z",
   "ofertas": [
+    {
+      "id": "1PxXRi9",
+      "nome": "Micro-ondas Electrolux Efficient 29L Branco Função Descongelar e Receitas",
+      "categoria": "Casa",
+      "preco": 599.9,
+      "link": "https://meli.la/1PxXRi9",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-electrolux-efficient-29l-branco-funcao-descongelar-e-receitas-pre-programadas-me29b/p/MLB76623041",
+      "precoDe": 889,
+      "parcelas": "10x de R$59,99 sem juros",
+      "postado": "2026-11-23T18:58:50.059Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1PxXRi9.jpg"
+    },
     {
       "id": "31MFxyY",
       "nome": "Motor Portao Eletronico Garen 400kg 3 Metros De Cremalheira",
