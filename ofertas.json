@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T19:43:51.816Z",
+  "atualizado": "2026-11-23T19:45:07.007Z",
   "ofertas": [
+    {
+      "id": "2xLDm5s",
+      "nome": "Cadeira De Rodas D100 Dobrável Leve Idoso 120kg Dellamed",
+      "categoria": "Diversos",
+      "preco": 598,
+      "link": "https://meli.la/2xLDm5s",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-rodas-d100-dobravel-leve-idoso-120kg-dellamed/up/MLBU1961677272",
+      "precoDe": 1535.9,
+      "cupomAnuncio": "Compre R$1.000 e ganhe R$50 OFF",
+      "postado": "2026-11-23T19:45:07.005Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2xLDm5s.jpg"
+    },
     {
       "id": "1acj6Ns",
       "nome": "Kit 12 Mini Espumante Monte Paschoal Brut 187ml",
