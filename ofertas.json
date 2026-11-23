@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T14:38:44.576Z",
+  "atualizado": "2026-11-23T14:39:59.300Z",
   "ofertas": [
+    {
+      "id": "2AhoimT",
+      "nome": "Cloro para Piscina Genco Multipla Ação 3 em 1 Balde 10kg",
+      "categoria": "Diversos",
+      "preco": 217.64,
+      "link": "https://meli.la/2AhoimT",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cloro-para-piscina-genco-multipla-acao-3-em-1-balde-10kg/p/MLB24730243",
+      "precoDe": 500,
+      "pix": true,
+      "parcelas": "R$229,10 em outros meios",
+      "postado": "2026-11-23T14:39:59.298Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2AhoimT.jpg"
+    },
     {
       "id": "1cuYBpj",
       "nome": "Lavadora De Alta Pressão Kärcher Prática Black 1500 Psi 1400w 300l/h Com",
