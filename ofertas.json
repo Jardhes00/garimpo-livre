@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T15:11:15.341Z",
+  "atualizado": "2026-11-23T15:12:30.489Z",
   "ofertas": [
+    {
+      "id": "2DEPGGP",
+      "nome": "Liquidificador L-93-BG 50/60hz Mk Arg",
+      "categoria": "Casa",
+      "preco": 83.61,
+      "link": "https://meli.la/2DEPGGP",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/liquidificador-l-93-bg-5060hz-mk-arg/p/MLB64640021",
+      "precoDe": 154.9,
+      "pix": true,
+      "parcelas": "R$89,90 em outros meios",
+      "postado": "2026-11-23T15:12:30.488Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2DEPGGP.jpg"
+    },
     {
       "id": "1crcNvz",
       "nome": "Kit Nível A Laser Verde 12 Linhas Esquadro + Suporte + Tripé",
