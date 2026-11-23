@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T20:15:07.176Z",
+  "atualizado": "2026-11-23T20:16:22.336Z",
   "ofertas": [
+    {
+      "id": "2A7Vfu7",
+      "nome": "Chinelo Sandália Red Kenner",
+      "categoria": "Moda",
+      "preco": 59.9,
+      "link": "https://meli.la/2A7Vfu7",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/chinelo-sandalia-red-kenner/up/MLBU3952961523",
+      "precoDe": 129.9,
+      "parcelas": "2x de R$29,95 sem juros",
+      "cupomAnuncio": "R$47,92 com Cupom",
+      "postado": "2026-11-23T20:16:22.334Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2A7Vfu7.jpg"
+    },
     {
       "id": "1PRhFXz",
       "nome": "Ombrelone Solasol Redondo 240 Central Bagum Sem Abas Madeira",
