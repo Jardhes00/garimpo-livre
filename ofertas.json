@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T19:30:06.009Z",
+  "atualizado": "2026-11-23T19:31:21.061Z",
   "ofertas": [
+    {
+      "id": "1ukL6y2",
+      "nome": "Micro-ondas Philco De Embutir PME31BM Espelhado 30L Com 1400W",
+      "categoria": "Casa",
+      "preco": 759.9,
+      "link": "https://meli.la/1ukL6y2",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-philco-de-embutir-pme31bm-espelhado-30l-com-1400w/p/MLB6332577",
+      "precoDe": 1141.43,
+      "pix": true,
+      "parcelas": "R$799,89 em 10x R$79,99 sem juros",
+      "postado": "2026-11-23T19:31:21.060Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ukL6y2.jpg"
+    },
     {
       "id": "2J7ebHU",
       "nome": "Banheira Bebê Dobrável Com Suporte Redutor Assento E Termômetro Embutido Até",
