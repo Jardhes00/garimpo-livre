@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T18:47:34.888Z",
+  "atualizado": "2026-11-23T18:48:49.736Z",
   "ofertas": [
+    {
+      "id": "2c2Uonw",
+      "nome": "L'Oréal Paris Elseve Collagen Lifter Máscara de Tratamento Condicionante Efeito",
+      "categoria": "Diversos",
+      "preco": 23,
+      "link": "https://meli.la/2c2Uonw",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/loreal-paris-elseve-collagen-lifter-mascara-de-tratamento-condicionante-efeito-teia-para-resgate-de-massa-com-peptideos-de-colageno-reconstroi-a-fibra-e-da-volume-por-72h-300g/p/MLB64176719",
+      "precoDe": 45.49,
+      "postado": "2026-11-23T18:48:49.734Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2c2Uonw.jpg"
+    },
     {
       "id": "1B11hKb",
       "nome": "Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera 50MP, IP68, Super AMOLED",
