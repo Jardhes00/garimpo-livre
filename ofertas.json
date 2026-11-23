@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T19:22:35.908Z",
+  "atualizado": "2026-11-23T19:23:51.000Z",
   "ofertas": [
+    {
+      "id": "27D3U4s",
+      "nome": "Colchão Inflável Northmarch Solteiro, Confortável e Alto, com Bomba Elétrica",
+      "categoria": "Casa",
+      "preco": 248.4,
+      "link": "https://meli.la/27D3U4s",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/colchao-inflavel-northmarch-solteiro-confortavel-e-alto-com-bomba-eletrica-integrada-e-kit-completo/p/MLB80789642",
+      "precoDe": 799,
+      "pix": true,
+      "parcelas": "R$270 em 10x R$27 sem juros",
+      "postado": "2026-11-23T19:23:50.999Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-27D3U4s.jpg"
+    },
     {
       "id": "2eWpvUD",
       "nome": "Pulverizador Costal Agricola Jacto Pjh 20 L - Full Cor Azul",
@@ -5100,24 +5118,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1iDJPdw.jpg"
-    },
-    {
-      "id": "1bvmkRm",
-      "nome": "Kit C/ 4 Toalha De Banho Gigante 80 X 150 Cm Atacado + Softmax",
-      "categoria": "Casa",
-      "preco": 59.99,
-      "link": "https://meli.la/1bvmkRm",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit-c-4-toalha-de-banho-gigante-80-x-150-cm-atacado-softmax/p/MLB29561684",
-      "precoDe": 154.22,
-      "parcelas": "12x R$ 5,91",
-      "cupomAnuncio": "R$58,99 com Cupom por seguir a loja",
-      "postado": "2026-11-21T19:23:16.913Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1bvmkRm.jpg"
     }
   ]
 }
