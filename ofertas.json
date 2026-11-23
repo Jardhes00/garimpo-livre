@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T19:18:50.970Z",
+  "atualizado": "2026-11-23T19:20:05.664Z",
   "ofertas": [
+    {
+      "id": "1hGjG7V",
+      "nome": "Fralda Geriátrica Derma Plus Unissex 16 Unidades G Bigfral Grande",
+      "categoria": "Bebê",
+      "preco": 47.29,
+      "link": "https://meli.la/1hGjG7V",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fralda-geriatrica-derma-plus-unissex-16-unidades-g-bigfral-grande/p/MLB18717825",
+      "precoDe": 79.69,
+      "postado": "2026-11-23T19:20:05.662Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1hGjG7V.jpg"
+    },
     {
       "id": "2RxV8gK",
       "nome": "Bebedouro Refrigerado Eletrônico Veronna BE200 Agua Gelada Cor Branco",
