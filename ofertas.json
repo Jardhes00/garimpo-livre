@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T17:04:37.382Z",
+  "atualizado": "2026-11-23T17:05:52.699Z",
   "ofertas": [
+    {
+      "id": "13qoY8U",
+      "nome": "Kit Teclado e Mouse Sem Fio CSI50, 2.4GHz, ABNT2, Preto Intelbras",
+      "categoria": "Tech",
+      "preco": 98,
+      "link": "https://meli.la/13qoY8U",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-teclado-e-mouse-sem-fio-csi50-24ghz-abnt2-preto-intelbras/p/MLB20689534",
+      "precoDe": 179.9,
+      "postado": "2026-11-23T17:05:52.698Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-13qoY8U.jpg"
+    },
     {
       "id": "2zMchQq",
       "nome": "Martelete Rompedor e Perfurador Bosch GBH 2-24 D 220V + Maleta 06112A02E0",
