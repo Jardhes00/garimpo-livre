@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T19:01:20.009Z",
+  "atualizado": "2026-11-23T19:02:35.089Z",
   "ofertas": [
+    {
+      "id": "12euPkx",
+      "nome": "Essencial Exclusivo Floral Deo Parfum Feminino - Natura",
+      "categoria": "Diversos",
+      "preco": 142.51,
+      "link": "https://meli.la/12euPkx",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/essencial-exclusivo-floral-deo-parfum-feminino-natura/p/MLB26739970",
+      "precoDe": 279.9,
+      "pix": true,
+      "parcelas": "R$154,90 em 5x R$30,98 sem juros",
+      "postado": "2026-11-23T19:02:35.087Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-12euPkx.jpg"
+    },
     {
       "id": "28DFTKe",
       "nome": "Baú Bauleto 65 Litros Aluminio Base Universal Todas As Motos",
