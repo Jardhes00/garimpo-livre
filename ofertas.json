@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-23T15:03:45.151Z",
+  "atualizado": "2026-11-23T15:05:00.229Z",
   "ofertas": [
+    {
+      "id": "134dipJ",
+      "nome": "Copo P/ Água Reforçado 180ml Transp Descartável Ps 2500 Uni",
+      "categoria": "Diversos",
+      "preco": 107.55,
+      "link": "https://meli.la/134dipJ",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/copo-p-agua-reforcado-180ml-transp-descartavel-ps-2500-uni/p/MLB2117172499",
+      "precoDe": 188,
+      "pix": true,
+      "parcelas": "R$116,90 em outros meios",
+      "cupomAnuncio": "R$102,95 com Cupom por seguir a loja",
+      "postado": "2026-11-23T15:05:00.228Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-134dipJ.jpg"
+    },
     {
       "id": "2sRPoFv",
       "nome": "Tênis adidas Acelera 2 Masculino Branco Com Detalhes Pretos",
