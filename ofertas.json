@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T15:17:30.518Z",
+  "atualizado": "2026-11-23T15:18:45.487Z",
   "ofertas": [
+    {
+      "id": "1pwVdKB",
+      "nome": "Caixa de Som Speaker Philco Extreme 220W PBS220BT",
+      "categoria": "Tech",
+      "preco": 298.98,
+      "link": "https://meli.la/1pwVdKB",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-speaker-philco-extreme-220w-pbs220bt/p/MLB28038505",
+      "precoDe": 619,
+      "parcelas": "12x R$29,25",
+      "relampago": true,
+      "postado": "2026-11-23T15:18:45.486Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1pwVdKB.jpg"
+    },
     {
       "id": "2Fu2HFM",
       "nome": "Banheira Safety 1st, Smile com Suporte, Grey",
