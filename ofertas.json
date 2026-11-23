@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T17:20:53.040Z",
+  "atualizado": "2026-11-23T17:22:07.805Z",
   "ofertas": [
+    {
+      "id": "1CurntQ",
+      "nome": "Nobreak Ts Shara UPS XPro 4540 2000VA Senoidal Pura 8 Tomadas Bivolt",
+      "categoria": "Diversos",
+      "preco": 1655.44,
+      "link": "https://meli.la/1CurntQ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/nobreak-ts-shara-ups-xpro-4540-2000va-senoidal-pura-8-tomadas-bivolt/p/MLB38156404",
+      "precoDe": 2399,
+      "postado": "2026-11-23T17:22:07.803Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1CurntQ.jpg"
+    },
     {
       "id": "33HCRVJ",
       "nome": "Piscina Infantil Mor Retangular Estrutural 1000 Litros Pvc",
