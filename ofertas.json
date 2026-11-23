@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T19:17:35.597Z",
+  "atualizado": "2026-11-23T19:18:50.970Z",
   "ofertas": [
+    {
+      "id": "2RxV8gK",
+      "nome": "Bebedouro Refrigerado Eletrônico Veronna BE200 Agua Gelada Cor Branco",
+      "categoria": "Bebê",
+      "preco": 348,
+      "link": "https://meli.la/2RxV8gK",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bebedouro-refrigerado-eletronico-veronna-be200-agua-gelada-cor-branco/p/MLB39027625",
+      "precoDe": 567.7,
+      "parcelas": "6x de R$58 sem juros",
+      "postado": "2026-11-23T19:18:50.968Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2RxV8gK.jpg"
+    },
     {
       "id": "2XC8EcU",
       "nome": "Pneu Landspider Citytraxx Gp 175/70 R14 Aro 14 84t",
@@ -5068,24 +5085,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-139XrG6.jpg"
-    },
-    {
-      "id": "1ogi2Nc",
-      "nome": "Roteador Mercusys MR30G AC1200 Wi-Fi Gigabit Banda Dupla com 4 Antenas",
-      "categoria": "Diversos",
-      "preco": 103.15,
-      "link": "https://meli.la/1ogi2Nc",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/roteador-mercusys-mr30g-ac1200-wi-fi-gigabit-banda-dupla-com-4-antenas/p/MLB62310676",
-      "precoDe": 149.9,
-      "pix": true,
-      "parcelas": "R$ 137,53 em outros meios",
-      "postado": "2026-11-21T19:18:46.766Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1ogi2Nc.jpg"
     }
   ]
 }
