@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T18:52:34.774Z",
+  "atualizado": "2026-11-23T18:53:49.741Z",
   "ofertas": [
+    {
+      "id": "1jp6NtS",
+      "nome": "Samsung Galaxy Watch8 Smartwatch 40mm BT, Galaxy AI - Grafite",
+      "categoria": "Tech",
+      "preco": 1079.1,
+      "link": "https://meli.la/1jp6NtS",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/samsung-galaxy-watch8-smartwatch-40mm-bt-galaxy-ai-grafite/p/MLB52053098",
+      "precoDe": 2707,
+      "pix": true,
+      "parcelas": "R$1.199 em 10x R$119,90 sem juros",
+      "postado": "2026-11-23T18:53:49.740Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1jp6NtS.jpg"
+    },
     {
       "id": "1qpJKKH",
       "nome": "3 Body Splash Very Sexy Delight Roses Barbour's Beauty",
