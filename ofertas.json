@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T14:39:59.300Z",
+  "atualizado": "2026-11-23T14:41:14.465Z",
   "ofertas": [
+    {
+      "id": "2XgrqoY",
+      "nome": "Samsung Galaxy A57 256 gb e 8 Ram Dual Sim Lilás",
+      "categoria": "Tech",
+      "preco": 2198.7,
+      "link": "https://meli.la/2XgrqoY",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/samsung-galaxy-a57-256-gb-e-8-ram-dual-sim-lilas/p/MLB69983495",
+      "precoDe": 4299,
+      "pix": true,
+      "parcelas": "R$2.443 em 10x R$244,30 sem juros",
+      "postado": "2026-11-23T14:41:14.464Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2XgrqoY.jpg"
+    },
     {
       "id": "2AhoimT",
       "nome": "Cloro para Piscina Genco Multipla Ação 3 em 1 Balde 10kg",
