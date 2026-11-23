@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T19:48:51.631Z",
+  "atualizado": "2026-11-23T19:50:06.727Z",
   "ofertas": [
+    {
+      "id": "2mLkag1",
+      "nome": "Kit 6 Oleo E Filtros 5w30 Diesel S10 Nova 2.8 16v 2012/2025",
+      "categoria": "Diversos",
+      "preco": 664.94,
+      "link": "https://meli.la/2mLkag1",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-6-oleo-e-filtros-5w30-diesel-s10-nova-28-16v-20122025/up/MLBU3648241647",
+      "precoDe": 956,
+      "cupomAnuncio": "R$664,94 com Cupom extra",
+      "postado": "2026-11-23T19:50:06.725Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2mLkag1.jpg"
+    },
     {
       "id": "1wMB5Pe",
       "nome": "Papel Higiênico Folha Dupla Com 24 Rolos De 30m Mimmo",
