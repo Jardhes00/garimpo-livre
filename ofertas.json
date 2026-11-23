@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T19:31:21.061Z",
+  "atualizado": "2026-11-23T19:32:36.262Z",
   "ofertas": [
+    {
+      "id": "2srA2a8",
+      "nome": "Seringa Insulina 1ml Com Agulha Fixa 6x0,25 Mm (31g) | Caixa Com 100 Unidades |",
+      "categoria": "Diversos",
+      "preco": 118.65,
+      "link": "https://meli.la/2srA2a8",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/seringa-insulina-1ml-com-agulha-fixa-6x025-mm-31g-caixa-com-100-unidades-tkl/p/MLB81769943",
+      "precoDe": 199.9,
+      "pix": true,
+      "parcelas": "R$124,90 em outros meios",
+      "postado": "2026-11-23T19:32:36.260Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2srA2a8.jpg"
+    },
     {
       "id": "1ukL6y2",
       "nome": "Micro-ondas Philco De Embutir PME31BM Espelhado 30L Com 1400W",
@@ -5153,25 +5171,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2nB2HQ6.jpg"
-    },
-    {
-      "id": "1HbWVQT",
-      "nome": "Soundbar LG S40T Bluetooth, 300W, Som Imersivo Design Compacto, Conectividade, Ideal para TV e Entretenimento em Casa",
-      "categoria": "Tech",
-      "preco": 835.12,
-      "link": "https://meli.la/1HbWVQT",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/soundbar-lg-s40t-bluetooth-300w-som-imersivo-design-compacto-conectividade-ideal-para-tv-e-entretenimento-em-casa/p/MLB38471378",
-      "precoDe": 1299,
-      "pix": true,
-      "parcelas": "R$ 949 em 10x R$ 94,90 sem juros",
-      "cupomAnuncio": "R$791,12 com Cupom",
-      "postado": "2026-11-21T19:32:16.926Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1HbWVQT.jpg"
     }
   ]
 }
