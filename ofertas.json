@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T19:27:35.837Z",
+  "atualizado": "2026-11-23T19:28:51.421Z",
   "ofertas": [
+    {
+      "id": "22MP6DZ",
+      "nome": "Patinete Elétrico 350w Com App Gps Bateria Recarregável Dobrável Super",
+      "categoria": "Esporte",
+      "preco": 896.1,
+      "link": "https://meli.la/22MP6DZ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/patinete-eletrico-350w-com-app-gps-bateria-recarregavel-dobravel-super-autonomia-para-adultos-ate-150kg-preto/p/MLB80318311",
+      "precoDe": 1699.99,
+      "pix": true,
+      "parcelas": "R$1.030 em outros meios",
+      "postado": "2026-11-23T19:28:51.419Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-22MP6DZ.jpg"
+    },
     {
       "id": "19KEzVt",
       "nome": "Mangueira 20metros Duraflex Silconada Reforçada Profissional",
@@ -5136,23 +5154,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1XLv2c9.jpg"
-    },
-    {
-      "id": "15hk9GJ",
-      "nome": "Aparelho medidor de pressão digital de braço BSP11 G-Tech",
-      "categoria": "Diversos",
-      "preco": 84.25,
-      "link": "https://meli.la/15hk9GJ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/aparelho-medidor-de-pressao-digital-de-braco-bsp11-g-tech/p/MLB24000050",
-      "precoDe": 124.15,
-      "parcelas": "12x R$ 8,30",
-      "postado": "2026-11-21T19:27:47.304Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-15hk9GJ.jpg"
     }
   ]
 }
