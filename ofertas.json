@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T20:01:22.267Z",
+  "atualizado": "2026-11-23T20:02:36.810Z",
   "ofertas": [
+    {
+      "id": "1MzNjxD",
+      "nome": "Purificador de Água IBBL Speciale FR600 Cor Prata",
+      "categoria": "Diversos",
+      "preco": 859.9,
+      "link": "https://meli.la/1MzNjxD",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/purificador-de-agua-ibbl-speciale-fr600-cor-prata/p/MLB23658703",
+      "precoDe": 1299,
+      "postado": "2026-11-23T20:02:36.808Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1MzNjxD.jpg"
+    },
     {
       "id": "2cuyCEu",
       "nome": "Sofá Retrátil Reclinável Zurique 2,70m Suede Velut Cinza Molas no Assento",
@@ -5343,25 +5359,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1hwKsAq.jpg"
-    },
-    {
-      "id": "2ghuzxQ",
-      "nome": "Celular Samsung Galaxy S25 Fe 5g, 128gb, 8gb Ram, Câmera Tripla De 50+12+8, Tela Grande De 6.7 Azul Marinho",
-      "categoria": "Tech",
-      "preco": 2751.89,
-      "link": "https://meli.la/2ghuzxQ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/celular-samsung-galaxy-s25-fe-5g-128gb-8gb-ram-camera-tripla-de-50128-tela-grande-de-67-azul-marinho/p/MLB61655019",
-      "precoDe": 4499,
-      "pix": true,
-      "parcelas": "R$ 2.837 em 10x de R$ 283,70 sem juros",
-      "relampago": true,
-      "postado": "2026-11-21T20:01:32.953Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2ghuzxQ.jpg"
     }
   ]
 }
