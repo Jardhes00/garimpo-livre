@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T18:55:05.190Z",
+  "atualizado": "2026-11-23T18:56:19.989Z",
   "ofertas": [
+    {
+      "id": "1kP46To",
+      "nome": "Pack X2 Unidades Unique One Revlon Professional Tudo Em Um",
+      "categoria": "Diversos",
+      "preco": 115.9,
+      "link": "https://meli.la/1kP46To",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/pack-x2-unidades-unique-one-revlon-professional-tudo-em-um/p/MLB35908614",
+      "precoDe": 218,
+      "postado": "2026-11-23T18:56:19.988Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1kP46To.jpg"
+    },
     {
       "id": "2RQ3z7u",
       "nome": "Cooktop de Indução Fischer 4 Bocas Vitrocerâmica com Touch Screen 220V",
