@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T14:56:14.894Z",
+  "atualizado": "2026-11-23T14:57:30.296Z",
   "ofertas": [
+    {
+      "id": "2K8WC5p",
+      "nome": "Energético Redbull 250ml Caixa C/ 24un",
+      "categoria": "Diversos",
+      "preco": 191.62,
+      "link": "https://meli.la/2K8WC5p",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/energetico-redbull-250ml-caixa-c-24un/p/MLB38845114",
+      "precoDe": 269.9,
+      "postado": "2026-11-23T14:57:30.295Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2K8WC5p.jpg"
+    },
     {
       "id": "1D7bJyB",
       "nome": "Monitor PC LG 19.5'' 20MK400H-B LED HD HDMI VGA (D-Sub) 75Hz 2ms(GtG) Ajuste de",
