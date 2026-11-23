@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T19:16:20.516Z",
+  "atualizado": "2026-11-23T19:17:35.597Z",
   "ofertas": [
+    {
+      "id": "2XC8EcU",
+      "nome": "Pneu Landspider Citytraxx Gp 175/70 R14 Aro 14 84t",
+      "categoria": "Auto",
+      "preco": 272.79,
+      "link": "https://meli.la/2XC8EcU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/pneu-landspider-citytraxx-gp-17570-r14-aro-14-84t/up/MLBU3441158219",
+      "precoDe": 428.6,
+      "postado": "2026-11-23T19:17:35.595Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2XC8EcU.jpg"
+    },
     {
       "id": "1fTH7y4",
       "nome": "Protetor Solar Bastão Fps90 Com Cor 3 15g Sallve",
@@ -5070,24 +5086,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1ogi2Nc.jpg"
-    },
-    {
-      "id": "2QBZstB",
-      "nome": "Fechadura Digital De Sobrepor Fr 101 V Preta Intelbras",
-      "categoria": "Casa",
-      "preco": 194.92,
-      "link": "https://meli.la/2QBZstB",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/fechadura-digital-de-sobrepor-fr-101-v-preta-intelbras/p/MLB63279922",
-      "precoDe": 359.9,
-      "pix": true,
-      "parcelas": "R$ 259,90 em 6x R$ 43,32 sem juros",
-      "postado": "2026-11-21T19:16:32.029Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2QBZstB.jpg"
     }
   ]
 }
