@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T17:14:37.960Z",
+  "atualizado": "2026-11-23T17:15:52.796Z",
   "ofertas": [
+    {
+      "id": "1gemfpG",
+      "nome": "Ventilador De Coluna Turbo Silencioso Baixo Consumo 110v",
+      "categoria": "Casa",
+      "preco": 169.98,
+      "link": "https://meli.la/1gemfpG",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-coluna-turbo-silencioso-baixo-consumo-110v/up/MLBU5378695662",
+      "precoDe": 289.99,
+      "parcelas": "5x de R$34 sem juros",
+      "cupomAnuncio": "R$164,98 com Cupom por seguir a loja",
+      "postado": "2026-11-23T17:15:52.794Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1gemfpG.jpg"
+    },
     {
       "id": "2s9ywNG",
       "nome": "Pneu Landspider Citytraxx GP 175/70 R13 HT Ind. Carga 82 Radial",
