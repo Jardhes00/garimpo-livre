@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T16:59:37.346Z",
+  "atualizado": "2026-11-23T17:00:52.193Z",
   "ofertas": [
+    {
+      "id": "1pCscPm",
+      "nome": "Legging Hydefit® Adaptiv",
+      "categoria": "Diversos",
+      "preco": 134.91,
+      "link": "https://meli.la/1pCscPm",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/legging-hydefit-adaptiv/up/MLBU5976728848",
+      "precoDe": 249.9,
+      "parcelas": "4x de R$33,73 sem juros",
+      "postado": "2026-11-23T17:00:52.192Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1pCscPm.jpg"
+    },
     {
       "id": "2j7T5kw",
       "nome": "Micro-ondas Electrolux Efficient 29L Preto ME29P",
