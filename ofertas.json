@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T20:07:37.016Z",
+  "atualizado": "2026-11-23T20:08:52.223Z",
   "ofertas": [
+    {
+      "id": "1wSMyu3",
+      "nome": "Auto transformador bivolt 110v 220v Techmax 7000VA 3850W ar condicionado forno",
+      "categoria": "Casa",
+      "preco": 192,
+      "link": "https://meli.la/1wSMyu3",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/auto-transformador-bivolt-110v-220v-techmax-7000va-3850w-ar-condicionado-forno-eletrico-lava-e-seca/p/MLB48950178",
+      "precoDe": 277.2,
+      "postado": "2026-11-23T20:08:52.221Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1wSMyu3.jpg"
+    },
     {
       "id": "2rNBNr2",
       "nome": "Colchão Solteiro Espuma D33 Pillow Top New Millenium Branco",
@@ -5376,24 +5392,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1UvKDqn.jpg"
-    },
-    {
-      "id": "1Ht7gEb",
-      "nome": "Árvore De Natal 2.10 Metros 600 Galhos Grande Tradicional Luxo Cor Verde PREMIUM Sambalelê",
-      "categoria": "Diversos",
-      "preco": 94.9,
-      "link": "https://meli.la/1Ht7gEb",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/arvore-de-natal-210-metros-600-galhos-grande-tradicional-luxo-cor-verde-premium-sambalele/p/MLB79982377",
-      "precoDe": 199.9,
-      "pix": true,
-      "parcelas": "R$ 99,90 em outros meios",
-      "postado": "2026-11-21T20:08:18.280Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1Ht7gEb.jpg"
     }
   ]
 }
