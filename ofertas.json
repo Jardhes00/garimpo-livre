@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T15:23:45.785Z",
+  "atualizado": "2026-11-23T15:25:00.837Z",
   "ofertas": [
+    {
+      "id": "1QD4yBq",
+      "nome": "Cadeira Presidente Ergonômica com Apoio para Pés e Suporte Lombar Adaptável Sweet Studio Cinza",
+      "categoria": "Diversos",
+      "preco": 785.4,
+      "link": "https://meli.la/1QD4yBq",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-presidente-ergonomica-com-apoio-para-pes-e-suporte-lombar-adaptavel-sweet-studio-cinza/p/MLB74913561",
+      "precoDe": 1540,
+      "parcelas": "12x R$75,95",
+      "postado": "2026-11-23T15:25:00.835Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1QD4yBq.jpg"
+    },
     {
       "id": "1aU5Y8s",
       "nome": "Puravida Whey Isolado Em Pó Sabor Chocolate Língua De Gato 450g",
