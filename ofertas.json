@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-23T20:21:35.581Z",
+  "atualizado": "2026-11-23T20:22:50.478Z",
   "ofertas": [
+    {
+      "id": "2Gi8Uoo",
+      "nome": "Yopro Bebida Láctea Morango 15g Proteína 12 Unidades 250ml",
+      "categoria": "Suplementos",
+      "preco": 67.9,
+      "link": "https://meli.la/2Gi8Uoo",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/yopro-bebida-lactea-morango-15g-proteina-12-unidades-250ml/p/MLB68765219",
+      "precoDe": 98.99,
+      "pix": true,
+      "parcelas": "R$70 em outros meios",
+      "cupomAnuncio": "Compre R$149,90 e ganhe 18% OFF",
+      "postado": "2026-11-23T20:22:50.476Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Gi8Uoo.jpg"
+    },
     {
       "id": "1SFSFEo",
       "nome": "4 Amortecedor Original Nakata Gol Voyage G5 G6 G7 + Kit Comp",
@@ -5461,24 +5480,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1BWfhf1.jpg"
-    },
-    {
-      "id": "1DHuF7F",
-      "nome": "Starlink Mini X Com Roteador Wifi 6 Branco",
-      "categoria": "Diversos",
-      "preco": 425.7,
-      "link": "https://meli.la/1DHuF7F",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/starlink-mini-x-com-roteador-wifi-6-branco/p/MLB2121038984",
-      "precoDe": 799,
-      "pix": true,
-      "parcelas": "R$ 473 em 9x de R$ 52,56 sem juros",
-      "postado": "2026-11-21T20:21:48.392Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1DHuF7F.jpg"
     }
   ]
 }
