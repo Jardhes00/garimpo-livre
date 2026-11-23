@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T19:51:21.561Z",
+  "atualizado": "2026-11-23T19:52:36.624Z",
   "ofertas": [
+    {
+      "id": "1wJbqoU",
+      "nome": "Parafusadeira E Furadeira 3/8 A Bateria Bosch Gsr 120-li",
+      "categoria": "Ferramentas",
+      "preco": 346.65,
+      "link": "https://meli.la/1wJbqoU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/parafusadeira-e-furadeira-38-a-bateria-bosch-gsr-120-li/p/MLB44894619",
+      "precoDe": 571.29,
+      "pix": true,
+      "parcelas": "R$364,90 em outros meios",
+      "postado": "2026-11-23T19:52:36.622Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1wJbqoU.jpg"
+    },
     {
       "id": "16guuqK",
       "nome": "Câmera Inteligente 3MP IM4 Dual Full Color Intelbras",
@@ -5273,23 +5291,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-29eaUdT.jpg"
-    },
-    {
-      "id": "2xZW2v9",
-      "nome": "Batedeira Planetaria Britania 900w Bbp900a",
-      "categoria": "Diversos",
-      "preco": 263.62,
-      "link": "https://meli.la/2xZW2v9",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/batedeira-planetaria-britania-900w-bbp900a/p/MLB66584656",
-      "precoDe": 444.15,
-      "parcelas": "6x R$ 43,94 sem juros",
-      "postado": "2026-11-21T19:52:32.634Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2xZW2v9.jpg"
     }
   ]
 }
