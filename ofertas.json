@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T14:42:29.379Z",
+  "atualizado": "2026-11-23T14:43:44.609Z",
   "ofertas": [
+    {
+      "id": "33tVbRa",
+      "nome": "Monitor Gamer AOC AGON G50 27\" 144Hz 0,5ms IPS HDR10 G-SYNC 27G50F",
+      "categoria": "Tech",
+      "preco": 616.41,
+      "link": "https://meli.la/33tVbRa",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/monitor-gamer-aoc-agon-g50-27-144hz-05ms-ips-hdr10-g-sync-27g50f/p/MLB62870125",
+      "precoDe": 899,
+      "parcelas": "2x de R$308,21 sem juros",
+      "cupomAnuncio": "R$586,41 com Cupom",
+      "postado": "2026-11-23T14:43:44.608Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-33tVbRa.jpg"
+    },
     {
       "id": "14AFMB6",
       "nome": "Cervejeira Consul Preta - Cze12me",
