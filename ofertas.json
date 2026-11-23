@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T18:58:50.061Z",
+  "atualizado": "2026-11-23T19:00:05.037Z",
   "ofertas": [
+    {
+      "id": "1Vi3Vp3",
+      "nome": "Cafeteira Elétrica Dolce Arome, Mondial, 550W - C-30-18X-FB",
+      "categoria": "Casa",
+      "preco": 94.44,
+      "link": "https://meli.la/1Vi3Vp3",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafeteira-eletrica-dolce-arome-mondial-550w-c-30-18x-fb/p/MLB18716121",
+      "precoDe": 176.9,
+      "postado": "2026-11-23T19:00:05.036Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Vi3Vp3.jpg"
+    },
     {
       "id": "1PxXRi9",
       "nome": "Micro-ondas Electrolux Efficient 29L Branco Função Descongelar e Receitas",
