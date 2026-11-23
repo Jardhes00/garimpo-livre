@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T20:05:06.875Z",
+  "atualizado": "2026-11-23T20:06:22.008Z",
   "ofertas": [
+    {
+      "id": "191WQfc",
+      "nome": "Nutella Creme de Avelã 1 uni 350g",
+      "categoria": "Beleza",
+      "preco": 23.99,
+      "link": "https://meli.la/191WQfc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/nutella-creme-de-avela-1-uni-350g/p/MLB18309926",
+      "precoDe": 36.75,
+      "postado": "2026-11-23T20:06:22.006Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-191WQfc.jpg"
+    },
     {
       "id": "23eJR2j",
       "nome": "Fechadura Digital de Embutir Biométrica FR 221V Intelbras",
@@ -5360,24 +5376,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1Ht7gEb.jpg"
-    },
-    {
-      "id": "1xfvKh6",
-      "nome": "Kit 2 Pneus 175/65R14 Continental PowerContact 2 82T Aro 14",
-      "categoria": "Auto",
-      "preco": 570.39,
-      "link": "https://meli.la/1xfvKh6",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit-2-pneus-17565r14-continental-powercontact-2-82t-aro-14/p/MLB27931978",
-      "precoDe": 834.9,
-      "pix": true,
-      "parcelas": "R$ 619,99 em outros meios",
-      "postado": "2026-11-21T20:06:03.207Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1xfvKh6.jpg"
     }
   ]
 }
