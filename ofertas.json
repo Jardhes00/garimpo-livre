@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T19:28:51.421Z",
+  "atualizado": "2026-11-23T19:30:06.009Z",
   "ofertas": [
+    {
+      "id": "2J7ebHU",
+      "nome": "Banheira Bebê Dobrável Com Suporte Redutor Assento E Termômetro Embutido Até",
+      "categoria": "Bebê",
+      "preco": 341.9,
+      "link": "https://meli.la/2J7ebHU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/banheira-bebe-dobravel-com-suporte-redutor-assento-e-termometro-embutido-ate-20kg-melon-maxi-baby-cinza/p/MLB73425169",
+      "precoDe": 499.9,
+      "pix": true,
+      "parcelas": "R$359,90 em outros meios",
+      "postado": "2026-11-23T19:30:06.007Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2J7ebHU.jpg"
+    },
     {
       "id": "22MP6DZ",
       "nome": "Patinete Elétrico 350w Com App Gps Bateria Recarregável Dobrável Super",
@@ -5136,24 +5154,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1HbWVQT.jpg"
-    },
-    {
-      "id": "1XLv2c9",
-      "nome": "Fonte Gamer Rise Mode Elektra 650w Full Modular Selo Teclab Preto",
-      "categoria": "Games",
-      "preco": 251.48,
-      "link": "https://meli.la/1XLv2c9",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/fonte-gamer-rise-mode-elektra-650w-full-modular-selo-teclab-preto/p/MLB61082491",
-      "precoDe": 498,
-      "pix": true,
-      "parcelas": "R$ 289,06 em outros meios",
-      "postado": "2026-11-21T19:30:02.043Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1XLv2c9.jpg"
     }
   ]
 }
