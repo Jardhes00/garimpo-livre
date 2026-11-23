@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T15:16:15.459Z",
+  "atualizado": "2026-11-23T15:17:30.518Z",
   "ofertas": [
+    {
+      "id": "2Fu2HFM",
+      "nome": "Banheira Safety 1st, Smile com Suporte, Grey",
+      "categoria": "Diversos",
+      "preco": 379.9,
+      "link": "https://meli.la/2Fu2HFM",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/banheira-safety-1st-smile-com-suporte-grey/p/MLB23896913",
+      "precoDe": 799,
+      "pix": true,
+      "parcelas": "R$399,90 em 11x R$36,35 sem juros",
+      "postado": "2026-11-23T15:17:30.517Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Fu2HFM.jpg"
+    },
     {
       "id": "28WdS44",
       "nome": "Whey Core 70% Proteína Concentrada Chocolate 900g - 30 Doses",
