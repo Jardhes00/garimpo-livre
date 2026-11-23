@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T19:25:05.868Z",
+  "atualizado": "2026-11-23T19:26:21.001Z",
   "ofertas": [
+    {
+      "id": "1hHLDRS",
+      "nome": "Zenrelia 15mg 30 Comprimidos Para Dermatite E Coceiras Cão Elanco",
+      "categoria": "Diversos",
+      "preco": 296.99,
+      "link": "https://meli.la/1hHLDRS",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/zenrelia-15mg-30-comprimidos-para-dermatite-e-coceiras-cao-elanco/p/MLB61656336",
+      "precoDe": 479.9,
+      "pix": true,
+      "parcelas": "R$329,99 em outros meios",
+      "postado": "2026-11-23T19:26:20.999Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1hHLDRS.jpg"
+    },
     {
       "id": "229qfGJ",
       "nome": "Kit Wella Fusion Shampoo 250ml + Cond. 200ml + Mascara 150ml",
@@ -5119,22 +5137,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-15hk9GJ.jpg"
-    },
-    {
-      "id": "1iDJPdw",
-      "nome": "Protetor Solar Facial Neostrata Minesol Oil Control Sem Cor FPS 70, 40g",
-      "categoria": "Beleza",
-      "preco": 55.44,
-      "link": "https://meli.la/1iDJPdw",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/protetor-solar-facial-neostrata-minesol-oil-control-sem-cor-fps-70-40g/p/MLB16313979",
-      "precoDe": 122.99,
-      "postado": "2026-11-21T19:25:31.843Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1iDJPdw.jpg"
     }
   ]
 }
