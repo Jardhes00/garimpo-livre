@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T19:06:20.165Z",
+  "atualizado": "2026-11-23T19:07:35.378Z",
   "ofertas": [
+    {
+      "id": "12d23B2",
+      "nome": "Furadeira de Impacto Bosch 450W 10mm GSB 450 RE com Jogo de Brocas Bits 300",
+      "categoria": "Games",
+      "preco": 298,
+      "link": "https://meli.la/12d23B2",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/furadeira-de-impacto-bosch-450w-10mm-gsb-450-re-com-jogo-de-brocas-bits-300-pecas/p/MLB40692702",
+      "precoDe": 492.71,
+      "postado": "2026-11-23T19:07:35.376Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-12d23B2.jpg"
+    },
     {
       "id": "1b48HNF",
       "nome": "Kit Hidrabene K-glass Sérum Completo Tratamento Facial",
