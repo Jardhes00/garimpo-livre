@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-23T15:00:00.117Z",
+  "atualizado": "2026-11-23T15:01:15.478Z",
   "ofertas": [
+    {
+      "id": "1JUzCr8",
+      "nome": "Jogo Roda Pé De Galinha Titan Fan 150 160 Liga Leve A Disco",
+      "categoria": "Games",
+      "preco": 603.51,
+      "link": "https://meli.la/1JUzCr8",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/jogo-roda-pe-de-galinha-titan-fan-150-160-liga-leve-a-disco/up/MLBU3827041886",
+      "precoDe": 1159,
+      "pix": true,
+      "parcelas": "R$655,99 em 10x R$65,60 sem juros",
+      "cupomAnuncio": "R$596,15 com Cupom por seguir a loja",
+      "postado": "2026-11-23T15:01:15.476Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1JUzCr8.jpg"
+    },
     {
       "id": "2T4eWcu",
       "nome": "Rabanne Lady Million EDP 80ml para feminino",
