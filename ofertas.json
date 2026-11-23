@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-23T20:03:51.922Z",
+  "atualizado": "2026-11-23T20:05:06.875Z",
   "ofertas": [
+    {
+      "id": "23eJR2j",
+      "nome": "Fechadura Digital de Embutir Biométrica FR 221V Intelbras",
+      "categoria": "Casa",
+      "preco": 292.42,
+      "link": "https://meli.la/23eJR2j",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fechadura-digital-de-embutir-biometrica-fr-221v-intelbras/p/MLB62061940",
+      "precoDe": 563.9,
+      "pix": true,
+      "parcelas": "R$389,90 em 7x R$55,70 sem juros",
+      "cupomAnuncio": "R$277,42 com Cupom",
+      "postado": "2026-11-23T20:05:06.874Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-23eJR2j.jpg"
+    },
     {
       "id": "2AhgYT7",
       "nome": "Protetor Solar Facial L'Oréal Paris Solar Expertise Antirrugas Fps 60 Com Cor",
