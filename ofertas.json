@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T19:53:51.723Z",
+  "atualizado": "2026-11-23T19:55:07.130Z",
   "ofertas": [
+    {
+      "id": "1AygAuY",
+      "nome": "Lixadeira Teto E Parede Telescópica Profissional Com Led E Saco Coletor The",
+      "categoria": "Diversos",
+      "preco": 639.9,
+      "link": "https://meli.la/1AygAuY",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lixadeira-teto-e-parede-telescopica-profissional-com-led-e-saco-coletor-the-black-tools-btl750-750w/p/MLB32161346",
+      "precoDe": 1099.9,
+      "parcelas": "10x de R$63,99 sem juros",
+      "postado": "2026-11-23T19:55:07.128Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1AygAuY.jpg"
+    },
     {
       "id": "2AMHgRN",
       "nome": "SSD Interno 240GB 2.5 SATA III 6Gb/s Para PC Notebook - Up Gamer",
@@ -5289,24 +5306,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1feiqbM.jpg"
-    },
-    {
-      "id": "29eaUdT",
-      "nome": "Processador AMD Ryzen 7 5700X 3.4GHz (4.6GHz Max Turbo) AM4",
-      "categoria": "Diversos",
-      "preco": 1115.07,
-      "link": "https://meli.la/29eaUdT",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/processador-amd-ryzen-7-5700x-34ghz-46ghz-max-turbo-am4/p/MLB19159879",
-      "precoDe": 1519,
-      "pix": true,
-      "parcelas": "R$ 1.199 em 10x de R$ 119,90 sem juros",
-      "postado": "2026-11-21T19:54:47.833Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-29eaUdT.jpg"
     }
   ]
 }
