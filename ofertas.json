@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T18:53:49.741Z",
+  "atualizado": "2026-11-23T18:55:05.190Z",
   "ofertas": [
+    {
+      "id": "2RQ3z7u",
+      "nome": "Cooktop de Indução Fischer 4 Bocas Vitrocerâmica com Touch Screen 220V",
+      "categoria": "Diversos",
+      "preco": 1129,
+      "link": "https://meli.la/2RQ3z7u",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cooktop-de-inducao-fischer-4-bocas-vitroceramica-com-touch-screen-220v/p/MLB42110532",
+      "precoDe": 2500,
+      "postado": "2026-11-23T18:55:05.188Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2RQ3z7u.jpg"
+    },
     {
       "id": "1jp6NtS",
       "nome": "Samsung Galaxy Watch8 Smartwatch 40mm BT, Galaxy AI - Grafite",
