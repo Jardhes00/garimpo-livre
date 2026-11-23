@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T20:10:07.160Z",
+  "atualizado": "2026-11-23T20:11:22.169Z",
   "ofertas": [
+    {
+      "id": "2g6hUJK",
+      "nome": "Martelete Perfurador Rompedor Sem Fio Bateria 21V 4000mAh Professional Sds Plus",
+      "categoria": "Diversos",
+      "preco": 392,
+      "link": "https://meli.la/2g6hUJK",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/martelete-perfurador-rompedor-sem-fio-bateria-21v-4000mah-professional-sds-plus-motor-brushless-maleta-the-black-tools/p/MLB77325557",
+      "precoDe": 739.9,
+      "parcelas": "10x de R$39,20 sem juros",
+      "postado": "2026-11-23T20:11:22.167Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2g6hUJK.jpg"
+    },
     {
       "id": "2xy1Z1m",
       "nome": "Jogo de Jantar e Chá Oxford Mendi Marfim de Cerâmica com 20 Peças",
@@ -5393,23 +5410,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1AdDqit.jpg"
-    },
-    {
-      "id": "1UvKDqn",
-      "nome": "Aspirador de Pó Vertical Electrolux 1450W STK15 com Fio Portátil de Mão 2 em 1 e 1,6 Litros de capacidade com Filtro Hepa Cinza-escuro",
-      "categoria": "Casa",
-      "preco": 164.9,
-      "link": "https://meli.la/1UvKDqn",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/aspirador-de-po-vertical-electrolux-1450w-stk15-com-fio-portatil-de-mao-2-em-1-e-16-litros-de-capacidade-com-filtro-hepa-cinza-escuro/p/MLB18238728",
-      "precoDe": 239.99,
-      "parcelas": "12x de R$ 16,30",
-      "postado": "2026-11-21T20:10:33.078Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1UvKDqn.jpg"
     }
   ]
 }
