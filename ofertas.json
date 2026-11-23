@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T17:03:22.311Z",
+  "atualizado": "2026-11-23T17:04:37.382Z",
   "ofertas": [
+    {
+      "id": "2zMchQq",
+      "nome": "Martelete Rompedor e Perfurador Bosch GBH 2-24 D 220V + Maleta 06112A02E0",
+      "categoria": "Diversos",
+      "preco": 649,
+      "link": "https://meli.la/2zMchQq",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/martelete-rompedor-e-perfurador-bosch-gbh-2-24-d-220v-maleta-06112a02e0/p/MLB42517580",
+      "precoDe": 1299.98,
+      "parcelas": "10x de R$64,90 sem juros",
+      "postado": "2026-11-23T17:04:37.381Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2zMchQq.jpg"
+    },
     {
       "id": "1R9Jyi3",
       "nome": "Lavadora Alta Pressão K6 Motor Indução 2000w 2250 Psi Karcher - 110v",
