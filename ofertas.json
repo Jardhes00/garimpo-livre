@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T19:02:35.089Z",
+  "atualizado": "2026-11-23T19:03:50.926Z",
   "ofertas": [
+    {
+      "id": "2o2Kir8",
+      "nome": "Impressora Monocromática HP Laser 107w",
+      "categoria": "Tech",
+      "preco": 875.03,
+      "link": "https://meli.la/2o2Kir8",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/impressora-monocromatica-hp-laser-107w/p/MLB15188001",
+      "precoDe": 1662.77,
+      "pix": true,
+      "parcelas": "R$1.029,45 em 10x R$102,95 sem juros",
+      "postado": "2026-11-23T19:03:50.925Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2o2Kir8.jpg"
+    },
     {
       "id": "12euPkx",
       "nome": "Essencial Exclusivo Floral Deo Parfum Feminino - Natura",
