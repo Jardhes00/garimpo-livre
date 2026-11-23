@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T19:11:20.198Z",
+  "atualizado": "2026-11-23T19:12:35.211Z",
   "ofertas": [
+    {
+      "id": "1XKYnWz",
+      "nome": "Mouse sem fio M280 Preto Logitech",
+      "categoria": "Tech",
+      "preco": 71.01,
+      "link": "https://meli.la/1XKYnWz",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mouse-sem-fio-m280-preto-logitech/p/MLB6072946",
+      "precoDe": 99.9,
+      "pix": true,
+      "parcelas": "R$78,90 em outros meios",
+      "postado": "2026-11-23T19:12:35.209Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1XKYnWz.jpg"
+    },
     {
       "id": "1eFm3ZW",
       "nome": "Colchão Casal Emma Basics 17 – 138x188cm - Espuma D28 17cm com Tecnologia",
@@ -5037,23 +5055,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2YzMUER.jpg"
-    },
-    {
-      "id": "2Je8kB3",
-      "nome": "Smart Tv AOC 50'' Roku 4K UHD DLED Wi-Fi Dolby Audio 50U7066",
-      "categoria": "Tech",
-      "preco": 1899,
-      "link": "https://meli.la/2Je8kB3",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/smart-tv-aoc-50-roku-4k-uhd-dled-wi-fi-dolby-audio-50u7066/p/MLB78851940",
-      "precoDe": 2599,
-      "parcelas": "10x R$ 189,90 sem juros",
-      "postado": "2026-11-21T19:12:01.727Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2Je8kB3.jpg"
     }
   ]
 }
