@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T19:45:07.007Z",
+  "atualizado": "2026-11-23T19:46:21.682Z",
   "ofertas": [
+    {
+      "id": "2ZeGJ3V",
+      "nome": "Depurador de Ar Suggar Slim 60 cm Preto com 3 Velocidades e Filtro de Carvão",
+      "categoria": "Diversos",
+      "preco": 346.54,
+      "link": "https://meli.la/2ZeGJ3V",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/depurador-de-ar-suggar-slim-60-cm-preto-com-3-velocidades-e-filtro-de-carvao-ativado/p/MLB45556163",
+      "precoDe": 599,
+      "pix": true,
+      "parcelas": "R$376,67 em 7x R$53,81 sem juros",
+      "postado": "2026-11-23T19:46:21.680Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ZeGJ3V.jpg"
+    },
     {
       "id": "2xLDm5s",
       "nome": "Cadeira De Rodas D100 Dobrável Leve Idoso 120kg Dellamed",
@@ -5238,25 +5256,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1LnciWT.jpg"
-    },
-    {
-      "id": "2LiLL2x",
-      "nome": "Cafeína Caffeine Army Supercoffee Classic Size em pó Sem sabor x 380g",
-      "categoria": "Diversos",
-      "preco": 162,
-      "link": "https://meli.la/2LiLL2x",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cafeina-caffeine-army-supercoffee-classic-size-em-po-sem-sabor-x-380g/p/MLB19556431",
-      "precoDe": 216.9,
-      "pix": true,
-      "parcelas": "R$ 180 em 6x R$ 30 sem juros",
-      "cupomAnuncio": "R$145,80 com Cupom por seguir a loja",
-      "postado": "2026-11-21T19:45:48.029Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2LiLL2x.jpg"
     }
   ]
 }
