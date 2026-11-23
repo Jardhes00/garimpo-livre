@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T17:13:22.563Z",
+  "atualizado": "2026-11-23T17:14:37.960Z",
   "ofertas": [
+    {
+      "id": "2s9ywNG",
+      "nome": "Pneu Landspider Citytraxx GP 175/70 R13 HT Ind. Carga 82 Radial",
+      "categoria": "Auto",
+      "preco": 259.23,
+      "link": "https://meli.la/2s9ywNG",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/pneu-landspider-citytraxx-gp-17570-r13-ht-ind-carga-82-radial/p/MLB47714564",
+      "precoDe": 407.29,
+      "postado": "2026-11-23T17:14:37.958Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2s9ywNG.jpg"
+    },
     {
       "id": "2CEX7bV",
       "nome": "Capacete Asx City Solid Preto Fosco Integral Adulto",
