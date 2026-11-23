@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T14:52:30.215Z",
+  "atualizado": "2026-11-23T14:53:44.922Z",
   "ofertas": [
+    {
+      "id": "1aAFFxk",
+      "nome": "Cesta De Natal Grande 40 Itens Bauducco Chocottone Champagne",
+      "categoria": "Diversos",
+      "preco": 198.4,
+      "link": "https://meli.la/1aAFFxk",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cesta-de-natal-grande-40-itens-bauducco-chocottone-champagne/p/MLB2108926808",
+      "precoDe": 320,
+      "parcelas": "6x de R$33,07 sem juros",
+      "postado": "2026-11-23T14:53:44.920Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1aAFFxk.jpg"
+    },
     {
       "id": "2R3j7BB",
       "nome": "Impressora Zebra Zd220 De Etiquetas 203dpi (zbr01) Cor Cinza-escuro 110/240V",
