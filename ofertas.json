@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T17:18:23.039Z",
+  "atualizado": "2026-11-23T17:19:37.717Z",
   "ofertas": [
+    {
+      "id": "1rvhfnh",
+      "nome": "Aspirador De Pó Vertical E Portátil Wap High Speed Plus 1350w 1,2 Litros Filtro",
+      "categoria": "Casa",
+      "preco": 141,
+      "link": "https://meli.la/1rvhfnh",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aspirador-de-po-vertical-e-portatil-wap-high-speed-plus-1350w-12-litros-filtro-hepa-tecnologia-cyclone-3-em-1/p/MLB23414010",
+      "precoDe": 207,
+      "postado": "2026-11-23T17:19:37.716Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1rvhfnh.jpg"
+    },
     {
       "id": "1auj4hX",
       "nome": "Nivea Gel Creme Facial Ultra Leve 7 Em 1 Com Vitamina C 100g Todo Tipo De Pele",
