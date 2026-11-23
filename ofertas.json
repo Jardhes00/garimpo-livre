@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T19:07:35.378Z",
+  "atualizado": "2026-11-23T19:08:50.831Z",
   "ofertas": [
+    {
+      "id": "193iPAG",
+      "nome": "Jogo de Panelas Rochedo Stone Pro 5 peças",
+      "categoria": "Games",
+      "preco": 228.99,
+      "link": "https://meli.la/193iPAG",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/jogo-de-panelas-rochedo-stone-pro-5-pecas/p/MLB45151523",
+      "precoDe": 499.99,
+      "parcelas": "6x de R$38,17 sem juros",
+      "postado": "2026-11-23T19:08:50.830Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-193iPAG.jpg"
+    },
     {
       "id": "12d23B2",
       "nome": "Furadeira de Impacto Bosch 450W 10mm GSB 450 RE com Jogo de Brocas Bits 300",
