@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T16:58:22.210Z",
+  "atualizado": "2026-11-23T16:59:37.346Z",
   "ofertas": [
+    {
+      "id": "2j7T5kw",
+      "nome": "Micro-ondas Electrolux Efficient 29L Preto ME29P",
+      "categoria": "Casa",
+      "preco": 579.4,
+      "link": "https://meli.la/2j7T5kw",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-electrolux-efficient-29l-preto-me29p/p/MLB76914970",
+      "precoDe": 889,
+      "pix": true,
+      "parcelas": "R$609,90 em 10x R$60,99 sem juros",
+      "postado": "2026-11-23T16:59:37.344Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2j7T5kw.jpg"
+    },
     {
       "id": "26zEqFE",
       "nome": "Smartphone Motorola Edge 70 Fusion 5g - 256gb 8gb Ram + 16gb Ram Boost, Camera",
