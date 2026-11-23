@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T19:03:50.926Z",
+  "atualizado": "2026-11-23T19:05:05.241Z",
   "ofertas": [
+    {
+      "id": "2nah41e",
+      "nome": "Plastico Filme Stretch 50x220m 2,5kg Preto Embalagem Acesso® Bobina 25 Micras",
+      "categoria": "Diversos",
+      "preco": 47.29,
+      "link": "https://meli.la/2nah41e",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/plastico-filme-stretch-50x220m-25kg-preto-embalagem-acesso-bobina-25-micras-pallet-film-strech/p/MLB62062119",
+      "precoDe": 78.9,
+      "postado": "2026-11-23T19:05:05.239Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2nah41e.jpg"
+    },
     {
       "id": "2o2Kir8",
       "nome": "Impressora Monocromática HP Laser 107w",
