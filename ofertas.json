@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T17:00:52.193Z",
+  "atualizado": "2026-11-23T17:02:07.075Z",
   "ofertas": [
+    {
+      "id": "1UHV4NK",
+      "nome": "Lixeira de lixo 30 Litros Aço Inoxidável com Pedal Tramontina",
+      "categoria": "Diversos",
+      "preco": 217,
+      "link": "https://meli.la/1UHV4NK",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lixeira-de-lixo-30-litros-aco-inoxidavel-com-pedal-tramontina/p/MLB23097297",
+      "precoDe": 309.9,
+      "postado": "2026-11-23T17:02:07.073Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1UHV4NK.jpg"
+    },
     {
       "id": "1pCscPm",
       "nome": "Legging Hydefit® Adaptiv",
