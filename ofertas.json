@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T16:44:36.746Z",
+  "atualizado": "2026-11-23T16:45:52.013Z",
   "ofertas": [
+    {
+      "id": "1NmaPnK",
+      "nome": "Pneu 120/100-18 Borilli Exc Soft Traseiro",
+      "categoria": "Auto",
+      "preco": 468,
+      "link": "https://meli.la/1NmaPnK",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/pneu-120100-18-borilli-exc-soft-traseiro/up/MLBU3872703914",
+      "precoDe": 746.63,
+      "pix": true,
+      "parcelas": "R$520 em outros meios",
+      "postado": "2026-11-23T16:45:52.012Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1NmaPnK.jpg"
+    },
     {
       "id": "1Rx87h5",
       "nome": "Smartphone Samsung Galaxy A17 5g 128gb 4gb Super Amoled 6.7'' Câmera 50mp",
