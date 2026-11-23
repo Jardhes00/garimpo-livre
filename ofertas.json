@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T17:12:07.536Z",
+  "atualizado": "2026-11-23T17:13:22.563Z",
   "ofertas": [
+    {
+      "id": "2CEX7bV",
+      "nome": "Capacete Asx City Solid Preto Fosco Integral Adulto",
+      "categoria": "Diversos",
+      "preco": 340.69,
+      "link": "https://meli.la/2CEX7bV",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/capacete-asx-city-solid-preto-fosco-integral-adulto/up/MLBU3819190225",
+      "precoDe": 599,
+      "pix": true,
+      "parcelas": "R$400,81 em 10x R$40,08 sem juros",
+      "postado": "2026-11-23T17:13:22.562Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2CEX7bV.jpg"
+    },
     {
       "id": "1Zx6HEa",
       "nome": "Cafeteira Espresso Lattego Ep2330 Série 2300 Philips Walita Cinza",
