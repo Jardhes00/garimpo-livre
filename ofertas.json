@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T19:50:06.727Z",
+  "atualizado": "2026-11-23T19:51:21.561Z",
   "ofertas": [
+    {
+      "id": "16guuqK",
+      "nome": "Câmera Inteligente 3MP IM4 Dual Full Color Intelbras",
+      "categoria": "Diversos",
+      "preco": 299,
+      "link": "https://meli.la/16guuqK",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/camera-inteligente-3mp-im4-dual-full-color-intelbras/p/MLB64643844",
+      "precoDe": 827.14,
+      "pix": true,
+      "parcelas": "R$373,75 em 10x R$37,38 sem juros",
+      "postado": "2026-11-23T19:51:21.559Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-16guuqK.jpg"
+    },
     {
       "id": "2mLkag1",
       "nome": "Kit 6 Oleo E Filtros 5w30 Diesel S10 Nova 2.8 16v 2012/2025",
@@ -5272,24 +5290,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2xZW2v9.jpg"
-    },
-    {
-      "id": "1Ydcna1",
-      "nome": "Monitor Gamer 27\" Acer Nitro KG0 com Tela Full HD 144Hz VA Resposta de 1ms GtoG AMD FreeSync Game Mode 8 Modos Cores 99% sRGB Design ZeroFrame Conexões HDMI e VGA KG270 P0bi",
-      "categoria": "Tech",
-      "preco": 561,
-      "link": "https://meli.la/1Ydcna1",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/monitor-gamer-27-acer-nitro-kg0-com-tela-full-hd-144hz-va-resposta-de-1ms-gtog-amd-freesync-game-mode-8-modos-cores-99-srgb-design-zeroframe-conexoes-hdmi-e-vga-kg270-p0bi/p/MLB66118959",
-      "precoDe": 1500,
-      "parcelas": "12x R$ 54,25",
-      "cupomAnuncio": "R$532,95 com Cupom por seguir a loja",
-      "postado": "2026-11-21T19:50:17.654Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1Ydcna1.jpg"
     }
   ]
 }
