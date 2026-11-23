@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-23T20:00:06.816Z",
+  "atualizado": "2026-11-23T20:01:22.267Z",
   "ofertas": [
+    {
+      "id": "2cuyCEu",
+      "nome": "Sofá Retrátil Reclinável Zurique 2,70m Suede Velut Cinza Molas no Assento",
+      "categoria": "Diversos",
+      "preco": 1639.99,
+      "link": "https://meli.la/2cuyCEu",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/sofa-retratil-reclinavel-zurique-270m-suede-velut-cinza-molas-no-assento-king-house/p/MLB27322895",
+      "precoDe": 3123.89,
+      "pix": true,
+      "parcelas": "R$2.049,99 em 10x R$205 sem juros",
+      "cupomAnuncio": "R$1.431,99 com Cupom",
+      "postado": "2026-11-23T20:01:22.265Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2cuyCEu.jpg"
+    },
     {
       "id": "1ddvWFo",
       "nome": "Micro-ondas Electrolux Efficient 34L Branco Função Descongelar e Receitas",
