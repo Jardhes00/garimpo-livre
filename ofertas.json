@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T20:11:22.169Z",
+  "atualizado": "2026-11-23T20:12:37.091Z",
   "ofertas": [
+    {
+      "id": "2ZKEfd3",
+      "nome": "Torre para Armazenamento de Ferramentas com Rodas Stanley Pro-Stack FMST1-80103",
+      "categoria": "Ferramentas",
+      "preco": 599.99,
+      "link": "https://meli.la/2ZKEfd3",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/torre-para-armazenamento-de-ferramentas-com-rodas-stanley-pro-stack-fmst1-80103/p/MLB52020040",
+      "precoDe": 1399.98,
+      "postado": "2026-11-23T20:12:37.089Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ZKEfd3.jpg"
+    },
     {
       "id": "2g6hUJK",
       "nome": "Martelete Perfurador Rompedor Sem Fio Bateria 21V 4000mAh Professional Sds Plus",
