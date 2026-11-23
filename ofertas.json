@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T16:43:21.803Z",
+  "atualizado": "2026-11-23T16:44:36.746Z",
   "ofertas": [
+    {
+      "id": "1Rx87h5",
+      "nome": "Smartphone Samsung Galaxy A17 5g 128gb 4gb Super Amoled 6.7'' Câmera 50mp",
+      "categoria": "Tech",
+      "preco": 1062.41,
+      "link": "https://meli.la/1Rx87h5",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smartphone-samsung-galaxy-a17-5g-128gb-4gb-super-amoled-67-camera-50mp-selfie-13-mp-5000-mah-nfc-dual-sim-recursos-ia-cinza/p/MLB55521828",
+      "precoDe": 1699,
+      "pix": true,
+      "parcelas": "R$1.249,90 em 10x R$124,99 sem juros",
+      "postado": "2026-11-23T16:44:36.745Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Rx87h5.jpg"
+    },
     {
       "id": "1bkJZrk",
       "nome": "Smartphone Motorola Moto g47 5G 128GB, 4GB RAM câmera 50 MP Sony LYTIA 600",
