@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T16:50:51.955Z",
+  "atualizado": "2026-11-23T16:52:06.879Z",
   "ofertas": [
+    {
+      "id": "33wn6ac",
+      "nome": "Vaso Sanitário Monobloco Caixa Acoplada Completo Privada Cor Branco Tubrax",
+      "categoria": "Diversos",
+      "preco": 537.45,
+      "link": "https://meli.la/33wn6ac",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/vaso-sanitario-monobloco-caixa-acoplada-completo-privada-cor-branco-tubrax-vab0003/p/MLB24428758",
+      "precoDe": 1074.9,
+      "postado": "2026-11-23T16:52:06.878Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-33wn6ac.jpg"
+    },
     {
       "id": "1FZ8NpW",
       "nome": "Mesa Camping Palisad 695838 Alumínio Tampo MDF 90x60cm Pés Dobráveis",
