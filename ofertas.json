@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T14:43:44.609Z",
+  "atualizado": "2026-11-23T14:44:59.556Z",
   "ofertas": [
+    {
+      "id": "2KEJ3Ui",
+      "nome": "Smartphone Motorola Edge 60 Fusion 5g - 256gb 8gb Ram+8gb Ram Boost, 50mp Sony",
+      "categoria": "Tech",
+      "preco": 1799.1,
+      "link": "https://meli.la/2KEJ3Ui",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smartphone-motorola-edge-60-fusion-5g-256gb-8gb-ram8gb-ram-boost-50mp-sony-ai-camera-ip68-nfc-rosa/p/MLB47251829",
+      "precoDe": 3299,
+      "pix": true,
+      "parcelas": "R$1.999 em 10x R$199,90 sem juros",
+      "postado": "2026-11-23T14:44:59.554Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2KEJ3Ui.jpg"
+    },
     {
       "id": "33tVbRa",
       "nome": "Monitor Gamer AOC AGON G50 27\" 144Hz 0,5ms IPS HDR10 G-SYNC 27G50F",
