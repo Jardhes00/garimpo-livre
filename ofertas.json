@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T15:10:00.341Z",
+  "atualizado": "2026-11-23T15:11:15.341Z",
   "ofertas": [
+    {
+      "id": "1crcNvz",
+      "nome": "Kit Nível A Laser Verde 12 Linhas Esquadro + Suporte + Tripé",
+      "categoria": "Diversos",
+      "preco": 197.6,
+      "link": "https://meli.la/1crcNvz",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-nivel-a-laser-verde-12-linhas-esquadro-suporte-tripe/up/MLBU2914326565",
+      "precoDe": 346.49,
+      "pix": true,
+      "parcelas": "R$208 em outros meios",
+      "postado": "2026-11-23T15:11:15.339Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1crcNvz.jpg"
+    },
     {
       "id": "1tjKjwF",
       "nome": "Dvr Intelbras Imhdx 3108 Full Hd 8 Canais",
