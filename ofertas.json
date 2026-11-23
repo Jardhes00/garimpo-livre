@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T19:26:21.001Z",
+  "atualizado": "2026-11-23T19:27:35.837Z",
   "ofertas": [
+    {
+      "id": "19KEzVt",
+      "nome": "Mangueira 20metros Duraflex Silconada Reforçada Profissional",
+      "categoria": "Diversos",
+      "preco": 47,
+      "link": "https://meli.la/19KEzVt",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mangueira-20metros-duraflex-silconada-reforcada-profissional/up/MLBU3924338315",
+      "precoDe": 96.4,
+      "postado": "2026-11-23T19:27:35.835Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-19KEzVt.jpg"
+    },
     {
       "id": "1hHLDRS",
       "nome": "Zenrelia 15mg 30 Comprimidos Para Dermatite E Coceiras Cão Elanco",
