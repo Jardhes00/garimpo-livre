@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T15:01:15.478Z",
+  "atualizado": "2026-11-23T15:02:29.905Z",
   "ofertas": [
+    {
+      "id": "1D8Gjzw",
+      "nome": "Freezer Horizontal 2 Em 1 Pfh205b 199 Litros Branco Philco",
+      "categoria": "Diversos",
+      "preco": 1313.55,
+      "link": "https://meli.la/1D8Gjzw",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/freezer-horizontal-2-em-1-pfh205b-199-litros-branco-philco/p/MLB19722662",
+      "precoDe": 2823.03,
+      "parcelas": "10x de R$131,35 sem juros",
+      "postado": "2026-11-23T15:02:29.904Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1D8Gjzw.jpg"
+    },
     {
       "id": "1JUzCr8",
       "nome": "Jogo Roda Pé De Galinha Titan Fan 150 160 Liga Leve A Disco",
