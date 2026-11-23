@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T18:51:19.742Z",
+  "atualizado": "2026-11-23T18:52:34.774Z",
   "ofertas": [
+    {
+      "id": "1qpJKKH",
+      "nome": "3 Body Splash Very Sexy Delight Roses Barbour's Beauty",
+      "categoria": "Diversos",
+      "preco": 74.9,
+      "link": "https://meli.la/1qpJKKH",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/3-body-splash-very-sexy-delight-roses-barbours-beauty/p/MLB65442354",
+      "precoDe": 184.9,
+      "parcelas": "3x de R$24,97 sem juros",
+      "postado": "2026-11-23T18:52:34.772Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1qpJKKH.jpg"
+    },
     {
       "id": "2u199RU",
       "nome": "Chapa Aluminio Lavrada Xadrez 2000x500mm Na Esp. De 1,2mm",
