@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T17:19:37.717Z",
+  "atualizado": "2026-11-23T17:20:53.040Z",
   "ofertas": [
+    {
+      "id": "33HCRVJ",
+      "nome": "Piscina Infantil Mor Retangular Estrutural 1000 Litros Pvc",
+      "categoria": "Bebê",
+      "preco": 178.45,
+      "link": "https://meli.la/33HCRVJ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/piscina-infantil-mor-retangular-estrutural-1000-litros-pvc/up/MLBU5376078251",
+      "precoDe": 249.99,
+      "pix": true,
+      "parcelas": "R$193,97 em outros meios",
+      "postado": "2026-11-23T17:20:53.039Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-33HCRVJ.jpg"
+    },
     {
       "id": "1rvhfnh",
       "nome": "Aspirador De Pó Vertical E Portátil Wap High Speed Plus 1350w 1,2 Litros Filtro",
