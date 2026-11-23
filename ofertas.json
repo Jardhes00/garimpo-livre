@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T19:56:21.705Z",
+  "atualizado": "2026-11-23T19:57:36.789Z",
   "ofertas": [
+    {
+      "id": "33m7k2H",
+      "nome": "Camera Jgl P11 Wifi Segurança 6 Mp 4k Lente Dupla Vigilância",
+      "categoria": "Diversos",
+      "preco": 130.15,
+      "link": "https://meli.la/33m7k2H",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/camera-jgl-p11-wifi-seguranca-6-mp-4k-lente-dupla-vigilancia/up/MLBU3177308565",
+      "precoDe": 450,
+      "pix": true,
+      "parcelas": "R$137 em outros meios",
+      "postado": "2026-11-23T19:57:36.788Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-33m7k2H.jpg"
+    },
     {
       "id": "2gqeMxo",
       "nome": "Whey Protein Concentrado 1kg Cookies & Cream Dark Lab",
@@ -5308,23 +5326,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2fBP8g3.jpg"
-    },
-    {
-      "id": "1feiqbM",
-      "nome": "Jogo De Jantar E Chá 20 Peças Unni Brisa Oxford Aw20-5903",
-      "categoria": "Games",
-      "preco": 209.9,
-      "link": "https://meli.la/1feiqbM",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/jogo-de-jantar-e-cha-20-pecas-unni-brisa-oxford-aw20-5903/p/MLB33795714",
-      "precoDe": 499.9,
-      "parcelas": "6x de R$ 34,98 sem juros",
-      "postado": "2026-11-21T19:57:02.809Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1feiqbM.jpg"
     }
   ]
 }
