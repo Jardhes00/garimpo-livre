@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T15:22:30.556Z",
+  "atualizado": "2026-11-23T15:23:45.785Z",
   "ofertas": [
+    {
+      "id": "1aU5Y8s",
+      "nome": "Puravida Whey Isolado Em Pó Sabor Chocolate Língua De Gato 450g",
+      "categoria": "Suplementos",
+      "preco": 174.9,
+      "link": "https://meli.la/1aU5Y8s",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/puravida-whey-isolado-em-po-sabor-chocolate-lingua-de-gato-450g/p/MLB51972056",
+      "precoDe": 289.97,
+      "postado": "2026-11-23T15:23:45.784Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1aU5Y8s.jpg"
+    },
     {
       "id": "1RDxUkr",
       "nome": "Espumante Freixenet Cordon Negro Brut 750ml",
