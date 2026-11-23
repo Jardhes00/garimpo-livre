@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T19:46:21.682Z",
+  "atualizado": "2026-11-23T19:47:36.590Z",
   "ofertas": [
+    {
+      "id": "1EDuXUj",
+      "nome": "Par Intercomunicador V6 Plus Capacete Comunicador Sem Fio",
+      "categoria": "Diversos",
+      "preco": 196.68,
+      "link": "https://meli.la/1EDuXUj",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/par-intercomunicador-v6-plus-capacete-comunicador-sem-fio/up/MLBU5581684577",
+      "precoDe": 509,
+      "pix": true,
+      "parcelas": "R$213,78 em outros meios",
+      "postado": "2026-11-23T19:47:36.589Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1EDuXUj.jpg"
+    },
     {
       "id": "2ZeGJ3V",
       "nome": "Depurador de Ar Suggar Slim 60 cm Preto com 3 Velocidades e Filtro de Carvão",
