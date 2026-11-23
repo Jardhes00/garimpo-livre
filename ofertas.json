@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T19:37:36.216Z",
+  "atualizado": "2026-11-23T19:38:51.719Z",
   "ofertas": [
+    {
+      "id": "1jqwviA",
+      "nome": "Bicicleta Elétrica Dobrável 500w-35km/h-130kg-48v-10ah",
+      "categoria": "Esporte",
+      "preco": 2276.31,
+      "link": "https://meli.la/1jqwviA",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bicicleta-eletrica-dobravel-500w-35kmh-130kg-48v-10ah/up/MLBU5338851880",
+      "precoDe": 3299,
+      "pix": true,
+      "parcelas": "R$2.474,25 em 10x R$247,43 sem juros",
+      "postado": "2026-11-23T19:38:51.718Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1jqwviA.jpg"
+    },
     {
       "id": "2yUTxrq",
       "nome": "Smartphone Motorola Moto G37 5G - 64GB 4GB RAM + 8GB RAM Boost, Camera 50MP com",
