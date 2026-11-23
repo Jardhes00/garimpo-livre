@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T18:50:05.116Z",
+  "atualizado": "2026-11-23T18:51:19.742Z",
   "ofertas": [
+    {
+      "id": "2u199RU",
+      "nome": "Chapa Aluminio Lavrada Xadrez 2000x500mm Na Esp. De 1,2mm",
+      "categoria": "Diversos",
+      "preco": 259.99,
+      "link": "https://meli.la/2u199RU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/chapa-aluminio-lavrada-xadrez-2000x500mm-na-esp-de-12mm/up/MLBU1159664803",
+      "precoDe": 432.59,
+      "parcelas": "6x de R$43,33 sem juros",
+      "postado": "2026-11-23T18:51:19.741Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2u199RU.jpg"
+    },
     {
       "id": "2eM2StZ",
       "nome": "Climatizador Portátil 16 Litros 130w Ventisol Clin16 Cor Cinza",
