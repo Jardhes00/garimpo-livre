@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T19:23:51.000Z",
+  "atualizado": "2026-11-23T19:25:05.868Z",
   "ofertas": [
+    {
+      "id": "229qfGJ",
+      "nome": "Kit Wella Fusion Shampoo 250ml + Cond. 200ml + Mascara 150ml",
+      "categoria": "Beleza",
+      "preco": 253,
+      "link": "https://meli.la/229qfGJ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-wella-fusion-shampoo-250ml-cond-200ml-mascara-150ml/p/MLB32448513",
+      "precoDe": 526.85,
+      "parcelas": "6x de R$42,17 sem juros",
+      "postado": "2026-11-23T19:25:05.867Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-229qfGJ.jpg"
+    },
     {
       "id": "27D3U4s",
       "nome": "Colchão Inflável Northmarch Solteiro, Confortável e Alto, com Bomba Elétrica",
