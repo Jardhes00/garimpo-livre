@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T19:40:06.516Z",
+  "atualizado": "2026-11-23T19:41:21.826Z",
   "ofertas": [
+    {
+      "id": "1b82qr6",
+      "nome": "Vitafor Creafort Creapure Creatina em Pó 300g",
+      "categoria": "Suplementos",
+      "preco": 146,
+      "link": "https://meli.la/1b82qr6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/vitafor-creafort-creapure-creatina-em-po-300g/p/MLB18947494",
+      "precoDe": 289,
+      "postado": "2026-11-23T19:41:21.825Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1b82qr6.jpg"
+    },
     {
       "id": "2RjToZB",
       "nome": "Cadeira De Rodas Dobrável Aço Resistente Desmontável 120kg",
@@ -5208,24 +5224,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-31SCA12.jpg"
-    },
-    {
-      "id": "2YMcfwR",
-      "nome": "Processador de Áudio Digital Automotivo Stetsom STX2448 com Crossover e Equalizador",
-      "categoria": "Auto",
-      "preco": 233.1,
-      "link": "https://meli.la/2YMcfwR",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/processador-de-audio-digital-automotivo-stetsom-stx2448-com-crossover-e-equalizador/p/MLB22655991",
-      "precoDe": 349,
-      "pix": true,
-      "parcelas": "R$ 259 em outros meios",
-      "postado": "2026-11-21T19:41:17.246Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2YMcfwR.jpg"
     }
   ]
 }
