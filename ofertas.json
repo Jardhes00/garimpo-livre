@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T16:40:51.607Z",
+  "atualizado": "2026-11-23T16:42:06.852Z",
   "ofertas": [
+    {
+      "id": "2NsJoPX",
+      "nome": "Batedeira Planetária, Mondial, 700W - BP-03-P",
+      "categoria": "Diversos",
+      "preco": 249.85,
+      "link": "https://meli.la/2NsJoPX",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/batedeira-planetaria-mondial-700w-bp-03-p/p/MLB18623993",
+      "precoDe": 489.9,
+      "pix": true,
+      "parcelas": "R$263 em 6x R$43,83 sem juros",
+      "postado": "2026-11-23T16:42:06.851Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2NsJoPX.jpg"
+    },
     {
       "id": "15vhV75",
       "nome": "LG Soundbar SH5A 600W (4.1 canais) com AI Sound Pro e WOW Interface – Som",
