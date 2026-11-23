@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T15:05:00.229Z",
+  "atualizado": "2026-11-23T15:06:15.272Z",
   "ofertas": [
+    {
+      "id": "1RkooDW",
+      "nome": "1500 N.m Chave De Impacto Profissional 48V Brushless 2 Baterias 4000ma War",
+      "categoria": "Ferramentas",
+      "preco": 370.49,
+      "link": "https://meli.la/1RkooDW",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/1500-nm-chave-de-impacto-profissional-48v-brushless-2-baterias-4000ma-war-shark-bivolt/p/MLB62291004",
+      "precoDe": 999,
+      "pix": true,
+      "parcelas": "R$389,99 em outros meios",
+      "postado": "2026-11-23T15:06:15.271Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1RkooDW.jpg"
+    },
     {
       "id": "134dipJ",
       "nome": "Copo P/ Água Reforçado 180ml Transp Descartável Ps 2500 Uni",
