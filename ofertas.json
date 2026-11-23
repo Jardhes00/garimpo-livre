@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T17:02:07.075Z",
+  "atualizado": "2026-11-23T17:03:22.311Z",
   "ofertas": [
+    {
+      "id": "1R9Jyi3",
+      "nome": "Lavadora Alta Pressão K6 Motor Indução 2000w 2250 Psi Karcher - 110v",
+      "categoria": "Diversos",
+      "preco": 1071,
+      "link": "https://meli.la/1R9Jyi3",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-alta-pressao-k6-motor-inducao-2000w-2250-psi-karcher-110v/p/MLB66200051",
+      "precoDe": 2100,
+      "parcelas": "10x de R$107,10 sem juros",
+      "postado": "2026-11-23T17:03:22.310Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1R9Jyi3.jpg"
+    },
     {
       "id": "1UHV4NK",
       "nome": "Lixeira de lixo 30 Litros Aço Inoxidável com Pedal Tramontina",
