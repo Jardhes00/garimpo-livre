@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T14:51:14.658Z",
+  "atualizado": "2026-11-23T14:52:30.215Z",
   "ofertas": [
+    {
+      "id": "2R3j7BB",
+      "nome": "Impressora Zebra Zd220 De Etiquetas 203dpi (zbr01) Cor Cinza-escuro 110/240V",
+      "categoria": "Tech",
+      "preco": 1625.38,
+      "link": "https://meli.la/2R3j7BB",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/impressora-zebra-zd220-de-etiquetas-203dpi-zbr01-cor-cinza-escuro-110240v-bivolt/p/MLB25168472",
+      "precoDe": 2297.7,
+      "pix": true,
+      "parcelas": "R$1.747,72 em 10x R$174,77 sem juros",
+      "postado": "2026-11-23T14:52:30.213Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2R3j7BB.jpg"
+    },
     {
       "id": "2wSiDGw",
       "nome": "Pastilhas Bendita Cânfora Bravir 200 Tabletes de 0,75g",
