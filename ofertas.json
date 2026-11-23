@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T14:49:59.758Z",
+  "atualizado": "2026-11-23T14:51:14.658Z",
   "ofertas": [
+    {
+      "id": "2wSiDGw",
+      "nome": "Pastilhas Bendita Cânfora Bravir 200 Tabletes de 0,75g",
+      "categoria": "Tech",
+      "preco": 82.79,
+      "link": "https://meli.la/2wSiDGw",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/pastilhas-bendita-canfora-bravir-200-tabletes-de-075g/p/MLB64986741",
+      "precoDe": 129.9,
+      "cupomAnuncio": "Compre R$90 e ganhe 5% OFF por seguir a loja",
+      "postado": "2026-11-23T14:51:14.657Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2wSiDGw.jpg"
+    },
     {
       "id": "1mixWpA",
       "nome": "Smart Tv Semp 43 Polegadas Led Full Hd S42r Roku Tv Wi-Fi Dolby Audio Brilho",
