@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T15:06:15.272Z",
+  "atualizado": "2026-11-23T15:07:30.647Z",
   "ofertas": [
+    {
+      "id": "2zYrpz5",
+      "nome": "Tapete Higiênico Pet 50 Unidades 60x60 Descartável Cão Gato",
+      "categoria": "Casa",
+      "preco": 43.39,
+      "link": "https://meli.la/2zYrpz5",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tapete-higienico-pet-50-unidades-60x60-descartavel-cao-gato/p/MLB45250759",
+      "precoDe": 78.9,
+      "postado": "2026-11-23T15:07:30.646Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2zYrpz5.jpg"
+    },
     {
       "id": "1RkooDW",
       "nome": "1500 N.m Chave De Impacto Profissional 48V Brushless 2 Baterias 4000ma War",
