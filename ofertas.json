@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T16:45:52.013Z",
+  "atualizado": "2026-11-23T16:47:06.871Z",
   "ofertas": [
+    {
+      "id": "28xuNfp",
+      "nome": "Ar-condicionado Split Electrolux MaxComfort Inverter Frio 12.000 BTUs",
+      "categoria": "Casa",
+      "preco": 1999,
+      "link": "https://meli.la/28xuNfp",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-split-electrolux-maxcomfort-inverter-frio-12000-btus-ni12fne12f/p/MLB79043249",
+      "precoDe": 2785.1,
+      "cupomAnuncio": "R$1.999 com Cupom",
+      "postado": "2026-11-23T16:47:06.869Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-28xuNfp.jpg"
+    },
     {
       "id": "1NmaPnK",
       "nome": "Pneu 120/100-18 Borilli Exc Soft Traseiro",
