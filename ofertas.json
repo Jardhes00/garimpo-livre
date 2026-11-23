@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T14:44:59.556Z",
+  "atualizado": "2026-11-23T14:46:14.549Z",
   "ofertas": [
+    {
+      "id": "21TBs8N",
+      "nome": "Video Porteiro Ivr 1010 Branco E Preto Intelbras 110V/220V",
+      "categoria": "Diversos",
+      "preco": 395.91,
+      "link": "https://meli.la/21TBs8N",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/video-porteiro-ivr-1010-branco-e-preto-intelbras-110v220v/p/MLB27070501",
+      "precoDe": 803.9,
+      "pix": true,
+      "parcelas": "R$439,90 em 8x R$54,99 sem juros",
+      "postado": "2026-11-23T14:46:14.547Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-21TBs8N.jpg"
+    },
     {
       "id": "2KEJ3Ui",
       "nome": "Smartphone Motorola Edge 60 Fusion 5g - 256gb 8gb Ram+8gb Ram Boost, 50mp Sony",
