@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-23T15:15:00.450Z",
+  "atualizado": "2026-11-23T15:16:15.459Z",
   "ofertas": [
+    {
+      "id": "28WdS44",
+      "nome": "Whey Core 70% Proteína Concentrada Chocolate 900g - 30 Doses",
+      "categoria": "Suplementos",
+      "preco": 72.9,
+      "link": "https://meli.la/28WdS44",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-core-70-proteina-concentrada-chocolate-900g-30-doses/p/MLB74125006",
+      "precoDe": 99.99,
+      "parcelas": "12x R$7,18",
+      "extra": "R$ 15 OFF com cupom no anúncio",
+      "cupomAnuncio": "Compre R$187 e ganhe R$15 OFF",
+      "postado": "2026-11-23T15:16:15.458Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-28WdS44.jpg"
+    },
     {
       "id": "1skZ6SZ",
       "nome": "Celular Samsung Galaxy A07 128gb, 4gb, Câmera 50mp, Tela 6.7 , Proteção Ip54, Processador 6nm - Violeta",
