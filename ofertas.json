@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-23T19:13:50.391Z",
+  "atualizado": "2026-11-23T19:15:05.610Z",
   "ofertas": [
+    {
+      "id": "1EZDfz3",
+      "nome": "Perfume Masculino Eau de Toilette Azzaro - Azzaro Pour Homme 100 ml",
+      "categoria": "Beleza",
+      "preco": 231,
+      "link": "https://meli.la/1EZDfz3",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/perfume-masculino-eau-de-toilette-azzaro-azzaro-pour-homme-100-ml/p/MLB3821589",
+      "precoDe": 509,
+      "cupomAnuncio": "Compre R$599 e ganhe 5% OFF",
+      "postado": "2026-11-23T19:15:05.608Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1EZDfz3.jpg"
+    },
     {
       "id": "1PSS3pr",
       "nome": "Tablet Samsung Galaxy Tab A11 Wi-Fi de 64GB com 4GB RAM e Tela de 8.7\" Prata",
@@ -5055,24 +5072,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2QBZstB.jpg"
-    },
-    {
-      "id": "2YzMUER",
-      "nome": "Aparelho De Jantar 30 Peças Unni Oxford Orquidea",
-      "categoria": "Diversos",
-      "preco": 260.86,
-      "link": "https://meli.la/2YzMUER",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/aparelho-de-jantar-30-pecas-unni-oxford-orquidea/p/MLB43353700",
-      "precoDe": 549.8,
-      "pix": true,
-      "parcelas": "R$ 306,90 em outros meios",
-      "postado": "2026-11-21T19:14:17.196Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2YzMUER.jpg"
     }
   ]
 }
