@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T14:37:29.834Z",
+  "atualizado": "2026-11-23T14:38:44.576Z",
   "ofertas": [
+    {
+      "id": "1cuYBpj",
+      "nome": "Lavadora De Alta Pressão Kärcher Prática Black 1500 Psi 1400w 300l/h Com",
+      "categoria": "Diversos",
+      "preco": 282,
+      "link": "https://meli.la/1cuYBpj",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-krcher-pratica-black-1500-psi-1400w-300lh-com-aplicador-de-detergente-e-lanca-regulavel/p/MLB47945119",
+      "precoDe": 449.9,
+      "postado": "2026-11-23T14:38:44.573Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1cuYBpj.jpg"
+    },
     {
       "id": "1gCE912",
       "nome": "Serra Mármore 110mm 1300W Com 2 Discos 4100NH3ZX2 Makita Profissional",
