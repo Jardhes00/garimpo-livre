@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T14:53:44.922Z",
+  "atualizado": "2026-11-23T14:54:59.931Z",
   "ofertas": [
+    {
+      "id": "1zgYfyu",
+      "nome": "Nobreak Intelbras Attiv 1200va Entrada Bivolt E Saida 127v Cor Preto",
+      "categoria": "Diversos",
+      "preco": 652.93,
+      "link": "https://meli.la/1zgYfyu",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/nobreak-intelbras-attiv-1200va-entrada-bivolt-e-saida-127v-cor-preto/p/MLB19723153",
+      "precoDe": 1185,
+      "pix": true,
+      "parcelas": "R$687,30 em outros meios",
+      "postado": "2026-11-23T14:54:59.929Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1zgYfyu.jpg"
+    },
     {
       "id": "1aAFFxk",
       "nome": "Cesta De Natal Grande 40 Itens Bauducco Chocottone Champagne",
