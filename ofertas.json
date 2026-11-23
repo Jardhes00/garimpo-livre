@@ -1,6 +1,42 @@
 {
-  "atualizado": "2026-11-23T17:23:23.079Z",
+  "atualizado": "2026-11-23T18:47:34.888Z",
   "ofertas": [
+    {
+      "id": "1B11hKb",
+      "nome": "Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera 50MP, IP68, Super AMOLED",
+      "categoria": "Tech",
+      "preco": 1799.1,
+      "link": "https://meli.la/1B11hKb",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a57-5g-128gb-8gb-ram-camera-50mp-ip68-super-amoled-67/p/MLB68213520",
+      "precoDe": 3799,
+      "pix": true,
+      "parcelas": "R$1.999 em 10x R$199,90 sem juros",
+      "postado": "2026-11-23T18:47:34.886Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1B11hKb.jpg"
+    },
+    {
+      "id": "1cHZqsh",
+      "nome": "Impressora Térmica de Cupom I8 - 250 mm/s Elgin",
+      "categoria": "Tech",
+      "preco": 494.1,
+      "link": "https://meli.la/1cHZqsh",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/impressora-termica-de-cupom-i8-250-mms-elgin/p/MLB42168211",
+      "precoDe": 759.9,
+      "pix": true,
+      "parcelas": "R$549 em outros meios",
+      "postado": "2026-11-23T17:24:37.886Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1cHZqsh.jpg"
+    },
     {
       "id": "2xk1MrY",
       "nome": "Cadeira De Alimentação Infantil Acolchoada 3 Em 1 Portátil Cor Cinza",
