@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T17:15:52.796Z",
+  "atualizado": "2026-11-23T17:17:07.799Z",
   "ofertas": [
+    {
+      "id": "1hV8TRC",
+      "nome": "Fechadura Digital De Sobrepor Fr 102 Preto Intelbras",
+      "categoria": "Casa",
+      "preco": 152.25,
+      "link": "https://meli.la/1hV8TRC",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fechadura-digital-de-sobrepor-fr-102-preto-intelbras/p/MLB41972204",
+      "precoDe": 375,
+      "pix": true,
+      "parcelas": "R$175 em 10x R$17,50 sem juros",
+      "postado": "2026-11-23T17:17:07.798Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1hV8TRC.jpg"
+    },
     {
       "id": "1gemfpG",
       "nome": "Ventilador De Coluna Turbo Silencioso Baixo Consumo 110v",
