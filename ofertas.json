@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-23T15:02:29.905Z",
+  "atualizado": "2026-11-23T15:03:45.151Z",
   "ofertas": [
+    {
+      "id": "2sRPoFv",
+      "nome": "Tênis adidas Acelera 2 Masculino Branco Com Detalhes Pretos",
+      "categoria": "Moda",
+      "preco": 265,
+      "link": "https://meli.la/2sRPoFv",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tenis-adidas-acelera-2-masculino-branco-com-detalhes-pretos/up/MLBU5327912041",
+      "precoDe": 499.99,
+      "postado": "2026-11-23T15:03:45.149Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2sRPoFv.jpg"
+    },
     {
       "id": "1D8Gjzw",
       "nome": "Freezer Horizontal 2 Em 1 Pfh205b 199 Litros Branco Philco",
