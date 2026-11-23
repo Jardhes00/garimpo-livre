@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T15:13:45.316Z",
+  "atualizado": "2026-11-23T15:15:00.450Z",
   "ofertas": [
+    {
+      "id": "1skZ6SZ",
+      "nome": "Celular Samsung Galaxy A07 128gb, 4gb, Câmera 50mp, Tela 6.7 , Proteção Ip54, Processador 6nm - Violeta",
+      "categoria": "Tech",
+      "preco": 759.05,
+      "link": "https://meli.la/1skZ6SZ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a07-128gb-4gb-camera-50mp-tela-67-protecao-ip54-processador-6nm-violeta/p/MLB57767498",
+      "precoDe": 1049,
+      "pix": true,
+      "parcelas": "R$799 em 10x R$79,90 sem juros",
+      "postado": "2026-11-23T15:15:00.449Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1skZ6SZ.jpg"
+    },
     {
       "id": "2z8FDiS",
       "nome": "Eternity Calvin Klein Edp Feminino 30ml",
