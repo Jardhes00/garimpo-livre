@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-23T20:22:50.478Z",
+  "atualizado": "2026-11-23T20:24:05.642Z",
   "ofertas": [
+    {
+      "id": "1YPKCSx",
+      "nome": "Suplemento em cápsula Always Fit Complexo B - Forma Ativa B9 Sem sabor 3 kits",
+      "categoria": "Suplementos",
+      "preco": 74.9,
+      "link": "https://meli.la/1YPKCSx",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/suplemento-em-capsula-always-fit-complexo-b-forma-ativa-b9-sem-sabor-3-kits-de-60-un/p/MLB68375720",
+      "precoDe": 134.9,
+      "parcelas": "3x de R$24,97 sem juros",
+      "cupomAnuncio": "Compre R$150 e ganhe R$15 OFF por seguir a loja",
+      "postado": "2026-11-23T20:24:05.639Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1YPKCSx.jpg"
+    },
     {
       "id": "2Gi8Uoo",
       "nome": "Yopro Bebida Láctea Morango 15g Proteína 12 Unidades 250ml",
@@ -5463,23 +5481,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-3293vna.jpg"
-    },
-    {
-      "id": "1BWfhf1",
-      "nome": "Fone de ouvido Tws Philips Tat1109bk/00 preto Ipx4",
-      "categoria": "Tech",
-      "preco": 89,
-      "link": "https://meli.la/1BWfhf1",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/fone-de-ouvido-tws-philips-tat1109bk00-preto-ipx4/p/MLB46051297",
-      "precoDe": 199,
-      "parcelas": "12x de R$ 8,77",
-      "postado": "2026-11-21T20:24:03.646Z",
-      "conferido": "2026-11-21",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1BWfhf1.jpg"
     }
   ]
 }
