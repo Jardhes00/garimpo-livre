@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-23T20:20:21.037Z",
+  "atualizado": "2026-11-23T20:21:35.581Z",
   "ofertas": [
+    {
+      "id": "1SFSFEo",
+      "nome": "4 Amortecedor Original Nakata Gol Voyage G5 G6 G7 + Kit Comp",
+      "categoria": "Diversos",
+      "preco": 811.99,
+      "link": "https://meli.la/1SFSFEo",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/4-amortecedor-original-nakata-gol-voyage-g5-g6-g7-kit-comp/up/MLBU3262939423",
+      "precoDe": 1279.99,
+      "pix": true,
+      "parcelas": "R$882,60 em outros meios",
+      "cupomAnuncio": "R$811,99 com Cupom",
+      "postado": "2026-11-23T20:21:35.580Z",
+      "conferido": "2026-11-23",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1SFSFEo.jpg"
+    },
     {
       "id": "2wniX9m",
       "nome": "DEVOCIONAL MULHERES 2027 - Martinello, Viviane - Editora Vida - Capa Dura",
