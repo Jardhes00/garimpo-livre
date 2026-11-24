@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T14:54:22.710Z",
+  "atualizado": "2026-11-24T14:55:38.046Z",
   "ofertas": [
+    {
+      "id": "1ePiKTg",
+      "nome": "Kit 3 Câmera Ip Wifi Dome Rotativa Icsee Visão Noturna HW",
+      "categoria": "Diversos",
+      "preco": 254.59,
+      "link": "https://meli.la/1ePiKTg",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-3-camera-ip-wifi-dome-rotativa-icsee-visao-noturna-hw/p/MLB47404276",
+      "precoDe": 495.99,
+      "pix": true,
+      "parcelas": "R$292,63 em outros meios",
+      "postado": "2026-11-24T14:55:38.045Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ePiKTg.jpg"
+    },
     {
       "id": "11Q1kJd",
       "nome": "Tanquinho Colormaq Lavadora Roupas Semi-automática Lcs 10kg Cor Prata",
