@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T15:48:09.693Z",
+  "atualizado": "2026-11-24T15:49:24.507Z",
   "ofertas": [
+    {
+      "id": "1ranh3y",
+      "nome": "Auto Transformador 5000va 110v 220v Ar Até 12000btus Bivolt Preto",
+      "categoria": "Diversos",
+      "preco": 127.99,
+      "link": "https://meli.la/1ranh3y",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/auto-transformador-5000va-110v-220v-ar-ate-12000btus-bivolt-preto/p/MLB69128500",
+      "precoDe": 179.99,
+      "postado": "2026-11-24T15:49:24.505Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ranh3y.jpg"
+    },
     {
       "id": "32mSwYo",
       "nome": "Smartwatch HUAWEI WATCH FIT 5 Pro Tela FullView AMOLED de 1,92\" Vidor de Safira",
