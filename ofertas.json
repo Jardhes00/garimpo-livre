@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-24T16:20:40.591Z",
+  "atualizado": "2026-11-24T16:21:55.362Z",
   "ofertas": [
+    {
+      "id": "2UPVYTm",
+      "nome": "Whey Protein Concentrado 1kg Dark Lab Sabor Paçoca",
+      "categoria": "Suplementos",
+      "preco": 134.93,
+      "link": "https://meli.la/2UPVYTm",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-protein-concentrado-1kg-dark-lab-sabor-pacoca/p/MLB40291031",
+      "precoDe": 349.9,
+      "pix": true,
+      "parcelas": "R$149,92 em outros meios",
+      "cupomAnuncio": "Compre R$187 e ganhe R$20 OFF",
+      "postado": "2026-11-24T16:21:55.359Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2UPVYTm.jpg"
+    },
     {
       "id": "34bXPCa",
       "nome": "Monitor AOC E970SWHNL de 18.5\" com LED HD e HDMI",
