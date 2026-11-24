@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T16:06:54.965Z",
+  "atualizado": "2026-11-24T16:08:10.048Z",
   "ofertas": [
+    {
+      "id": "2oSHKbk",
+      "nome": "Cadeira De Escritorio Ergonomica Nr17 Ethernus Marqs Home Giratoria Resistente",
+      "categoria": "Diversos",
+      "preco": 319.99,
+      "link": "https://meli.la/2oSHKbk",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-escritorio-ergonomica-nr17-ethernus-marqs-home-giratoria-resistente-reforcada-180kg-confortavel-reuniao-preto/p/MLB68034361",
+      "precoDe": 499.9,
+      "postado": "2026-11-24T16:08:10.045Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2oSHKbk.jpg"
+    },
     {
       "id": "2E5zfd5",
       "nome": "Perfume Masculino Eau de Parfum Azzaro The Most Wanted Intense 100 ml",
@@ -4767,24 +4783,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-18hZLsx.jpg"
-    },
-    {
-      "id": "2JN9CnF",
-      "nome": "Cadeira Carro Reclinável 5P 0-36kg Bauhaus Preto Maxi Baby",
-      "categoria": "Auto",
-      "preco": 494.99,
-      "link": "https://meli.la/2JN9CnF",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cadeira-carro-reclinavel-5p-0-36kg-bauhaus-preto-maxi-baby/p/MLB74476575",
-      "precoDe": 879.9,
-      "pix": true,
-      "parcelas": "R$549,99 em 10x R$55 sem juros",
-      "postado": "2026-11-22T16:08:08.303Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2JN9CnF.jpg"
     }
   ]
 }
