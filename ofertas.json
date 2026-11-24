@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T20:50:12.357Z",
+  "atualizado": "2026-11-24T20:51:27.481Z",
   "ofertas": [
+    {
+      "id": "2E4YjM8",
+      "nome": "Placa De Vídeo MSI RTX 3050 LP OC NVIDIA Geforce 6GB GDDR6",
+      "categoria": "Diversos",
+      "preco": 1394.91,
+      "link": "https://meli.la/2E4YjM8",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/placa-de-video-msi-rtx-3050-lp-oc-nvidia-geforce-6gb-gddr6/p/MLB35152824",
+      "precoDe": 1939,
+      "pix": true,
+      "parcelas": "R$1.549,90 em outros meios",
+      "postado": "2026-11-24T20:51:27.480Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2E4YjM8.jpg"
+    },
     {
       "id": "2G5UTxH",
       "nome": "Máquina de Lavar Consul 10 kg Dosagem Econômica - CWB10BB Branca",
