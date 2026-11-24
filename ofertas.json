@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T15:56:55.536Z",
+  "atualizado": "2026-11-24T15:58:09.719Z",
   "ofertas": [
+    {
+      "id": "2XjVjbe",
+      "nome": "Bicicleta Ergométrica Spinning Winnek SYNC Magnética, com Roda de Inércia 13kg",
+      "categoria": "Esporte",
+      "preco": 1900.81,
+      "link": "https://meli.la/2XjVjbe",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bicicleta-ergometrica-spinning-winnek-sync-magnetica-com-roda-de-inercia-13kg-e-bluetooth-para-app-fitshow/p/MLB65112472",
+      "precoDe": 3333,
+      "pix": true,
+      "parcelas": "R$1.939,81 em 10x R$193,98 sem juros",
+      "postado": "2026-11-24T15:58:09.717Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2XjVjbe.jpg"
+    },
     {
       "id": "2QZ63C1",
       "nome": "Kit Cobre Leito Colcha Casal 3 Peças Boutis Lisas Dupla Face Porta Travesseiro",
