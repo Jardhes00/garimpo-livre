@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T15:11:53.689Z",
+  "atualizado": "2026-11-24T15:13:09.467Z",
   "ofertas": [
+    {
+      "id": "1pBXV9v",
+      "nome": "Notebook ASUS VivoBook Go 15, AMD Ryzen 5 7520U, 8GB RAM, 512GB SSD, KeepOS/Linux, Tela 15,6\" FHD, Mixed Black - E1504FA-NJ732",
+      "categoria": "Tech",
+      "preco": 2740.68,
+      "link": "https://meli.la/1pBXV9v",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB35715045",
+      "precoDe": 3799,
+      "pix": true,
+      "parcelas": "R$ 2.979 em 10x R$ 297,90 sem juros",
+      "postado": "2026-11-24T15:13:09.465Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1pBXV9v.jpg"
+    },
     {
       "id": "1MDMLGn",
       "nome": "Panela De Pressão Fechamento Externo Presscook Grafito 6,8l - Mimo Style",
