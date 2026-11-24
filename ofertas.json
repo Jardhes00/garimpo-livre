@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T19:47:56.343Z",
+  "atualizado": "2026-11-24T19:49:56.441Z",
   "ofertas": [
+    {
+      "id": "2uCCde6",
+      "nome": "Air Fryer Oven 11 Litros Wap Waod4 Grey Stone Painel Digital 11 Funções 127V",
+      "categoria": "Casa",
+      "preco": 379.9,
+      "link": "https://meli.la/2uCCde6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/air-fryer-oven-11-litros-wap-waod4-grey-stone-painel-digital-11-funcoes-127v/p/MLB66128452",
+      "precoDe": 684.29,
+      "parcelas": "12x R$ 37,16",
+      "postado": "2026-11-24T19:49:56.439Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2uCCde6.jpg"
+    },
     {
       "id": "2pkMnDB",
       "nome": "Condicionador Kérastase Nutritive Lait Vital, 200 ml",
