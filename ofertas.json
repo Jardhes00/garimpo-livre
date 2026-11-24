@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T15:21:53.690Z",
+  "atualizado": "2026-11-24T15:23:08.793Z",
   "ofertas": [
+    {
+      "id": "2H88s4X",
+      "nome": "Wap Af01 Airfryer 4,5l Visor Com Luz Interna Antiaderente 127V",
+      "categoria": "Casa",
+      "preco": 239.9,
+      "link": "https://meli.la/2H88s4X",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB67328410",
+      "precoDe": 381,
+      "parcelas": "6x R$ 39,98 sem juros",
+      "postado": "2026-11-24T15:23:08.790Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2H88s4X.jpg"
+    },
     {
       "id": "2pk5krX",
       "nome": "Camisa Térmica Voker Segunda Pele Proteção Solar Uv Dry Fit",
@@ -4475,22 +4492,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2G2icT9.jpg"
-    },
-    {
-      "id": "1sNBkPD",
-      "nome": "Liquidificador Turbo Full Mondial 900W - L-900 FB",
-      "categoria": "Casa",
-      "preco": 103.92,
-      "link": "https://meli.la/1sNBkPD",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/liquidificador-turbo-full-mondial-900w-l-900-fb/p/MLB9581683",
-      "precoDe": 199.9,
-      "postado": "2026-11-22T15:23:06.923Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1sNBkPD.jpg"
     }
   ]
 }
