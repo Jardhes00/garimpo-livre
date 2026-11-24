@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T16:15:40.228Z",
+  "atualizado": "2026-11-24T16:16:55.255Z",
   "ofertas": [
+    {
+      "id": "1V3oCfZ",
+      "nome": "Whey 100% Pure Integralmédica 900g Morango",
+      "categoria": "Suplementos",
+      "preco": 145.14,
+      "link": "https://meli.la/1V3oCfZ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-100-pure-integralmedica-900g-morango/p/MLB75206585",
+      "precoDe": 321.9,
+      "postado": "2026-11-24T16:16:55.253Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1V3oCfZ.jpg"
+    },
     {
       "id": "27RCmVr",
       "nome": "Mesa Dobrável Vira Maleta Com Alça Portátil 1,8 × 0,7m Para Camping",
