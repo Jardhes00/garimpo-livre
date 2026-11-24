@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T16:19:25.373Z",
+  "atualizado": "2026-11-24T16:20:40.591Z",
   "ofertas": [
+    {
+      "id": "34bXPCa",
+      "nome": "Monitor AOC E970SWHNL de 18.5\" com LED HD e HDMI",
+      "categoria": "Tech",
+      "preco": 309,
+      "link": "https://meli.la/34bXPCa",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/monitor-aoc-e970swhnl-de-185-com-led-hd-e-hdmi/p/MLB20800538",
+      "precoDe": 481.02,
+      "postado": "2026-11-24T16:20:40.589Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-34bXPCa.jpg"
+    },
     {
       "id": "155CWAA",
       "nome": "LEGO Icons McLaren MP4/4 Ayrton Senna 10330; Kit de construção e modelo",
