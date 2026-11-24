@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-24T20:33:57.037Z",
+  "atualizado": "2026-11-24T20:35:11.900Z",
   "ofertas": [
+    {
+      "id": "17Hm7DK",
+      "nome": "Câmera De Vídeo Wi-Fi Intelbras IM3 C MicroSD 32GB Branco",
+      "categoria": "Diversos",
+      "preco": 202.42,
+      "link": "https://meli.la/17Hm7DK",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/camera-de-video-wi-fi-intelbras-im3-c-microsd-32gb-branco/p/MLB23409605",
+      "precoDe": 395.9,
+      "pix": true,
+      "parcelas": "R$269,90 em 6x R$44,98 sem juros",
+      "cupomAnuncio": "R$187,42 com Cupom",
+      "postado": "2026-11-24T20:35:11.899Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-17Hm7DK.jpg"
+    },
     {
       "id": "1oVKaPC",
       "nome": "Huggies Fralda Descartável Máxima Proteção XG - 112 Un",
