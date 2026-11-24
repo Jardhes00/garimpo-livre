@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T15:35:38.938Z",
+  "atualizado": "2026-11-24T15:36:54.092Z",
   "ofertas": [
+    {
+      "id": "22PKYGw",
+      "nome": "Organizador De Roupa Cabedeiro Sapateira Multiuso Com Gancho",
+      "categoria": "Casa",
+      "preco": 34.99,
+      "link": "https://meli.la/22PKYGw",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/organizador-de-roupa-cabedeiro-sapateira-multiuso-com-gancho/up/MLBU3661566003",
+      "precoDe": 69.9,
+      "postado": "2026-11-24T15:36:54.090Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-22PKYGw.jpg"
+    },
     {
       "id": "17bBv92",
       "nome": "Aspirador de Pó Portátil WAP Eco Rápido com Iluminação Led Vertical 2",
@@ -4568,23 +4584,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-28YZLK9.jpg"
-    },
-    {
-      "id": "2SC3eNS",
-      "nome": "Cafeteira Espresso Lattego Ep2330 Série 2300 Philips Walita Cinza",
-      "categoria": "Casa",
-      "preco": 2854.98,
-      "link": "https://meli.la/2SC3eNS",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cafeteira-espresso-lattego-ep2330-serie-2300-philips-walita-cinza/p/MLB49645923",
-      "precoDe": 4799.9,
-      "parcelas": "10x de R$285,50 sem juros",
-      "postado": "2026-11-22T15:36:37.439Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2SC3eNS.jpg"
     }
   ]
 }
