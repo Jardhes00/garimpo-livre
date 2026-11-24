@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T15:30:39.310Z",
+  "atualizado": "2026-11-24T15:31:53.821Z",
   "ofertas": [
+    {
+      "id": "2JhUEjn",
+      "nome": "Vaso Sanitário Monobloco Caixa Acoplada Privada Tubrax",
+      "categoria": "Diversos",
+      "preco": 546.38,
+      "link": "https://meli.la/2JhUEjn",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/vaso-sanitario-monobloco-caixa-acoplada-privada-tubrax/p/MLB25359050",
+      "precoDe": 1274.9,
+      "pix": true,
+      "parcelas": "R$593,89 em 10x R$59,39 sem juros",
+      "postado": "2026-11-24T15:31:53.820Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2JhUEjn.jpg"
+    },
     {
       "id": "2WHNUhS",
       "nome": "Máscara Tratamento Hidratante Intensivo Cabelo Seco All Soft 500 Ml Redken",
