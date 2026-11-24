@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T15:45:39.768Z",
+  "atualizado": "2026-11-24T15:46:54.299Z",
   "ofertas": [
+    {
+      "id": "22pK5vJ",
+      "nome": "Câmera Residencial Infravermelho Ip Bullet Hilook By Hikvision",
+      "categoria": "Diversos",
+      "preco": 123.25,
+      "link": "https://meli.la/22pK5vJ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/camera-residencial-infravermelho-ip-bullet-hilook-by-hikvision-ipc-b121h-c28mm/p/MLB51586079",
+      "precoDe": 196.9,
+      "pix": true,
+      "parcelas": "R$145 em 4x R$36,25 sem juros",
+      "postado": "2026-11-24T15:46:54.298Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-22pK5vJ.jpg"
+    },
     {
       "id": "2C42SKM",
       "nome": "Ventilador De Mesa ou Parede Ultra Mondial 50w V-30-6p-b Material Das Pás",
