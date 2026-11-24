@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T14:44:22.825Z",
+  "atualizado": "2026-11-24T14:45:38.977Z",
   "ofertas": [
+    {
+      "id": "2GMoJ3m",
+      "nome": "Mantecorp protetor solar pó compacto fps 50 Tom Claro",
+      "categoria": "Beleza",
+      "preco": 109.9,
+      "link": "https://meli.la/2GMoJ3m",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mantecorp-protetor-solar-po-compacto-fps-50-tom-claro/p/MLB21728969",
+      "precoDe": 169.9,
+      "postado": "2026-11-24T14:45:38.567Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2GMoJ3m.jpg"
+    },
     {
       "id": "2cEcZko",
       "nome": "Ventilador de Teto Yris Preto/Mogno 3 Pás Ventex",
@@ -4260,24 +4276,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2hma7jE.jpg"
-    },
-    {
-      "id": "2qwQB1f",
-      "nome": "Protein Crisp Bar Leite Ninho Com Creme De Avelã 12 Und Integralmédica",
-      "categoria": "Beleza",
-      "preco": 68.39,
-      "link": "https://meli.la/2qwQB1f",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/barra-de-proteina-integralmedica-protein-crisp-bar-sabor-leite-em-po-com-creme-de-avela-kit-com-12/p/MLB18563013",
-      "precoDe": 154.8,
-      "pix": true,
-      "parcelas": "R$75,99 em outros meios",
-      "postado": "2026-11-22T14:44:50.979Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2qwQB1f.jpg"
     }
   ]
 }
