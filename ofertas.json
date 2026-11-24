@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T19:44:56.317Z",
+  "atualizado": "2026-11-24T19:46:41.681Z",
   "ofertas": [
+    {
+      "id": "2fQiUNh",
+      "nome": "Cofre Eletrônico Digital Contelux de Aço Preto 31x20x20 cm",
+      "categoria": "Diversos",
+      "preco": 199.99,
+      "link": "https://meli.la/2fQiUNh",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cofre-eletronico-digital-contelux-de-aco-preto-31x20x20-cm/p/MLB19858054",
+      "precoDe": 359.98,
+      "parcelas": "12x R$ 19,80",
+      "postado": "2026-11-24T19:46:41.679Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2fQiUNh.jpg"
+    },
     {
       "id": "2NEgSzx",
       "nome": "Smartwatch Amazfit BIP 6 GPS Preto com Pulseira de Silicone",
