@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T21:05:12.905Z",
+  "atualizado": "2026-11-24T21:06:28.025Z",
   "ofertas": [
+    {
+      "id": "1axGPMz",
+      "nome": "Fralda Pampers Confort Sec Tamanho XG 148 Unidades",
+      "categoria": "Bebê",
+      "preco": 155.44,
+      "link": "https://meli.la/1axGPMz",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fralda-pampers-confort-sec-tamanho-xg-148-unidades/p/MLB27876088",
+      "precoDe": 228.9,
+      "postado": "2026-11-24T21:06:28.024Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1axGPMz.jpg"
+    },
     {
       "id": "1SxANv7",
       "nome": "Vídeo Porteiro Wi-Fi Intelbras Allo WT7 Com Funções Remotas Via Aplicativo",
