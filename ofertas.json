@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T15:05:38.096Z",
+  "atualizado": "2026-11-24T15:06:53.200Z",
   "ofertas": [
+    {
+      "id": "1hCqFtK",
+      "nome": "Tênis Fila Racer Speedzone Masculino",
+      "categoria": "Moda",
+      "preco": 307.77,
+      "link": "https://meli.la/1hCqFtK",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-3827168491-tnis-fila-racer-speedzone-masculino-_JM",
+      "precoDe": 599.9,
+      "pix": true,
+      "parcelas": "R$ 353,76 em 10x R$ 35,38 sem juros",
+      "postado": "2026-11-24T15:06:53.199Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1hCqFtK.jpg"
+    },
     {
       "id": "1B5p77q",
       "nome": "Dropset Control Trainer adidas",
