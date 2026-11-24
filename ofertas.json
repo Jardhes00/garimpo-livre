@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T15:19:23.492Z",
+  "atualizado": "2026-11-24T15:20:38.791Z",
   "ofertas": [
+    {
+      "id": "1GWFeL7",
+      "nome": "Genco 3x1 Cloro Granulado Dicloro Para Piscina",
+      "categoria": "Diversos",
+      "preco": 232,
+      "link": "https://meli.la/1GWFeL7",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB60703693",
+      "precoDe": 450,
+      "parcelas": "12x R$ 22,97",
+      "postado": "2026-11-24T15:20:38.790Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1GWFeL7.jpg"
+    },
     {
       "id": "1Nm8Jvv",
       "nome": "Aspirador de Pó Vertical Midea, 1350W, 2 em 1, cabo de 5M, Preto e Azul",
