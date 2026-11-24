@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T15:04:23.162Z",
+  "atualizado": "2026-11-24T15:05:38.096Z",
   "ofertas": [
+    {
+      "id": "1B5p77q",
+      "nome": "Dropset Control Trainer adidas",
+      "categoria": "Diversos",
+      "preco": 351.43,
+      "link": "https://meli.la/1B5p77q",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-6032297150-dropset-control-trainer-adidas-_JM",
+      "precoDe": 699.99,
+      "pix": true,
+      "parcelas": "R$ 381,99 em 10x R$ 38,20 sem juros",
+      "postado": "2026-11-24T15:05:38.093Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1B5p77q.jpg"
+    },
     {
       "id": "1exVMDD",
       "nome": "Micro-ondas Electrolux 36L cor Inox Efficient com Descongelamento Assistido ME36S",
@@ -4367,24 +4385,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1u9p1ZG.jpg"
-    },
-    {
-      "id": "2mtQ3BX",
-      "nome": "Ar Condicionado Hw Gree Gclassic Inverter 9000 Btu Frio 220v",
-      "categoria": "Casa",
-      "preco": 1839.08,
-      "link": "https://meli.la/2mtQ3BX",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-hw-gree-gclassic-inverter-9000-btu-frio-220v/up/MLBU5375988289",
-      "precoDe": 3028.15,
-      "pix": true,
-      "parcelas": "R$1.999 em outros meios",
-      "postado": "2026-11-22T15:05:06.951Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2mtQ3BX.jpg"
     }
   ]
 }
