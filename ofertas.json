@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T16:29:25.380Z",
+  "atualizado": "2026-11-24T16:30:40.627Z",
   "ofertas": [
+    {
+      "id": "1a3rCf5",
+      "nome": "Tênis Kappa Pulse Supra Unissex De Corrida Conforto",
+      "categoria": "Moda",
+      "preco": 121.99,
+      "link": "https://meli.la/1a3rCf5",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-5857442960-tnis-kappa-pulse-supra-unissex-de-corrida-conforto-_JM",
+      "precoDe": 259.99,
+      "parcelas": "12x de R$ 12,06",
+      "extra": "Preço com cupom no anúncio",
+      "postado": "2026-11-24T16:30:40.626Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1a3rCf5.jpg"
+    },
     {
       "id": "1xmwyFm",
       "nome": "Kit 2 Camisetas Gota Pica Pau Bordado Reserva",
