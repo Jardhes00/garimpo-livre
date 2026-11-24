@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T18:42:49.941Z",
+  "atualizado": "2026-11-24T19:29:26.326Z",
   "ofertas": [
+    {
+      "id": "1AX2Uv6",
+      "nome": "Fritadeira Elétrica AFON-12L-BG Forno Oven 12 Litros Preto Mondial",
+      "categoria": "Casa",
+      "preco": 419.9,
+      "link": "https://meli.la/1AX2Uv6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fritadeira-eletrica-afon-12l-bg-forno-oven-12-litros-preto-mondial/p/MLB44117615",
+      "precoDe": 899,
+      "parcelas": "8x R$ 52,49 sem juros",
+      "postado": "2026-11-24T19:29:26.324Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1AX2Uv6.jpg"
+    },
     {
       "id": "28Tnz1J",
       "nome": "Mala Viagem Bordo 10kg Compacta Premium Giratória Cadeado",
