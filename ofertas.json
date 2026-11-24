@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-24T15:36:54.092Z",
+  "atualizado": "2026-11-24T15:38:09.129Z",
   "ofertas": [
+    {
+      "id": "2R9fjJu",
+      "nome": "Lavadora de Alta Pressão WAP Ousada Plus 2200 1500W de Potência 1750 PSI",
+      "categoria": "Diversos",
+      "preco": 465.4,
+      "link": "https://meli.la/2R9fjJu",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-wap-ousada-plus-2200-1500w-de-potencia-1750-psi/p/MLB15345686",
+      "precoDe": 649,
+      "pix": true,
+      "parcelas": "R$489,90 em outros meios",
+      "cupomAnuncio": "R$465,40 com Cupom",
+      "postado": "2026-11-24T15:38:09.127Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2R9fjJu.jpg"
+    },
     {
       "id": "22PKYGw",
       "nome": "Organizador De Roupa Cabedeiro Sapateira Multiuso Com Gancho",
