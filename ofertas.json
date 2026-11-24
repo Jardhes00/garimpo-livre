@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T21:13:58.204Z",
+  "atualizado": "2026-11-24T21:15:13.334Z",
   "ofertas": [
+    {
+      "id": "2Ug6A46",
+      "nome": "Escova de Dente Elétrica Oral-B PRO Series 1, 1 Unidade",
+      "categoria": "Diversos",
+      "preco": 101.08,
+      "link": "https://meli.la/2Ug6A46",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/escova-de-dente-eletrica-oral-b-pro-series-1-1-unidade/p/MLB24609499",
+      "precoDe": 148.9,
+      "parcelas": "4x de R$25,27 sem juros",
+      "postado": "2026-11-24T21:15:13.333Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Ug6A46.jpg"
+    },
     {
       "id": "278UZcY",
       "nome": "Cadeira de Escritorio Ergonomica Presidente Giratoria Apoio de Lombar Vincere",
