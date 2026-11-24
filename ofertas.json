@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T20:52:42.527Z",
+  "atualizado": "2026-11-24T20:53:57.931Z",
   "ofertas": [
+    {
+      "id": "1nafp6F",
+      "nome": "Perfume Arabe Delilah Blanc Maison Alhambra 100 Ml Original",
+      "categoria": "Beleza",
+      "preco": 172,
+      "link": "https://meli.la/1nafp6F",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/perfume-arabe-delilah-blanc-maison-alhambra-100-ml-original/p/MLB47816383",
+      "precoDe": 490.73,
+      "postado": "2026-11-24T20:53:57.930Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1nafp6F.jpg"
+    },
     {
       "id": "1327jVo",
       "nome": "Câmbio Driving Force Shifter Preto Logitech G",
