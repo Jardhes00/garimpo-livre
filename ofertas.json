@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T21:06:28.025Z",
+  "atualizado": "2026-11-24T21:07:42.976Z",
   "ofertas": [
+    {
+      "id": "11ajgyZ",
+      "nome": "Notebook ASUS Vivobook Go 15 Core i3 N305 4GB Ram 256GB SSD W11 Home Tela 15,6\"",
+      "categoria": "Tech",
+      "preco": 2660.73,
+      "link": "https://meli.la/11ajgyZ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/notebook-asus-vivobook-go-15-core-i3-n305-4gb-ram-256gb-ssd-w11-home-tela-156-full-hd-prata-metalico-e1504ga-nj441w/p/MLB34018545",
+      "precoDe": 3745,
+      "pix": true,
+      "parcelas": "R$2.743,02 em 10x R$274,30 sem juros",
+      "postado": "2026-11-24T21:07:42.975Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-11ajgyZ.jpg"
+    },
     {
       "id": "1axGPMz",
       "nome": "Fralda Pampers Confort Sec Tamanho XG 148 Unidades",
