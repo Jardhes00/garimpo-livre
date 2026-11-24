@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T15:40:39.257Z",
+  "atualizado": "2026-11-24T15:41:54.268Z",
   "ofertas": [
+    {
+      "id": "1d8MBYB",
+      "nome": "Serra Makita 4100nh3zx Mármore com 2 Discos Diámetro 110mm 1300W",
+      "categoria": "Ferramentas",
+      "preco": 319.9,
+      "link": "https://meli.la/1d8MBYB",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/serra-makita-4100nh3zx-marmore-com-2-discos-diametro-110mm-1300w/p/MLB41524182",
+      "precoDe": 499,
+      "postado": "2026-11-24T15:41:54.265Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1d8MBYB.jpg"
+    },
     {
       "id": "1a9wkDX",
       "nome": "Árvore De Natal Pinheiro Canadense Luxo 1,50m 450 Galhos Tradicional Verde",
@@ -4604,22 +4620,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1zsHdhN.jpg"
-    },
-    {
-      "id": "1sucvRo",
-      "nome": "Ventilador de Mesa 16 pás Turbo Preto 40cm, 3 Velocidades, Ventisol",
-      "categoria": "Casa",
-      "preco": 129.9,
-      "link": "https://meli.la/1sucvRo",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-mesa-16-pas-turbo-preto-40cm-3-velocidades-ventisol/p/MLB82634805",
-      "precoDe": 209.9,
-      "postado": "2026-11-22T15:41:07.619Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1sucvRo.jpg"
     }
   ]
 }
