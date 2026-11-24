@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T19:29:26.326Z",
+  "atualizado": "2026-11-24T19:30:55.911Z",
   "ofertas": [
+    {
+      "id": "2QvooAA",
+      "nome": "Smartphone G17 Tela 6,7 Polegadas 128GB 4G Câmera 50MP Motorola",
+      "categoria": "Tech",
+      "preco": 798.3,
+      "link": "https://meli.la/2QvooAA",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smartphone-g17-tela-67-polegadas-128gb-4g-camera-50mp-motorola/p/MLB65041643",
+      "precoDe": 1599,
+      "pix": true,
+      "parcelas": "R$ 887 em 10x R$ 88,70 sem juros",
+      "postado": "2026-11-24T19:30:55.908Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2QvooAA.jpg"
+    },
     {
       "id": "1AX2Uv6",
       "nome": "Fritadeira Elétrica AFON-12L-BG Forno Oven 12 Litros Preto Mondial",
