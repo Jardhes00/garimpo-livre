@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-24T20:31:26.779Z",
+  "atualizado": "2026-11-24T20:32:42.094Z",
   "ofertas": [
+    {
+      "id": "25B1KzF",
+      "nome": "Estação Musculação 45kg Completa Academia Treino Wct Fitness Preto Preto E",
+      "categoria": "Esporte",
+      "preco": 1399,
+      "link": "https://meli.la/25B1KzF",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/estacao-musculacao-45kg-completa-academia-treino-wct-fitness/p/MLB24423814",
+      "precoDe": 3000.9,
+      "pix": true,
+      "parcelas": "R$1.499 em 10x R$149,90 sem juros",
+      "cupomAnuncio": "R$1.360 com Cupom por seguir a loja",
+      "postado": "2026-11-24T20:32:42.093Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-25B1KzF.jpg"
+    },
     {
       "id": "1C9cQmm",
       "nome": "Eps-5062 Organizador Com Zíper 9 Prateleiras Sapateira Estante Cor Preto",
