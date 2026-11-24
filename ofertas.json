@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T16:35:42.658Z",
+  "atualizado": "2026-11-24T16:36:55.838Z",
   "ofertas": [
+    {
+      "id": "1RkCgxN",
+      "nome": "Aparador e Barbeador Elétrico All-in-One Série 3000 8 em 1 Philips MG3917/15",
+      "categoria": "Beleza",
+      "preco": 187.88,
+      "link": "https://meli.la/1RkCgxN",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aparador-e-barbeador-eletrico-all-in-one-serie-3000-8-em-1-visual-completo-para-rosto-cabelo-e-corpo-60-min-sem-fio-laminas-autoafiaveis-de-aco-pontas-arredondadas-mg391715/p/MLB59251129",
+      "precoDe": 257.38,
+      "parcelas": "12x de R$ 18,60",
+      "postado": "2026-11-24T16:36:55.835Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1RkCgxN.jpg"
+    },
     {
       "id": "2KF3c6F",
       "nome": "Chaleira Elétrica Inox 1,8L 1500W Aquecimento Rápido Automática",
