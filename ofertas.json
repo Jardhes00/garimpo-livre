@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T19:42:56.160Z",
+  "atualizado": "2026-11-24T19:44:56.317Z",
   "ofertas": [
+    {
+      "id": "2NEgSzx",
+      "nome": "Smartwatch Amazfit BIP 6 GPS Preto com Pulseira de Silicone",
+      "categoria": "Tech",
+      "preco": 482.85,
+      "link": "https://meli.la/2NEgSzx",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smartwatch-amazfit-bip-6-gps-preto-com-pulseira-de-silicone/p/MLB61540022",
+      "precoDe": 831,
+      "pix": true,
+      "parcelas": "R$ 555 em 10x R$ 55,50 sem juros",
+      "postado": "2026-11-24T19:44:56.315Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2NEgSzx.jpg"
+    },
     {
       "id": "2z95qQT",
       "nome": "Ômega 3 Tg 1360mg Ultra Concentrado 120 Cápsulas Nutrify",
