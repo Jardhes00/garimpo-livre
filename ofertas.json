@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T15:33:08.887Z",
+  "atualizado": "2026-11-24T15:34:23.947Z",
   "ofertas": [
+    {
+      "id": "2MEqz18",
+      "nome": "Monitor Gamer Samsung Odyssey G5, 27 , Qhd, 165hz Cor Preto",
+      "categoria": "Tech",
+      "preco": 982.23,
+      "link": "https://meli.la/2MEqz18",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/monitor-gamer-samsung-odyssey-g5-27-qhd-165hz-cor-preto/p/MLB46056259",
+      "precoDe": 1499,
+      "parcelas": "10x de R$98,22 sem juros",
+      "postado": "2026-11-24T15:34:23.944Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2MEqz18.jpg"
+    },
     {
       "id": "1AnMQHT",
       "nome": "Caixa de Som Bluetooth PulseBox 3 1400W TWS Karaoke LED Preto - SP511",
@@ -4551,22 +4568,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2SC3eNS.jpg"
-    },
-    {
-      "id": "1AMmyQ2",
-      "nome": "Lanterna Tática Militar T9 Mais Forte Do Mundo Potente Led Recarregável",
-      "categoria": "Casa",
-      "preco": 47.95,
-      "link": "https://meli.la/1AMmyQ2",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/lanterna-tatica-militar-t9-mais-forte-do-mundo-potente-led-recarregavel-allume-iluminacao-decorativa/p/MLB70041714",
-      "precoDe": 79,
-      "postado": "2026-11-22T15:34:22.296Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1AMmyQ2.jpg"
     }
   ]
 }
