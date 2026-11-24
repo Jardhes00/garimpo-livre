@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T21:15:13.334Z",
+  "atualizado": "2026-11-24T21:16:28.338Z",
   "ofertas": [
+    {
+      "id": "2ede8qZ",
+      "nome": "Lysoform Desinfetante Lavanda 5 L Garrafa",
+      "categoria": "Diversos",
+      "preco": 38.66,
+      "link": "https://meli.la/2ede8qZ",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lysoform-desinfetante-lavanda-5-l-garrafa/p/MLB40113569",
+      "precoDe": 64.64,
+      "cupomAnuncio": "Compre R$69 e ganhe 20% OFF",
+      "postado": "2026-11-24T21:16:28.337Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ede8qZ.jpg"
+    },
     {
       "id": "2Ug6A46",
       "nome": "Escova de Dente Elétrica Oral-B PRO Series 1, 1 Unidade",
