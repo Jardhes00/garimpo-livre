@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T02:53:29.471Z",
+  "atualizado": "2026-11-24T14:32:38.198Z",
   "ofertas": [
+    {
+      "id": "2ibBvxz",
+      "nome": "Autoclave Alt 5l Cinza Estética Odonto Anvisa 110",
+      "categoria": "Diversos",
+      "preco": 561.65,
+      "link": "https://meli.la/2ibBvxz",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/autoclave-alt-5l-cinza-estetica-odonto-anvisa-110/up/MLBU4422092727",
+      "precoDe": 939,
+      "postado": "2026-11-24T14:32:38.189Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ibBvxz.jpg"
+    },
     {
       "id": "1YPKCSx",
       "nome": "Suplemento em cápsula Always Fit Complexo B - Forma Ativa B9 Sem sabor 3 kits",
