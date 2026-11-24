@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-24T15:55:39.776Z",
+  "atualizado": "2026-11-24T15:56:55.536Z",
   "ofertas": [
+    {
+      "id": "2QZ63C1",
+      "nome": "Kit Cobre Leito Colcha Casal 3 Peças Boutis Lisas Dupla Face Porta Travesseiro",
+      "categoria": "Casa",
+      "preco": 53.9,
+      "link": "https://meli.la/2QZ63C1",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-cobre-leito-colcha-casal-3-pecas-boutis-lisas-dupla-face-porta-travesseiro-aba-americana-isabel-areia/p/MLB80848763",
+      "precoDe": 186.9,
+      "pix": true,
+      "parcelas": "R$59,89 em outros meios",
+      "cupomAnuncio": "Compre R$120 e ganhe 10% OFF",
+      "postado": "2026-11-24T15:56:55.533Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2QZ63C1.jpg"
+    },
     {
       "id": "18vgAcQ",
       "nome": "Óleo Chroma Absolu Kérastase Chroma Éclat Óleo Capilar Recarregável 75ml",
@@ -4695,24 +4714,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2E9Gdur.jpg"
-    },
-    {
-      "id": "1coVkDk",
-      "nome": "Jogo De Toalhas Buddemeyer Bella Extra Soft Banho 4 Peças Azul Claro/azul",
-      "categoria": "Games",
-      "preco": 119.92,
-      "link": "https://meli.la/1coVkDk",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/jogo-de-toalhas-buddemeyer-bella-extra-soft-banho-4-pecas-azul-claroazul-marinho/p/MLB48896933",
-      "precoDe": 229.9,
-      "pix": true,
-      "parcelas": "R$159,90 em 5x R$31,98 sem juros",
-      "postado": "2026-11-22T15:56:53.139Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1coVkDk.jpg"
     }
   ]
 }
