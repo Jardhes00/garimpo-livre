@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T14:49:25.681Z",
+  "atualizado": "2026-11-24T14:51:52.120Z",
   "ofertas": [
+    {
+      "id": "1Edhb5P",
+      "nome": "Cafeteira Filtro Arno Preferita Cfpf Inox 750ml",
+      "categoria": "Casa",
+      "preco": 116.99,
+      "link": "https://meli.la/1Edhb5P",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafeteira-filtro-arno-preferita-cfpf-inox-750ml/p/MLB15316446",
+      "precoDe": 299.99,
+      "parcelas": "4x de R$29,25 sem juros",
+      "postado": "2026-11-24T14:51:52.118Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Edhb5P.jpg"
+    },
     {
       "id": "2eBMDSi",
       "nome": "Royal Canin Gastrointestinal Low Fat Cães Pequeno 7,5kg",
@@ -4275,25 +4292,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1VnBE1g.jpg"
-    },
-    {
-      "id": "1bUGQEH",
-      "nome": "La Roche Posay Cicaplast Baume B5 Fps+ 50 40ml Todo Tipo De Pele Dia",
-      "categoria": "Diversos",
-      "preco": 85.81,
-      "link": "https://meli.la/1bUGQEH",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/la-roche-posay-cicaplast-baume-b5-fps-50-40ml-todo-tipo-de-pele-dia/p/MLB50118079",
-      "precoDe": 142.9,
-      "pix": true,
-      "parcelas": "R$100,95 em outros meios",
-      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
-      "postado": "2026-11-22T14:51:35.838Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1bUGQEH.jpg"
     }
   ]
 }
