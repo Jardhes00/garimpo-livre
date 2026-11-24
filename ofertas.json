@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T16:01:55.097Z",
+  "atualizado": "2026-11-24T16:03:09.877Z",
   "ofertas": [
+    {
+      "id": "2nN7kei",
+      "nome": "Motobomba Piscina Aquex Sibrape 1/2cv Motor Weg Bivolt",
+      "categoria": "Diversos",
+      "preco": 623,
+      "link": "https://meli.la/2nN7kei",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/motobomba-piscina-aquex-sibrape-12cv-motor-weg-bivolt/p/MLB77283603",
+      "precoDe": 1999,
+      "cupomAnuncio": "R$591,85 com Cupom por seguir a loja",
+      "postado": "2026-11-24T16:03:09.875Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2nN7kei.jpg"
+    },
     {
       "id": "1pLaaC4",
       "nome": "Samsung Galaxy Buds Core branco",
