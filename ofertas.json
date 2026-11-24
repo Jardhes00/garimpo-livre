@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T14:58:07.910Z",
+  "atualizado": "2026-11-24T14:59:24.660Z",
   "ofertas": [
+    {
+      "id": "1nahTDA",
+      "nome": "Marmita Elétrica Preta Bivolt Portátil Doméstica 110/220v Veicular 12/24v",
+      "categoria": "Auto",
+      "preco": 43.49,
+      "link": "https://meli.la/1nahTDA",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/marmita-eletrica-preta-bivolt-portatil-domestica-110220v-veicular-1224v-lancheira-15l-com-divisorias-esquenta-rapido-refeicoes-praticas-trabalho-casa-carro-caminhao-viagem-faculdade-woosh/p/MLB37955040",
+      "precoDe": 78.99,
+      "postado": "2026-11-24T14:59:24.658Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1nahTDA.jpg"
+    },
     {
       "id": "2LWzR6D",
       "nome": "Capacete FW3 GTX Star Preto e Branco Grafite Óculos Interno",
@@ -4330,24 +4346,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2MYRYQr.jpg"
-    },
-    {
-      "id": "1to9QZS",
-      "nome": "Fogão 4 Bocas À Gás Atlas Havana Glass Preto Bivolt",
-      "categoria": "Diversos",
-      "preco": 816.9,
-      "link": "https://meli.la/1to9QZS",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/fogao-4-bocas-gas-atlas-havana-glass-preto-bivolt/p/MLB77046595",
-      "precoDe": 1400,
-      "pix": true,
-      "parcelas": "R$859,90 em 10x R$85,99 sem juros",
-      "postado": "2026-11-22T14:58:21.173Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1to9QZS.jpg"
     }
   ]
 }
