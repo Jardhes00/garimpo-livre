@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T15:10:38.352Z",
+  "atualizado": "2026-11-24T15:11:53.689Z",
   "ofertas": [
+    {
+      "id": "1MDMLGn",
+      "nome": "Panela De Pressão Fechamento Externo Presscook Grafito 6,8l - Mimo Style",
+      "categoria": "Casa",
+      "preco": 158.29,
+      "link": "https://meli.la/1MDMLGn",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB58330079",
+      "precoDe": 347.6,
+      "parcelas": "5x R$ 31,66 sem juros",
+      "postado": "2026-11-24T15:11:53.687Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1MDMLGn.jpg"
+    },
     {
       "id": "12HfeuF",
       "nome": "Tenda Gazebo Barraca Dobrável Sanfonada 3x3m Marqs Home Standard Preto com Proteção UV e Impermeável",
@@ -4405,23 +4422,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1VAs7tY.jpg"
-    },
-    {
-      "id": "2c8eetm",
-      "nome": "Simparic 40mg Antipulgas e Carrapatos para Cães 10-20kg 3 Comprimidos Zoetis",
-      "categoria": "Diversos",
-      "preco": 88.95,
-      "link": "https://meli.la/2c8eetm",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/simparic-40mg-antipulgas-e-carrapatos-para-caes-10-20kg-3-comprimidos-zoetis/p/MLB32344566",
-      "precoDe": 166.23,
-      "parcelas": "3x de R$29,65 sem juros",
-      "postado": "2026-11-22T15:11:51.590Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2c8eetm.jpg"
     }
   ]
 }
