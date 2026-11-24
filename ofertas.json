@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-24T20:45:12.636Z",
+  "atualizado": "2026-11-24T20:46:27.375Z",
   "ofertas": [
+    {
+      "id": "2dtigmQ",
+      "nome": "Impressora De Etiqueta Zd220 Zebra Nova Gc420t Preto",
+      "categoria": "Tech",
+      "preco": 1664.1,
+      "link": "https://meli.la/2dtigmQ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/impressora-de-etiqueta-zd220-zebra-nova-gc420t-preto/p/MLB25979638",
+      "precoDe": 2410.61,
+      "pix": true,
+      "parcelas": "R$1.849 em 10x R$184,90 sem juros",
+      "cupomAnuncio": "Compre R$3.000 e ganhe 5% OFF por seguir a loja",
+      "postado": "2026-11-24T20:46:27.374Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2dtigmQ.jpg"
+    },
     {
       "id": "1LEf48D",
       "nome": "Bicicleta Spinning Romantic Crown Preto Roda Inércia 13kg",
