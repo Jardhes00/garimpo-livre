@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T20:28:57.075Z",
+  "atualizado": "2026-11-24T20:30:12.131Z",
   "ofertas": [
+    {
+      "id": "152t8wG",
+      "nome": "Filamento Masterprint Petg 3d Cor Preto 1.75mm 1kg Original",
+      "categoria": "Diversos",
+      "preco": 57.39,
+      "link": "https://meli.la/152t8wG",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/filamento-masterprint-petg-3d-cor-preto-175mm-1kg-original/p/MLB24229494",
+      "precoDe": 99.99,
+      "postado": "2026-11-24T20:30:12.130Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-152t8wG.jpg"
+    },
     {
       "id": "2AZBJCM",
       "nome": "Patinete Elétrico Infantil Triciclo PARES Drift Bluetooth 3 Rodas Diversão e",
