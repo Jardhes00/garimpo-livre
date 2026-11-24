@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T20:57:42.678Z",
+  "atualizado": "2026-11-24T20:58:57.742Z",
   "ofertas": [
+    {
+      "id": "1DQFnKx",
+      "nome": "Bola de Volei de Praia BV550C-WYBR Pu Costurado Branco Amarelo E Azul MIKASA",
+      "categoria": "Esporte",
+      "preco": 479.99,
+      "link": "https://meli.la/1DQFnKx",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bola-de-volei-de-praia-bv550c-wybr-pu-costurado-branco-amarelo-e-azul-mikasa/p/MLB33408417",
+      "precoDe": 863.35,
+      "postado": "2026-11-24T20:58:57.741Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1DQFnKx.jpg"
+    },
     {
       "id": "2BYg3Dp",
       "nome": "Armário Cozinha Completa Modulada Suspensa com Balcão para Cooktop 300cm Cinza",
