@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T15:44:24.327Z",
+  "atualizado": "2026-11-24T15:45:39.768Z",
   "ofertas": [
+    {
+      "id": "2C42SKM",
+      "nome": "Ventilador De Mesa ou Parede Ultra Mondial 50w V-30-6p-b Material Das Pás",
+      "categoria": "Casa",
+      "preco": 106.3,
+      "link": "https://meli.la/2C42SKM",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-mesa-ou-parede-ultra-mondial-50w-v-30-6p-b-material-das-pas-plastico-quantidade-de-pas-6-cor-preto/p/MLB34001561",
+      "precoDe": 157.04,
+      "postado": "2026-11-24T15:45:39.766Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2C42SKM.jpg"
+    },
     {
       "id": "1Q2zFKM",
       "nome": "Notebook Lenovo Ideapad Slim 3i Intel Core 3 100u 8gb 256gb Ssd Linux 15.3",
@@ -4621,23 +4637,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1mhx4UA.jpg"
-    },
-    {
-      "id": "1HSM3hb",
-      "nome": "Ventilador 2 em 1 Prime Air 8 Pás Maxx Force 150W AVTE400",
-      "categoria": "Casa",
-      "preco": 129.9,
-      "link": "https://meli.la/1HSM3hb",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ventilador-2-em-1-prime-air-8-pas-maxx-force-150w-avte400/p/MLB37908276",
-      "precoDe": 229.9,
-      "parcelas": "4x de R$32,48 sem juros",
-      "postado": "2026-11-22T15:45:37.785Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1HSM3hb.jpg"
     }
   ]
 }
