@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T20:53:57.931Z",
+  "atualizado": "2026-11-24T20:55:12.653Z",
   "ofertas": [
+    {
+      "id": "2z92hKH",
+      "nome": "Desobstruidora E Lavadora Alta Pressão Wap Black Ultra",
+      "categoria": "Diversos",
+      "preco": 278.1,
+      "link": "https://meli.la/2z92hKH",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/desobstruidora-e-lavadora-alta-pressao-wap-black-ultra/up/MLBU5064905765",
+      "precoDe": 439,
+      "pix": true,
+      "parcelas": "R$309 em outros meios",
+      "postado": "2026-11-24T20:55:12.652Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2z92hKH.jpg"
+    },
     {
       "id": "1nafp6F",
       "nome": "Perfume Arabe Delilah Blanc Maison Alhambra 100 Ml Original",
