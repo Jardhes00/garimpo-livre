@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T15:31:53.821Z",
+  "atualizado": "2026-11-24T15:33:08.887Z",
   "ofertas": [
+    {
+      "id": "1AnMQHT",
+      "nome": "Caixa de Som Bluetooth PulseBox 3 1400W TWS Karaoke LED Preto - SP511",
+      "categoria": "Tech",
+      "preco": 768.6,
+      "link": "https://meli.la/1AnMQHT",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-pulsebox-3-1400w-tws-karaoke-led-preto-sp511/p/MLB47714127",
+      "precoDe": 1549,
+      "pix": true,
+      "parcelas": "R$854 em 10x R$85,40 sem juros",
+      "postado": "2026-11-24T15:33:08.885Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1AnMQHT.jpg"
+    },
     {
       "id": "2JhUEjn",
       "nome": "Vaso Sanitário Monobloco Caixa Acoplada Privada Tubrax",
@@ -4549,22 +4567,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1AMmyQ2.jpg"
-    },
-    {
-      "id": "1DibooB",
-      "nome": "APARADOR Cortador De Grama Bipartido 1500w Apb1600t 280mm Tramontina 220v",
-      "categoria": "Diversos",
-      "preco": 249.9,
-      "link": "https://meli.la/1DibooB",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/aparador-cortador-de-grama-bipartido-1500w-apb1600t-280mm-tramontina-220v/p/MLB63647240",
-      "precoDe": 374.87,
-      "postado": "2026-11-22T15:32:07.450Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1DibooB.jpg"
     }
   ]
 }
