@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T16:33:11.089Z",
+  "atualizado": "2026-11-24T16:34:25.868Z",
   "ofertas": [
+    {
+      "id": "2Jb3csE",
+      "nome": "Sanduicheira Elgin Brunch Time 2 em 1 Grill Antiaderente Preta 800W",
+      "categoria": "Diversos",
+      "preco": 54.05,
+      "link": "https://meli.la/2Jb3csE",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/sanduicheira-elgin-brunch-time-2-em-1-grill-antiaderente-preta-800w/p/MLB40003885",
+      "precoDe": 78.5,
+      "extra": "Preço com saldo no Mercado Pago",
+      "postado": "2026-11-24T16:34:25.866Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Jb3csE.jpg"
+    },
     {
       "id": "1Phk9Em",
       "nome": "Lava-Roupas Pó Omo Todo Ciclo Pacote 4kg Tamanho Família",
