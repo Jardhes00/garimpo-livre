@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T15:25:39.327Z",
+  "atualizado": "2026-11-24T15:26:53.879Z",
   "ofertas": [
+    {
+      "id": "1FoBQTq",
+      "nome": "Parafusadeira Furadeira The Black Tools TB12A 3/8 a Bateria Cor Amarelo",
+      "categoria": "Ferramentas",
+      "preco": 59.9,
+      "link": "https://meli.la/1FoBQTq",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/parafusadeira-furadeira-the-black-tools-tb12a-38-a-bateria-cor-amarelo-frequencia-60hz/p/MLB24076624",
+      "precoDe": 119.9,
+      "cupomAnuncio": "Compre R$300 e ganhe 10% OFF",
+      "postado": "2026-11-24T15:26:53.877Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1FoBQTq.jpg"
+    },
     {
       "id": "177yXME",
       "nome": "Media Receiver Pioneer Mvh-x3000br Bluetooth Spotify Usb",
