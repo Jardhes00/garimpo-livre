@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T20:27:42.164Z",
+  "atualizado": "2026-11-24T20:28:57.075Z",
   "ofertas": [
+    {
+      "id": "2AZBJCM",
+      "nome": "Patinete Elétrico Infantil Triciclo PARES Drift Bluetooth 3 Rodas Diversão e",
+      "categoria": "Bebê",
+      "preco": 890.9,
+      "link": "https://meli.la/2AZBJCM",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/patinete-eletrico-infantil-triciclo-pares-drift-bluetooth-3-rodas-diversao-e-lazer-kit-de-seguranca/p/MLB81565711",
+      "precoDe": 1299,
+      "postado": "2026-11-24T20:28:57.073Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2AZBJCM.jpg"
+    },
     {
       "id": "1zG5QM7",
       "nome": "Kit Eucerin Anti-pigment Dual Sérum Gel Limpeza Esfoliante",
