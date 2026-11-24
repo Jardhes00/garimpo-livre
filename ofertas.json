@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T21:25:13.584Z",
+  "atualizado": "2026-11-24T21:26:28.656Z",
   "ofertas": [
+    {
+      "id": "2Uq7j3h",
+      "nome": "Bicicleta De Spinning Roda De Inércia 13kg Acte Bsp13",
+      "categoria": "Esporte",
+      "preco": 590,
+      "link": "https://meli.la/2Uq7j3h",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bicicleta-de-spinning-roda-de-inercia-13kg-acte-bsp13/p/MLB60835897",
+      "precoDe": 1599,
+      "parcelas": "10x de R$59 sem juros",
+      "postado": "2026-11-24T21:26:28.655Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Uq7j3h.jpg"
+    },
     {
       "id": "2UZp4PC",
       "nome": "Café Torrado Moído Tradicional 3 Corações Caixa/Pacote 500g",
