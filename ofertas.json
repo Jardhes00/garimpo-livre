@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T15:43:09.350Z",
+  "atualizado": "2026-11-24T15:44:24.327Z",
   "ofertas": [
+    {
+      "id": "1Q2zFKM",
+      "nome": "Notebook Lenovo Ideapad Slim 3i Intel Core 3 100u 8gb 256gb Ssd Linux 15.3",
+      "categoria": "Tech",
+      "preco": 2668,
+      "link": "https://meli.la/1Q2zFKM",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/notebook-lenovo-ideapad-slim-3i-intel-core-3-100u-8gb-256gb-ssd-linux-153-83nus00000-luna-grey/p/MLB66584218",
+      "precoDe": 6398,
+      "pix": true,
+      "parcelas": "R$2.868 em outros meios",
+      "postado": "2026-11-24T15:44:24.325Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Q2zFKM.jpg"
+    },
     {
       "id": "2CHb5Tp",
       "nome": "Purificador de Água Gelada Fria e Natural Elétrico Compacto Eletrônico placa",
@@ -4620,24 +4638,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1HSM3hb.jpg"
-    },
-    {
-      "id": "1zsHdhN",
-      "nome": "Tablet VAIO TL10 4GB RAM 128GB Octa-Core, Tela 10.4” 2K, 4G WiFi Dual Band",
-      "categoria": "Tech",
-      "preco": 1197,
-      "link": "https://meli.la/1zsHdhN",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/tablet-vaio-tl10-4gb-ram-128gb-octa-core-tela-104-2k-4g-wifi-dual-band-camera-8mp-selfie-5mp-7000mah-android-16-com-teclado-magnetico-de-conexao-inteligente-preto/p/MLB67468569",
-      "precoDe": 2212.86,
-      "pix": true,
-      "parcelas": "R$1.330 em 10x R$133 sem juros",
-      "postado": "2026-11-22T15:43:22.650Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1zsHdhN.jpg"
     }
   ]
 }
