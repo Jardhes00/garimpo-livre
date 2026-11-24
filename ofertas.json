@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-24T19:32:40.975Z",
+  "atualizado": "2026-11-24T19:34:41.329Z",
   "ofertas": [
+    {
+      "id": "29FgQKi",
+      "nome": "Huggies Fralda Descartável Máxima Proteção G - 136 Un Sem Gênero",
+      "categoria": "Bebê",
+      "preco": 117.79,
+      "link": "https://meli.la/29FgQKi",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/huggies-fralda-descartavel-maxima-protecao-g-136-un-sem-genero/p/MLB17336383",
+      "precoDe": 197.75,
+      "pix": true,
+      "parcelas": "R$ 123,99 em outros meios",
+      "cupomAnuncio": "R$88,34 com Cupom",
+      "postado": "2026-11-24T19:34:41.328Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-29FgQKi.jpg"
+    },
     {
       "id": "1GTv8T4",
       "nome": "Mondial LAP-04 GY Lavadora de Alta Pressão 1400W + Jato Ajustável",
