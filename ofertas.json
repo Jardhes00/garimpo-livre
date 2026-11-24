@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T16:26:55.492Z",
+  "atualizado": "2026-11-24T16:28:10.543Z",
   "ofertas": [
+    {
+      "id": "24L2Z2W",
+      "nome": "Controle Sem Fio Sony DualSense para PlayStation 5 Cor Branco CFI-ZCT1W",
+      "categoria": "Games",
+      "preco": 359.1,
+      "link": "https://meli.la/24L2Z2W",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/controle-sem-fio-sony-dualsense-para-playstation-5-cor-branco-cfi-zct1w/p/MLB33997846",
+      "precoDe": 562.02,
+      "pix": true,
+      "parcelas": "R$ 399 em 7x de R$ 57 sem juros",
+      "postado": "2026-11-24T16:28:10.541Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-24L2Z2W.jpg"
+    },
     {
       "id": "2XJdgZY",
       "nome": "Controle Gamesir T4 Nova Lite Sem Fio Para Pc Switch Android Ios Steam Hall",
