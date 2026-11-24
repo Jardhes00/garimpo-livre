@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T15:01:53.250Z",
+  "atualizado": "2026-11-24T15:03:12.236Z",
   "ofertas": [
+    {
+      "id": "1qR3Cdg",
+      "nome": "Sabão Líquido Omo Lavagem Perfeita 5L",
+      "categoria": "Diversos",
+      "preco": 47.62,
+      "link": "https://meli.la/1qR3Cdg",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB18393205",
+      "precoDe": 67.05,
+      "pix": true,
+      "parcelas": "R$ 56,02 em outros meios",
+      "postado": "2026-11-24T15:03:12.235Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot"
+    },
     {
       "id": "1yDf97S",
       "nome": "Supercoffee 3.0 Em Pó Creme De Avelã Caffeine Army",
@@ -4350,23 +4367,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2mtQ3BX.jpg"
-    },
-    {
-      "id": "2XvNoMs",
-      "nome": "Fonte Msi Mag 650w 80 Plus Bronze Pfc Ativo A650bnl Preto",
-      "categoria": "Diversos",
-      "preco": 349.9,
-      "link": "https://meli.la/2XvNoMs",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/fonte-msi-mag-650w-80-plus-bronze-pfc-ativo-a650bnl-preto/p/MLB62535762",
-      "precoDe": 558.62,
-      "parcelas": "6x de R$58,32 sem juros",
-      "postado": "2026-11-22T15:02:51.442Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2XvNoMs.jpg"
     }
   ]
 }
