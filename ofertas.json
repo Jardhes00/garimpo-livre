@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T15:13:09.467Z",
+  "atualizado": "2026-11-24T15:14:24.199Z",
   "ofertas": [
+    {
+      "id": "2rUmJUi",
+      "nome": "Smartphone Motorola Moto G67 5g - 128gb 4gb Ram + 8gb Ram Boost, Camera 50mp Sony Lytia 600, Tela 1.5k Extreme Amoled 120hz, Ultrarresistente - Chumbo",
+      "categoria": "Tech",
+      "preco": 1299,
+      "link": "https://meli.la/2rUmJUi",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB65319818",
+      "precoDe": 1899,
+      "pix": true,
+      "parcelas": "R$ 1.443,33 em 10x R$ 144,33 sem juros",
+      "postado": "2026-11-24T15:14:24.197Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2rUmJUi.jpg"
+    },
     {
       "id": "1pBXV9v",
       "nome": "Notebook ASUS VivoBook Go 15, AMD Ryzen 5 7520U, 8GB RAM, 512GB SSD, KeepOS/Linux, Tela 15,6\" FHD, Mixed Black - E1504FA-NJ732",
@@ -4422,24 +4440,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1pFWf1b.jpg"
-    },
-    {
-      "id": "1VAs7tY",
-      "nome": "Ar Condicionado High Wall Eco Inverter III Wifi 9000 Btus Frio Elgin Branco",
-      "categoria": "Casa",
-      "preco": 1948,
-      "link": "https://meli.la/1VAs7tY",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-high-wall-eco-inverter-iii-wifi-9000-btus-frio-elgin-branco/p/MLB66154233",
-      "precoDe": 2913.9,
-      "parcelas": "10x de R$194,80 sem juros",
-      "cupomAnuncio": "R$1.948 com Cupom",
-      "postado": "2026-11-22T15:14:06.696Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1VAs7tY.jpg"
     }
   ]
 }
