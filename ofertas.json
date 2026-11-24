@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T14:53:07.849Z",
+  "atualizado": "2026-11-24T14:54:22.710Z",
   "ofertas": [
+    {
+      "id": "11Q1kJd",
+      "nome": "Tanquinho Colormaq Lavadora Roupas Semi-automática Lcs 10kg Cor Prata",
+      "categoria": "Diversos",
+      "preco": 427.49,
+      "link": "https://meli.la/11Q1kJd",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tanquinho-colormaq-lavadora-roupas-semi-automatica-lcs-10kg-cor-prata/p/MLB14815389",
+      "precoDe": 653,
+      "pix": true,
+      "parcelas": "R$449,99 em outros meios",
+      "postado": "2026-11-24T14:54:22.709Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-11Q1kJd.jpg"
+    },
     {
       "id": "342KnG8",
       "nome": "Caixa Amplificada Connect Lights Plus Cm-700 Mondial Cor Preto",
@@ -4294,22 +4312,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1aBSWyL.jpg"
-    },
-    {
-      "id": "1VnBE1g",
-      "nome": "Espumante Brasileiro Rosé Aurora Moscatel Garrafa 750ml",
-      "categoria": "Diversos",
-      "preco": 25.99,
-      "link": "https://meli.la/1VnBE1g",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/espumante-brasileiro-rose-aurora-moscatel-garrafa-750ml/p/MLB18308495",
-      "precoDe": 39.9,
-      "postado": "2026-11-22T14:53:51.321Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1VnBE1g.jpg"
     }
   ]
 }
