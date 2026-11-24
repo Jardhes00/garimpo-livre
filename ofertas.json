@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T14:55:38.046Z",
+  "atualizado": "2026-11-24T14:56:53.035Z",
   "ofertas": [
+    {
+      "id": "1YxVCWf",
+      "nome": "Mantecorp Protetor Solar Facial Episol Fps 70 Tom 3 Médio",
+      "categoria": "Beleza",
+      "preco": 56.9,
+      "link": "https://meli.la/1YxVCWf",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mantecorp-protetor-solar-facial-episol-fps-70-tom-3-medio/p/MLB19685236",
+      "precoDe": 99.9,
+      "pix": true,
+      "parcelas": "R$59,89 em outros meios",
+      "postado": "2026-11-24T14:56:53.032Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1YxVCWf.jpg"
+    },
     {
       "id": "1ePiKTg",
       "nome": "Kit 3 Câmera Ip Wifi Dome Rotativa Icsee Visão Noturna HW",
@@ -4312,24 +4330,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1to9QZS.jpg"
-    },
-    {
-      "id": "1aBSWyL",
-      "nome": "Caixa de Som Joog Bold XS-1000 300w 2 Microfones Até 9 Horas",
-      "categoria": "Tech",
-      "preco": 699.99,
-      "link": "https://meli.la/1aBSWyL",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-joog-bold-xs-1000-300w-2-microfones-ate-9-horas/p/MLB78740877",
-      "precoDe": 2772.45,
-      "pix": true,
-      "parcelas": "R$999,99 em 10x R$100 sem juros",
-      "postado": "2026-11-22T14:56:06.356Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1aBSWyL.jpg"
     }
   ]
 }
