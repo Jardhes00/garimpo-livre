@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T15:49:24.507Z",
+  "atualizado": "2026-11-24T15:50:39.428Z",
   "ofertas": [
+    {
+      "id": "2QcmACM",
+      "nome": "Impressora Multifuncional Tanque De Tinta Color Epson L3250 Preto",
+      "categoria": "Tech",
+      "preco": 935.91,
+      "link": "https://meli.la/2QcmACM",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/impressora-multifuncional-tanque-de-tinta-color-epson-l3250-preto/p/MLB33584187",
+      "precoDe": 1817.84,
+      "pix": true,
+      "parcelas": "R$1.039,90 em outros meios",
+      "postado": "2026-11-24T15:50:39.425Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2QcmACM.jpg"
+    },
     {
       "id": "1ranh3y",
       "nome": "Auto Transformador 5000va 110v 220v Ar Até 12000btus Bivolt Preto",
@@ -4654,22 +4672,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-25KMhMT.jpg"
-    },
-    {
-      "id": "1niH5rC",
-      "nome": "Licor 43 Garrafa 700ml Original",
-      "categoria": "Diversos",
-      "preco": 131.92,
-      "link": "https://meli.la/1niH5rC",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/licor-43-garrafa-700ml-original/p/MLB66170745",
-      "precoDe": 189.9,
-      "postado": "2026-11-22T15:50:07.935Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1niH5rC.jpg"
     }
   ]
 }
