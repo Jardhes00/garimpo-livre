@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T16:03:09.877Z",
+  "atualizado": "2026-11-24T16:04:24.241Z",
   "ofertas": [
+    {
+      "id": "21ntSmU",
+      "nome": "Capacete Asx City Solid Preto Fosco Integral Adulto",
+      "categoria": "Diversos",
+      "preco": 340.69,
+      "link": "https://meli.la/21ntSmU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/capacete-asx-city-solid-preto-fosco-integral-adulto/up/MLBU3829137126",
+      "precoDe": 599,
+      "pix": true,
+      "parcelas": "R$400,81 em 10x R$40,08 sem juros",
+      "postado": "2026-11-24T16:04:24.239Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-21ntSmU.jpg"
+    },
     {
       "id": "2nN7kei",
       "nome": "Motobomba Piscina Aquex Sibrape 1/2cv Motor Weg Bivolt",
@@ -4750,22 +4768,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1SGWpCJ.jpg"
-    },
-    {
-      "id": "11pNyj1",
-      "nome": "Multi-Inseticida Automático Óleo de Citronela SBP Caixa 250ml",
-      "categoria": "Diversos",
-      "preco": 56.52,
-      "link": "https://meli.la/11pNyj1",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/multi-inseticida-automatico-oleo-de-citronela-sbp-caixa-250ml/p/MLB16198453",
-      "precoDe": 100.02,
-      "postado": "2026-11-22T16:03:38.395Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-11pNyj1.jpg"
     }
   ]
 }
