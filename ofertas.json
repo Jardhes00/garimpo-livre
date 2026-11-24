@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-24T14:33:53.262Z",
+  "atualizado": "2026-11-24T14:35:07.968Z",
   "ofertas": [
+    {
+      "id": "21Yc2eu",
+      "nome": "Caixa de Som LG Boombox Speaker XBOOM Blast 220W Bluetooth, Bateria 36h e IP68",
+      "categoria": "Tech",
+      "preco": 1727.1,
+      "link": "https://meli.la/21Yc2eu",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-lg-boombox-speaker-xboom-blast-220w-bluetooth-bateria-36h-e-ip68/p/MLB77412029",
+      "precoDe": 2699,
+      "pix": true,
+      "parcelas": "R$1.919 em 10x R$191,90 sem juros",
+      "cupomAnuncio": "R$1.727,10 com Cupom",
+      "postado": "2026-11-24T14:35:07.966Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-21Yc2eu.jpg"
+    },
     {
       "id": "13WGiR5",
       "nome": "Garrafa térmica Termolar Lúmina Bomba de Pressão 1L",
