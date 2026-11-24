@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T16:30:40.627Z",
+  "atualizado": "2026-11-24T16:31:55.734Z",
   "ofertas": [
+    {
+      "id": "1v54twX",
+      "nome": "Calça Alfaiataria Feminina Wide Leg Social Cintura Alta",
+      "categoria": "Moda",
+      "preco": 41.99,
+      "link": "https://meli.la/1v54twX",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-3792649671-calca-alfaiataria-feminina-wide-leg-social-cintura-alta-_JM",
+      "precoDe": 73.9,
+      "cupomAnuncio": "Compre R$100 e ganhe 5% OFF por seguir a loja",
+      "postado": "2026-11-24T16:31:55.732Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1v54twX.jpg"
+    },
     {
       "id": "1a3rCf5",
       "nome": "Tênis Kappa Pulse Supra Unissex De Corrida Conforto",
