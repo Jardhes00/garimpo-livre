@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T14:46:56.580Z",
+  "atualizado": "2026-11-24T14:48:10.572Z",
   "ofertas": [
+    {
+      "id": "2rmcuqw",
+      "nome": "Mesa Para Setup Gamer 150cm Industrial Escritório Pés Aço Preto",
+      "categoria": "Games",
+      "preco": 187.91,
+      "link": "https://meli.la/2rmcuqw",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mesa-para-setup-gamer-150cm-industrial-escritorio-pes-aco-preto/p/MLB77170966",
+      "precoDe": 289.99,
+      "pix": true,
+      "parcelas": "R$234,89 em outros meios",
+      "postado": "2026-11-24T14:48:10.570Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2rmcuqw.jpg"
+    },
     {
       "id": "2ncRqbU",
       "nome": "HONEYWHALE M2 MAX-B Patinete Elétrico Dobrável para Adultos com Assento, Motor",
@@ -4276,24 +4294,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1YFdSFG.jpg"
-    },
-    {
-      "id": "2hma7jE",
-      "nome": "Mop Esfregão Giratório Condor Balde Inox 13 Litros + Refil Microfibra + Cabo",
-      "categoria": "Diversos",
-      "preco": 91.91,
-      "link": "https://meli.la/2hma7jE",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/mop-esfregao-giratorio-condor-balde-inox-13-litros-refil-microfibra-cabo-longo-14-metros/p/MLB47285674",
-      "precoDe": 130,
-      "pix": true,
-      "parcelas": "R$99,90 em outros meios",
-      "postado": "2026-11-22T14:47:06.254Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2hma7jE.jpg"
     }
   ]
 }
