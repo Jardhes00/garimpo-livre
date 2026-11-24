@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T20:58:57.742Z",
+  "atualizado": "2026-11-24T21:00:13.100Z",
   "ofertas": [
+    {
+      "id": "33axeXV",
+      "nome": "Lavadora e Desobstruidora de Alta Pressão WAP WL 4200 Ultra 5 Pistões 2200w",
+      "categoria": "Diversos",
+      "preco": 641.75,
+      "link": "https://meli.la/33axeXV",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-e-desobstruidora-de-alta-pressao-wap-wl-4200-ultra-5-pistoes-2200w-1305psi-510lh-com-jato-regulavel-e-motor-de-inducao-127v/p/MLB62043240",
+      "precoDe": 1299.9,
+      "pix": true,
+      "parcelas": "R$755 em 10x R$75,50 sem juros",
+      "postado": "2026-11-24T21:00:13.099Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-33axeXV.jpg"
+    },
     {
       "id": "1DQFnKx",
       "nome": "Bola de Volei de Praia BV550C-WYBR Pu Costurado Branco Amarelo E Azul MIKASA",
