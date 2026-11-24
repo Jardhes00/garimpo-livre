@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T20:55:12.653Z",
+  "atualizado": "2026-11-24T20:56:27.747Z",
   "ofertas": [
+    {
+      "id": "2mur845",
+      "nome": "Cafeteira Nescafé Dolce Gusto Genio S Basic Grafite",
+      "categoria": "Casa",
+      "preco": 389.4,
+      "link": "https://meli.la/2mur845",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafeteira-nescafe-dolce-gusto-genio-s-basic-grafite/p/MLB79477528",
+      "precoDe": 679.9,
+      "pix": true,
+      "parcelas": "R$409,90 em outros meios",
+      "postado": "2026-11-24T20:56:27.746Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2mur845.jpg"
+    },
     {
       "id": "2z92hKH",
       "nome": "Desobstruidora E Lavadora Alta Pressão Wap Black Ultra",
