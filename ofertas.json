@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-24T15:50:39.428Z",
+  "atualizado": "2026-11-24T15:51:54.814Z",
   "ofertas": [
+    {
+      "id": "15RhcC7",
+      "nome": "Cafeteira Nescafé Dolce Gusto Arno Genio S Plus Preta 110v",
+      "categoria": "Casa",
+      "preco": 464.55,
+      "link": "https://meli.la/15RhcC7",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafeteira-nescafe-dolce-gusto-arno-genio-s-plus-preta-110v/p/MLB17003267",
+      "precoDe": 779.9,
+      "pix": true,
+      "parcelas": "R$489 em outros meios",
+      "cupomAnuncio": "R$464,55 com Cupom",
+      "postado": "2026-11-24T15:51:54.813Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-15RhcC7.jpg"
+    },
     {
       "id": "2QcmACM",
       "nome": "Impressora Multifuncional Tanque De Tinta Color Epson L3250 Preto",
