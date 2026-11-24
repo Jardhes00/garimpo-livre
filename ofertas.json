@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T20:46:27.375Z",
+  "atualizado": "2026-11-24T20:47:42.619Z",
   "ofertas": [
+    {
+      "id": "1Y8tJUE",
+      "nome": "Vodka Destilada Belvedere Garrafa 750ml",
+      "categoria": "Diversos",
+      "preco": 106,
+      "link": "https://meli.la/1Y8tJUE",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/vodka-destilada-belvedere-garrafa-750ml/p/MLB18308306",
+      "precoDe": 198.99,
+      "cupomAnuncio": "Compre R$229 e ganhe R$50 OFF",
+      "postado": "2026-11-24T20:47:42.616Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Y8tJUE.jpg"
+    },
     {
       "id": "2dtigmQ",
       "nome": "Impressora De Etiqueta Zd220 Zebra Nova Gc420t Preto",
