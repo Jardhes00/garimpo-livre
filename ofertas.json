@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T20:42:42.627Z",
+  "atualizado": "2026-11-24T20:43:57.574Z",
   "ofertas": [
+    {
+      "id": "2tn8D7V",
+      "nome": "Estante Bancada Firme Mdp 120x60 Organização Electrónicos",
+      "categoria": "Diversos",
+      "preco": 182.75,
+      "link": "https://meli.la/2tn8D7V",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/estante-bancada-firme-mdp-120x60-organizacao-electronicos/up/MLBU3983724606",
+      "precoDe": 325.2,
+      "pix": true,
+      "parcelas": "R$215 em 6x R$35,83 sem juros",
+      "postado": "2026-11-24T20:43:57.573Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2tn8D7V.jpg"
+    },
     {
       "id": "2PNLrpi",
       "nome": "Huggies Fralda Descartável Máxima Proteção M - 172 Un Sem Gênero",
