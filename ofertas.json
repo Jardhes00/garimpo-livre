@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-24T15:00:38.122Z",
+  "atualizado": "2026-11-24T15:01:53.250Z",
   "ofertas": [
+    {
+      "id": "1yDf97S",
+      "nome": "Supercoffee 3.0 Em Pó Creme De Avelã Caffeine Army",
+      "categoria": "Beleza",
+      "preco": 161.99,
+      "link": "https://meli.la/1yDf97S",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB80562184",
+      "precoDe": 216.9,
+      "pix": true,
+      "parcelas": "R$ 179,99 em 5x R$ 36 sem juros",
+      "cupomAnuncio": "Compre R$180 e ganhe 10% OFF por seguir a loja",
+      "postado": "2026-11-24T15:01:53.247Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1yDf97S.jpg"
+    },
     {
       "id": "2eD7uFG",
       "nome": "Caixa De Som Amplificada Mondial Cm-220-n Bluetooth",
