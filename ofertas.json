@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T16:34:25.868Z",
+  "atualizado": "2026-11-24T16:35:42.658Z",
   "ofertas": [
+    {
+      "id": "2KF3c6F",
+      "nome": "Chaleira Elétrica Inox 1,8L 1500W Aquecimento Rápido Automática",
+      "categoria": "Diversos",
+      "preco": 34.79,
+      "link": "https://meli.la/2KF3c6F",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/chaleira-eletrica-inox-18l-1500w-aquecimento-rapido-automatica/p/MLB62000830",
+      "precoDe": 59.9,
+      "extra": "Preço com cupom no anúncio",
+      "postado": "2026-11-24T16:35:42.656Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2KF3c6F.jpg"
+    },
     {
       "id": "2Jb3csE",
       "nome": "Sanduicheira Elgin Brunch Time 2 em 1 Grill Antiaderente Preta 800W",
