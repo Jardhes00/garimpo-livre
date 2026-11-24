@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T19:55:41.765Z",
+  "atualizado": "2026-11-24T19:57:42.019Z",
   "ofertas": [
+    {
+      "id": "296yan3",
+      "nome": "Tablet VAIO TL10 4GB RAM 64GB SSD 4G Teclado Magnético, Android 13, Câmera Traseira 8MP, Bateria De 7000mAH, Tela 10.4\" 2K, Wifi Dual Band - Preto",
+      "categoria": "Tech",
+      "preco": 1043.1,
+      "link": "https://meli.la/296yan3",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tablet-vaio-tl10-4gb-ram-64gb-ssd-4g-teclado-magnetico-android-13-camera-traseira-8mp-bateria-de-7000mah-tela-104-2k-wifi-dual-band-preto/p/MLB68834675",
+      "precoDe": 1925.35,
+      "pix": true,
+      "parcelas": "R$ 1.159 em 10x R$ 115,90 sem juros",
+      "postado": "2026-11-24T19:57:42.016Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-296yan3.jpg"
+    },
     {
       "id": "2XswSdS",
       "nome": "Galaxy-A57 Azul Claro 256gb",
