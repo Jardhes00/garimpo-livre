@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T16:31:55.734Z",
+  "atualizado": "2026-11-24T16:33:11.089Z",
   "ofertas": [
+    {
+      "id": "1Phk9Em",
+      "nome": "Lava-Roupas Pó Omo Todo Ciclo Pacote 4kg Tamanho Família",
+      "categoria": "Diversos",
+      "preco": 38.7,
+      "link": "https://meli.la/1Phk9Em",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lava-roupas-po-omo-todo-ciclo-pacote-4kg-tamanho-familia/p/MLB78290482",
+      "precoDe": 53.69,
+      "pix": true,
+      "postado": "2026-11-24T16:33:11.087Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Phk9Em.jpg"
+    },
     {
       "id": "1v54twX",
       "nome": "Calça Alfaiataria Feminina Wide Leg Social Cintura Alta",
