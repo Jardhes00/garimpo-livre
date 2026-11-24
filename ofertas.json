@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T16:09:25.301Z",
+  "atualizado": "2026-11-24T16:10:40.085Z",
   "ofertas": [
+    {
+      "id": "18gy5hk",
+      "nome": "Tenda Gazebo Sanfonada 3x3m Proteção Uv Durável Camping",
+      "categoria": "Diversos",
+      "preco": 450,
+      "link": "https://meli.la/18gy5hk",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tenda-gazebo-sanfonada-3x3m-protecao-uv-duravel-camping/up/MLBU5907159510",
+      "precoDe": 849.9,
+      "parcelas": "9x de R$50 sem juros",
+      "postado": "2026-11-24T16:10:40.082Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-18gy5hk.jpg"
+    },
     {
       "id": "1pFD8y5",
       "nome": "Impressora Monocromática Bematech Mp-4200 HS Cupom",
