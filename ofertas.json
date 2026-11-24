@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T19:54:26.696Z",
+  "atualizado": "2026-11-24T19:55:41.765Z",
   "ofertas": [
+    {
+      "id": "2XswSdS",
+      "nome": "Galaxy-A57 Azul Claro 256gb",
+      "categoria": "Tech",
+      "preco": 2198.7,
+      "link": "https://meli.la/2XswSdS",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/galaxy-a57-azul-claro-256gb/p/MLB66149470",
+      "precoDe": 4299,
+      "pix": true,
+      "parcelas": "R$ 2.443 em 10x R$ 244,30 sem juros",
+      "postado": "2026-11-24T19:55:41.764Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2XswSdS.jpg"
+    },
     {
       "id": "1YynH6F",
       "nome": "Ração Pedigree Cães Adultos Raças pequenas Sabor Carne e Vegetais de 15kg",
