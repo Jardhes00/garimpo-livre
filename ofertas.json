@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-24T15:54:24.612Z",
+  "atualizado": "2026-11-24T15:55:39.776Z",
   "ofertas": [
+    {
+      "id": "18vgAcQ",
+      "nome": "Óleo Chroma Absolu Kérastase Chroma Éclat Óleo Capilar Recarregável 75ml",
+      "categoria": "Diversos",
+      "preco": 341.1,
+      "link": "https://meli.la/18vgAcQ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/oleo-chroma-absolu-kerastase-chroma-eclat-oleo-capilar-recarregavel-75ml/p/MLB50004317",
+      "precoDe": 487.9,
+      "pix": true,
+      "parcelas": "R$379 em 7x R$54,14 sem juros",
+      "cupomAnuncio": "Compre R$799 e ganhe R$100 OFF",
+      "postado": "2026-11-24T15:55:39.773Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-18vgAcQ.jpg"
+    },
     {
       "id": "1RL3RH4",
       "nome": "Câmera De Segurança A28b 5g Ampla Visão Dupla 3+3 Mp Icsee",
@@ -4694,22 +4713,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1coVkDk.jpg"
-    },
-    {
-      "id": "1PpSDRM",
-      "nome": "Ventilador De Teto Ventilow Luna Turbo 3 Pás Cor Mogno Cor Da Estrutura Preto",
-      "categoria": "Casa",
-      "preco": 228,
-      "link": "https://meli.la/1PpSDRM",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-teto-ventilow-luna-turbo-3-pas-cor-mogno-cor-da-estrutura-preto-150w-de-potencia-moderno-e-silencioso/p/MLB69439734",
-      "precoDe": 400,
-      "postado": "2026-11-22T15:54:38.211Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1PpSDRM.jpg"
     }
   ]
 }
