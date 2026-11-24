@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T14:43:07.875Z",
+  "atualizado": "2026-11-24T14:44:22.825Z",
   "ofertas": [
+    {
+      "id": "2cEcZko",
+      "nome": "Ventilador de Teto Yris Preto/Mogno 3 Pás Ventex",
+      "categoria": "Casa",
+      "preco": 203.55,
+      "link": "https://meli.la/2cEcZko",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-teto-yris-pretomogno-3-pas-ventex/p/MLB19609413",
+      "precoDe": 345,
+      "postado": "2026-11-24T14:44:22.824Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2cEcZko.jpg"
+    },
     {
       "id": "1TRH9R2",
       "nome": "Combo Cuide-se Bem Deleite Caramelizado Loção Corporal 400ml",
