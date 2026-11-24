@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T19:37:41.100Z",
+  "atualizado": "2026-11-24T19:39:26.043Z",
   "ofertas": [
+    {
+      "id": "2ByykcM",
+      "nome": "Controle Sem Fio Xbox Series X|S Microsoft Azul Shock com Bluetooth",
+      "categoria": "Games",
+      "preco": 339.91,
+      "link": "https://meli.la/2ByykcM",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/controle-sem-fio-xbox-series-xs-microsoft-azul-shock-com-bluetooth/p/MLB51545470",
+      "precoDe": 615.12,
+      "pix": true,
+      "parcelas": "R$ 399,90 em outros meios",
+      "postado": "2026-11-24T19:39:26.042Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ByykcM.jpg"
+    },
     {
       "id": "1XYU6ER",
       "nome": "Smart TV Hisense HI-QLED 4K 43\" Polegadas com Dolby Atmos, Dolby Gaming e Alexa - 43Q6QVV",
