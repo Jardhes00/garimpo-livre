@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T16:39:26.210Z",
+  "atualizado": "2026-11-24T16:40:41.364Z",
   "ofertas": [
+    {
+      "id": "11uQmcd",
+      "nome": "LEGO Speed Champions Mercedes-AMG G 63 e Mercedes-AMG SL 63 76924",
+      "categoria": "Diversos",
+      "preco": 196.9,
+      "link": "https://meli.la/11uQmcd",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lego-speed-champions-mercedes-amg-g-63-e-mercedes-amg-sl-63-76924-conjunto-de-construcao-com-2-carros-esportivos-modelos-para-montar-brincar-e-colecionar-presente-de-natal-10/p/MLB37513037",
+      "precoDe": 429.99,
+      "parcelas": "12x de R$ 19,49",
+      "postado": "2026-11-24T16:40:41.362Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-11uQmcd.jpg"
+    },
     {
       "id": "2WZoKDa",
       "nome": "Whey Protein Isolado Dux Nutrition - Pote 900g Sabor Chocolate",
