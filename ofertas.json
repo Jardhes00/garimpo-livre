@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T15:20:38.791Z",
+  "atualizado": "2026-11-24T15:21:53.690Z",
   "ofertas": [
+    {
+      "id": "2pk5krX",
+      "nome": "Camisa Térmica Voker Segunda Pele Proteção Solar Uv Dry Fit",
+      "categoria": "Moda",
+      "preco": 37,
+      "link": "https://meli.la/2pk5krX",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-2178625164-camisa-termica-voker-segunda-pele-proteco-solar-uv-dry-fit-_JM",
+      "precoDe": 54.9,
+      "postado": "2026-11-24T15:21:53.688Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2pk5krX.jpg"
+    },
     {
       "id": "1GWFeL7",
       "nome": "Genco 3x1 Cloro Granulado Dicloro Para Piscina",
@@ -4475,24 +4491,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1sNBkPD.jpg"
-    },
-    {
-      "id": "2wMngwS",
-      "nome": "Bomba Periférica Foxlux Água 1Cv 750W Bivolt Automático",
-      "categoria": "Diversos",
-      "preco": 275.4,
-      "link": "https://meli.la/2wMngwS",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/bomba-periferica-foxlux-agua-1cv-750w-bivolt-automatico/p/MLB61881850",
-      "precoDe": 499.9,
-      "pix": true,
-      "parcelas": "R$289,90 em outros meios",
-      "postado": "2026-11-22T15:20:51.949Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2wMngwS.jpg"
     }
   ]
 }
