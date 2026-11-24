@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T15:08:08.204Z",
+  "atualizado": "2026-11-24T15:09:23.647Z",
   "ofertas": [
+    {
+      "id": "2C4CCzn",
+      "nome": "Ventilador De Teto 42 Luz Led Controle Remoto 6 Velocidades",
+      "categoria": "Games",
+      "preco": 238.8,
+      "link": "https://meli.la/2C4CCzn",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-7032649362-ventilador-de-teto-42-luz-led-controle-remoto-6-velocidades-_JM",
+      "precoDe": 398,
+      "parcelas": "12x R$ 23,64",
+      "postado": "2026-11-24T15:09:23.644Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2C4CCzn.jpg"
+    },
     {
       "id": "21eL1CQ",
       "nome": "Frigobar 45 Litros Inverter 1 Porta Degelo Manual MDRD086FGD013 Branco Bivolt Midea",
