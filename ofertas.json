@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T15:28:08.692Z",
+  "atualizado": "2026-11-24T15:29:24.089Z",
   "ofertas": [
+    {
+      "id": "1xtW9NW",
+      "nome": "Luva Latex C/pó Kit Com 1000 Kit 10cx",
+      "categoria": "Diversos",
+      "preco": 214.73,
+      "link": "https://meli.la/1xtW9NW",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/luva-latex-cpo-kit-com-1000-kit-10cx/up/MLBU1152231422",
+      "precoDe": 499.9,
+      "cupomAnuncio": "R$209,73 com Cupom por seguir a loja",
+      "postado": "2026-11-24T15:29:24.088Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1xtW9NW.jpg"
+    },
     {
       "id": "27eUTdJ",
       "nome": "Kérastase Nutritive Masquintense Máscara de Nutrição Profunda, Cabelo Seco de",
