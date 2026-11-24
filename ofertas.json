@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T15:09:23.647Z",
+  "atualizado": "2026-11-24T15:10:38.352Z",
   "ofertas": [
+    {
+      "id": "12HfeuF",
+      "nome": "Tenda Gazebo Barraca Dobrável Sanfonada 3x3m Marqs Home Standard Preto com Proteção UV e Impermeável",
+      "categoria": "Diversos",
+      "preco": 370.42,
+      "link": "https://meli.la/12HfeuF",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB50615284",
+      "precoDe": 499.9,
+      "pix": true,
+      "parcelas": "R$ 389,92 em 10x R$ 38,99 sem juros",
+      "postado": "2026-11-24T15:10:38.349Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-12HfeuF.jpg"
+    },
     {
       "id": "2C4CCzn",
       "nome": "Ventilador De Teto 42 Luz Led Controle Remoto 6 Velocidades",
@@ -4404,24 +4422,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2c8eetm.jpg"
-    },
-    {
-      "id": "12cxZSd",
-      "nome": "Fritadeira Elétrica Air Fryer Oven Black INOX WAP WAOD2",
-      "categoria": "Casa",
-      "preco": 430.94,
-      "link": "https://meli.la/12cxZSd",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/fritadeira-eletrica-air-fryer-oven-black-inox-wap-waod2/p/MLB43435820",
-      "precoDe": 741.43,
-      "pix": true,
-      "parcelas": "R$506,99 em 10x R$50,70 sem juros",
-      "postado": "2026-11-22T15:09:36.636Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-12cxZSd.jpg"
     }
   ]
 }
