@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T14:38:09.206Z",
+  "atualizado": "2026-11-24T14:39:22.465Z",
   "ofertas": [
+    {
+      "id": "1QNU8bG",
+      "nome": "Smartwatch Samsung Galaxy Watch 8 40mm Prateado com Bluetooth e Wi-Fi",
+      "categoria": "Tech",
+      "preco": 1079.1,
+      "link": "https://meli.la/1QNU8bG",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smartwatch-samsung-galaxy-watch-8-40mm-prateado-com-bluetooth-e-wi-fi/p/MLB52053574",
+      "precoDe": 2707,
+      "pix": true,
+      "parcelas": "R$1.199 em 10x R$119,90 sem juros",
+      "postado": "2026-11-24T14:39:22.463Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1QNU8bG.jpg"
+    },
     {
       "id": "2xtdZnS",
       "nome": "150w Levou Feixe Movendo Cabeça Foco Feixe Dj",
