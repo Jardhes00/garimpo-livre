@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T19:39:26.043Z",
+  "atualizado": "2026-11-24T19:41:11.139Z",
   "ofertas": [
+    {
+      "id": "1ZNdV4h",
+      "nome": "Bateria Li-ion 18v Lithium-ion Makita Bl1850 5ah Original Nf",
+      "categoria": "Diversos",
+      "preco": 339.99,
+      "link": "https://meli.la/1ZNdV4h",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bateria-li-ion-18v-lithium-ion-makita-bl1850-5ah-original-nf/up/MLBU1414358885",
+      "precoDe": 673.45,
+      "pix": true,
+      "parcelas": "R$ 399,99 em 10x R$ 40 sem juros",
+      "postado": "2026-11-24T19:41:11.136Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ZNdV4h.jpg"
+    },
     {
       "id": "2ByykcM",
       "nome": "Controle Sem Fio Xbox Series X|S Microsoft Azul Shock com Bluetooth",
