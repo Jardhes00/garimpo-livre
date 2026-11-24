@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T15:14:24.199Z",
+  "atualizado": "2026-11-24T15:15:38.623Z",
   "ofertas": [
+    {
+      "id": "1wPnmyi",
+      "nome": "Esmerilhadeira Angular Corte E Desbaste 115mm 850w Makita",
+      "categoria": "Ferramentas",
+      "preco": 266.71,
+      "link": "https://meli.la/1wPnmyi",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-4746424594-esmerilhadeira-angular-corte-e-desbaste-115mm-850w-makita-_JM",
+      "precoDe": 479.9,
+      "pix": true,
+      "parcelas": "R$ 289,90 em outros meios",
+      "postado": "2026-11-24T15:15:38.621Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1wPnmyi.jpg"
+    },
     {
       "id": "2rUmJUi",
       "nome": "Smartphone Motorola Moto G67 5g - 128gb 4gb Ram + 8gb Ram Boost, Camera 50mp Sony Lytia 600, Tela 1.5k Extreme Amoled 120hz, Ultrarresistente - Chumbo",
