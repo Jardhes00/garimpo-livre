@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T20:48:57.300Z",
+  "atualizado": "2026-11-24T20:50:12.357Z",
   "ofertas": [
+    {
+      "id": "2G5UTxH",
+      "nome": "Máquina de Lavar Consul 10 kg Dosagem Econômica - CWB10BB Branca",
+      "categoria": "Diversos",
+      "preco": 1421.1,
+      "link": "https://meli.la/2G5UTxH",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquina-de-lavar-consul-10-kg-dosagem-economica-cwb10bb-branca/p/MLB67841910",
+      "precoDe": 2689,
+      "pix": true,
+      "parcelas": "R$1.495,90 em 10x R$149,59 sem juros",
+      "postado": "2026-11-24T20:50:12.355Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2G5UTxH.jpg"
+    },
     {
       "id": "29ERjYC",
       "nome": "Purificador De Água Fr600 Speciale Branco Ibbl",
