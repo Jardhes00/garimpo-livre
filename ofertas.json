@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-24T19:52:41.722Z",
+  "atualizado": "2026-11-24T19:54:26.696Z",
   "ofertas": [
+    {
+      "id": "1YynH6F",
+      "nome": "Ração Pedigree Cães Adultos Raças pequenas Sabor Carne e Vegetais de 15kg",
+      "categoria": "Pet",
+      "preco": 121.63,
+      "link": "https://meli.la/1YynH6F",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/racao-pedigree-caes-adultos-racas-pequenas-sabor-carne-e-vegetais-de-15kg/p/MLB17938255",
+      "precoDe": 199.9,
+      "pix": true,
+      "parcelas": "R$ 135,15 em outros meios",
+      "cupomAnuncio": "R$121,63 com Cupom",
+      "postado": "2026-11-24T19:54:26.694Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1YynH6F.jpg"
+    },
     {
       "id": "1pTZcEW",
       "nome": "Vinho Português Branco Casal Garcia Vinho Verde Aveleda 750ml",
