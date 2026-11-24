@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T19:57:42.019Z",
+  "atualizado": "2026-11-24T19:59:42.009Z",
   "ofertas": [
+    {
+      "id": "1dbQh9e",
+      "nome": "Jogo De Panelas Antiaderente 6pç Sirius Vanilla Brinox",
+      "categoria": "Games",
+      "preco": 594.06,
+      "link": "https://meli.la/1dbQh9e",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/jogo-de-panelas-antiaderente-6pc-sirius-vanilla-brinox/p/MLB34379877",
+      "precoDe": 1199,
+      "pix": true,
+      "parcelas": "R$ 698,90 em 10x R$ 69,89 sem juros",
+      "postado": "2026-11-24T19:59:42.007Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1dbQh9e.jpg"
+    },
     {
       "id": "296yan3",
       "nome": "Tablet VAIO TL10 4GB RAM 64GB SSD 4G Teclado Magnético, Android 13, Câmera Traseira 8MP, Bateria De 7000mAH, Tela 10.4\" 2K, Wifi Dual Band - Preto",
