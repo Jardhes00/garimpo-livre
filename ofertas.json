@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T16:08:10.048Z",
+  "atualizado": "2026-11-24T16:09:25.301Z",
   "ofertas": [
+    {
+      "id": "1pFD8y5",
+      "nome": "Impressora Monocromática Bematech Mp-4200 HS Cupom",
+      "categoria": "Tech",
+      "preco": 569,
+      "link": "https://meli.la/1pFD8y5",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/impressora-monocromatica-bematech-mp-4200-hs-cupom/p/MLB23961451",
+      "precoDe": 847.9,
+      "postado": "2026-11-24T16:09:25.299Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1pFD8y5.jpg"
+    },
     {
       "id": "2oSHKbk",
       "nome": "Cadeira De Escritorio Ergonomica Nr17 Ethernus Marqs Home Giratoria Resistente",
