@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T15:18:08.537Z",
+  "atualizado": "2026-11-24T15:19:23.492Z",
   "ofertas": [
+    {
+      "id": "1Nm8Jvv",
+      "nome": "Aspirador de Pó Vertical Midea, 1350W, 2 em 1, cabo de 5M, Preto e Azul",
+      "categoria": "Casa",
+      "preco": 119.61,
+      "link": "https://meli.la/1Nm8Jvv",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB54597339",
+      "precoDe": 228.43,
+      "pix": true,
+      "parcelas": "R$ 132,90 em outros meios",
+      "postado": "2026-11-24T15:19:23.489Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Nm8Jvv.jpg"
+    },
     {
       "id": "2t2Kfnv",
       "nome": "Premier Nutrição Clínica Hipoalérgico Cordeiro Cão Adulto Porte Pequeno Pele Sensível 10kg",
@@ -4458,24 +4476,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2wMngwS.jpg"
-    },
-    {
-      "id": "33g3vUU",
-      "nome": "Cetaphil Loção Hidratante Corporal e Facial para Pele Sensível, Normal a Seca",
-      "categoria": "Beleza",
-      "preco": 67.41,
-      "link": "https://meli.la/33g3vUU",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cetaphil-locao-hidratante-corporal-e-facial-para-pele-sensivel-normal-a-seca-473ml-hidratacao-48h/p/MLB20772474",
-      "precoDe": 134.9,
-      "pix": true,
-      "parcelas": "R$74,90 em outros meios",
-      "postado": "2026-11-22T15:18:36.905Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-33g3vUU.jpg"
     }
   ]
 }
