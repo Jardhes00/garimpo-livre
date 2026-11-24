@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T14:32:38.198Z",
+  "atualizado": "2026-11-24T14:33:53.262Z",
   "ofertas": [
+    {
+      "id": "13WGiR5",
+      "nome": "Garrafa térmica Termolar Lúmina Bomba de Pressão 1L",
+      "categoria": "Diversos",
+      "preco": 72.11,
+      "link": "https://meli.la/13WGiR5",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/garrafa-termica-termolar-lumina-bomba-de-pressao-1l/p/MLB9989931",
+      "precoDe": 109.9,
+      "postado": "2026-11-24T14:33:53.261Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-13WGiR5.jpg"
+    },
     {
       "id": "2ibBvxz",
       "nome": "Autoclave Alt 5l Cinza Estética Odonto Anvisa 110",
