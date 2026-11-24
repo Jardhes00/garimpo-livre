@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T14:48:10.572Z",
+  "atualizado": "2026-11-24T14:49:25.681Z",
   "ofertas": [
+    {
+      "id": "2eBMDSi",
+      "nome": "Royal Canin Gastrointestinal Low Fat Cães Pequeno 7,5kg",
+      "categoria": "Diversos",
+      "preco": 313.5,
+      "link": "https://meli.la/2eBMDSi",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/royal-canin-gastrointestinal-low-fat-caes-pequeno-75kg/p/MLB39328279",
+      "precoDe": 494.44,
+      "pix": true,
+      "parcelas": "R$330 em outros meios",
+      "postado": "2026-11-24T14:49:25.679Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2eBMDSi.jpg"
+    },
     {
       "id": "2rmcuqw",
       "nome": "Mesa Para Setup Gamer 150cm Industrial Escritório Pés Aço Preto",
@@ -4276,24 +4294,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1bUGQEH.jpg"
-    },
-    {
-      "id": "1YFdSFG",
-      "nome": "Trilha Hot Wheels Jurassic World T-rex Vs Fire Station",
-      "categoria": "Diversos",
-      "preco": 207.85,
-      "link": "https://meli.la/1YFdSFG",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/trilha-hot-wheels-jurassic-world-t-rex-vs-fire-station/p/MLB45208910",
-      "precoDe": 299.99,
-      "pix": true,
-      "parcelas": "R$218,79 em 6x R$36,46 sem juros",
-      "postado": "2026-11-22T14:49:20.884Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1YFdSFG.jpg"
     }
   ]
 }
