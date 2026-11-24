@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T16:18:10.460Z",
+  "atualizado": "2026-11-24T16:19:25.373Z",
   "ofertas": [
+    {
+      "id": "155CWAA",
+      "nome": "LEGO Icons McLaren MP4/4 Ayrton Senna 10330; Kit de construção e modelo",
+      "categoria": "Diversos",
+      "preco": 395.09,
+      "link": "https://meli.la/155CWAA",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lego-icons-mclaren-mp44-ayrton-senna-10330-kit-de-construcao-e-modelo-colecionavel-carro-de-corrida-com-minifigura-de-ayrton-senna-presente-de-natal-para-fas-18/p/MLB34191654",
+      "precoDe": 799.99,
+      "parcelas": "7x de R$56,44 sem juros",
+      "postado": "2026-11-24T16:19:25.371Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-155CWAA.jpg"
+    },
     {
       "id": "23Pu8Na",
       "nome": "HUAWEI MatePad SE 11 4GB+128GB Tablet,FullView Display,Bateria de grande",
