@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T21:23:58.368Z",
+  "atualizado": "2026-11-24T21:25:13.584Z",
   "ofertas": [
+    {
+      "id": "2UZp4PC",
+      "nome": "Café Torrado Moído Tradicional 3 Corações Caixa/Pacote 500g",
+      "categoria": "Diversos",
+      "preco": 22.9,
+      "link": "https://meli.la/2UZp4PC",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafe-torrado-moido-tradicional-3-coracoes-caixapacote-500g/p/MLB24241917",
+      "precoDe": 48.06,
+      "cupomAnuncio": "Compre R$79,90 e ganhe 15% OFF",
+      "postado": "2026-11-24T21:25:13.582Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2UZp4PC.jpg"
+    },
     {
       "id": "2uVsdyZ",
       "nome": "Fechadura Inteligente de Embutir com Maçaneta MFR 7000 V Intelbras",
