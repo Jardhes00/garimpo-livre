@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-24T16:28:10.543Z",
+  "atualizado": "2026-11-24T16:29:25.380Z",
   "ofertas": [
+    {
+      "id": "1xmwyFm",
+      "nome": "Kit 2 Camisetas Gota Pica Pau Bordado Reserva",
+      "categoria": "Moda",
+      "preco": 131.66,
+      "link": "https://meli.la/1xmwyFm",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-4278235683-kit-2-camisetas-gota-pica-pau-bordado-reserva-_JM",
+      "precoDe": 238,
+      "pix": true,
+      "parcelas": "R$ 138,59 em 4x de R$ 34,65 sem juros",
+      "cupomAnuncio": "R$110,60 com Cupom por seguir a loja",
+      "postado": "2026-11-24T16:29:25.378Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1xmwyFm.jpg"
+    },
     {
       "id": "24L2Z2W",
       "nome": "Controle Sem Fio Sony DualSense para PlayStation 5 Cor Branco CFI-ZCT1W",
