@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T14:59:24.660Z",
+  "atualizado": "2026-11-24T15:00:38.122Z",
   "ofertas": [
+    {
+      "id": "2eD7uFG",
+      "nome": "Caixa De Som Amplificada Mondial Cm-220-n Bluetooth",
+      "categoria": "Tech",
+      "preco": 217.55,
+      "link": "https://meli.la/2eD7uFG",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-amplificada-mondial-cm-220-n-bluetooth/p/MLB74882390",
+      "precoDe": 399,
+      "pix": true,
+      "parcelas": "R$229 em 6x R$38,17 sem juros",
+      "postado": "2026-11-24T15:00:38.121Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2eD7uFG.jpg"
+    },
     {
       "id": "1nahTDA",
       "nome": "Marmita Elétrica Preta Bivolt Portátil Doméstica 110/220v Veicular 12/24v",
@@ -4330,22 +4348,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2XvNoMs.jpg"
-    },
-    {
-      "id": "2MYRYQr",
-      "nome": "Whey protein XPro Nutrition Iso Blend Complex em pó sabor Baunilha x 2kg",
-      "categoria": "Suplementos",
-      "preco": 86.39,
-      "link": "https://meli.la/2MYRYQr",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/whey-protein-xpro-nutrition-iso-blend-complex-em-po-sabor-baunilha-x-2kg/p/MLB53177203",
-      "precoDe": 139.99,
-      "postado": "2026-11-22T15:00:36.353Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2MYRYQr.jpg"
     }
   ]
 }
