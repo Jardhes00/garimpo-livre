@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T16:21:55.362Z",
+  "atualizado": "2026-11-24T16:23:10.397Z",
   "ofertas": [
+    {
+      "id": "1KZwj5X",
+      "nome": "Lavadora de Alta Pressão Electrolux 1850PSI 1500W Potência com Canhão de Espuma",
+      "categoria": "Diversos",
+      "preco": 385.44,
+      "link": "https://meli.la/1KZwj5X",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-electrolux-1850psi-1500w-potencia-com-canhao-de-espuma-powerwash-ews1850p-preta-lava-jato-lava-car/p/MLB41883375",
+      "precoDe": 698.57,
+      "pix": true,
+      "parcelas": "R$438 em outros meios",
+      "postado": "2026-11-24T16:23:10.396Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1KZwj5X.jpg"
+    },
     {
       "id": "2UPVYTm",
       "nome": "Whey Protein Concentrado 1kg Dark Lab Sabor Paçoca",
