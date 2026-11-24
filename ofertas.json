@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T20:32:42.094Z",
+  "atualizado": "2026-11-24T20:33:57.037Z",
   "ofertas": [
+    {
+      "id": "1oVKaPC",
+      "nome": "Huggies Fralda Descartável Máxima Proteção XG - 112 Un",
+      "categoria": "Bebê",
+      "preco": 123.99,
+      "link": "https://meli.la/1oVKaPC",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/huggies-fralda-descartavel-maxima-protecao-xg-112-un/p/MLB17336025",
+      "precoDe": 197.75,
+      "postado": "2026-11-24T20:33:57.036Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1oVKaPC.jpg"
+    },
     {
       "id": "25B1KzF",
       "nome": "Estação Musculação 45kg Completa Academia Treino Wct Fitness Preto Preto E",
