@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T21:21:27.729Z",
+  "atualizado": "2026-11-24T21:22:43.477Z",
   "ofertas": [
+    {
+      "id": "1Jh1SvT",
+      "nome": "Cadeira De Escritorio Ergonomica Nr17 Glorious Marqs Home Giratoria Resistente",
+      "categoria": "Diversos",
+      "preco": 394.14,
+      "link": "https://meli.la/1Jh1SvT",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-escritorio-ergonomica-nr17-glorious-marqs-home-giratoria-resistente-reforcada-180kg-confortavel-reuniao-mesh-preta/p/MLB67278068",
+      "precoDe": 588.27,
+      "postado": "2026-11-24T21:22:43.476Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Jh1SvT.jpg"
+    },
     {
       "id": "2SQX1WJ",
       "nome": "Lavadora e Desobstruidora de Alta Pressão WAP WL 4200 Ultra 5 Pistões 2200w",
