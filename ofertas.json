@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T21:17:43.980Z",
+  "atualizado": "2026-11-24T21:18:58.684Z",
   "ofertas": [
+    {
+      "id": "1BHSMRh",
+      "nome": "Fralda Pampers Confort Sec Tamanho M, 108 Un",
+      "categoria": "Bebê",
+      "preco": 90.64,
+      "link": "https://meli.la/1BHSMRh",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fralda-pampers-confort-sec-tamanho-m-108-un/p/MLB69620627",
+      "precoDe": 133.9,
+      "postado": "2026-11-24T21:18:58.682Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1BHSMRh.jpg"
+    },
     {
       "id": "2gY3jGS",
       "nome": "Esteira Elétrica Ergométrica Dobrável Keepvital 3.0hp Bivolt",
