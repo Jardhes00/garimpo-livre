@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T14:35:07.968Z",
+  "atualizado": "2026-11-24T14:36:52.510Z",
   "ofertas": [
+    {
+      "id": "11UT1kQ",
+      "nome": "Bicicleta Spinning Premium Ergométrica Semi Profissional Bike Sport Impacto",
+      "categoria": "Esporte",
+      "preco": 377.91,
+      "link": "https://meli.la/11UT1kQ",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bicicleta-spinning-premium-ergometrica-semi-profissional-bike-sport-impacto-comercio/p/MLB64247611",
+      "precoDe": 1284.29,
+      "pix": true,
+      "parcelas": "R$419,90 em 8x R$52,49 sem juros",
+      "postado": "2026-11-24T14:36:52.508Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-11UT1kQ.jpg"
+    },
     {
       "id": "21Yc2eu",
       "nome": "Caixa de Som LG Boombox Speaker XBOOM Blast 220W Bluetooth, Bateria 36h e IP68",
