@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-24T20:56:27.747Z",
+  "atualizado": "2026-11-24T20:57:42.678Z",
   "ofertas": [
+    {
+      "id": "2BYg3Dp",
+      "nome": "Armário Cozinha Completa Modulada Suspensa com Balcão para Cooktop 300cm Cinza",
+      "categoria": "Casa",
+      "preco": 1355.19,
+      "link": "https://meli.la/2BYg3Dp",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/armario-cozinha-completa-modulada-suspensa-com-balcao-para-cooktop-300cm-cinza-nice-madesa-grnc3000073b/p/MLB28442744",
+      "precoDe": 2217.63,
+      "pix": true,
+      "parcelas": "R$1.759,99 em 10x R$176 sem juros",
+      "cupomAnuncio": "R$1.239,69 com Cupom",
+      "postado": "2026-11-24T20:57:42.677Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2BYg3Dp.jpg"
+    },
     {
       "id": "2mur845",
       "nome": "Cafeteira Nescafé Dolce Gusto Genio S Basic Grafite",
