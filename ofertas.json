@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T20:40:12.464Z",
+  "atualizado": "2026-11-24T20:41:27.258Z",
   "ofertas": [
+    {
+      "id": "24zDy8y",
+      "nome": "Lavadora e Desobstruidora De Alta Pressão Wap Ousada Wl 2610 Ultra",
+      "categoria": "Diversos",
+      "preco": 419,
+      "link": "https://meli.la/24zDy8y",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-e-desobstruidora-de-alta-pressao-wap-ousada-wl-2610-ultra/p/MLB29410135",
+      "precoDe": 978,
+      "postado": "2026-11-24T20:41:27.257Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-24zDy8y.jpg"
+    },
     {
       "id": "1Uo5z8u",
       "nome": "Ventilador Philco Pvt41a Tecnologia Maxx Force 150w",
