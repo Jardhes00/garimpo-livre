@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T15:58:09.719Z",
+  "atualizado": "2026-11-24T15:59:24.724Z",
   "ofertas": [
+    {
+      "id": "1e5Cb6H",
+      "nome": "Microondas Panasonic Tecnologia Antibactéria AG 21L Branco - NN-ST25LWRU",
+      "categoria": "Casa",
+      "preco": 449,
+      "link": "https://meli.la/1e5Cb6H",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/microondas-panasonic-tecnologia-antibacteria-ag-21l-branco-nn-st25lwru/p/MLB16280892",
+      "precoDe": 649,
+      "postado": "2026-11-24T15:59:24.722Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1e5Cb6H.jpg"
+    },
     {
       "id": "2XjVjbe",
       "nome": "Bicicleta Ergométrica Spinning Winnek SYNC Magnética, com Roda de Inércia 13kg",
@@ -4716,22 +4732,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1PMYRFz.jpg"
-    },
-    {
-      "id": "2E9Gdur",
-      "nome": "Árvore De Natal Pinheiro Verde 2,10m Com 1.100 Galhos, De Montagem Fácil",
-      "categoria": "Diversos",
-      "preco": 154.99,
-      "link": "https://meli.la/2E9Gdur",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/arvore-de-natal-pinheiro-verde-210m-com-1100-galhos-de-montagem-facil/p/MLB26051427",
-      "precoDe": 224.99,
-      "postado": "2026-11-22T15:59:08.165Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2E9Gdur.jpg"
     }
   ]
 }
