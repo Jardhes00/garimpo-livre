@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-24T19:59:42.009Z",
+  "atualizado": "2026-11-24T20:00:56.779Z",
   "ofertas": [
+    {
+      "id": "317SJET",
+      "nome": "Whisky Jack Daniel's Tennessee Apple de 1 L",
+      "categoria": "Diversos",
+      "preco": 109.99,
+      "link": "https://meli.la/317SJET",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whisky-jack-daniels-tennessee-apple-de-1-l/p/MLB78001990",
+      "precoDe": 149.99,
+      "parcelas": "12x R$ 10,87",
+      "extra": "R$50 OFF com cupom no anúncio",
+      "cupomAnuncio": "Compre R$199 e ganhe R$50 OFF",
+      "postado": "2026-11-24T20:00:56.777Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-317SJET.jpg"
+    },
     {
       "id": "1dbQh9e",
       "nome": "Jogo De Panelas Antiaderente 6pç Sirius Vanilla Brinox",
