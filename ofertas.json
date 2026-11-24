@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T14:39:22.465Z",
+  "atualizado": "2026-11-24T14:40:37.765Z",
   "ofertas": [
+    {
+      "id": "2XmP8C1",
+      "nome": "Manta Líquida Branca Telhado Quartzolit Branco Balde 18kg Fo",
+      "categoria": "Diversos",
+      "preco": 211.94,
+      "link": "https://meli.la/2XmP8C1",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/manta-liquida-branca-telhado-quartzolit-branco-balde-18kg-fo/up/MLBU5667236443",
+      "precoDe": 359.99,
+      "pix": true,
+      "parcelas": "R$223,09 em outros meios",
+      "postado": "2026-11-24T14:40:37.764Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2XmP8C1.jpg"
+    },
     {
       "id": "1QNU8bG",
       "nome": "Smartwatch Samsung Galaxy Watch 8 40mm Prateado com Bluetooth e Wi-Fi",
