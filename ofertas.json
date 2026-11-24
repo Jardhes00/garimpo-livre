@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T19:30:55.911Z",
+  "atualizado": "2026-11-24T19:32:40.975Z",
   "ofertas": [
+    {
+      "id": "1GTv8T4",
+      "nome": "Mondial LAP-04 GY Lavadora de Alta Pressão 1400W + Jato Ajustável",
+      "categoria": "Diversos",
+      "preco": 285,
+      "link": "https://meli.la/1GTv8T4",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mondial-lap-04-gy-lavadora-de-alta-pressao-1400w-jato-ajustavel/p/MLB69330481",
+      "precoDe": 479.9,
+      "parcelas": "6x R$ 47,50 sem juros",
+      "postado": "2026-11-24T19:32:40.974Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1GTv8T4.jpg"
+    },
     {
       "id": "2QvooAA",
       "nome": "Smartphone G17 Tela 6,7 Polegadas 128GB 4G Câmera 50MP Motorola",
