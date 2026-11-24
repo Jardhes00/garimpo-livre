@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T19:41:11.139Z",
+  "atualizado": "2026-11-24T19:42:56.160Z",
   "ofertas": [
+    {
+      "id": "2z95qQT",
+      "nome": "Ômega 3 Tg 1360mg Ultra Concentrado 120 Cápsulas Nutrify",
+      "categoria": "Diversos",
+      "preco": 107.05,
+      "link": "https://meli.la/2z95qQT",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mega-3-tg-1360mg-ultra-concentrado-120-capsulas-nutrify/p/MLB28320422",
+      "precoDe": 226,
+      "parcelas": "12x R$ 10,58",
+      "postado": "2026-11-24T19:42:56.159Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2z95qQT.jpg"
+    },
     {
       "id": "1ZNdV4h",
       "nome": "Bateria Li-ion 18v Lithium-ion Makita Bl1850 5ah Original Nf",
