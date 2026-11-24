@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T21:22:43.477Z",
+  "atualizado": "2026-11-24T21:23:58.368Z",
   "ofertas": [
+    {
+      "id": "2uVsdyZ",
+      "nome": "Fechadura Inteligente de Embutir com Maçaneta MFR 7000 V Intelbras",
+      "categoria": "Casa",
+      "preco": 629.92,
+      "link": "https://meli.la/2uVsdyZ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fechadura-inteligente-de-embutir-com-macaneta-mfr-7000-v-intelbras/p/MLB75495636",
+      "precoDe": 999,
+      "pix": true,
+      "parcelas": "R$839,90 em 10x R$83,99 sem juros",
+      "postado": "2026-11-24T21:23:58.367Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2uVsdyZ.jpg"
+    },
     {
       "id": "1Jh1SvT",
       "nome": "Cadeira De Escritorio Ergonomica Nr17 Glorious Marqs Home Giratoria Resistente",
