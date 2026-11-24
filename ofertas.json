@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T20:30:12.131Z",
+  "atualizado": "2026-11-24T20:31:26.779Z",
   "ofertas": [
+    {
+      "id": "1C9cQmm",
+      "nome": "Eps-5062 Organizador Com Zíper 9 Prateleiras Sapateira Estante Cor Preto",
+      "categoria": "Casa",
+      "preco": 50.16,
+      "link": "https://meli.la/1C9cQmm",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/eps-5062-organizador-com-ziper-9-prateleiras-sapateira-estante-cor-preto/p/MLB81894697",
+      "precoDe": 120,
+      "postado": "2026-11-24T20:31:26.778Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1C9cQmm.jpg"
+    },
     {
       "id": "152t8wG",
       "nome": "Filamento Masterprint Petg 3d Cor Preto 1.75mm 1kg Original",
