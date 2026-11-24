@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T20:41:27.258Z",
+  "atualizado": "2026-11-24T20:42:42.627Z",
   "ofertas": [
+    {
+      "id": "2PNLrpi",
+      "nome": "Huggies Fralda Descartável Máxima Proteção M - 172 Un Sem Gênero",
+      "categoria": "Bebê",
+      "preco": 123.99,
+      "link": "https://meli.la/2PNLrpi",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/huggies-fralda-descartavel-maxima-protecao-m-172-un-sem-genero/p/MLB17336059",
+      "precoDe": 197.75,
+      "postado": "2026-11-24T20:42:42.626Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2PNLrpi.jpg"
+    },
     {
       "id": "24zDy8y",
       "nome": "Lavadora e Desobstruidora De Alta Pressão Wap Ousada Wl 2610 Ultra",
