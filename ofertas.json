@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T19:49:56.441Z",
+  "atualizado": "2026-11-24T19:51:26.286Z",
   "ofertas": [
+    {
+      "id": "2MSMyWh",
+      "nome": "Porteiro Residencial Ipr 8010 Preto/Branco Intelbras",
+      "categoria": "Diversos",
+      "preco": 148.8,
+      "link": "https://meli.la/2MSMyWh",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/porteiro-residencial-ipr-8010-pretobranco-intelbras/p/MLB38112373",
+      "precoDe": 317.9,
+      "pix": true,
+      "parcelas": "R$ 186 em 6x R$ 31 sem juros",
+      "postado": "2026-11-24T19:51:26.285Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2MSMyWh.jpg"
+    },
     {
       "id": "2uCCde6",
       "nome": "Air Fryer Oven 11 Litros Wap Waod4 Grey Stone Painel Digital 11 Funções 127V",
