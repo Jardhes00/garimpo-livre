@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T16:23:10.397Z",
+  "atualizado": "2026-11-24T16:24:25.747Z",
   "ofertas": [
+    {
+      "id": "14DAfmK",
+      "nome": "Cafeteira Elétrica Dolce Arome, Mondial, 550W - C-34JI-15X",
+      "categoria": "Casa",
+      "preco": 149.05,
+      "link": "https://meli.la/14DAfmK",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafeteira-eletrica-dolce-arome-mondial-550w-c-34ji-15x/p/MLB23161830",
+      "precoDe": 289.9,
+      "postado": "2026-11-24T16:24:25.745Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-14DAfmK.jpg"
+    },
     {
       "id": "1KZwj5X",
       "nome": "Lavadora de Alta Pressão Electrolux 1850PSI 1500W Potência com Canhão de Espuma",
