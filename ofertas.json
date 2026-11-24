@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T16:13:10.498Z",
+  "atualizado": "2026-11-24T16:14:25.153Z",
   "ofertas": [
+    {
+      "id": "1UoFntW",
+      "nome": "Cadeirinha Cosco Kids, Progress, 0 a 36kg, Preto Gelo",
+      "categoria": "Diversos",
+      "preco": 439.91,
+      "link": "https://meli.la/1UoFntW",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeirinha-cosco-kids-progress-0-a-36kg-preto-gelo/p/MLB79796135",
+      "precoDe": 1099,
+      "pix": true,
+      "parcelas": "R$499,90 em 10x R$49,99 sem juros",
+      "postado": "2026-11-24T16:14:25.152Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1UoFntW.jpg"
+    },
     {
       "id": "2q9wLNC",
       "nome": "Kit Whey Protein 2kg Chocolate + Creatina + Bcaa + Coqueteleira - Bodybuilders",
