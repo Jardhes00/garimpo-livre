@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T15:51:54.814Z",
+  "atualizado": "2026-11-24T15:53:10.239Z",
   "ofertas": [
+    {
+      "id": "1rkTgPH",
+      "nome": "Cadeira De Carro Infantil Max360 Isofix 36kgs Maxi Baby - Preto",
+      "categoria": "Auto",
+      "preco": 752.39,
+      "link": "https://meli.la/1rkTgPH",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-carro-infantil-max360-isofix-rotacao-360-reclinavel-3-posicoes-top-tether-0-36kg-maxi-baby/p/MLB26415897",
+      "precoDe": 1199,
+      "pix": true,
+      "parcelas": "R$835,99 em outros meios",
+      "postado": "2026-11-24T15:53:10.235Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1rkTgPH.jpg"
+    },
     {
       "id": "15RhcC7",
       "nome": "Cafeteira Nescafé Dolce Gusto Arno Genio S Plus Preta 110v",
@@ -4674,23 +4692,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1PpSDRM.jpg"
-    },
-    {
-      "id": "25KMhMT",
-      "nome": "Relógio Casio Illumitator Sport World Map AE-1200whl - 5avdf Preto Marrom",
-      "categoria": "Moda",
-      "preco": 336,
-      "link": "https://meli.la/25KMhMT",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/relogio-casio-illumitator-sport-world-map-ae-1200whl-5avdf-preto-marrom-digital/p/MLB45438193",
-      "precoDe": 559,
-      "parcelas": "10x de R$33,60 sem juros",
-      "postado": "2026-11-22T15:52:22.960Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-25KMhMT.jpg"
     }
   ]
 }
