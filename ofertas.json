@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T20:43:57.574Z",
+  "atualizado": "2026-11-24T20:45:12.636Z",
   "ofertas": [
+    {
+      "id": "1LEf48D",
+      "nome": "Bicicleta Spinning Romantic Crown Preto Roda Inércia 13kg",
+      "categoria": "Esporte",
+      "preco": 707.48,
+      "link": "https://meli.la/1LEf48D",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bicicleta-spinning-romantic-crown-preto-roda-inercia-13kg/p/MLB62816576",
+      "precoDe": 1799.99,
+      "pix": true,
+      "parcelas": "R$769 em outros meios",
+      "postado": "2026-11-24T20:45:12.635Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1LEf48D.jpg"
+    },
     {
       "id": "2tn8D7V",
       "nome": "Estante Bancada Firme Mdp 120x60 Organização Electrónicos",
