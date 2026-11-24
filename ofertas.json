@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T14:36:52.510Z",
+  "atualizado": "2026-11-24T14:38:09.206Z",
   "ofertas": [
+    {
+      "id": "2xtdZnS",
+      "nome": "150w Levou Feixe Movendo Cabeça Foco Feixe Dj",
+      "categoria": "Diversos",
+      "preco": 384.12,
+      "link": "https://meli.la/2xtdZnS",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/150w-levou-feixe-movendo-cabeca-foco-feixe-dj/up/MLBU4517561966",
+      "precoDe": 616,
+      "parcelas": "7x de R$54,87 sem juros",
+      "postado": "2026-11-24T14:38:09.204Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2xtdZnS.jpg"
+    },
     {
       "id": "11UT1kQ",
       "nome": "Bicicleta Spinning Premium Ergométrica Semi Profissional Bike Sport Impacto",
