@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T15:38:09.129Z",
+  "atualizado": "2026-11-24T15:39:24.204Z",
   "ofertas": [
+    {
+      "id": "314DmK3",
+      "nome": "Soldadora Inversora Aitoolzo Mig/tig/mma/syn Ai 4em1 Digital Sem Gás Vermelho",
+      "categoria": "Auto",
+      "preco": 351.26,
+      "link": "https://meli.la/314DmK3",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/soldadora-inversora-aitoolzo-migtigmmasyn-ai-4em1-digital-sem-gas-vermelho/p/MLB54104772",
+      "precoDe": 1133.31,
+      "pix": true,
+      "parcelas": "R$413,25 em outros meios",
+      "postado": "2026-11-24T15:39:24.201Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-314DmK3.jpg"
+    },
     {
       "id": "2R9fjJu",
       "nome": "Lavadora de Alta Pressão WAP Ousada Plus 2200 1500W de Potência 1750 PSI",
@@ -4585,24 +4603,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1sucvRo.jpg"
-    },
-    {
-      "id": "28YZLK9",
-      "nome": "Bicicleta Passeio Aro 16 Para Crianças Unitoys Love Tiffany Com Cesta",
-      "categoria": "Esporte",
-      "preco": 496.71,
-      "link": "https://meli.la/28YZLK9",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/bicicleta-passeio-aro-16-para-criancas-unitoys-love-tiffany-com-cesta/p/MLB36363177",
-      "precoDe": 1299,
-      "pix": true,
-      "parcelas": "R$539,90 em outros meios",
-      "postado": "2026-11-22T15:38:52.638Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-28YZLK9.jpg"
     }
   ]
 }
