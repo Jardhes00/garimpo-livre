@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T16:14:25.153Z",
+  "atualizado": "2026-11-24T16:15:40.228Z",
   "ofertas": [
+    {
+      "id": "27RCmVr",
+      "nome": "Mesa Dobrável Vira Maleta Com Alça Portátil 1,8 × 0,7m Para Camping",
+      "categoria": "Diversos",
+      "preco": 242.88,
+      "link": "https://meli.la/27RCmVr",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mesa-dobravel-vira-maleta-com-alca-portatil-18-07m-para-camping-apartamentos-area-de-lazer-camping-confraternizacoes-ambientes-corporativos-festas-150kg-zelt-preto/p/MLB57492925",
+      "precoDe": 394.88,
+      "pix": true,
+      "parcelas": "R$269,87 em outros meios",
+      "postado": "2026-11-24T16:15:40.227Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-27RCmVr.jpg"
+    },
     {
       "id": "1UoFntW",
       "nome": "Cadeirinha Cosco Kids, Progress, 0 a 36kg, Preto Gelo",
