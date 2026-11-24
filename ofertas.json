@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-24T20:47:42.619Z",
+  "atualizado": "2026-11-24T20:48:57.300Z",
   "ofertas": [
+    {
+      "id": "29ERjYC",
+      "nome": "Purificador De Água Fr600 Speciale Branco Ibbl",
+      "categoria": "Diversos",
+      "preco": 743.07,
+      "link": "https://meli.la/29ERjYC",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/purificador-de-agua-fr600-speciale-branco-ibbl/p/MLB24224407",
+      "precoDe": 1039,
+      "pix": true,
+      "parcelas": "R$799 em 8x R$99,88 sem juros",
+      "cupomAnuncio": "R$743,07 com Cupom",
+      "postado": "2026-11-24T20:48:57.299Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-29ERjYC.jpg"
+    },
     {
       "id": "1Y8tJUE",
       "nome": "Vodka Destilada Belvedere Garrafa 750ml",
