@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T16:05:39.819Z",
+  "atualizado": "2026-11-24T16:06:54.965Z",
   "ofertas": [
+    {
+      "id": "2E5zfd5",
+      "nome": "Perfume Masculino Eau de Parfum Azzaro The Most Wanted Intense 100 ml",
+      "categoria": "Beleza",
+      "preco": 479,
+      "link": "https://meli.la/2E5zfd5",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/perfume-masculino-eau-de-parfum-azzaro-the-most-wanted-intense-100-ml/p/MLB19612966",
+      "precoDe": 999,
+      "postado": "2026-11-24T16:06:54.962Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2E5zfd5.jpg"
+    },
     {
       "id": "2PYRLqw",
       "nome": "Escada Aço Inox 15 Degraus Extensiva Telescópica 4,40 Metros",
@@ -4769,24 +4785,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2JN9CnF.jpg"
-    },
-    {
-      "id": "1SGWpCJ",
-      "nome": "Electrolux Jogo de Panelas em Inox com 5 Peças Design com Fundo Triplo",
-      "categoria": "Games",
-      "preco": 450.49,
-      "link": "https://meli.la/1SGWpCJ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/electrolux-jogo-de-panelas-em-inox-com-5-pecas-design-com-fundo-triplo/p/MLB24264822",
-      "precoDe": 799.9,
-      "pix": true,
-      "parcelas": "R$474,20 em 9x R$52,69 sem juros",
-      "postado": "2026-11-22T16:05:53.257Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1SGWpCJ.jpg"
     }
   ]
 }
