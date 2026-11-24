@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T20:00:56.779Z",
+  "atualizado": "2026-11-24T20:27:42.164Z",
   "ofertas": [
+    {
+      "id": "1zG5QM7",
+      "nome": "Kit Eucerin Anti-pigment Dual Sérum Gel Limpeza Esfoliante",
+      "categoria": "Beleza",
+      "preco": 191.52,
+      "link": "https://meli.la/1zG5QM7",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-eucerin-anti-pigment-dual-serum-gel-limpeza-esfoliante/up/MLBU5145365068",
+      "precoDe": 339.9,
+      "pix": true,
+      "parcelas": "R$212,80 em 6x R$35,47 sem juros",
+      "postado": "2026-11-24T20:27:42.161Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1zG5QM7.jpg"
+    },
     {
       "id": "317SJET",
       "nome": "Whisky Jack Daniel's Tennessee Apple de 1 L",
