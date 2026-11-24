@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T21:20:13.309Z",
+  "atualizado": "2026-11-24T21:21:27.729Z",
   "ofertas": [
+    {
+      "id": "2SQX1WJ",
+      "nome": "Lavadora e Desobstruidora de Alta Pressão WAP WL 4200 Ultra 5 Pistões 2200w",
+      "categoria": "Diversos",
+      "preco": 719.1,
+      "link": "https://meli.la/2SQX1WJ",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-e-desobstruidora-de-alta-pressao-wap-wl-4200-ultra-5-pistoes-2200w-1305psi-510lh-com-jato-regulavel-e-motor-de-inducao-220v/p/MLB62043239",
+      "precoDe": 1299.9,
+      "pix": true,
+      "parcelas": "R$799 em 10x R$79,90 sem juros",
+      "postado": "2026-11-24T21:21:27.727Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2SQX1WJ.jpg"
+    },
     {
       "id": "2tWgFbS",
       "nome": "Kit 10 Painel Led Sobrepor Plafon 24w 26x26cm 6500k Cor Luz Branco Frio",
