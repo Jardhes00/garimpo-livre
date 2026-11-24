@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T16:00:39.778Z",
+  "atualizado": "2026-11-24T16:01:55.097Z",
   "ofertas": [
+    {
+      "id": "1pLaaC4",
+      "nome": "Samsung Galaxy Buds Core branco",
+      "categoria": "Tech",
+      "preco": 202.5,
+      "link": "https://meli.la/1pLaaC4",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/samsung-galaxy-buds-core-branco/p/MLB52039200",
+      "precoDe": 349,
+      "pix": true,
+      "parcelas": "R$225 em 6x R$37,50 sem juros",
+      "postado": "2026-11-24T16:01:55.095Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1pLaaC4.jpg"
+    },
     {
       "id": "1sR8aRZ",
       "nome": "Micro-ondas Electrolux 36L Branco Efficient com Descongelamento Assistido ME36B",
@@ -4731,25 +4749,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-11pNyj1.jpg"
-    },
-    {
-      "id": "1PMYRFz",
-      "nome": "Armário Cozinha Completa 100% Mdf 447cm Smart Madesa 02 Cor Branco/Rustic/Crema",
-      "categoria": "Casa",
-      "preco": 1809.69,
-      "link": "https://meli.la/1PMYRFz",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/armario-cozinha-completa-100-mdf-447cm-smart-madesa-02-cor-brancorusticcrema/p/MLB74045024",
-      "precoDe": 2570.58,
-      "pix": true,
-      "parcelas": "R$2.262,11 em 10x R$226,21 sem juros",
-      "cupomAnuncio": "R$1.809,69 com Cupom",
-      "postado": "2026-11-22T16:01:23.123Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1PMYRFz.jpg"
     }
   ]
 }
