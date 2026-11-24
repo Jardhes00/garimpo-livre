@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T21:16:28.338Z",
+  "atualizado": "2026-11-24T21:17:43.980Z",
   "ofertas": [
+    {
+      "id": "2gY3jGS",
+      "nome": "Esteira Elétrica Ergométrica Dobrável Keepvital 3.0hp Bivolt",
+      "categoria": "Esporte",
+      "preco": 1153.97,
+      "link": "https://meli.la/2gY3jGS",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/esteira-eletrica-ergometrica-dobravel-keepvital-30hp-bivolt/up/MLBU5743560293",
+      "precoDe": 3499,
+      "parcelas": "10x de R$115,40 sem juros",
+      "postado": "2026-11-24T21:17:43.978Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2gY3jGS.jpg"
+    },
     {
       "id": "2ede8qZ",
       "nome": "Lysoform Desinfetante Lavanda 5 L Garrafa",
