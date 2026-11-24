@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T15:34:23.947Z",
+  "atualizado": "2026-11-24T15:35:38.938Z",
   "ofertas": [
+    {
+      "id": "17bBv92",
+      "nome": "Aspirador de Pó Portátil WAP Eco Rápido com Iluminação Led Vertical 2",
+      "categoria": "Casa",
+      "preco": 542.18,
+      "link": "https://meli.la/17bBv92",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aspirador-de-po-portatil-wap-eco-rapido-com-iluminacao-led-vertical-2-velocidades/p/MLB26797984",
+      "precoDe": 1120,
+      "parcelas": "10x de R$54,22 sem juros",
+      "postado": "2026-11-24T15:35:38.936Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-17bBv92.jpg"
+    },
     {
       "id": "2MEqz18",
       "nome": "Monitor Gamer Samsung Odyssey G5, 27 , Qhd, 165hz Cor Preto",
