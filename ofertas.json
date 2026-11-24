@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T14:56:53.035Z",
+  "atualizado": "2026-11-24T14:58:07.910Z",
   "ofertas": [
+    {
+      "id": "2LWzR6D",
+      "nome": "Capacete FW3 GTX Star Preto e Branco Grafite Óculos Interno",
+      "categoria": "Moda",
+      "preco": 464.55,
+      "link": "https://meli.la/2LWzR6D",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/capacete-fw3-gtx-star-preto-e-branco-grafite-oculos-interno/p/MLB55775341",
+      "precoDe": 808.38,
+      "pix": true,
+      "parcelas": "R$489 em 10x R$48,90 sem juros",
+      "postado": "2026-11-24T14:58:07.908Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2LWzR6D.jpg"
+    },
     {
       "id": "1YxVCWf",
       "nome": "Mantecorp Protetor Solar Facial Episol Fps 70 Tom 3 Médio",
