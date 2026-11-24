@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T21:08:58.121Z",
+  "atualizado": "2026-11-24T21:10:13.444Z",
   "ofertas": [
+    {
+      "id": "144wX2H",
+      "nome": "Cadeira De Escritório Ergonômica Giratória B100 Boston Cinza Laudo NR-17 Com",
+      "categoria": "Diversos",
+      "preco": 439.9,
+      "link": "https://meli.la/144wX2H",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-escritorio-ergonomica-giratoria-b100-boston-cinza-laudo-nr-17-com-estofado-mesh-com-ajuste-lombar-luvinco/p/MLB55184610",
+      "precoDe": 746.12,
+      "parcelas": "8x de R$54,99 sem juros",
+      "postado": "2026-11-24T21:10:13.443Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-144wX2H.jpg"
+    },
     {
       "id": "29u6vWk",
       "nome": "Britânia BAS1295P Aspirador de Pó 2 em 1 1250W Preto – Potência e praticidade",
