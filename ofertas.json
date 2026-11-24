@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T20:38:57.675Z",
+  "atualizado": "2026-11-24T20:40:12.464Z",
   "ofertas": [
+    {
+      "id": "1Uo5z8u",
+      "nome": "Ventilador Philco Pvt41a Tecnologia Maxx Force 150w",
+      "categoria": "Casa",
+      "preco": 149.06,
+      "link": "https://meli.la/1Uo5z8u",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-philco-pvt41a-tecnologia-maxx-force-150w/p/MLB43279648",
+      "precoDe": 243.63,
+      "pix": true,
+      "parcelas": "R$165,62 em outros meios",
+      "postado": "2026-11-24T20:40:12.463Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Uo5z8u.jpg"
+    },
     {
       "id": "1TxhLJg",
       "nome": "Fralda Pampers Pants Ajuste Total Tamanho XXG 120 Unidades",
