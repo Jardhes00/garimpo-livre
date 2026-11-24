@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T14:41:52.663Z",
+  "atualizado": "2026-11-24T14:43:07.875Z",
   "ofertas": [
+    {
+      "id": "1TRH9R2",
+      "nome": "Combo Cuide-se Bem Deleite Caramelizado Loção Corporal 400ml",
+      "categoria": "Diversos",
+      "preco": 65.8,
+      "link": "https://meli.la/1TRH9R2",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/combo-cuide-se-bem-deleite-caramelizado-locao-corporal-400ml/p/MLB2090196696",
+      "precoDe": 108.8,
+      "parcelas": "3x de R$21,93 sem juros",
+      "postado": "2026-11-24T14:43:07.874Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1TRH9R2.jpg"
+    },
     {
       "id": "2mUo8ku",
       "nome": "Kit 4 Pneus 205/55R16 Goodyear Eagle Sport 2 91V Aro 16",
