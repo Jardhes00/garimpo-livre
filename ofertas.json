@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T21:02:43.220Z",
+  "atualizado": "2026-11-24T21:03:58.024Z",
   "ofertas": [
+    {
+      "id": "1RmACUx",
+      "nome": "Travel System Duo, Cosco Kids, Reverse, 0 a 15kg, Preto Rajado",
+      "categoria": "Diversos",
+      "preco": 664.9,
+      "link": "https://meli.la/1RmACUx",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/travel-system-duo-cosco-kids-reverse-0-a-15kg-preto-rajado/p/MLB22974681",
+      "precoDe": 999,
+      "pix": true,
+      "parcelas": "R$699,90 em 12x R$58,33 sem juros",
+      "postado": "2026-11-24T21:03:58.023Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1RmACUx.jpg"
+    },
     {
       "id": "22gaPiN",
       "nome": "Vaso Sanitário Monobloco Privada Bacia Caixa Acoplada Grande",
