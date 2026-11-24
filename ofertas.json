@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T20:35:11.900Z",
+  "atualizado": "2026-11-24T20:36:26.842Z",
   "ofertas": [
+    {
+      "id": "1NfcS5F",
+      "nome": "Creality K1C Impressora 3D preto 220*220*250 mm, Compatível Com CFS",
+      "categoria": "Tech",
+      "preco": 2600.99,
+      "link": "https://meli.la/1NfcS5F",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/creality-k1c-impressora-3d-preto-220220250-mm-compativel-com-cfs/p/MLB34239135",
+      "precoDe": 5969,
+      "pix": true,
+      "parcelas": "R$3.059,99 em 10x R$306 sem juros",
+      "postado": "2026-11-24T20:36:26.841Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1NfcS5F.jpg"
+    },
     {
       "id": "17Hm7DK",
       "nome": "Câmera De Vídeo Wi-Fi Intelbras IM3 C MicroSD 32GB Branco",
