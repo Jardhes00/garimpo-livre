@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T15:16:53.930Z",
+  "atualizado": "2026-11-24T15:18:08.537Z",
   "ofertas": [
+    {
+      "id": "2t2Kfnv",
+      "nome": "Premier Nutrição Clínica Hipoalérgico Cordeiro Cão Adulto Porte Pequeno Pele Sensível 10kg",
+      "categoria": "Diversos",
+      "preco": 275.08,
+      "link": "https://meli.la/2t2Kfnv",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB16067794",
+      "precoDe": 437,
+      "pix": true,
+      "parcelas": "R$ 299 em outros meios",
+      "postado": "2026-11-24T15:18:08.536Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2t2Kfnv.jpg"
+    },
     {
       "id": "2PhiiV3",
       "nome": "Kit 10 Cueca Boxer Sem Costura Microfibra Selene Masculina",
