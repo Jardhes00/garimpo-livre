@@ -1,6 +1,26 @@
 {
-  "atualizado": "2026-11-24T19:34:41.329Z",
+  "atualizado": "2026-11-24T19:36:10.900Z",
   "ofertas": [
+    {
+      "id": "2vCzWaY",
+      "nome": "Protetor Solar Facial La Roche-Posay Anthelios Airlicium+ FPS 80 Com Cor 2.0 Para Pele Oleosa, 40g",
+      "categoria": "Beleza",
+      "preco": 69.29,
+      "link": "https://meli.la/2vCzWaY",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/protetor-solar-facial-la-roche-posay-anthelios-airlicium-fps-80-com-cor-20-para-pele-oleosa-40g/p/MLB30067110",
+      "precoDe": 120.9,
+      "pix": true,
+      "parcelas": "R$ 76,99 em 3x R$ 25,66 sem juros",
+      "extra": "15% OFF com cupom no anúncio",
+      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
+      "postado": "2026-11-24T19:36:10.898Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2vCzWaY.jpg"
+    },
     {
       "id": "29FgQKi",
       "nome": "Huggies Fralda Descartável Máxima Proteção G - 136 Un Sem Gênero",
