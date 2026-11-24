@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T16:24:25.747Z",
+  "atualizado": "2026-11-24T16:25:40.524Z",
   "ofertas": [
+    {
+      "id": "2ZNTDpA",
+      "nome": "HD Externo Seagate Portable de 5TB para PC e Consoles",
+      "categoria": "Games",
+      "preco": 1609.91,
+      "link": "https://meli.la/2ZNTDpA",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/hd-externo-seagate-portable-de-5tb-para-pc-e-consoles/p/MLB15488823",
+      "precoDe": 2801.97,
+      "pix": true,
+      "parcelas": "R$1.749,90 em 10x R$174,99 sem juros",
+      "postado": "2026-11-24T16:25:40.523Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ZNTDpA.jpg"
+    },
     {
       "id": "14DAfmK",
       "nome": "Cafeteira Elétrica Dolce Arome, Mondial, 550W - C-34JI-15X",
