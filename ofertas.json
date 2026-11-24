@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T16:11:55.135Z",
+  "atualizado": "2026-11-24T16:13:10.498Z",
   "ofertas": [
+    {
+      "id": "2q9wLNC",
+      "nome": "Kit Whey Protein 2kg Chocolate + Creatina + Bcaa + Coqueteleira - Bodybuilders",
+      "categoria": "Suplementos",
+      "preco": 75.83,
+      "link": "https://meli.la/2q9wLNC",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/proteina-bodybuilders-whey-concentrado-em-po-sabor-chocolate-x-2kg-4-un/p/MLB65479539",
+      "precoDe": 299.99,
+      "postado": "2026-11-24T16:13:10.496Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2q9wLNC.jpg"
+    },
     {
       "id": "1tVsCjH",
       "nome": "Controle Sem Fio QRD Spark N5 Para PS4/PS3/PC/IOS/Android/TV/Steam Deck",
