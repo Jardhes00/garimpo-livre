@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T15:59:24.724Z",
+  "atualizado": "2026-11-24T16:00:39.778Z",
   "ofertas": [
+    {
+      "id": "1sR8aRZ",
+      "nome": "Micro-ondas Electrolux 36L Branco Efficient com Descongelamento Assistido ME36B",
+      "categoria": "Casa",
+      "preco": 598.64,
+      "link": "https://meli.la/1sR8aRZ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-electrolux-36l-branco-efficient-com-descongelamento-assistido-me36b/p/MLB19790745",
+      "precoDe": 899,
+      "pix": true,
+      "parcelas": "R$617,15 em outros meios",
+      "postado": "2026-11-24T16:00:39.776Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1sR8aRZ.jpg"
+    },
     {
       "id": "1e5Cb6H",
       "nome": "Microondas Panasonic Tecnologia Antibactéria AG 21L Branco - NN-ST25LWRU",
