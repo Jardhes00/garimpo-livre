@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T16:36:55.838Z",
+  "atualizado": "2026-11-24T16:38:10.754Z",
   "ofertas": [
+    {
+      "id": "2qFw5DR",
+      "nome": "Máscara Vegana Hidratação Profunda Profissional Food For Soft Matrix 500ml",
+      "categoria": "Diversos",
+      "preco": 89.89,
+      "link": "https://meli.la/2qFw5DR",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mascara-vegana-hidratacao-profunda-profissional-food-for-soft-matrix-500ml/p/MLB51113364",
+      "precoDe": 209.9,
+      "parcelas": "12x de R$ 8,85",
+      "cupomAnuncio": "R$69,89 com Cupom",
+      "postado": "2026-11-24T16:38:10.752Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2qFw5DR.jpg"
+    },
     {
       "id": "1RkCgxN",
       "nome": "Aparador e Barbeador Elétrico All-in-One Série 3000 8 em 1 Philips MG3917/15",
