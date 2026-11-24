@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T21:12:42.999Z",
+  "atualizado": "2026-11-24T21:13:58.204Z",
   "ofertas": [
+    {
+      "id": "278UZcY",
+      "nome": "Cadeira de Escritorio Ergonomica Presidente Giratoria Apoio de Lombar Vincere",
+      "categoria": "Diversos",
+      "preco": 260.1,
+      "link": "https://meli.la/278UZcY",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-escritorio-ergonomica-presidente-giratoria-apoio-de-lombar-vincere-brasil-cor-preta/p/MLB68681881",
+      "precoDe": 899,
+      "pix": true,
+      "parcelas": "R$289 em 6x R$48,17 sem juros",
+      "postado": "2026-11-24T21:13:58.203Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-278UZcY.jpg"
+    },
     {
       "id": "2NFxhoW",
       "nome": "Refil para Purificador Electrolux PE12 Acqua Pure, para PC02 e PE12, 6 Meses ou",
