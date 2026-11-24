@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T21:26:28.656Z",
+  "atualizado": "2026-11-24T21:27:43.504Z",
   "ofertas": [
+    {
+      "id": "2Ji2f2M",
+      "nome": "Aspirador Robô Ropvacnic S1 Com Wi-Fi, Varre e Passa Pano Para Casa Inteligente",
+      "categoria": "Casa",
+      "preco": 579.41,
+      "link": "https://meli.la/2Ji2f2M",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aspirador-robo-ropvacnic-s1-com-wi-fi-varre-e-passa-pano-para-casa-inteligente/p/MLB76109369",
+      "precoDe": 999,
+      "postado": "2026-11-24T21:27:43.503Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Ji2f2M.jpg"
+    },
     {
       "id": "2Uq7j3h",
       "nome": "Bicicleta De Spinning Roda De Inércia 13kg Acte Bsp13",
