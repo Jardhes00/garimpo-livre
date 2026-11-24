@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T15:06:53.200Z",
+  "atualizado": "2026-11-24T15:08:08.204Z",
   "ofertas": [
+    {
+      "id": "21eL1CQ",
+      "nome": "Frigobar 45 Litros Inverter 1 Porta Degelo Manual MDRD086FGD013 Branco Bivolt Midea",
+      "categoria": "Diversos",
+      "preco": 653.13,
+      "link": "https://meli.la/21eL1CQ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB65529516",
+      "precoDe": 899,
+      "pix": true,
+      "parcelas": "R$ 687,51 em outros meios",
+      "postado": "2026-11-24T15:08:08.202Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-21eL1CQ.jpg"
+    },
     {
       "id": "1hCqFtK",
       "nome": "Tênis Fila Racer Speedzone Masculino",
@@ -4387,22 +4405,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-12cxZSd.jpg"
-    },
-    {
-      "id": "1u9p1ZG",
-      "nome": "Piscina Inflável Redonda 4500l 3,05mx76cm Pvc Kit Reparo Azul",
-      "categoria": "Diversos",
-      "preco": 278.99,
-      "link": "https://meli.la/1u9p1ZG",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/piscina-inflavel-redonda-4500l-305mx76cm-pvc-kit-reparo-azul/p/MLB80268702",
-      "precoDe": 389,
-      "postado": "2026-11-22T15:07:21.457Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1u9p1ZG.jpg"
     }
   ]
 }
