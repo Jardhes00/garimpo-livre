@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T15:41:54.268Z",
+  "atualizado": "2026-11-24T15:43:09.350Z",
   "ofertas": [
+    {
+      "id": "2CHb5Tp",
+      "nome": "Purificador de Água Gelada Fria e Natural Elétrico Compacto Eletrônico placa",
+      "categoria": "Diversos",
+      "preco": 586.41,
+      "link": "https://meli.la/2CHb5Tp",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/purificador-de-agua-gelada-fria-e-natural-eletrico-compacto-eletronico-placa-filtro-refil-6-meses-ou-3000l-painel-touch-bivolt-preto-pe12p-electrolux/p/MLB46563797",
+      "precoDe": 899.9,
+      "pix": true,
+      "parcelas": "R$689,90 em outros meios",
+      "postado": "2026-11-24T15:43:09.349Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2CHb5Tp.jpg"
+    },
     {
       "id": "1d8MBYB",
       "nome": "Serra Makita 4100nh3zx Mármore com 2 Discos Diámetro 110mm 1300W",
