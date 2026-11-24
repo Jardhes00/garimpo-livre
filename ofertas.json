@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T20:51:27.481Z",
+  "atualizado": "2026-11-24T20:52:42.527Z",
   "ofertas": [
+    {
+      "id": "1327jVo",
+      "nome": "Câmbio Driving Force Shifter Preto Logitech G",
+      "categoria": "Diversos",
+      "preco": 260.1,
+      "link": "https://meli.la/1327jVo",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cambio-driving-force-shifter-preto-logitech-g/p/MLB24526678",
+      "precoDe": 399.9,
+      "pix": true,
+      "parcelas": "R$289 em 2x R$144,50 sem juros",
+      "postado": "2026-11-24T20:52:42.526Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1327jVo.jpg"
+    },
     {
       "id": "2E4YjM8",
       "nome": "Placa De Vídeo MSI RTX 3050 LP OC NVIDIA Geforce 6GB GDDR6",
