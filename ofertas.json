@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T15:29:24.089Z",
+  "atualizado": "2026-11-24T15:30:39.310Z",
   "ofertas": [
+    {
+      "id": "2WHNUhS",
+      "nome": "Máscara Tratamento Hidratante Intensivo Cabelo Seco All Soft 500 Ml Redken",
+      "categoria": "Beleza",
+      "preco": 154.23,
+      "link": "https://meli.la/2WHNUhS",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mascara-tratamento-hidratante-intensivo-cabelo-seco-all-soft-500-ml-redken/p/MLB24526996",
+      "precoDe": 262,
+      "cupomAnuncio": "Compre R$249 e ganhe R$50 OFF",
+      "postado": "2026-11-24T15:30:39.308Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2WHNUhS.jpg"
+    },
     {
       "id": "1xtW9NW",
       "nome": "Luva Latex C/pó Kit Com 1000 Kit 10cx",
@@ -4530,22 +4547,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1DibooB.jpg"
-    },
-    {
-      "id": "2uxF6YS",
-      "nome": "Gokoco GD037 Modeladora/Cacheadora - Preto",
-      "categoria": "Diversos",
-      "preco": 199,
-      "link": "https://meli.la/2uxF6YS",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/gokoco-gd037-modeladoracacheadora-preto/p/MLB75682176",
-      "precoDe": 399,
-      "postado": "2026-11-22T15:29:52.228Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2uxF6YS.jpg"
     }
   ]
 }
