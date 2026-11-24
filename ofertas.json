@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T19:36:10.900Z",
+  "atualizado": "2026-11-24T19:37:41.100Z",
   "ofertas": [
+    {
+      "id": "1XYU6ER",
+      "nome": "Smart TV Hisense HI-QLED 4K 43\" Polegadas com Dolby Atmos, Dolby Gaming e Alexa - 43Q6QVV",
+      "categoria": "Tech",
+      "preco": 1567.99,
+      "link": "https://meli.la/1XYU6ER",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smart-tv-hisense-hi-qled-4k-43-polegadas-com-dolby-atmos-dolby-gaming-e-alexa-43q6qvv/p/MLB78379469",
+      "precoDe": 2199,
+      "parcelas": "10x R$ 156,80 sem juros",
+      "postado": "2026-11-24T19:37:41.099Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1XYU6ER.jpg"
+    },
     {
       "id": "2vCzWaY",
       "nome": "Protetor Solar Facial La Roche-Posay Anthelios Airlicium+ FPS 80 Com Cor 2.0 Para Pele Oleosa, 40g",
