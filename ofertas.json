@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T15:39:24.204Z",
+  "atualizado": "2026-11-24T15:40:39.257Z",
   "ofertas": [
+    {
+      "id": "1a9wkDX",
+      "nome": "Árvore De Natal Pinheiro Canadense Luxo 1,50m 450 Galhos Tradicional Verde",
+      "categoria": "Diversos",
+      "preco": 129.9,
+      "link": "https://meli.la/1a9wkDX",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/arvore-de-natal-pinheiro-canadense-luxo-150m-450-galhos-tradicional-verde-imperial-premium-grande-cheia-luvinco/p/MLB52362472",
+      "precoDe": 199.88,
+      "parcelas": "4x de R$32,48 sem juros",
+      "postado": "2026-11-24T15:40:39.255Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1a9wkDX.jpg"
+    },
     {
       "id": "314DmK3",
       "nome": "Soldadora Inversora Aitoolzo Mig/tig/mma/syn Ai 4em1 Digital Sem Gás Vermelho",
