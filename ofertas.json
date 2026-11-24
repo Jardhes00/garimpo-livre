@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T21:10:13.444Z",
+  "atualizado": "2026-11-24T21:11:29.204Z",
   "ofertas": [
+    {
+      "id": "1xZri5k",
+      "nome": "Lumisorris Purple Strips V34 14 Unidades 7 Pares Uso Diário",
+      "categoria": "Diversos",
+      "preco": 26.59,
+      "link": "https://meli.la/1xZri5k",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lumisorris-purple-strips-v34-14-unidades-7-pares-uso-diario/up/MLBU4110931734",
+      "precoDe": 49.9,
+      "postado": "2026-11-24T21:11:29.202Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1xZri5k.jpg"
+    },
     {
       "id": "144wX2H",
       "nome": "Cadeira De Escritório Ergonômica Giratória B100 Boston Cinza Laudo NR-17 Com",
