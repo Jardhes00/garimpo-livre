@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T14:51:52.120Z",
+  "atualizado": "2026-11-24T14:53:07.849Z",
   "ofertas": [
+    {
+      "id": "342KnG8",
+      "nome": "Caixa Amplificada Connect Lights Plus Cm-700 Mondial Cor Preto",
+      "categoria": "Diversos",
+      "preco": 578.68,
+      "link": "https://meli.la/342KnG8",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/caixa-amplificada-connect-lights-plus-cm-700-mondial-cor-preto/p/MLB18995362",
+      "precoDe": 999,
+      "pix": true,
+      "parcelas": "R$629 em 10x R$62,90 sem juros",
+      "postado": "2026-11-24T14:53:07.848Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-342KnG8.jpg"
+    },
     {
       "id": "1Edhb5P",
       "nome": "Cafeteira Filtro Arno Preferita Cfpf Inox 750ml",
