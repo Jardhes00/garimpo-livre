@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T15:26:53.879Z",
+  "atualizado": "2026-11-24T15:28:08.692Z",
   "ofertas": [
+    {
+      "id": "27eUTdJ",
+      "nome": "Kérastase Nutritive Masquintense Máscara de Nutrição Profunda, Cabelo Seco de",
+      "categoria": "Diversos",
+      "preco": 255.35,
+      "link": "https://meli.la/27eUTdJ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kerastase-nutritive-masquintense-mascara-de-nutricao-profunda-cabelo-seco-de-fino-a-medio-complexo-vitaminico-proteinas-de-origem-vegetal-e-niacinamida-200-ml/p/MLB35376421",
+      "precoDe": 399.9,
+      "parcelas": "6x de R$42,56 sem juros",
+      "cupomAnuncio": "Compre R$799 e ganhe R$100 OFF",
+      "postado": "2026-11-24T15:28:08.689Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-27eUTdJ.jpg"
+    },
     {
       "id": "1FoBQTq",
       "nome": "Parafusadeira Furadeira The Black Tools TB12A 3/8 a Bateria Cor Amarelo",
@@ -4511,24 +4529,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2uxF6YS.jpg"
-    },
-    {
-      "id": "2Hanr8E",
-      "nome": "Liquidificador Turbo Power Mondial 550W L-99 WG",
-      "categoria": "Casa",
-      "preco": 88.96,
-      "link": "https://meli.la/2Hanr8E",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/liquidificador-turbo-power-mondial-550w-l-99-wg/p/MLB15699911",
-      "precoDe": 172.9,
-      "pix": true,
-      "parcelas": "R$98,84 em outros meios",
-      "postado": "2026-11-22T15:27:37.157Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2Hanr8E.jpg"
     }
   ]
 }
