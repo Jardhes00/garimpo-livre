@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T15:46:54.299Z",
+  "atualizado": "2026-11-24T15:48:09.693Z",
   "ofertas": [
+    {
+      "id": "32mSwYo",
+      "nome": "Smartwatch HUAWEI WATCH FIT 5 Pro Tela FullView AMOLED de 1,92\" Vidor de Safira",
+      "categoria": "Tech",
+      "preco": 999,
+      "link": "https://meli.la/32mSwYo",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smartwatch-huawei-watch-fit-5-pro-tela-fullview-amoled-de-192-vidor-de-safira-mini-treino-bateria-com-ate-10-dias-64-gb-gerenciamento-da-saude-compativel-com-ios-e-android-branco/p/MLB67714557",
+      "precoDe": 1599,
+      "parcelas": "10x de R$99,90 sem juros",
+      "postado": "2026-11-24T15:48:09.691Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-32mSwYo.jpg"
+    },
     {
       "id": "22pK5vJ",
       "nome": "Câmera Residencial Infravermelho Ip Bullet Hilook By Hikvision",
@@ -4637,24 +4654,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1niH5rC.jpg"
-    },
-    {
-      "id": "1mhx4UA",
-      "nome": "Berço Balanço Portátil Moises Com Mosquiteiro E Colchão Bebê Função Balanço",
-      "categoria": "Casa",
-      "preco": 378.07,
-      "link": "https://meli.la/1mhx4UA",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/berco-balanco-portatil-moises-com-mosquiteiro-e-colchao-bebe-funcao-balanco-infantil-compacto-balancinho/p/MLB66266515",
-      "precoDe": 599.9,
-      "pix": true,
-      "parcelas": "R$397,97 em outros meios",
-      "postado": "2026-11-22T15:47:52.893Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1mhx4UA.jpg"
     }
   ]
 }
