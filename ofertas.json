@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-24T16:38:10.754Z",
+  "atualizado": "2026-11-24T16:39:26.210Z",
   "ofertas": [
+    {
+      "id": "2WZoKDa",
+      "nome": "Whey Protein Isolado Dux Nutrition - Pote 900g Sabor Chocolate",
+      "categoria": "Casa",
+      "preco": 302,
+      "link": "https://meli.la/2WZoKDa",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-protein-isolado-dux-nutrition-pote-900g-sabor-chocolate/p/MLB18512107",
+      "precoDe": 530,
+      "parcelas": "12x de R$ 29,54",
+      "postado": "2026-11-24T16:39:26.208Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2WZoKDa.jpg"
+    },
     {
       "id": "2qFw5DR",
       "nome": "Máscara Vegana Hidratação Profunda Profissional Food For Soft Matrix 500ml",
