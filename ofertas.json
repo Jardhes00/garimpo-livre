@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T15:24:24.124Z",
+  "atualizado": "2026-11-24T15:25:39.327Z",
   "ofertas": [
+    {
+      "id": "177yXME",
+      "nome": "Media Receiver Pioneer Mvh-x3000br Bluetooth Spotify Usb",
+      "categoria": "Diversos",
+      "preco": 557.99,
+      "link": "https://meli.la/177yXME",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB22327695",
+      "precoDe": 999.9,
+      "pix": true,
+      "parcelas": "R$ 619,99 em outros meios",
+      "postado": "2026-11-24T15:25:39.326Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-177yXME.jpg"
+    },
     {
       "id": "2GUXAqm",
       "nome": "Relógio Masculino Clássico Pulseira Prata Correia Prateada Bisel Prateado Fundo Azul Marinho Saint Germain 42mm Elegante Detalhes Bronze",
@@ -4494,23 +4512,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2Hanr8E.jpg"
-    },
-    {
-      "id": "2G2icT9",
-      "nome": "Patinete Elétrico Drift 450w Triciclo Infantil 120w Vermelho",
-      "categoria": "Bebê",
-      "preco": 921.49,
-      "link": "https://meli.la/2G2icT9",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/patinete-eletrico-drift-450w-triciclo-infantil-120w-vermelho/up/MLBU5920493546",
-      "precoDe": 1599,
-      "parcelas": "10x de R$92,15 sem juros",
-      "postado": "2026-11-22T15:25:22.152Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2G2icT9.jpg"
     }
   ]
 }
