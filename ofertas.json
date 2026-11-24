@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T14:45:38.977Z",
+  "atualizado": "2026-11-24T14:46:56.580Z",
   "ofertas": [
+    {
+      "id": "2ncRqbU",
+      "nome": "HONEYWHALE M2 MAX-B Patinete Elétrico Dobrável para Adultos com Assento, Motor",
+      "categoria": "Esporte",
+      "preco": 2391.08,
+      "link": "https://meli.la/2ncRqbU",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/honeywhale-m2-max-b-patinete-eletrico-dobravel-para-adultos-com-assento-motor-de-500w-velocidade-maxima-de-32-kmh-autonomia-maxima-de-32km-scooter-eletrica-com-aplicativo-bluetooth/p/MLB47004959",
+      "precoDe": 5165,
+      "pix": true,
+      "parcelas": "R$2.599 em 10x R$259,90 sem juros",
+      "postado": "2026-11-24T14:46:56.577Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ncRqbU.jpg"
+    },
     {
       "id": "2GMoJ3m",
       "nome": "Mantecorp protetor solar pó compacto fps 50 Tom Claro",
