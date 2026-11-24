@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-24T16:04:24.241Z",
+  "atualizado": "2026-11-24T16:05:39.819Z",
   "ofertas": [
+    {
+      "id": "2PYRLqw",
+      "nome": "Escada Aço Inox 15 Degraus Extensiva Telescópica 4,40 Metros",
+      "categoria": "Diversos",
+      "preco": 586.49,
+      "link": "https://meli.la/2PYRLqw",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/escada-aco-inox-15-degraus-extensiva-telescopica-440-metros/up/MLBU3696227302",
+      "precoDe": 849.99,
+      "pix": true,
+      "parcelas": "R$637,49 em outros meios",
+      "cupomAnuncio": "Compre R$800 e ganhe R$40 OFF",
+      "postado": "2026-11-24T16:05:39.818Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2PYRLqw.jpg"
+    },
     {
       "id": "21ntSmU",
       "nome": "Capacete Asx City Solid Preto Fosco Integral Adulto",
