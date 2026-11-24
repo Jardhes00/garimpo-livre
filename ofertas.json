@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-24T21:07:42.976Z",
+  "atualizado": "2026-11-24T21:08:58.121Z",
   "ofertas": [
+    {
+      "id": "29u6vWk",
+      "nome": "Britânia BAS1295P Aspirador de Pó 2 em 1 1250W Preto – Potência e praticidade",
+      "categoria": "Casa",
+      "preco": 125.9,
+      "link": "https://meli.la/29u6vWk",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/britania-bas1295p-aspirador-de-po-2-em-1-1250w-preto-potencia-e-praticidade-para-sua-casa/p/MLB25860033",
+      "precoDe": 234.29,
+      "postado": "2026-11-24T21:08:58.119Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-29u6vWk.jpg"
+    },
     {
       "id": "11ajgyZ",
       "nome": "Notebook ASUS Vivobook Go 15 Core i3 N305 4GB Ram 256GB SSD W11 Home Tela 15,6\"",
