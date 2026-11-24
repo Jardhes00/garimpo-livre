@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-24T15:03:12.236Z",
+  "atualizado": "2026-11-24T15:04:23.162Z",
   "ofertas": [
+    {
+      "id": "1exVMDD",
+      "nome": "Micro-ondas Electrolux 36L cor Inox Efficient com Descongelamento Assistido ME36S",
+      "categoria": "Casa",
+      "preco": 677.97,
+      "link": "https://meli.la/1exVMDD",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB19750516",
+      "precoDe": 989,
+      "pix": true,
+      "parcelas": "R$ 729 em 10x R$ 72,90 sem juros",
+      "postado": "2026-11-24T15:04:23.160Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1exVMDD.jpg"
+    },
     {
       "id": "1qR3Cdg",
       "nome": "Sabão Líquido Omo Lavagem Perfeita 5L",
