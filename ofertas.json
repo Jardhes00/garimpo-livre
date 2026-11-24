@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-24T15:15:38.623Z",
+  "atualizado": "2026-11-24T15:16:53.930Z",
   "ofertas": [
+    {
+      "id": "2PhiiV3",
+      "nome": "Kit 10 Cueca Boxer Sem Costura Microfibra Selene Masculina",
+      "categoria": "Moda",
+      "preco": 155.79,
+      "link": "https://meli.la/2PhiiV3",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-3582464273-kit-10-cueca-boxer-sem-costura-microfibra-selene-masculina-_JM",
+      "precoDe": 346.15,
+      "pix": true,
+      "parcelas": "R$ 163,99 em outros meios",
+      "cupomAnuncio": "Compre R$200 e ganhe R$10 OFF por seguir a loja",
+      "postado": "2026-11-24T15:16:53.928Z",
+      "conferido": "2026-11-24",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2PhiiV3.jpg"
+    },
     {
       "id": "1wPnmyi",
       "nome": "Esmerilhadeira Angular Corte E Desbaste 115mm 850w Makita",
@@ -4439,25 +4458,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-33g3vUU.jpg"
-    },
-    {
-      "id": "1pFWf1b",
-      "nome": "Jogo De Toalhas 4 Pçs Fio Cardado 100% Algodão Bosco Karsten Cinza Bosco",
-      "categoria": "Games",
-      "preco": 93.41,
-      "link": "https://meli.la/1pFWf1b",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/jogo-de-toalhas-4-pcs-fio-cardado-100-algodao-bosco-karsten-cinza-bosco/p/MLB53989572",
-      "precoDe": 149.9,
-      "pix": true,
-      "parcelas": "R$109,90 em 4x R$27,48 sem juros",
-      "cupomAnuncio": "R$76,41 com Cupom",
-      "postado": "2026-11-22T15:16:21.851Z",
-      "conferido": "2026-11-22",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1pFWf1b.jpg"
     }
   ]
 }
