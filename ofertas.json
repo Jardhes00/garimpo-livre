@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-25T16:59:41.561Z",
+  "atualizado": "2026-11-25T17:00:56.618Z",
   "ofertas": [
+    {
+      "id": "1Y2aSqU",
+      "nome": "Máquina de Solda Inversora 3 em 1 King Note KMIG-140A, MIG sem Gás, TIG Lift e MMA",
+      "categoria": "Auto",
+      "preco": 357.6,
+      "link": "https://meli.la/1Y2aSqU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquina-de-solda-inversora-3-em-1-king-note-kmig-140a-mig-sem-gas-tig-lift-e-mma/p/MLB43964693",
+      "precoDe": 729.9,
+      "pix": true,
+      "parcelas": "R$ 376,42 em outros meios",
+      "cupomAnuncio": "Compre R$1.000 e ganhe 5% OFF por seguir a loja",
+      "postado": "2026-11-25T17:00:56.616Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Y2aSqU.jpg"
+    },
     {
       "id": "2FXM2fL",
       "nome": "Proteína New Millen Premium Whey Isolado Isolate em pó sabor Chocolate x 900g",
@@ -5359,23 +5378,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1UHV4NK.jpg"
-    },
-    {
-      "id": "1pCscPm",
-      "nome": "Legging Hydefit® Adaptiv",
-      "categoria": "Diversos",
-      "preco": 134.91,
-      "link": "https://meli.la/1pCscPm",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/legging-hydefit-adaptiv/up/MLBU5976728848",
-      "precoDe": 249.9,
-      "parcelas": "4x de R$33,73 sem juros",
-      "postado": "2026-11-23T17:00:52.192Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1pCscPm.jpg"
     }
   ]
 }
