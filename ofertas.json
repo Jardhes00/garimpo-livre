@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T19:55:16.676Z",
+  "atualizado": "2026-11-25T19:57:16.716Z",
   "ofertas": [
+    {
+      "id": "1GkcDfk",
+      "nome": "Kit 2 Pneus 175/70r13 Kelly Edge Touring Goodyear 82t",
+      "categoria": "Auto",
+      "preco": 576.5,
+      "link": "https://meli.la/1GkcDfk",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB34078616",
+      "precoDe": 881.91,
+      "pix": true,
+      "parcelas": "R$ 662,64 em outros meios",
+      "postado": "2026-11-25T19:57:16.714Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1GkcDfk.jpg"
+    },
     {
       "id": "2T7d2G6",
       "nome": "Energético Monster Ultra White Sem Açúcar 6 Latas 473ml Top",
@@ -6325,25 +6343,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-33m7k2H.jpg"
-    },
-    {
-      "id": "2gqeMxo",
-      "nome": "Whey Protein Concentrado 1kg Cookies & Cream Dark Lab",
-      "categoria": "Suplementos",
-      "preco": 134.93,
-      "link": "https://meli.la/2gqeMxo",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/whey-protein-concentrado-1kg-cookies-cream-dark-lab/p/MLB40183187",
-      "precoDe": 349.9,
-      "pix": true,
-      "parcelas": "R$149,92 em outros meios",
-      "cupomAnuncio": "Compre R$187 e ganhe R$20 OFF",
-      "postado": "2026-11-23T19:56:21.704Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2gqeMxo.jpg"
     }
   ]
 }
