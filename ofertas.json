@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T17:07:11.698Z",
+  "atualizado": "2026-11-25T17:08:26.907Z",
   "ofertas": [
+    {
+      "id": "2Q1hTiC",
+      "nome": "Escova modeladora/cacheadora Gokoco GD037 rosa",
+      "categoria": "Diversos",
+      "preco": 184.99,
+      "link": "https://meli.la/2Q1hTiC",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB77612240",
+      "precoDe": 399,
+      "parcelas": "6x R$ 30,83 sem juros",
+      "postado": "2026-11-25T17:08:26.906Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Q1hTiC.jpg"
+    },
     {
       "id": "1odkkeZ",
       "nome": "Fonte Automotiva 120 a 160 Amperes Smart Charger 120a Carregador De Baterias Inteligente Bivolt 120amperes Taramps",
@@ -5362,22 +5379,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-26cVkkQ.jpg"
-    },
-    {
-      "id": "22ZGPZd",
-      "nome": "Fórmula Natural Life Cães Adultos Portes Médio E Grande Frango E Linhaça 15 kg",
-      "categoria": "Diversos",
-      "preco": 205,
-      "link": "https://meli.la/22ZGPZd",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/formula-natural-life-caes-adultos-portes-medio-e-grande-frango-e-linhaca-15-kg/p/MLB22501432",
-      "precoDe": 599.9,
-      "postado": "2026-11-23T17:08:22.825Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-22ZGPZd.jpg"
     }
   ]
 }
