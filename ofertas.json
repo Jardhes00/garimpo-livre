@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T18:12:13.860Z",
+  "atualizado": "2026-11-25T18:13:28.856Z",
   "ofertas": [
+    {
+      "id": "24CZ64R",
+      "nome": "Colchão Queen Luuna Essential 1 Espuma Ergo D28 Ortopédico Firme",
+      "categoria": "Casa",
+      "preco": 1077,
+      "link": "https://meli.la/24CZ64R",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/colchao-queen-luuna-essential-1-espuma-ergo-d28-ortopedico-firme/p/MLB33997742",
+      "precoDe": 1699,
+      "parcelas": "10x de R$107,70 sem juros",
+      "postado": "2026-11-25T18:13:28.854Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-24CZ64R.jpg"
+    },
     {
       "id": "19eiFef",
       "nome": "Freezer Horizontal Philco 199l Pfh205b Branco",
