@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T18:56:00.579Z",
+  "atualizado": "2026-11-25T18:57:15.632Z",
   "ofertas": [
+    {
+      "id": "2Ga43pp",
+      "nome": "Robô Aspirador Positivo Casa Inteligente Smart PRA90 Wi-Fi - Aspira e Passa",
+      "categoria": "Casa",
+      "preco": 409,
+      "link": "https://meli.la/2Ga43pp",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/robo-aspirador-positivo-casa-inteligente-smart-pra90-wi-fi-aspira-e-passa-pano-600pa-2600mah-ate-70-min-sensores-antiqueda-e-anticolisao-app-e-comando-de-voz-retorno-base-preto/p/MLB54067306",
+      "precoDe": 934.29,
+      "pix": true,
+      "parcelas": "R$511,25 em outros meios",
+      "postado": "2026-11-25T18:57:15.630Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Ga43pp.jpg"
+    },
     {
       "id": "25w3std",
       "nome": "Bateria Makita De 5.0ah Li-ion 18v Lxt Profissional Bl1850b",
@@ -6515,22 +6533,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-31MFxyY.jpg"
-    },
-    {
-      "id": "1kP46To",
-      "nome": "Pack X2 Unidades Unique One Revlon Professional Tudo Em Um",
-      "categoria": "Diversos",
-      "preco": 115.9,
-      "link": "https://meli.la/1kP46To",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/pack-x2-unidades-unique-one-revlon-professional-tudo-em-um/p/MLB35908614",
-      "precoDe": 218,
-      "postado": "2026-11-23T18:56:19.988Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1kP46To.jpg"
     }
   ]
 }
