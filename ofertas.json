@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T17:52:13.299Z",
+  "atualizado": "2026-11-25T17:53:28.246Z",
   "ofertas": [
+    {
+      "id": "1U9Ue59",
+      "nome": "Refil Filtro Original Consul Cix06ax Cpc31 Cpb34 W11199342",
+      "categoria": "Diversos",
+      "preco": 77.42,
+      "link": "https://meli.la/1U9Ue59",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/refil-filtro-original-consul-cix06ax-cpc31-cpb34-w11199342/up/MLBU2458171152",
+      "precoDe": 109.9,
+      "pix": true,
+      "parcelas": "R$88,99 em outros meios",
+      "postado": "2026-11-25T17:53:28.245Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1U9Ue59.jpg"
+    },
     {
       "id": "1NaSqEs",
       "nome": "Liquidz Eletrólitos Isotônico Zero Açúcar 14 Sachês Limonada",
