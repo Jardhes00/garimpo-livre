@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T16:20:55.499Z",
+  "atualizado": "2026-11-25T16:22:10.481Z",
   "ofertas": [
+    {
+      "id": "1MKkj84",
+      "nome": "Kit 4 Pneus 225/55r18 Bridgestone Alenza 001 98v Índice de velocidade V",
+      "categoria": "Auto",
+      "preco": 1981.79,
+      "link": "https://meli.la/1MKkj84",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-4-pneus-22555r18-bridgestone-alenza-001-98v-indice-de-velocidade-v/p/MLB28636397",
+      "precoDe": 3234.8,
+      "postado": "2026-11-25T16:22:10.480Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1MKkj84.jpg"
+    },
     {
       "id": "2TsB1vN",
       "nome": "Fechadura Inteligente De Embutir Mfw 5000 Wi-fi Intelbras",
