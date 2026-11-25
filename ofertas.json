@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T16:53:26.288Z",
+  "atualizado": "2026-11-25T16:54:41.983Z",
   "ofertas": [
+    {
+      "id": "1rbphS7",
+      "nome": "Câmera De Seguraça Externa Wifi Dupla Lente 4mp Hd Bullet + PTZ Youse Cor Branco",
+      "categoria": "Diversos",
+      "preco": 119.59,
+      "link": "https://meli.la/1rbphS7",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/camera-de-seguraca-externa-wifi-dupla-lente-4mp-hd-bullet-ptz-youse-cor-branco/p/MLB75047929",
+      "precoDe": 175.99,
+      "pix": true,
+      "parcelas": "R$125,88 em outros meios",
+      "postado": "2026-11-25T16:54:41.982Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1rbphS7.jpg"
+    },
     {
       "id": "14dBAqR",
       "nome": "Ventilador De Teto Elluz Inverter Bivolt Branco/cinza Com Controle Ventisol",
@@ -5360,22 +5378,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1QHqphs.jpg"
-    },
-    {
-      "id": "1KwBDUL",
-      "nome": "Luva Latex C/pó Kit Com 1000 Kit 10cx",
-      "categoria": "Diversos",
-      "preco": 217.99,
-      "link": "https://meli.la/1KwBDUL",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/luva-latex-cpo-kit-com-1000-kit-10cx/up/MLBU1152234946",
-      "precoDe": 499.9,
-      "postado": "2026-11-23T16:54:37.119Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1KwBDUL.jpg"
     }
   ]
 }
