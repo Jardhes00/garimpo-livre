@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T17:18:27.319Z",
+  "atualizado": "2026-11-25T17:19:42.391Z",
   "ofertas": [
+    {
+      "id": "1c6h657",
+      "nome": "Luva Latex C/pó Kit Com 1000 Kit 10cx",
+      "categoria": "Diversos",
+      "preco": 217.99,
+      "link": "https://meli.la/1c6h657",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/luva-latex-cpo-kit-com-1000-kit-10cx/up/MLBU1152231434",
+      "precoDe": 499.9,
+      "cupomAnuncio": "R$212,99 com Cupom por seguir a loja",
+      "postado": "2026-11-25T17:19:42.386Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1c6h657.jpg"
+    },
     {
       "id": "2Yezpac",
       "nome": "Camera Wifi 360° Im7 S Full Color Intelbras Ip Externa 1080p",
@@ -5361,22 +5378,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-33HCRVJ.jpg"
-    },
-    {
-      "id": "1rvhfnh",
-      "nome": "Aspirador De Pó Vertical E Portátil Wap High Speed Plus 1350w 1,2 Litros Filtro",
-      "categoria": "Casa",
-      "preco": 141,
-      "link": "https://meli.la/1rvhfnh",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/aspirador-de-po-vertical-e-portatil-wap-high-speed-plus-1350w-12-litros-filtro-hepa-tecnologia-cyclone-3-em-1/p/MLB23414010",
-      "precoDe": 207,
-      "postado": "2026-11-23T17:19:37.716Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1rvhfnh.jpg"
     }
   ]
 }
