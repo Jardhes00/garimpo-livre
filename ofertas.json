@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-25T18:17:14.213Z",
+  "atualizado": "2026-11-25T18:18:29.684Z",
   "ofertas": [
+    {
+      "id": "2zBGiwq",
+      "nome": "Vaso Sanitário Monobloco Privada Acoplada Bacia Extra Grande",
+      "categoria": "Diversos",
+      "preco": 606.1,
+      "link": "https://meli.la/2zBGiwq",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/vaso-sanitario-monobloco-privada-acoplada-bacia-extra-grande/up/MLBU3528015060",
+      "precoDe": 943.18,
+      "pix": true,
+      "parcelas": "R$638 em outros meios",
+      "cupomAnuncio": "Compre R$700 e ganhe 5% OFF por seguir a loja",
+      "postado": "2026-11-25T18:18:29.680Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2zBGiwq.jpg"
+    },
     {
       "id": "2ojNwME",
       "nome": "Caixa Som Amplificada Philco/britania 250w Audio Pcx3800 Preto 127/220v",
