@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T18:10:58.896Z",
+  "atualizado": "2026-11-25T18:12:13.860Z",
   "ofertas": [
+    {
+      "id": "19eiFef",
+      "nome": "Freezer Horizontal Philco 199l Pfh205b Branco",
+      "categoria": "Diversos",
+      "preco": 1310.9,
+      "link": "https://meli.la/19eiFef",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/freezer-horizontal-philco-199l-pfh205b-branco/p/MLB37854396",
+      "precoDe": 2357.9,
+      "pix": true,
+      "parcelas": "R$1.379,90 em outros meios",
+      "postado": "2026-11-25T18:12:13.859Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-19eiFef.jpg"
+    },
     {
       "id": "2zcbCYF",
       "nome": "Hoverboard Elétrico Skate Overboard Bluetooth Cor Fogo Gelo Azul",
