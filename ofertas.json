@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T18:08:28.950Z",
+  "atualizado": "2026-11-25T18:09:43.944Z",
   "ofertas": [
+    {
+      "id": "2RUSS9L",
+      "nome": "Lavadora Lava Jato Portátil De Alta Pressão Com 2 Baterias Preto 127/220v",
+      "categoria": "Diversos",
+      "preco": 89.99,
+      "link": "https://meli.la/2RUSS9L",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-lava-jato-portatil-de-alta-pressao-com-2-baterias-preto-127220v-50hz60hz-sensacional/p/MLB74798127",
+      "precoDe": 234.9,
+      "postado": "2026-11-25T18:09:43.942Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2RUSS9L.jpg"
+    },
     {
       "id": "322wNzi",
       "nome": "Bravecto Comprimido 20 A 40kg Para Cães - 1 Unidade",
