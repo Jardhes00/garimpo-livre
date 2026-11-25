@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T16:25:55.558Z",
+  "atualizado": "2026-11-25T16:27:10.661Z",
   "ofertas": [
+    {
+      "id": "1M7utTv",
+      "nome": "Cerveja Spaten Puro Malte lata 350ml 12 u",
+      "categoria": "Diversos",
+      "preco": 37.9,
+      "link": "https://meli.la/1M7utTv",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cerveja-spaten-puro-malte-lata-350ml-12-u/p/MLB19544777",
+      "precoDe": 63.48,
+      "postado": "2026-11-25T16:27:10.659Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1M7utTv.jpg"
+    },
     {
       "id": "2tTsvmc",
       "nome": "Monitor Gamer Samsung Odyssey G5, 32 ,qhd, 165hz,1ms,hdmi,dp Preto",
