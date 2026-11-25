@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T19:11:00.846Z",
+  "atualizado": "2026-11-25T19:12:16.221Z",
   "ofertas": [
+    {
+      "id": "22aDuQm",
+      "nome": "Mala De Viagem Média 18KG Sweet Studio Com Zíper Dupla Expansível E Rodas Giro",
+      "categoria": "Diversos",
+      "preco": 179.54,
+      "link": "https://meli.la/22aDuQm",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mala-de-viagem-media-18kg-sweet-studio-com-ziper-dupla-expansivel-e-rodas-giro-360-removiveis-preto-m285/p/MLB81076248",
+      "precoDe": 395.08,
+      "pix": true,
+      "parcelas": "R$188,99 em 6x R$31,50 sem juros",
+      "postado": "2026-11-25T19:12:16.219Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-22aDuQm.jpg"
+    },
     {
       "id": "1v6bUaK",
       "nome": "Capa De Chuva Moto Motoqueiro Impermeável Reforçada Pioneira",
@@ -6519,24 +6537,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1XKYnWz.jpg"
-    },
-    {
-      "id": "1eFm3ZW",
-      "nome": "Colchão Casal Emma Basics 17 – 138x188cm - Espuma D28 17cm com Tecnologia",
-      "categoria": "Casa",
-      "preco": 991.8,
-      "link": "https://meli.la/1eFm3ZW",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/colchao-casal-emma-basics-17-138x188cm-espuma-d28-17cm-com-tecnologia-alema-embalado-vacuo-firmeza-ideal-suporte-confortavel/p/MLB23873195",
-      "precoDe": 1999,
-      "pix": true,
-      "parcelas": "R$1.044 em 10x R$104,40 sem juros",
-      "postado": "2026-11-23T19:11:20.196Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1eFm3ZW.jpg"
     }
   ]
 }
