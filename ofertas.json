@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T18:38:30.180Z",
+  "atualizado": "2026-11-25T18:39:44.898Z",
   "ofertas": [
+    {
+      "id": "2HoCK2q",
+      "nome": "Lançamento 2027 Câmera Com Tecnologia De Última Geração",
+      "categoria": "Pet",
+      "preco": 113.05,
+      "link": "https://meli.la/2HoCK2q",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lancamento-2027-camera-com-tecnologia-de-ultima-geracao/up/MLBU3946182642",
+      "precoDe": 350,
+      "pix": true,
+      "parcelas": "R$119 em outros meios",
+      "postado": "2026-11-25T18:39:44.896Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2HoCK2q.jpg"
+    },
     {
       "id": "27D1hsB",
       "nome": "Colchão Queen Luuna Blue, Espuma 20 cm com Bloqueio de Movimento, 10 Anos de",
