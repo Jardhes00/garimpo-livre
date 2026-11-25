@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T20:54:45.916Z",
+  "atualizado": "2026-11-25T21:00:06.378Z",
   "ofertas": [
+    {
+      "id": "1Up5oUf",
+      "nome": "Kit 100 Placas Espuma Acústica Anti Chama Isolamento Sonoro Cinza-escuro",
+      "categoria": "Diversos",
+      "preco": 559.99,
+      "link": "https://meli.la/1Up5oUf",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-100-placas-espuma-acustica-anti-chama-isolamento-sonoro-cinza-escuro/p/MLB43987292",
+      "precoDe": 1050,
+      "parcelas": "10x de R$56 sem juros",
+      "postado": "2026-11-25T21:00:06.376Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Up5oUf.jpg"
+    },
     {
       "id": "1ShEbxq",
       "nome": "Refil Perfume Feminino Eau De Parfum La Vie Est Belle Lancôme, Frasco Com 100ml",
