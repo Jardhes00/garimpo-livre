@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T17:02:11.685Z",
+  "atualizado": "2026-11-25T17:03:27.237Z",
   "ofertas": [
+    {
+      "id": "2imm7Y4",
+      "nome": "Cápsulas De Café Original Nespresso Variados - 50 Cápsulas",
+      "categoria": "Diversos",
+      "preco": 138.74,
+      "link": "https://meli.la/2imm7Y4",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB19930533",
+      "precoDe": 185,
+      "parcelas": "12x R$ 13,71",
+      "cupomAnuncio": "Compre R$229 e ganhe R$50 OFF",
+      "postado": "2026-11-25T17:03:27.234Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2imm7Y4.jpg"
+    },
     {
       "id": "2JtvvJ2",
       "nome": "Whey Protein Concentrado Dux 900g Baunilha 20g de Proteína",
@@ -5362,23 +5380,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2zMchQq.jpg"
-    },
-    {
-      "id": "1R9Jyi3",
-      "nome": "Lavadora Alta Pressão K6 Motor Indução 2000w 2250 Psi Karcher - 110v",
-      "categoria": "Diversos",
-      "preco": 1071,
-      "link": "https://meli.la/1R9Jyi3",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/lavadora-alta-pressao-k6-motor-inducao-2000w-2250-psi-karcher-110v/p/MLB66200051",
-      "precoDe": 2100,
-      "parcelas": "10x de R$107,10 sem juros",
-      "postado": "2026-11-23T17:03:22.310Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1R9Jyi3.jpg"
     }
   ]
 }
