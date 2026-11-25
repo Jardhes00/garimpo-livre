@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T16:28:25.897Z",
+  "atualizado": "2026-11-25T16:29:40.678Z",
   "ofertas": [
+    {
+      "id": "211chyo",
+      "nome": "Purificador de Água Midea SlimPure Branco Bivolt",
+      "categoria": "Diversos",
+      "preco": 399,
+      "link": "https://meli.la/211chyo",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/purificador-de-agua-midea-slimpure-branco-bivolt/p/MLB54456585",
+      "precoDe": 584.87,
+      "cupomAnuncio": "R$379 com Cupom",
+      "postado": "2026-11-25T16:29:40.677Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-211chyo.jpg"
+    },
     {
       "id": "2Bq7Ysa",
       "nome": "Seringa Insulina 100ui Agulha Fixa 8x0,30mm 100 Unidades Sr 1 Ml",
