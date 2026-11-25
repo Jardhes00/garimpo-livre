@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T19:46:46.442Z",
+  "atualizado": "2026-11-25T19:48:46.420Z",
   "ofertas": [
+    {
+      "id": "1g3eEFJ",
+      "nome": "Relógio Lacoste Lc33 Masculino Borracha Preto 2011365",
+      "categoria": "Moda",
+      "preco": 295,
+      "link": "https://meli.la/1g3eEFJ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB45405680",
+      "precoDe": 590,
+      "parcelas": "10x R$ 29,50 sem juros",
+      "postado": "2026-11-25T19:48:46.418Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1g3eEFJ.jpg"
+    },
     {
       "id": "1Uc3iVL",
       "nome": "Headphone sem fio Jbl Tune 730bt Bluetooth Preto",
@@ -6358,24 +6375,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1wMB5Pe.jpg"
-    },
-    {
-      "id": "1EDuXUj",
-      "nome": "Par Intercomunicador V6 Plus Capacete Comunicador Sem Fio",
-      "categoria": "Diversos",
-      "preco": 196.68,
-      "link": "https://meli.la/1EDuXUj",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/par-intercomunicador-v6-plus-capacete-comunicador-sem-fio/up/MLBU5581684577",
-      "precoDe": 509,
-      "pix": true,
-      "parcelas": "R$213,78 em outros meios",
-      "postado": "2026-11-23T19:47:36.589Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1EDuXUj.jpg"
     }
   ]
 }
