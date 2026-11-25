@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T17:29:42.584Z",
+  "atualizado": "2026-11-25T17:30:57.549Z",
   "ofertas": [
+    {
+      "id": "2oTrAws",
+      "nome": "Smart TV AOC 32\" Roku 32S5155/78G",
+      "categoria": "Tech",
+      "preco": 908.04,
+      "link": "https://meli.la/2oTrAws",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smart-tv-aoc-32-roku-32s515578g/p/MLB60728265",
+      "precoDe": 1297,
+      "pix": true,
+      "parcelas": "R$987 em outros meios",
+      "postado": "2026-11-25T17:30:57.546Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2oTrAws.jpg"
+    },
     {
       "id": "22fG5VB",
       "nome": "Secador Modelador Cadence Poderosa, SEC1000, Escova e Cachos, 220 V",
