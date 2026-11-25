@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T16:48:27.966Z",
+  "atualizado": "2026-11-25T16:49:41.188Z",
   "ofertas": [
+    {
+      "id": "2MZr4mt",
+      "nome": "Scanner de Mesa Canon LiDE 300 Preto para Documentos e Fotos",
+      "categoria": "Diversos",
+      "preco": 376.28,
+      "link": "https://meli.la/2MZr4mt",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/scanner-de-mesa-canon-lide-300-preto-para-documentos-e-fotos/p/MLB24121696",
+      "precoDe": 806.4,
+      "pix": true,
+      "parcelas": "R$409 em outros meios",
+      "postado": "2026-11-25T16:49:41.186Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2MZr4mt.jpg"
+    },
     {
       "id": "1mY9pGC",
       "nome": "Secante Para Máquina Lava Louça Finish Abrilhantador 250 ML",
@@ -5358,24 +5376,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1FZ8NpW.jpg"
-    },
-    {
-      "id": "1GHcrP3",
-      "nome": "Guarda-sol 2,6 Metro Piscina Praia Pesca Articulado Azul Mor",
-      "categoria": "Diversos",
-      "preco": 162,
-      "link": "https://meli.la/1GHcrP3",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/guarda-sol-26-metro-piscina-praia-pesca-articulado-azul-mor/p/MLB28747487",
-      "precoDe": 277.94,
-      "pix": true,
-      "parcelas": "R$180 em outros meios",
-      "postado": "2026-11-23T16:49:37.190Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1GHcrP3.jpg"
     }
   ]
 }
