@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T16:52:11.402Z",
+  "atualizado": "2026-11-25T16:53:26.288Z",
   "ofertas": [
+    {
+      "id": "14dBAqR",
+      "nome": "Ventilador De Teto Elluz Inverter Bivolt Branco/cinza Com Controle Ventisol",
+      "categoria": "Games",
+      "preco": 230.34,
+      "link": "https://meli.la/14dBAqR",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-teto-elluz-inverter-bivolt-brancocinza-com-controle-ventisol/p/MLB29861556",
+      "precoDe": 559,
+      "pix": true,
+      "parcelas": "R$270,99 em outros meios",
+      "postado": "2026-11-25T16:53:26.287Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-14dBAqR.jpg"
+    },
     {
       "id": "17qwrdZ",
       "nome": "Conversor Fibra Óptica 1000mbps SM Ethernet RJ45 10/100/1000mbps - Gurumania",
@@ -5358,24 +5376,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1KwBDUL.jpg"
-    },
-    {
-      "id": "2x2vD65",
-      "nome": "Monitor LG FHD Home & Office 22”, 1ms (MBR), 120Hz (O/C), Modo leitura, Flicker",
-      "categoria": "Tech",
-      "preco": 389.05,
-      "link": "https://meli.la/2x2vD65",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/monitor-lg-fhd-home-office-22-1ms-mbr-120hz-oc-modo-leitura-flicker-safe-hdmi-lg-switch-black-stabilizer-dynamic-action-sync-preto-22u403a/p/MLB66124090",
-      "precoDe": 799,
-      "pix": true,
-      "parcelas": "R$442,10 em outros meios",
-      "postado": "2026-11-23T16:53:22.020Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2x2vD65.jpg"
     }
   ]
 }
