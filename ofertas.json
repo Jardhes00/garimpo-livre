@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T16:14:40.175Z",
+  "atualizado": "2026-11-25T16:15:55.209Z",
   "ofertas": [
+    {
+      "id": "2bKhHmV",
+      "nome": "Cuba Gourmet para Cozinha Aço Inox 201 50x40cm Nawa Prata - Pingoo.casa",
+      "categoria": "Casa",
+      "preco": 98.51,
+      "link": "https://meli.la/2bKhHmV",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cuba-gourmet-para-cozinha-aco-inox-201-50x40cm-nawa-prata-pingoocasa/p/MLB26853781",
+      "precoDe": 219.9,
+      "pix": true,
+      "parcelas": "R$ 115,90 em outros meios",
+      "postado": "2026-11-25T16:15:55.208Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2bKhHmV.jpg"
+    },
     {
       "id": "1Rtm1EE",
       "nome": "Auxiliar de Partida Carregador Bateria Com Compressor de Ar Emergência Portátil Veicular Floots Automotivo",
