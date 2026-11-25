@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T16:50:56.420Z",
+  "atualizado": "2026-11-25T16:52:11.402Z",
   "ofertas": [
+    {
+      "id": "17qwrdZ",
+      "nome": "Conversor Fibra Óptica 1000mbps SM Ethernet RJ45 10/100/1000mbps - Gurumania",
+      "categoria": "Diversos",
+      "preco": 68.99,
+      "link": "https://meli.la/17qwrdZ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/conversor-fibra-optica-1000mbps-sm-ethernet-rj45-101001000mbps-gurumania/p/MLB62979211",
+      "precoDe": 99.99,
+      "postado": "2026-11-25T16:52:11.400Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-17qwrdZ.jpg"
+    },
     {
       "id": "2PZxk76",
       "nome": "Caixa Jogo De Ferramentas 110 Peças Completo Maleta Para Mecânico Profissional",
@@ -5360,22 +5376,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2x2vD65.jpg"
-    },
-    {
-      "id": "33wn6ac",
-      "nome": "Vaso Sanitário Monobloco Caixa Acoplada Completo Privada Cor Branco Tubrax",
-      "categoria": "Diversos",
-      "preco": 537.45,
-      "link": "https://meli.la/33wn6ac",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/vaso-sanitario-monobloco-caixa-acoplada-completo-privada-cor-branco-tubrax-vab0003/p/MLB24428758",
-      "precoDe": 1074.9,
-      "postado": "2026-11-23T16:52:06.878Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-33wn6ac.jpg"
     }
   ]
 }
