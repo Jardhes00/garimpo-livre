@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-25T18:48:30.133Z",
+  "atualizado": "2026-11-25T18:49:45.167Z",
   "ofertas": [
+    {
+      "id": "1XAwMSy",
+      "nome": "Travesseiros Cunha Anti Refluxo Encosto Pós Operatório 4pcs",
+      "categoria": "Casa",
+      "preco": 198.55,
+      "link": "https://meli.la/1XAwMSy",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/travesseiros-cunha-anti-refluxo-encosto-pos-operatorio-4pcs/up/MLBU3954364571",
+      "precoDe": 499.98,
+      "pix": true,
+      "parcelas": "R$209 em outros meios",
+      "cupomAnuncio": "Compre R$399 e ganhe R$29 OFF por seguir a loja",
+      "postado": "2026-11-25T18:49:45.165Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1XAwMSy.jpg"
+    },
     {
       "id": "2QZ8dbd",
       "nome": "Pneu Landspider Citytraxx Gp 175/70 R14 Aro 14 84t Kit2",
@@ -6508,22 +6527,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2eM2StZ.jpg"
-    },
-    {
-      "id": "2c2Uonw",
-      "nome": "L'Oréal Paris Elseve Collagen Lifter Máscara de Tratamento Condicionante Efeito",
-      "categoria": "Diversos",
-      "preco": 23,
-      "link": "https://meli.la/2c2Uonw",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/loreal-paris-elseve-collagen-lifter-mascara-de-tratamento-condicionante-efeito-teia-para-resgate-de-massa-com-peptideos-de-colageno-reconstroi-a-fibra-e-da-volume-por-72h-300g/p/MLB64176719",
-      "precoDe": 45.49,
-      "postado": "2026-11-23T18:48:49.734Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2c2Uonw.jpg"
     }
   ]
 }
