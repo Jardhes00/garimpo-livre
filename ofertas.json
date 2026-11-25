@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T16:57:11.931Z",
+  "atualizado": "2026-11-25T16:58:26.641Z",
   "ofertas": [
+    {
+      "id": "2eFbC6L",
+      "nome": "Esteira Elétrica Ergométrica Dobravel e Inclinação com Controle Remoto para Treinos Fitness, Corridas e Caminhadas Residencial até 100kg - Bivolt 110/220v - APFER",
+      "categoria": "Games",
+      "preco": 594.91,
+      "link": "https://meli.la/2eFbC6L",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/esteira-eletrica-ergometrica-dobravel-e-inclinacao-com-controle-remoto-para-treinos-fitness-corridas-e-caminhadas-residencial-ate-100kg-bivolt-110220v-apfer/p/MLB77671293",
+      "precoDe": 1599,
+      "pix": true,
+      "parcelas": "R$ 699,90 em 10x R$ 69,99 sem juros",
+      "postado": "2026-11-25T16:58:26.639Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2eFbC6L.jpg"
+    },
     {
       "id": "1tbGY3V",
       "nome": "Controle GameSir G7 Pro Tri-Mode Xbox Series X e S One PC Android Hall Effect TMR Wireless Base Carregadora Edição Dragon's Dogma 2",
@@ -5359,41 +5377,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2j7T5kw.jpg"
-    },
-    {
-      "id": "26zEqFE",
-      "nome": "Smartphone Motorola Edge 70 Fusion 5g - 256gb 8gb Ram + 16gb Ram Boost, Camera",
-      "categoria": "Tech",
-      "preco": 1999,
-      "link": "https://meli.la/26zEqFE",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/smartphone-motorola-edge-70-fusion-5g-256gb-8gb-ram-16gb-ram-boost-camera-50mp-sony-lytia-710-tela-15k-extreme-amoled-144hz-roxo/p/MLB65919757",
-      "precoDe": 2999,
-      "pix": true,
-      "parcelas": "R$2.221,11 em 10x R$222,11 sem juros",
-      "postado": "2026-11-23T16:58:22.208Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-26zEqFE.jpg"
-    },
-    {
-      "id": "14PT1pj",
-      "nome": "Ventilador Industrial Osc Parede Power 70cm 230w 3pas Bivolt",
-      "categoria": "Casa",
-      "preco": 417.99,
-      "link": "https://meli.la/14PT1pj",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ventilador-industrial-osc-parede-power-70cm-230w-3pas-bivolt/up/MLBU3290791789",
-      "precoDe": 714.9,
-      "cupomAnuncio": "R$405,99 com Cupom por seguir a loja",
-      "postado": "2026-11-23T16:57:12.311Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-14PT1pj.jpg"
     }
   ]
 }
