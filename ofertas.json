@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T18:40:59.773Z",
+  "atualizado": "2026-11-25T18:42:15.198Z",
   "ofertas": [
+    {
+      "id": "1YSGTJ4",
+      "nome": "Ventilador De Mesa/parede Ultra Mondial 50w V-ut-30-02",
+      "categoria": "Casa",
+      "preco": 109.92,
+      "link": "https://meli.la/1YSGTJ4",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-mesaparede-ultra-mondial-50w-v-ut-30-02/p/MLB46138222",
+      "precoDe": 157.04,
+      "postado": "2026-11-25T18:42:15.196Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1YSGTJ4.jpg"
+    },
     {
       "id": "2MADyiW",
       "nome": "Escova Secadora GA.MA Eleganza Plus Bivolt",
