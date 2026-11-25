@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T17:32:12.704Z",
+  "atualizado": "2026-11-25T17:33:27.742Z",
   "ofertas": [
+    {
+      "id": "2cG3Gp7",
+      "nome": "Mop Electrolux 41046207 Original – Limpeza Fácil, 1 Unidade",
+      "categoria": "Diversos",
+      "preco": 119.9,
+      "link": "https://meli.la/2cG3Gp7",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mop-electrolux-41046207-original-limpeza-facil-1-unidade/p/MLB24135791",
+      "precoDe": 319,
+      "postado": "2026-11-25T17:33:27.740Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2cG3Gp7.jpg"
+    },
     {
       "id": "19vcS2D",
       "nome": "Jogo Conjunto de Panelas Caçarolas 12 Peças Indução Revestimento Cerâmico",
