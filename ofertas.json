@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T17:19:42.391Z",
+  "atualizado": "2026-11-25T17:20:57.326Z",
   "ofertas": [
+    {
+      "id": "1xGWHUH",
+      "nome": "Jogo De Panelas Brinox Ceramic Life Smart Plus 8 Peças Preto",
+      "categoria": "Games",
+      "preco": 489.99,
+      "link": "https://meli.la/1xGWHUH",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/jogo-de-panelas-brinox-ceramic-life-smart-plus-8-pecas-preto/p/MLB33318074",
+      "precoDe": 1199.99,
+      "postado": "2026-11-25T17:20:57.324Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1xGWHUH.jpg"
+    },
     {
       "id": "1c6h657",
       "nome": "Luva Latex C/pó Kit Com 1000 Kit 10cx",
@@ -5360,24 +5376,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1CurntQ.jpg"
-    },
-    {
-      "id": "33HCRVJ",
-      "nome": "Piscina Infantil Mor Retangular Estrutural 1000 Litros Pvc",
-      "categoria": "Bebê",
-      "preco": 178.45,
-      "link": "https://meli.la/33HCRVJ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/piscina-infantil-mor-retangular-estrutural-1000-litros-pvc/up/MLBU5376078251",
-      "precoDe": 249.99,
-      "pix": true,
-      "parcelas": "R$193,97 em outros meios",
-      "postado": "2026-11-23T17:20:53.039Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-33HCRVJ.jpg"
     }
   ]
 }
