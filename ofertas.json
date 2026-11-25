@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T16:42:11.164Z",
+  "atualizado": "2026-11-25T16:43:26.283Z",
   "ofertas": [
+    {
+      "id": "2TLECKa",
+      "nome": "Ventilador de parede Wap Rajada Pro 60 turbo com 5 pás",
+      "categoria": "Casa",
+      "preco": 262.99,
+      "link": "https://meli.la/2TLECKa",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-parede-wap-rajada-pro-60-turbo-com-5-pas/p/MLB21814864",
+      "precoDe": 649.99,
+      "postado": "2026-11-25T16:43:26.282Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2TLECKa.jpg"
+    },
     {
       "id": "27KDF9P",
       "nome": "Hidrabene Protetor Facial Solar Fps 70 Toque Seco Antissinais Clareia A Pele 50g",
@@ -5364,24 +5380,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1Rx87h5.jpg"
-    },
-    {
-      "id": "1bkJZrk",
-      "nome": "Smartphone Motorola Moto g47 5G 128GB, 4GB RAM câmera 50 MP Sony LYTIA 600",
-      "categoria": "Tech",
-      "preco": 1131.3,
-      "link": "https://meli.la/1bkJZrk",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g47-5g-128gb-4gb-ram-camera-50-mp-sony-lytia-600-tela-67-fhd-120hz-nfc-ip64/p/MLB68698394",
-      "precoDe": 2199,
-      "pix": true,
-      "parcelas": "R$1.257 em 9x R$139,67 sem juros",
-      "postado": "2026-11-23T16:43:21.802Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1bkJZrk.jpg"
     }
   ]
 }
