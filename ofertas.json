@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T19:32:45.928Z",
+  "atualizado": "2026-11-25T19:34:30.832Z",
   "ofertas": [
+    {
+      "id": "1Ri1G9Q",
+      "nome": "Micro-ondas 21 Litros Mondial 1200W - Mo-01-21-B",
+      "categoria": "Casa",
+      "preco": 400.73,
+      "link": "https://meli.la/1Ri1G9Q",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB19119114",
+      "precoDe": 636.9,
+      "parcelas": "12x R$ 38,75",
+      "postado": "2026-11-25T19:34:30.830Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Ri1G9Q.jpg"
+    },
     {
       "id": "2NkgHFA",
       "nome": "Aperitivo Aperol Spritz Italiano 750ml – Bebida Alcoólica",
@@ -6403,24 +6420,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1fBmCPV.jpg"
-    },
-    {
-      "id": "2qonpkm",
-      "nome": "Mini Bomba Hidraulica Automatico Potencia 120w Redutor Para 1/2 Pressurizadora",
-      "categoria": "Casa",
-      "preco": 251.43,
-      "link": "https://meli.la/2qonpkm",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/mini-bomba-hidraulica-automatico-potencia-120w-redutor-para-12-pressurizadora-sistema-solar-aquecedores-de-passagem-agua-quente-90c-komeco-tp-40-g4/p/MLB19757849",
-      "precoDe": 399.9,
-      "pix": true,
-      "parcelas": "R$289 em outros meios",
-      "postado": "2026-11-23T19:33:51.096Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2qonpkm.jpg"
     }
   ]
 }
