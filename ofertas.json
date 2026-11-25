@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T18:57:15.632Z",
+  "atualizado": "2026-11-25T18:58:30.951Z",
   "ofertas": [
+    {
+      "id": "2Arv8Xt",
+      "nome": "Coenzima Q10 200mg Pura Alta Concentração 60 Cápsulas - Forged Nutrition Sem",
+      "categoria": "Pet",
+      "preco": 47.53,
+      "link": "https://meli.la/2Arv8Xt",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/coenzima-q10-200mg-pura-alta-concentracao-60-capsulas-forged-nutrition-sem-sabor/p/MLB30465601",
+      "precoDe": 139.9,
+      "cupomAnuncio": "Compre R$69 e ganhe 10% OFF por seguir a loja",
+      "postado": "2026-11-25T18:58:30.949Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Arv8Xt.jpg"
+    },
     {
       "id": "2Ga43pp",
       "nome": "Robô Aspirador Positivo Casa Inteligente Smart PRA90 Wi-Fi - Aspira e Passa",
@@ -6517,22 +6534,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1PxXRi9.jpg"
-    },
-    {
-      "id": "31MFxyY",
-      "nome": "Motor Portao Eletronico Garen 400kg 3 Metros De Cremalheira",
-      "categoria": "Diversos",
-      "preco": 314,
-      "link": "https://meli.la/31MFxyY",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/motor-portao-eletronico-garen-400kg-3-metros-de-cremalheira/up/MLBU4131069278",
-      "precoDe": 489.9,
-      "postado": "2026-11-23T18:57:35.124Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-31MFxyY.jpg"
     }
   ]
 }
