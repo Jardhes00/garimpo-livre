@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T16:47:11.706Z",
+  "atualizado": "2026-11-25T16:48:27.966Z",
   "ofertas": [
+    {
+      "id": "1mY9pGC",
+      "nome": "Secante Para Máquina Lava Louça Finish Abrilhantador 250 ML",
+      "categoria": "Diversos",
+      "preco": 28.46,
+      "link": "https://meli.la/1mY9pGC",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/secante-para-maquina-lava-louca-finish-abrilhantador-250-ml/p/MLB16949090",
+      "precoDe": 54.79,
+      "cupomAnuncio": "Compre R$50 e ganhe 20% OFF",
+      "postado": "2026-11-25T16:48:27.964Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1mY9pGC.jpg"
+    },
     {
       "id": "2cgGajG",
       "nome": "Mini Chocotone Bauducco 80g Caixa C/24 Unidades Chocolate",
@@ -5359,25 +5376,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1GHcrP3.jpg"
-    },
-    {
-      "id": "1KnQBoK",
-      "nome": "Ar Condicionado Hw G-classic Gree Inverter 12k Frio 220v R32",
-      "categoria": "Casa",
-      "preco": 2108.05,
-      "link": "https://meli.la/1KnQBoK",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-hw-g-classic-gree-inverter-12k-frio-220v-r32/up/MLBU5291599664",
-      "precoDe": 3412.17,
-      "pix": true,
-      "parcelas": "R$2.219 em outros meios",
-      "cupomAnuncio": "R$2.108,05 com Cupom",
-      "postado": "2026-11-23T16:48:21.845Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1KnQBoK.jpg"
     }
   ]
 }
