@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-25T17:59:43.508Z",
+  "atualizado": "2026-11-25T18:00:58.977Z",
   "ofertas": [
+    {
+      "id": "2Goah2k",
+      "nome": "Cozinha Modulada Compacta Suspensa 220cm Milano Multimóveis MP2411",
+      "categoria": "Casa",
+      "preco": 734.3,
+      "link": "https://meli.la/2Goah2k",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cozinha-modulada-compacta-suspensa-220cm-milano-multimoveis-mp2411/p/MLB70404432",
+      "precoDe": 1535.99,
+      "pix": true,
+      "parcelas": "R$1.049 em 10x R$104,90 sem juros",
+      "cupomAnuncio": "R$650,30 com Cupom",
+      "postado": "2026-11-25T18:00:58.976Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Goah2k.jpg"
+    },
     {
       "id": "1xB9rJU",
       "nome": "Kit 2 Cadeiras De Jantar Madeira Maciça Assento Corino",
