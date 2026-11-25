@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-25T19:03:30.554Z",
+  "atualizado": "2026-11-25T19:04:45.538Z",
   "ofertas": [
+    {
+      "id": "2Z5jkc8",
+      "nome": "Ddpai N1 Dual Câmera Veicular 1296p+1080p Uber Nightvis App",
+      "categoria": "Auto",
+      "preco": 495.88,
+      "link": "https://meli.la/2Z5jkc8",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ddpai-n1-dual-camera-veicular-1296p1080p-uber-nightvis-app/up/MLBU1756154230",
+      "precoDe": 998,
+      "pix": true,
+      "parcelas": "R$539 em 10x R$53,90 sem juros",
+      "cupomAnuncio": "R$477,48 com Cupom por seguir a loja",
+      "postado": "2026-11-25T19:04:45.536Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Z5jkc8.jpg"
+    },
     {
       "id": "1mVLU5j",
       "nome": "Mala de Viagem de Bordo Rígida Sweet Studio em ABS, com Rodas Giro 360°, Rosa",
@@ -6516,24 +6535,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2nah41e.jpg"
-    },
-    {
-      "id": "2o2Kir8",
-      "nome": "Impressora Monocromática HP Laser 107w",
-      "categoria": "Tech",
-      "preco": 875.03,
-      "link": "https://meli.la/2o2Kir8",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/impressora-monocromatica-hp-laser-107w/p/MLB15188001",
-      "precoDe": 1662.77,
-      "pix": true,
-      "parcelas": "R$1.029,45 em 10x R$102,95 sem juros",
-      "postado": "2026-11-23T19:03:50.925Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2o2Kir8.jpg"
     }
   ]
 }
