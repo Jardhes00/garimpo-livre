@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T19:01:00.745Z",
+  "atualizado": "2026-11-25T19:02:15.446Z",
   "ofertas": [
+    {
+      "id": "2xni13G",
+      "nome": "Bomba Elétrica Portátil Digital Para Encher Pneu De Carro Moto Bicicleta",
+      "categoria": "Auto",
+      "preco": 148.49,
+      "link": "https://meli.la/2xni13G",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bomba-eletrica-portatil-digital-para-encher-pneu-de-carro-moto-bicicleta-inflador-automotivo-cor-preto/p/MLB57468779",
+      "precoDe": 489.98,
+      "postado": "2026-11-25T19:02:15.444Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2xni13G.jpg"
+    },
     {
       "id": "2s8adCK",
       "nome": "Ventilador De Coluna Pvt466 Tecnologia Maxx Force 174w Cor Preto Philco",
@@ -6518,23 +6534,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-12euPkx.jpg"
-    },
-    {
-      "id": "28DFTKe",
-      "nome": "Baú Bauleto 65 Litros Aluminio Base Universal Todas As Motos",
-      "categoria": "Diversos",
-      "preco": 646.2,
-      "link": "https://meli.la/28DFTKe",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/bau-bauleto-65-litros-aluminio-base-universal-todas-as-motos/up/MLBU3345993306",
-      "precoDe": 1249,
-      "parcelas": "10x de R$64,62 sem juros",
-      "postado": "2026-11-23T19:01:20.007Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-28DFTKe.jpg"
     }
   ]
 }
