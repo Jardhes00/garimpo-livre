@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-25T20:20:29.818Z",
+  "atualizado": "2026-11-25T20:54:45.916Z",
   "ofertas": [
     {
       "id": "1ShEbxq",
@@ -5994,62 +5994,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2ibBvxz.jpg"
-    },
-    {
-      "id": "1YPKCSx",
-      "nome": "Suplemento em cápsula Always Fit Complexo B - Forma Ativa B9 Sem sabor 3 kits",
-      "categoria": "Suplementos",
-      "preco": 74.9,
-      "link": "https://meli.la/1YPKCSx",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/suplemento-em-capsula-always-fit-complexo-b-forma-ativa-b9-sem-sabor-3-kits-de-60-un/p/MLB68375720",
-      "precoDe": 134.9,
-      "parcelas": "3x de R$24,97 sem juros",
-      "cupomAnuncio": "Compre R$150 e ganhe R$15 OFF por seguir a loja",
-      "postado": "2026-11-23T20:24:05.639Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1YPKCSx.jpg"
-    },
-    {
-      "id": "2Gi8Uoo",
-      "nome": "Yopro Bebida Láctea Morango 15g Proteína 12 Unidades 250ml",
-      "categoria": "Suplementos",
-      "preco": 67.9,
-      "link": "https://meli.la/2Gi8Uoo",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/yopro-bebida-lactea-morango-15g-proteina-12-unidades-250ml/p/MLB68765219",
-      "precoDe": 98.99,
-      "pix": true,
-      "parcelas": "R$70 em outros meios",
-      "cupomAnuncio": "Compre R$149,90 e ganhe 18% OFF",
-      "postado": "2026-11-23T20:22:50.476Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2Gi8Uoo.jpg"
-    },
-    {
-      "id": "1SFSFEo",
-      "nome": "4 Amortecedor Original Nakata Gol Voyage G5 G6 G7 + Kit Comp",
-      "categoria": "Diversos",
-      "preco": 811.99,
-      "link": "https://meli.la/1SFSFEo",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/4-amortecedor-original-nakata-gol-voyage-g5-g6-g7-kit-comp/up/MLBU3262939423",
-      "precoDe": 1279.99,
-      "pix": true,
-      "parcelas": "R$882,60 em outros meios",
-      "cupomAnuncio": "R$811,99 com Cupom",
-      "postado": "2026-11-23T20:21:35.580Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1SFSFEo.jpg"
     }
   ]
 }
