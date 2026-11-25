@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T19:12:16.221Z",
+  "atualizado": "2026-11-25T19:13:30.903Z",
   "ofertas": [
+    {
+      "id": "182avkB",
+      "nome": "Ventilador Osc Coluna Turbo 6p 50cm Bronze Premium Cor da estrutura Preto",
+      "categoria": "Casa",
+      "preco": 236.28,
+      "link": "https://meli.la/182avkB",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-osc-coluna-turbo-6p-50cm-bronze-premium-cor-da-estrutura-preto/p/MLB14434781",
+      "precoDe": 339.7,
+      "pix": true,
+      "parcelas": "R$256,83 em outros meios",
+      "postado": "2026-11-25T19:13:30.901Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-182avkB.jpg"
+    },
     {
       "id": "22aDuQm",
       "nome": "Mala De Viagem Média 18KG Sweet Studio Com Zíper Dupla Expansível E Rodas Giro",
@@ -6519,24 +6537,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1PSS3pr.jpg"
-    },
-    {
-      "id": "1XKYnWz",
-      "nome": "Mouse sem fio M280 Preto Logitech",
-      "categoria": "Tech",
-      "preco": 71.01,
-      "link": "https://meli.la/1XKYnWz",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/mouse-sem-fio-m280-preto-logitech/p/MLB6072946",
-      "precoDe": 99.9,
-      "pix": true,
-      "parcelas": "R$78,90 em outros meios",
-      "postado": "2026-11-23T19:12:35.209Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1XKYnWz.jpg"
     }
   ]
 }
