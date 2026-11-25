@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T17:40:58.250Z",
+  "atualizado": "2026-11-25T17:42:12.926Z",
   "ofertas": [
+    {
+      "id": "1x24Qh1",
+      "nome": "Smartphone Motorola Moto g47 5G 256GB, 4GB RAM, câmera 50 MP Sony LYTIA 600",
+      "categoria": "Tech",
+      "preco": 1363.5,
+      "link": "https://meli.la/1x24Qh1",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g47-5g-256gb-4gb-ram-camera-50-mp-sony-lytia-600-tela-67-fhd-120hz-nfc-ip64/p/MLB68697596",
+      "precoDe": 1999,
+      "pix": true,
+      "parcelas": "R$1.515 em 10x R$151,50 sem juros",
+      "postado": "2026-11-25T17:42:12.925Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1x24Qh1.jpg"
+    },
     {
       "id": "1Qhx33x",
       "nome": "Panela De Pressão Elétrica Digital 6l, Fmaxx, Inox 1000w",
