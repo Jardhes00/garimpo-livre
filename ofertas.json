@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T18:58:30.951Z",
+  "atualizado": "2026-11-25T18:59:45.428Z",
   "ofertas": [
+    {
+      "id": "1pyLdHD",
+      "nome": "Beef Protein Integralmédica de Carne Bovina Frutas Vermelhas 900g",
+      "categoria": "Diversos",
+      "preco": 120.99,
+      "link": "https://meli.la/1pyLdHD",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/beef-protein-integralmedica-de-carne-bovina-frutas-vermelhas-900g/p/MLB75216729",
+      "precoDe": 239.9,
+      "postado": "2026-11-25T18:59:45.426Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1pyLdHD.jpg"
+    },
     {
       "id": "2Arv8Xt",
       "nome": "Coenzima Q10 200mg Pura Alta Concentração 60 Cápsulas - Forged Nutrition Sem",
@@ -6517,23 +6533,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1Vi3Vp3.jpg"
-    },
-    {
-      "id": "1PxXRi9",
-      "nome": "Micro-ondas Electrolux Efficient 29L Branco Função Descongelar e Receitas",
-      "categoria": "Casa",
-      "preco": 599.9,
-      "link": "https://meli.la/1PxXRi9",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-electrolux-efficient-29l-branco-funcao-descongelar-e-receitas-pre-programadas-me29b/p/MLB76623041",
-      "precoDe": 889,
-      "parcelas": "10x de R$59,99 sem juros",
-      "postado": "2026-11-23T18:58:50.059Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1PxXRi9.jpg"
     }
   ]
 }
