@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T18:25:59.288Z",
+  "atualizado": "2026-11-25T18:27:14.466Z",
   "ofertas": [
+    {
+      "id": "2KoQh9F",
+      "nome": "Bicicleta Ergométrica Spinning Cardio E Musculação X11 Em Aço Premium",
+      "categoria": "Esporte",
+      "preco": 408.88,
+      "link": "https://meli.la/2KoQh9F",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bicicleta-ergometrica-spinning-cardio-e-musculacao-x11-em-aco-premium/p/MLB75987051",
+      "precoDe": 1111.11,
+      "pix": true,
+      "parcelas": "R$444,44 em outros meios",
+      "postado": "2026-11-25T18:27:14.464Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2KoQh9F.jpg"
+    },
     {
       "id": "21pKPpr",
       "nome": "Filamento PLA Branco 1,75mm 1kg Impressão 3D Alta Precisão e Acabamento Greycom",
