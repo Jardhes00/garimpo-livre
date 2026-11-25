@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-25T19:58:46.570Z",
+  "atualizado": "2026-11-25T20:00:01.539Z",
   "ofertas": [
+    {
+      "id": "1ShEbxq",
+      "nome": "Refil Perfume Feminino Eau De Parfum La Vie Est Belle Lancôme, Frasco Com 100ml",
+      "categoria": "Beleza",
+      "preco": 496.37,
+      "link": "https://meli.la/1ShEbxq",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB34729362",
+      "precoDe": 909,
+      "pix": true,
+      "parcelas": "R$ 522,49 em 10x de R$ 52,25 sem juros",
+      "cupomAnuncio": "Compre R$599 e ganhe 5% OFF",
+      "postado": "2026-11-25T20:00:01.538Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ShEbxq.jpg"
+    },
     {
       "id": "2K7X7UJ",
       "nome": "LG Soundbar S60tr 440w Rms, 5.1 Canais, Bluetooth 5.3, Dol Preto 120 Hz",
@@ -6325,23 +6344,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1ddvWFo.jpg"
-    },
-    {
-      "id": "2UUetti",
-      "nome": "Panela Elétrica de Arroz, Mondial, 700W - PE-42-10X",
-      "categoria": "Casa",
-      "preco": 185.67,
-      "link": "https://meli.la/2UUetti",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/panela-eletrica-de-arroz-mondial-700w-pe-42-10x/p/MLB24510866",
-      "precoDe": 366.9,
-      "parcelas": "6x de R$30,94 sem juros",
-      "postado": "2026-11-23T19:58:51.813Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2UUetti.jpg"
     }
   ]
 }
