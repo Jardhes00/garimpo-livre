@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T17:13:27.325Z",
+  "atualizado": "2026-11-25T17:14:42.159Z",
   "ofertas": [
+    {
+      "id": "11i6FAC",
+      "nome": "Short Masculino Bermuda Praia 2 Bolsos Zíper Secagem Rápida",
+      "categoria": "Moda",
+      "preco": 31.35,
+      "link": "https://meli.la/11i6FAC",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-4096917772-short-masculino-bermuda-praia-2-bolsos-ziper-secagem-rapida-_JM",
+      "precoDe": 44.99,
+      "pix": true,
+      "postado": "2026-11-25T17:14:42.156Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-11i6FAC.jpg"
+    },
     {
       "id": "2RZj8Fc",
       "nome": "Kit Com 2 Camisetas Masculinas Básicas Slim Hering",
@@ -5360,22 +5377,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1gemfpG.jpg"
-    },
-    {
-      "id": "2s9ywNG",
-      "nome": "Pneu Landspider Citytraxx GP 175/70 R13 HT Ind. Carga 82 Radial",
-      "categoria": "Auto",
-      "preco": 259.23,
-      "link": "https://meli.la/2s9ywNG",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/pneu-landspider-citytraxx-gp-17570-r13-ht-ind-carga-82-radial/p/MLB47714564",
-      "precoDe": 407.29,
-      "postado": "2026-11-23T17:14:37.958Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2s9ywNG.jpg"
     }
   ]
 }
