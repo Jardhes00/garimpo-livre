@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T19:27:45.729Z",
+  "atualizado": "2026-11-25T19:29:00.752Z",
   "ofertas": [
+    {
+      "id": "26wqdqx",
+      "nome": "Máquina de Lavar Consul 13Kg Branca Ciclo Edredom - CWH13AB",
+      "categoria": "Diversos",
+      "preco": 1512.46,
+      "link": "https://meli.la/26wqdqx",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB66787442",
+      "precoDe": 2279.9,
+      "pix": true,
+      "parcelas": "R$ 1.609 em 10x de R$ 160,90 sem juros",
+      "postado": "2026-11-25T19:29:00.751Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-26wqdqx.jpg"
+    },
     {
       "id": "2XN1RC9",
       "nome": "Samsung Galaxy Tab A11+ 5g 6gb, 128gb",
@@ -6419,24 +6437,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2J7ebHU.jpg"
-    },
-    {
-      "id": "22MP6DZ",
-      "nome": "Patinete Elétrico 350w Com App Gps Bateria Recarregável Dobrável Super",
-      "categoria": "Esporte",
-      "preco": 896.1,
-      "link": "https://meli.la/22MP6DZ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/patinete-eletrico-350w-com-app-gps-bateria-recarregavel-dobravel-super-autonomia-para-adultos-ate-150kg-preto/p/MLB80318311",
-      "precoDe": 1699.99,
-      "pix": true,
-      "parcelas": "R$1.030 em outros meios",
-      "postado": "2026-11-23T19:28:51.419Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-22MP6DZ.jpg"
     }
   ]
 }
