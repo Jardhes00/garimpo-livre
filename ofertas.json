@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T19:45:01.088Z",
+  "atualizado": "2026-11-25T19:46:46.442Z",
   "ofertas": [
+    {
+      "id": "1Uc3iVL",
+      "nome": "Headphone sem fio Jbl Tune 730bt Bluetooth Preto",
+      "categoria": "Diversos",
+      "preco": 259,
+      "link": "https://meli.la/1Uc3iVL",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB65843888",
+      "precoDe": 359,
+      "parcelas": "2x R$ 129,50 sem juros",
+      "postado": "2026-11-25T19:46:46.441Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Uc3iVL.jpg"
+    },
     {
       "id": "2beryou",
       "nome": "Ar-condicionado Split Inverter 12000 Btus Tcl Breeze In High Wall Só Frio Tac-12ctg3-inv-i/tac-12ctg3-inv-o 220v",
@@ -6359,41 +6376,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1EDuXUj.jpg"
-    },
-    {
-      "id": "2ZeGJ3V",
-      "nome": "Depurador de Ar Suggar Slim 60 cm Preto com 3 Velocidades e Filtro de Carvão",
-      "categoria": "Diversos",
-      "preco": 346.54,
-      "link": "https://meli.la/2ZeGJ3V",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/depurador-de-ar-suggar-slim-60-cm-preto-com-3-velocidades-e-filtro-de-carvao-ativado/p/MLB45556163",
-      "precoDe": 599,
-      "pix": true,
-      "parcelas": "R$376,67 em 7x R$53,81 sem juros",
-      "postado": "2026-11-23T19:46:21.680Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2ZeGJ3V.jpg"
-    },
-    {
-      "id": "2xLDm5s",
-      "nome": "Cadeira De Rodas D100 Dobrável Leve Idoso 120kg Dellamed",
-      "categoria": "Diversos",
-      "preco": 598,
-      "link": "https://meli.la/2xLDm5s",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-rodas-d100-dobravel-leve-idoso-120kg-dellamed/up/MLBU1961677272",
-      "precoDe": 1535.9,
-      "cupomAnuncio": "Compre R$1.000 e ganhe R$50 OFF",
-      "postado": "2026-11-23T19:45:07.005Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2xLDm5s.jpg"
     }
   ]
 }
