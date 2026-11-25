@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T17:24:42.659Z",
+  "atualizado": "2026-11-25T17:25:57.492Z",
   "ofertas": [
+    {
+      "id": "11WFD1m",
+      "nome": "Luva De Látex Descartável Branca Com Pó Tamanho M Caixa 100 Unid",
+      "categoria": "Diversos",
+      "preco": 23.99,
+      "link": "https://meli.la/11WFD1m",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/luva-de-latex-descartavel-branca-com-po-tamanho-m-caixa-100-unid/p/MLB78136170",
+      "precoDe": 69.9,
+      "cupomAnuncio": "Compre R$100 e ganhe 5% OFF por seguir a loja",
+      "postado": "2026-11-25T17:25:57.488Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-11WFD1m.jpg"
+    },
     {
       "id": "2LR7wfA",
       "nome": "Chave de impacto e Parafusadeira 21V INVAS 2800 Rpm A bateria 3000mah",
