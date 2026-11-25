@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T17:53:28.246Z",
+  "atualizado": "2026-11-25T17:54:43.439Z",
   "ofertas": [
+    {
+      "id": "1mUcXPi",
+      "nome": "Starlink Mini Kit Antena Internet via Satélite",
+      "categoria": "Diversos",
+      "preco": 404.8,
+      "link": "https://meli.la/1mUcXPi",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/starlink-mini-kit-antena-internet-via-satelite/p/MLB40656539",
+      "precoDe": 573.56,
+      "pix": true,
+      "parcelas": "R$440 em 8x R$55 sem juros",
+      "postado": "2026-11-25T17:54:43.437Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1mUcXPi.jpg"
+    },
     {
       "id": "1U9Ue59",
       "nome": "Refil Filtro Original Consul Cix06ax Cpc31 Cpb34 W11199342",
