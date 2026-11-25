@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T17:48:28.025Z",
+  "atualizado": "2026-11-25T17:49:43.448Z",
   "ofertas": [
+    {
+      "id": "1yNyrZn",
+      "nome": "Pré Treino Hórus 300g Max Titanium Frutas Vermelhas Energia Sustentada",
+      "categoria": "Diversos",
+      "preco": 66.4,
+      "link": "https://meli.la/1yNyrZn",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/pre-treino-horus-300g-max-titanium-frutas-vermelhas-energia-sustentada/p/MLB31005509",
+      "precoDe": 150,
+      "postado": "2026-11-25T17:49:43.446Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1yNyrZn.jpg"
+    },
     {
       "id": "1a1ey9r",
       "nome": "Air Fryer Oven Britânia 16L 10 Programas Automáticos Painel Digital Porta",
