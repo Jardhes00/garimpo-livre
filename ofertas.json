@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T18:39:44.898Z",
+  "atualizado": "2026-11-25T18:40:59.773Z",
   "ofertas": [
+    {
+      "id": "2MADyiW",
+      "nome": "Escova Secadora GA.MA Eleganza Plus Bivolt",
+      "categoria": "Beleza",
+      "preco": 125,
+      "link": "https://meli.la/2MADyiW",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/escova-secadora-gama-eleganza-plus-bivolt/p/MLB36190759",
+      "precoDe": 199.9,
+      "postado": "2026-11-25T18:40:59.771Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2MADyiW.jpg"
+    },
     {
       "id": "2HoCK2q",
       "nome": "Lançamento 2027 Câmera Com Tecnologia De Última Geração",
