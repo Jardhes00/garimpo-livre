@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T18:20:59.085Z",
+  "atualizado": "2026-11-25T18:22:14.172Z",
   "ofertas": [
+    {
+      "id": "1nzc6Et",
+      "nome": "Torneira Cozinha Gourmet De Parede Com Filtro Purificador De Água Bica Flexível",
+      "categoria": "Casa",
+      "preco": 60.78,
+      "link": "https://meli.la/1nzc6Et",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/torneira-cozinha-gourmet-de-parede-com-filtro-purificador-de-agua-bica-flexivel-acabamento-cromado-e-conexao-de-12-polegada-pia-lavagem-de-loucas-e-boa-praticidade-na-cozinha-zandyr-living/p/MLB81094950",
+      "precoDe": 139.98,
+      "pix": true,
+      "parcelas": "R$63,98 em outros meios",
+      "postado": "2026-11-25T18:22:14.170Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1nzc6Et.jpg"
+    },
     {
       "id": "2abB1fp",
       "nome": "Nobreak SMS Lite 1200VA para PC, Notebook e Videogame com 6 Tomadas Bivolt",
