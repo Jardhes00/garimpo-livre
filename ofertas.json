@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T16:39:41.023Z",
+  "atualizado": "2026-11-25T16:40:56.012Z",
   "ofertas": [
+    {
+      "id": "1bSXBqc",
+      "nome": "Smartwatch Amazfit Bip 6 Global com GPS, Alexa e Tela AMOLED 1.97\"",
+      "categoria": "Tech",
+      "preco": 480.24,
+      "link": "https://meli.la/1bSXBqc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smartwatch-amazfit-bip-6-global-com-gps-alexa-e-tela-amoled-197/p/MLB57802650",
+      "precoDe": 729,
+      "pix": true,
+      "parcelas": "R$552 em 10x R$55,20 sem juros",
+      "postado": "2026-11-25T16:40:56.010Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1bSXBqc.jpg"
+    },
     {
       "id": "1eJ14Gs",
       "nome": "Purificador Midea SlimPure Bivolt Cinza Filtro 2 Estágios",
@@ -5366,23 +5384,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2NsJoPX.jpg"
-    },
-    {
-      "id": "15vhV75",
-      "nome": "LG Soundbar SH5A 600W (4.1 canais) com AI Sound Pro e WOW Interface – Som",
-      "categoria": "Tech",
-      "preco": 1049,
-      "link": "https://meli.la/15vhV75",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/lg-soundbar-sh5a-600w-41-canais-com-ai-sound-pro-e-wow-interface-som-imersivo-voz-clara-e-sincronizacao-total-com-sua-tv/p/MLB54016038",
-      "precoDe": 1799,
-      "parcelas": "10x de R$104,90 sem juros",
-      "postado": "2026-11-23T16:40:51.605Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-15vhV75.jpg"
     }
   ]
 }
