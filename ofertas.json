@@ -1,6 +1,26 @@
 {
-  "atualizado": "2026-11-25T19:36:15.997Z",
+  "atualizado": "2026-11-25T19:37:31.106Z",
   "ofertas": [
+    {
+      "id": "25vQ5Sz",
+      "nome": "Máscara De Hidratação Morte Súbita 450g Lola Cosmetics",
+      "categoria": "Diversos",
+      "preco": 29.26,
+      "link": "https://meli.la/25vQ5Sz",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB19485497",
+      "precoDe": 59.9,
+      "pix": true,
+      "parcelas": "R$ 30,17 em outros meios",
+      "extra": "10% OFF com cupom no anúncio",
+      "cupomAnuncio": "Compre R$49,90 e ganhe 10% OFF",
+      "postado": "2026-11-25T19:37:31.104Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-25vQ5Sz.jpg"
+    },
     {
       "id": "1roA31M",
       "nome": "Mouse Sem Fio Logitech Mx Master 3s - Grafite",
@@ -6403,23 +6423,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2yUTxrq.jpg"
-    },
-    {
-      "id": "24HeXPc",
-      "nome": "Triciclo Elétrico De Drift Vifit Com Suspensão,350w,100kg",
-      "categoria": "Diversos",
-      "preco": 899,
-      "link": "https://meli.la/24HeXPc",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/triciclo-eletrico-de-drift-vifit-com-suspensao350w100kg/up/MLBU5066566719",
-      "precoDe": 1450,
-      "cupomAnuncio": "R$892 com Cupom por seguir a loja",
-      "postado": "2026-11-23T19:36:21.464Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-24HeXPc.jpg"
     }
   ]
 }
