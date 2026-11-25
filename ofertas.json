@@ -1,6 +1,26 @@
 {
-  "atualizado": "2026-11-25T19:31:00.857Z",
+  "atualizado": "2026-11-25T19:32:45.928Z",
   "ofertas": [
+    {
+      "id": "2NkgHFA",
+      "nome": "Aperitivo Aperol Spritz Italiano 750ml – Bebida Alcoólica",
+      "categoria": "Diversos",
+      "preco": 42.74,
+      "link": "https://meli.la/2NkgHFA",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB16195364",
+      "precoDe": 63.9,
+      "pix": true,
+      "parcelas": "R$ 44,99 em outros meios",
+      "extra": "10% OFF com cupom no anúncio",
+      "cupomAnuncio": "Compre R$49 e ganhe 10% OFF",
+      "postado": "2026-11-25T19:32:45.926Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2NkgHFA.jpg"
+    },
     {
       "id": "22hpzA4",
       "nome": "Combo Teclado E Mouse Sem Fio Logitech Mk250 Grafite",
@@ -6401,42 +6421,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2qonpkm.jpg"
-    },
-    {
-      "id": "2srA2a8",
-      "nome": "Seringa Insulina 1ml Com Agulha Fixa 6x0,25 Mm (31g) | Caixa Com 100 Unidades |",
-      "categoria": "Diversos",
-      "preco": 118.65,
-      "link": "https://meli.la/2srA2a8",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/seringa-insulina-1ml-com-agulha-fixa-6x025-mm-31g-caixa-com-100-unidades-tkl/p/MLB81769943",
-      "precoDe": 199.9,
-      "pix": true,
-      "parcelas": "R$124,90 em outros meios",
-      "postado": "2026-11-23T19:32:36.260Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2srA2a8.jpg"
-    },
-    {
-      "id": "1ukL6y2",
-      "nome": "Micro-ondas Philco De Embutir PME31BM Espelhado 30L Com 1400W",
-      "categoria": "Casa",
-      "preco": 759.9,
-      "link": "https://meli.la/1ukL6y2",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-philco-de-embutir-pme31bm-espelhado-30l-com-1400w/p/MLB6332577",
-      "precoDe": 1141.43,
-      "pix": true,
-      "parcelas": "R$799,89 em 10x R$79,99 sem juros",
-      "postado": "2026-11-23T19:31:21.060Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1ukL6y2.jpg"
     }
   ]
 }
