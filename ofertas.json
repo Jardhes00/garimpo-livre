@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T19:50:16.409Z",
+  "atualizado": "2026-11-25T19:52:01.711Z",
   "ofertas": [
+    {
+      "id": "33Ycita",
+      "nome": "Câmera de Segurança iCSee A28B Ali Ron 2026 4K Wi-Fi PTZ com Lente Dupla e Visão Noturna Colorida",
+      "categoria": "Diversos",
+      "preco": 104.39,
+      "link": "https://meli.la/33Ycita",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB64497217",
+      "precoDe": 230,
+      "pix": true,
+      "parcelas": "R$ 119,99 em outros meios",
+      "postado": "2026-11-25T19:52:01.710Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-33Ycita.jpg"
+    },
     {
       "id": "24TivPs",
       "nome": "Smartphone Motorola Moto G67 5g - 256gb 4gb Ram + 8gb Ram Boost, Camera 50mp Sony Lytia 600, Tela 1.5k Extreme Amoled 120hz, Ultrarresistente - Chumbo",
@@ -6341,24 +6359,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1wJbqoU.jpg"
-    },
-    {
-      "id": "16guuqK",
-      "nome": "Câmera Inteligente 3MP IM4 Dual Full Color Intelbras",
-      "categoria": "Diversos",
-      "preco": 299,
-      "link": "https://meli.la/16guuqK",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/camera-inteligente-3mp-im4-dual-full-color-intelbras/p/MLB64643844",
-      "precoDe": 827.14,
-      "pix": true,
-      "parcelas": "R$373,75 em 10x R$37,38 sem juros",
-      "postado": "2026-11-23T19:51:21.559Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-16guuqK.jpg"
     }
   ]
 }
