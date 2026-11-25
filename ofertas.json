@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T16:49:41.188Z",
+  "atualizado": "2026-11-25T16:50:56.420Z",
   "ofertas": [
+    {
+      "id": "2PZxk76",
+      "nome": "Caixa Jogo De Ferramentas 110 Peças Completo Maleta Para Mecânico Profissional",
+      "categoria": "Games",
+      "preco": 370.4,
+      "link": "https://meli.la/2PZxk76",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/caixa-jogo-de-ferramentas-110-pecas-completo-maleta-para-mecanico-profissional-aco-cromo-vanadio-ttk110-the-black-tools/p/MLB27233627",
+      "precoDe": 599.9,
+      "pix": true,
+      "parcelas": "R$389,90 em 10x R$38,99 sem juros",
+      "postado": "2026-11-25T16:50:56.419Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2PZxk76.jpg"
+    },
     {
       "id": "2MZr4mt",
       "nome": "Scanner de Mesa Canon LiDE 300 Preto para Documentos e Fotos",
@@ -5358,24 +5376,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-33wn6ac.jpg"
-    },
-    {
-      "id": "1FZ8NpW",
-      "nome": "Mesa Camping Palisad 695838 Alumínio Tampo MDF 90x60cm Pés Dobráveis",
-      "categoria": "Diversos",
-      "preco": 102.59,
-      "link": "https://meli.la/1FZ8NpW",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/mesa-camping-palisad-695838-aluminio-tampo-mdf-90x60cm-pes-dobraveis/p/MLB26049268",
-      "precoDe": 159.9,
-      "pix": true,
-      "parcelas": "R$107,99 em outros meios",
-      "postado": "2026-11-23T16:50:51.953Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1FZ8NpW.jpg"
     }
   ]
 }
