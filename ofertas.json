@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T19:54:01.779Z",
+  "atualizado": "2026-11-25T19:55:16.676Z",
   "ofertas": [
+    {
+      "id": "2T7d2G6",
+      "nome": "Energético Monster Ultra White Sem Açúcar 6 Latas 473ml Top",
+      "categoria": "Diversos",
+      "preco": 48.99,
+      "link": "https://meli.la/2T7d2G6",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB38154301",
+      "precoDe": 65.94,
+      "extra": "10% OFF com cupom no anúncio",
+      "cupomAnuncio": "Compre R$100 e ganhe 10% OFF",
+      "postado": "2026-11-25T19:55:16.675Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2T7d2G6.jpg"
+    },
     {
       "id": "26xKWv2",
       "nome": "Panela Pressão Britânia 6L Bpp06p Preto Com Inox",
@@ -6326,23 +6344,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2gqeMxo.jpg"
-    },
-    {
-      "id": "1AygAuY",
-      "nome": "Lixadeira Teto E Parede Telescópica Profissional Com Led E Saco Coletor The",
-      "categoria": "Diversos",
-      "preco": 639.9,
-      "link": "https://meli.la/1AygAuY",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/lixadeira-teto-e-parede-telescopica-profissional-com-led-e-saco-coletor-the-black-tools-btl750-750w/p/MLB32161346",
-      "precoDe": 1099.9,
-      "parcelas": "10x de R$63,99 sem juros",
-      "postado": "2026-11-23T19:55:07.128Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1AygAuY.jpg"
     }
   ]
 }
