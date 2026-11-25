@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T17:05:57.927Z",
+  "atualizado": "2026-11-25T17:07:11.698Z",
   "ofertas": [
+    {
+      "id": "1odkkeZ",
+      "nome": "Fonte Automotiva 120 a 160 Amperes Smart Charger 120a Carregador De Baterias Inteligente Bivolt 120amperes Taramps",
+      "categoria": "Tech",
+      "preco": 467.53,
+      "link": "https://meli.la/1odkkeZ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB26862302",
+      "precoDe": 732.45,
+      "parcelas": "9x R$ 51,95 sem juros",
+      "postado": "2026-11-25T17:07:11.696Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1odkkeZ.jpg"
+    },
     {
       "id": "25KRwBp",
       "nome": "Jogo 6 Copos Vidro Diamante Grosso Resistente Agua 300ml Branco Ms Variedades",
@@ -5361,24 +5378,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-22ZGPZd.jpg"
-    },
-    {
-      "id": "2kmyuXP",
-      "nome": "Kit 3 Perfumes Cebolinha Jequiti 25ml Infantil Turma da Mônica Colônia",
-      "categoria": "Beleza",
-      "preco": 63.42,
-      "link": "https://meli.la/2kmyuXP",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit-3-perfumes-cebolinha-jequiti-25ml-infantil-turma-da-monica-colonia-masculina-kit-presente-original/p/MLB41221309",
-      "precoDe": 119.7,
-      "pix": true,
-      "parcelas": "R$72,90 em outros meios",
-      "postado": "2026-11-23T17:07:07.475Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2kmyuXP.jpg"
     }
   ]
 }
