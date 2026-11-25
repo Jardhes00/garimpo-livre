@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-25T16:44:41.397Z",
+  "atualizado": "2026-11-25T16:45:56.312Z",
   "ofertas": [
+    {
+      "id": "2ejH6G6",
+      "nome": "Sérum Capilar Antiqueda Aminexil 1,5% Dercos R.E.G.E.N Vichy 100ml",
+      "categoria": "Beleza",
+      "preco": 161.43,
+      "link": "https://meli.la/2ejH6G6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/serum-capilar-antiqueda-aminexil-15-dercos-regen-vichy-100ml/p/MLB65260536",
+      "precoDe": 274.9,
+      "pix": true,
+      "parcelas": "R$189,92 em outros meios",
+      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
+      "postado": "2026-11-25T16:45:56.311Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ejH6G6.jpg"
+    },
     {
       "id": "1KCTrnL",
       "nome": "Aspirador de pó vertical 2 em 1 WAP Power Speed 2000W com filtro HEPA 127V",
@@ -5360,24 +5379,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-28xuNfp.jpg"
-    },
-    {
-      "id": "1NmaPnK",
-      "nome": "Pneu 120/100-18 Borilli Exc Soft Traseiro",
-      "categoria": "Auto",
-      "preco": 468,
-      "link": "https://meli.la/1NmaPnK",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/pneu-120100-18-borilli-exc-soft-traseiro/up/MLBU3872703914",
-      "precoDe": 746.63,
-      "pix": true,
-      "parcelas": "R$520 em outros meios",
-      "postado": "2026-11-23T16:45:52.012Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1NmaPnK.jpg"
     }
   ]
 }
