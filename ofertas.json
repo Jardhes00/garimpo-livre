@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T17:20:57.326Z",
+  "atualizado": "2026-11-25T17:22:12.289Z",
   "ofertas": [
+    {
+      "id": "1NKr9DY",
+      "nome": "Frigobar Retrô Vermelho 93l Inverter Bivolt Midea Vermelho",
+      "categoria": "Diversos",
+      "preco": 1049,
+      "link": "https://meli.la/1NKr9DY",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/frigobar-retro-vermelho-93l-inverter-bivolt-midea-vermelho/p/MLB61787712",
+      "precoDe": 1472.64,
+      "parcelas": "10x de R$104,90 sem juros",
+      "postado": "2026-11-25T17:22:12.286Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1NKr9DY.jpg"
+    },
     {
       "id": "1xGWHUH",
       "nome": "Jogo De Panelas Brinox Ceramic Life Smart Plus 8 Peças Preto",
@@ -5360,22 +5377,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2xk1MrY.jpg"
-    },
-    {
-      "id": "1CurntQ",
-      "nome": "Nobreak Ts Shara UPS XPro 4540 2000VA Senoidal Pura 8 Tomadas Bivolt",
-      "categoria": "Diversos",
-      "preco": 1655.44,
-      "link": "https://meli.la/1CurntQ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/nobreak-ts-shara-ups-xpro-4540-2000va-senoidal-pura-8-tomadas-bivolt/p/MLB38156404",
-      "precoDe": 2399,
-      "postado": "2026-11-23T17:22:07.803Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1CurntQ.jpg"
     }
   ]
 }
