@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T17:54:43.439Z",
+  "atualizado": "2026-11-25T17:55:58.339Z",
   "ofertas": [
+    {
+      "id": "22k24bo",
+      "nome": "Câmera Ptz Externa 9 Mp Wifi Com Lente Tripla + Alarme Sono",
+      "categoria": "Diversos",
+      "preco": 159.9,
+      "link": "https://meli.la/22k24bo",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/camera-ptz-externa-9-mp-wifi-com-lente-tripla-alarme-sono/up/MLBU3654252923",
+      "precoDe": 449.99,
+      "parcelas": "5x de R$31,98 sem juros",
+      "postado": "2026-11-25T17:55:58.337Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-22k24bo.jpg"
+    },
     {
       "id": "1mUcXPi",
       "nome": "Starlink Mini Kit Antena Internet via Satélite",
