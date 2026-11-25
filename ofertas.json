@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T19:07:15.964Z",
+  "atualizado": "2026-11-25T19:08:31.094Z",
   "ofertas": [
+    {
+      "id": "1ajCC37",
+      "nome": "Bota De Compressao Pneumatica Massageador Pes Easezen 6 Modos Médio Preto/azul",
+      "categoria": "Auto",
+      "preco": 974,
+      "link": "https://meli.la/1ajCC37",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bota-de-compressao-pneumatica-massageador-pes-easezen-6-modos-medio-pretoazul-azulpreto/p/MLB67407827",
+      "precoDe": 1600,
+      "postado": "2026-11-25T19:08:31.092Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ajCC37.jpg"
+    },
     {
       "id": "1UZYBj9",
       "nome": "Pedigree Biscrok Petisco para Cachorro Adulto Multi Sabor 1kg",
@@ -6521,22 +6537,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-193iPAG.jpg"
-    },
-    {
-      "id": "12d23B2",
-      "nome": "Furadeira de Impacto Bosch 450W 10mm GSB 450 RE com Jogo de Brocas Bits 300",
-      "categoria": "Games",
-      "preco": 298,
-      "link": "https://meli.la/12d23B2",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/furadeira-de-impacto-bosch-450w-10mm-gsb-450-re-com-jogo-de-brocas-bits-300-pecas/p/MLB40692702",
-      "precoDe": 492.71,
-      "postado": "2026-11-23T19:07:35.376Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-12d23B2.jpg"
     }
   ]
 }
