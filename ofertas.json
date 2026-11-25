@@ -1,6 +1,26 @@
 {
-  "atualizado": "2026-11-25T19:41:01.172Z",
+  "atualizado": "2026-11-25T19:43:01.110Z",
   "ofertas": [
+    {
+      "id": "2A3eN6x",
+      "nome": "Protetor Solar Facial Alta Cobertura Anthelios La Roche-Posay Cor 3.0 30g",
+      "categoria": "Beleza",
+      "preco": 63.62,
+      "link": "https://meli.la/2A3eN6x",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB19767143",
+      "precoDe": 109.9,
+      "pix": true,
+      "parcelas": "R$ 74,85 em outros meios",
+      "extra": "15% OFF com cupom no anúncio",
+      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
+      "postado": "2026-11-25T19:43:01.108Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2A3eN6x.jpg"
+    },
     {
       "id": "1jhmR8y",
       "nome": "Bicicleta Ergométrica Spinning Bike Ergométrica It's X11",
@@ -6371,40 +6391,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1acj6Ns.jpg"
-    },
-    {
-      "id": "2eT8bYW",
-      "nome": "Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera Tripla 50MP, Super AMOLED",
-      "categoria": "Tech",
-      "preco": 1599,
-      "link": "https://meli.la/2eT8bYW",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a37-5g-128gb-6gb-ram-camera-tripla-50mp-super-amoled-67-recursos-ai-branco/p/MLB68087692",
-      "precoDe": 3499,
-      "pix": true,
-      "parcelas": "R$1.776,67 em 10x R$177,67 sem juros",
-      "postado": "2026-11-23T19:42:36.381Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2eT8bYW.jpg"
-    },
-    {
-      "id": "1b82qr6",
-      "nome": "Vitafor Creafort Creapure Creatina em Pó 300g",
-      "categoria": "Suplementos",
-      "preco": 146,
-      "link": "https://meli.la/1b82qr6",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/vitafor-creafort-creapure-creatina-em-po-300g/p/MLB18947494",
-      "precoDe": 289,
-      "postado": "2026-11-23T19:41:21.825Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1b82qr6.jpg"
     }
   ]
 }
