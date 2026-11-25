@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T18:51:00.197Z",
+  "atualizado": "2026-11-25T18:52:15.201Z",
   "ofertas": [
+    {
+      "id": "26uY3HL",
+      "nome": "Nível Laser Verde 16 Linhas War Shark 2 Bateria+1.2m Tripé",
+      "categoria": "Diversos",
+      "preco": 259,
+      "link": "https://meli.la/26uY3HL",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/nivel-laser-verde-16-linhas-war-shark-2-bateria12m-tripe/p/MLB62445524",
+      "precoDe": 500,
+      "cupomAnuncio": "Compre R$300 e ganhe 10% OFF",
+      "postado": "2026-11-25T18:52:15.199Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-26uY3HL.jpg"
+    },
     {
       "id": "2BH6dgK",
       "nome": "Robô Aspirador 36000pa Redroad R11 Max 3 Em 1 Mapeamento App",
@@ -6511,23 +6528,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1qpJKKH.jpg"
-    },
-    {
-      "id": "2u199RU",
-      "nome": "Chapa Aluminio Lavrada Xadrez 2000x500mm Na Esp. De 1,2mm",
-      "categoria": "Diversos",
-      "preco": 259.99,
-      "link": "https://meli.la/2u199RU",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/chapa-aluminio-lavrada-xadrez-2000x500mm-na-esp-de-12mm/up/MLBU1159664803",
-      "precoDe": 432.59,
-      "parcelas": "6x de R$43,33 sem juros",
-      "postado": "2026-11-23T18:51:19.741Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2u199RU.jpg"
     }
   ]
 }
