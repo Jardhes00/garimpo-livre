@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T18:19:44.315Z",
+  "atualizado": "2026-11-25T18:20:59.085Z",
   "ofertas": [
+    {
+      "id": "2abB1fp",
+      "nome": "Nobreak SMS Lite 1200VA para PC, Notebook e Videogame com 6 Tomadas Bivolt",
+      "categoria": "Tech",
+      "preco": 799.9,
+      "link": "https://meli.la/2abB1fp",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/nobreak-sms-lite-1200va-para-pc-notebook-e-videogame-com-6-tomadas-bivolt/p/MLB62981685",
+      "precoDe": 1200,
+      "postado": "2026-11-25T18:20:59.083Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2abB1fp.jpg"
+    },
     {
       "id": "33pFU8W",
       "nome": "Desinfetante Líquido Lysoform Suave Odor 5 L para Limpeza Pesada",
