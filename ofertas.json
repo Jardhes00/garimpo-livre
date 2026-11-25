@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T17:43:28.008Z",
+  "atualizado": "2026-11-25T17:44:43.019Z",
   "ofertas": [
+    {
+      "id": "1dBFzfe",
+      "nome": "Kit 2 Pneus 195/55R15 Firestone F-600 85H Aro 15",
+      "categoria": "Auto",
+      "preco": 763.76,
+      "link": "https://meli.la/1dBFzfe",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-2-pneus-19555r15-firestone-f-600-85h-aro-15/p/MLB27926990",
+      "precoDe": 1078,
+      "pix": true,
+      "parcelas": "R$830,17 em outros meios",
+      "postado": "2026-11-25T17:44:43.017Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1dBFzfe.jpg"
+    },
     {
       "id": "1nREr1c",
       "nome": "Whey 100% Pure Pote 900g Baunilha Integralmédica",
