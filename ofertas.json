@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T19:52:01.711Z",
+  "atualizado": "2026-11-25T19:54:01.779Z",
   "ofertas": [
+    {
+      "id": "26xKWv2",
+      "nome": "Panela Pressão Britânia 6L Bpp06p Preto Com Inox",
+      "categoria": "Casa",
+      "preco": 305.1,
+      "link": "https://meli.la/26xKWv2",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB69751621",
+      "precoDe": 595.87,
+      "pix": true,
+      "parcelas": "R$ 339 em outros meios",
+      "postado": "2026-11-25T19:54:01.777Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-26xKWv2.jpg"
+    },
     {
       "id": "33Ycita",
       "nome": "Câmera de Segurança iCSee A28B Ali Ron 2026 4K Wi-Fi PTZ com Lente Dupla e Visão Noturna Colorida",
@@ -6325,40 +6343,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1AygAuY.jpg"
-    },
-    {
-      "id": "2AMHgRN",
-      "nome": "SSD Interno 240GB 2.5 SATA III 6Gb/s Para PC Notebook - Up Gamer",
-      "categoria": "Tech",
-      "preco": 247.49,
-      "link": "https://meli.la/2AMHgRN",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ssd-interno-240gb-25-sata-iii-6gbs-para-pc-notebook-up-gamer/p/MLB24429373",
-      "precoDe": 449.99,
-      "postado": "2026-11-23T19:53:51.722Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2AMHgRN.jpg"
-    },
-    {
-      "id": "1wJbqoU",
-      "nome": "Parafusadeira E Furadeira 3/8 A Bateria Bosch Gsr 120-li",
-      "categoria": "Ferramentas",
-      "preco": 346.65,
-      "link": "https://meli.la/1wJbqoU",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/parafusadeira-e-furadeira-38-a-bateria-bosch-gsr-120-li/p/MLB44894619",
-      "precoDe": 571.29,
-      "pix": true,
-      "parcelas": "R$364,90 em outros meios",
-      "postado": "2026-11-23T19:52:36.622Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1wJbqoU.jpg"
     }
   ]
 }
