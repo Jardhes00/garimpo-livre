@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T18:18:29.684Z",
+  "atualizado": "2026-11-25T18:19:44.315Z",
   "ofertas": [
+    {
+      "id": "33pFU8W",
+      "nome": "Desinfetante Líquido Lysoform Suave Odor 5 L para Limpeza Pesada",
+      "categoria": "Diversos",
+      "preco": 37.85,
+      "link": "https://meli.la/33pFU8W",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/desinfetante-liquido-lysoform-suave-odor-5-l-para-limpeza-pesada/p/MLB19466913",
+      "precoDe": 64.64,
+      "cupomAnuncio": "Compre R$69 e ganhe 20% OFF",
+      "postado": "2026-11-25T18:19:44.311Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-33pFU8W.jpg"
+    },
     {
       "id": "2zBGiwq",
       "nome": "Vaso Sanitário Monobloco Privada Acoplada Bacia Extra Grande",
