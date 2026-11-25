@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T16:38:25.956Z",
+  "atualizado": "2026-11-25T16:39:41.023Z",
   "ofertas": [
+    {
+      "id": "1eJ14Gs",
+      "nome": "Purificador Midea SlimPure Bivolt Cinza Filtro 2 Estágios",
+      "categoria": "Diversos",
+      "preco": 387.03,
+      "link": "https://meli.la/1eJ14Gs",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/purificador-midea-slimpure-bivolt-cinza-filtro-2-estagios/p/MLB54429015",
+      "precoDe": 579,
+      "pix": true,
+      "parcelas": "R$399 em 8x R$49,88 sem juros",
+      "postado": "2026-11-25T16:39:41.022Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1eJ14Gs.jpg"
+    },
     {
       "id": "1dNWBfu",
       "nome": "Shampoo Antiqueda Estimulante Aminexil Dercos Energy+ Vichy Refil 200g",
@@ -5365,24 +5383,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-15vhV75.jpg"
-    },
-    {
-      "id": "2bPkAaT",
-      "nome": "Armário de cozinha modulada completa compacta Emilly pop com armário e balcão",
-      "categoria": "Casa",
-      "preco": 597.99,
-      "link": "https://meli.la/2bPkAaT",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/armario-de-cozinha-modulada-completa-compacta-emilly-pop-com-armario-e-balcao-cor-rusticpreto-grem229002/p/MLB27417990",
-      "precoDe": 905.87,
-      "pix": true,
-      "parcelas": "R$649,99 em 10x R$65 sem juros",
-      "postado": "2026-11-23T16:39:36.794Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2bPkAaT.jpg"
     }
   ]
 }
