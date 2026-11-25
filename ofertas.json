@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T16:40:56.012Z",
+  "atualizado": "2026-11-25T16:42:11.164Z",
   "ofertas": [
+    {
+      "id": "27KDF9P",
+      "nome": "Hidrabene Protetor Facial Solar Fps 70 Toque Seco Antissinais Clareia A Pele 50g",
+      "categoria": "Diversos",
+      "preco": 26.76,
+      "link": "https://meli.la/27KDF9P",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/hidrabene-protetor-facial-solar-fps-70-toque-seco-antissinais-clareia-a-pele-50g/p/MLB60416809",
+      "precoDe": 59.9,
+      "postado": "2026-11-25T16:42:11.163Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-27KDF9P.jpg"
+    },
     {
       "id": "1bSXBqc",
       "nome": "Smartwatch Amazfit Bip 6 Global com GPS, Alexa e Tela AMOLED 1.97\"",
@@ -5366,24 +5382,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1bkJZrk.jpg"
-    },
-    {
-      "id": "2NsJoPX",
-      "nome": "Batedeira Planetária, Mondial, 700W - BP-03-P",
-      "categoria": "Diversos",
-      "preco": 249.85,
-      "link": "https://meli.la/2NsJoPX",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/batedeira-planetaria-mondial-700w-bp-03-p/p/MLB18623993",
-      "precoDe": 489.9,
-      "pix": true,
-      "parcelas": "R$263 em 6x R$43,83 sem juros",
-      "postado": "2026-11-23T16:42:06.851Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2NsJoPX.jpg"
     }
   ]
 }
