@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T19:16:01.044Z",
+  "atualizado": "2026-11-25T19:17:16.086Z",
   "ofertas": [
+    {
+      "id": "1fetqGh",
+      "nome": "Árvore De Natal Pinheiro Canadense 210 cm 1860 Galhos Cheia Luxo Linha Premium",
+      "categoria": "Diversos",
+      "preco": 271.24,
+      "link": "https://meli.la/1fetqGh",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/arvore-de-natal-pinheiro-canadense-210-cm-1860-galhos-cheia-luxo-linha-premium-verde-montagem-rapida/p/MLB81516085",
+      "precoDe": 379.9,
+      "pix": true,
+      "parcelas": "R$319,11 em outros meios",
+      "postado": "2026-11-25T19:17:16.083Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1fetqGh.jpg"
+    },
     {
       "id": "1EQrfqr",
       "nome": "Mini Aspirador De Pó Portátil Recarregável Soprador Usb Automotivo 3em1 Sem Fio",
@@ -6521,22 +6539,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2XC8EcU.jpg"
-    },
-    {
-      "id": "1fTH7y4",
-      "nome": "Protetor Solar Bastão Fps90 Com Cor 3 15g Sallve",
-      "categoria": "Beleza",
-      "preco": 52.3,
-      "link": "https://meli.la/1fTH7y4",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/protetor-solar-bastao-fps90-com-cor-3-15g-sallve/p/MLB44868356",
-      "precoDe": 79.9,
-      "postado": "2026-11-23T19:16:20.515Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1fTH7y4.jpg"
     }
   ]
 }
