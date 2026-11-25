@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T17:12:12.004Z",
+  "atualizado": "2026-11-25T17:13:27.325Z",
   "ofertas": [
+    {
+      "id": "2RZj8Fc",
+      "nome": "Kit Com 2 Camisetas Masculinas Básicas Slim Hering",
+      "categoria": "Moda",
+      "preco": 49.99,
+      "link": "https://meli.la/2RZj8Fc",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-2874132176-kit-com-2-camisetas-masculinas-basicas-slim-hering-_JM",
+      "precoDe": 119.99,
+      "postado": "2026-11-25T17:13:27.322Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2RZj8Fc.jpg"
+    },
     {
       "id": "1WHVyup",
       "nome": "Tênis Ultimashow 2.0 adidas",
@@ -5360,24 +5376,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2s9ywNG.jpg"
-    },
-    {
-      "id": "2CEX7bV",
-      "nome": "Capacete Asx City Solid Preto Fosco Integral Adulto",
-      "categoria": "Diversos",
-      "preco": 340.69,
-      "link": "https://meli.la/2CEX7bV",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/capacete-asx-city-solid-preto-fosco-integral-adulto/up/MLBU3819190225",
-      "precoDe": 599,
-      "pix": true,
-      "parcelas": "R$400,81 em 10x R$40,08 sem juros",
-      "postado": "2026-11-23T17:13:22.562Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2CEX7bV.jpg"
     }
   ]
 }
