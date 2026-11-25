@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T18:13:28.856Z",
+  "atualizado": "2026-11-25T18:14:44.225Z",
   "ofertas": [
+    {
+      "id": "1SsPCun",
+      "nome": "Carregador Portátil Power Bank 20.000mah Turbo Celular Carga Rápida 22.5w",
+      "categoria": "Tech",
+      "preco": 68.64,
+      "link": "https://meli.la/1SsPCun",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/carregador-portatil-power-bank-20000mah-turbo-celular-carga-rapida-225w-premium-display-visor-grande-universal-usb-c-viagens-los-e-android-compativel-com-iphone-samsung-motorola-xiaomi-preto-nixzen/p/MLB70514531",
+      "precoDe": 129.9,
+      "pix": true,
+      "parcelas": "R$78,90 em outros meios",
+      "postado": "2026-11-25T18:14:44.220Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1SsPCun.jpg"
+    },
     {
       "id": "24CZ64R",
       "nome": "Colchão Queen Luuna Essential 1 Espuma Ergo D28 Ortopédico Firme",
