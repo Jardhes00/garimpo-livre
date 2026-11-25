@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T19:08:31.094Z",
+  "atualizado": "2026-11-25T19:09:45.778Z",
   "ofertas": [
+    {
+      "id": "1oXnQod",
+      "nome": "Umidificador Ultrassônico G-tech Allergy Free Hm Bivolt Cor Branco",
+      "categoria": "Diversos",
+      "preco": 106.1,
+      "link": "https://meli.la/1oXnQod",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/umidificador-ultrassonico-g-tech-allergy-free-hm-bivolt-cor-branco/p/MLB63921527",
+      "precoDe": 167,
+      "postado": "2026-11-25T19:09:45.777Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1oXnQod.jpg"
+    },
     {
       "id": "1ajCC37",
       "nome": "Bota De Compressao Pneumatica Massageador Pes Easezen 6 Modos Médio Preto/azul",
@@ -6520,23 +6536,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1XRAT8L.jpg"
-    },
-    {
-      "id": "193iPAG",
-      "nome": "Jogo de Panelas Rochedo Stone Pro 5 peças",
-      "categoria": "Games",
-      "preco": 228.99,
-      "link": "https://meli.la/193iPAG",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/jogo-de-panelas-rochedo-stone-pro-5-pecas/p/MLB45151523",
-      "precoDe": 499.99,
-      "parcelas": "6x de R$38,17 sem juros",
-      "postado": "2026-11-23T19:08:50.830Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-193iPAG.jpg"
     }
   ]
 }
