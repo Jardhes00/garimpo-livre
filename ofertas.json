@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-25T19:04:45.538Z",
+  "atualizado": "2026-11-25T19:06:00.618Z",
   "ofertas": [
+    {
+      "id": "2LevU4h",
+      "nome": "L'Oréal Paris Revitalift Hialurônico Kit Skincare Anti-Idade, com Sérum",
+      "categoria": "Beleza",
+      "preco": 93.75,
+      "link": "https://meli.la/2LevU4h",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/loreal-paris-revitalift-hialuronico-kit-skincare-anti-idade-com-serum-preenchedor-30ml-creme-facial-noturno-acido-hialuronico-para-hidratacao-e-reducao-de-rugas-49g/p/MLB29900198",
+      "precoDe": 159.9,
+      "pix": true,
+      "parcelas": "R$125 em 4x R$31,25 sem juros",
+      "cupomAnuncio": "R$79,69 com Cupom",
+      "postado": "2026-11-25T19:06:00.616Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2LevU4h.jpg"
+    },
     {
       "id": "2Z5jkc8",
       "nome": "Ddpai N1 Dual Câmera Veicular 1296p+1080p Uber Nightvis App",
@@ -6519,22 +6538,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1b48HNF.jpg"
-    },
-    {
-      "id": "2nah41e",
-      "nome": "Plastico Filme Stretch 50x220m 2,5kg Preto Embalagem Acesso® Bobina 25 Micras",
-      "categoria": "Diversos",
-      "preco": 47.29,
-      "link": "https://meli.la/2nah41e",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/plastico-filme-stretch-50x220m-25kg-preto-embalagem-acesso-bobina-25-micras-pallet-film-strech/p/MLB62062119",
-      "precoDe": 78.9,
-      "postado": "2026-11-23T19:05:05.239Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2nah41e.jpg"
     }
   ]
 }
