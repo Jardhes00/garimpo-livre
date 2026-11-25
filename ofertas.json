@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T19:48:46.420Z",
+  "atualizado": "2026-11-25T19:50:16.409Z",
   "ofertas": [
+    {
+      "id": "24TivPs",
+      "nome": "Smartphone Motorola Moto G67 5g - 256gb 4gb Ram + 8gb Ram Boost, Camera 50mp Sony Lytia 600, Tela 1.5k Extreme Amoled 120hz, Ultrarresistente - Chumbo",
+      "categoria": "Tech",
+      "preco": 1553.34,
+      "link": "https://meli.la/24TivPs",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB65319819",
+      "precoDe": 2099,
+      "pix": true,
+      "parcelas": "R$ 1.725,93 em 2x de R$ 862,96 sem juros",
+      "postado": "2026-11-25T19:50:16.407Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-24TivPs.jpg"
+    },
     {
       "id": "1g3eEFJ",
       "nome": "Relógio Lacoste Lc33 Masculino Borracha Preto 2011365",
@@ -6341,40 +6359,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-16guuqK.jpg"
-    },
-    {
-      "id": "2mLkag1",
-      "nome": "Kit 6 Oleo E Filtros 5w30 Diesel S10 Nova 2.8 16v 2012/2025",
-      "categoria": "Diversos",
-      "preco": 664.94,
-      "link": "https://meli.la/2mLkag1",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit-6-oleo-e-filtros-5w30-diesel-s10-nova-28-16v-20122025/up/MLBU3648241647",
-      "precoDe": 956,
-      "cupomAnuncio": "R$664,94 com Cupom extra",
-      "postado": "2026-11-23T19:50:06.725Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2mLkag1.jpg"
-    },
-    {
-      "id": "1wMB5Pe",
-      "nome": "Papel Higiênico Folha Dupla Com 24 Rolos De 30m Mimmo",
-      "categoria": "Diversos",
-      "preco": 20.25,
-      "link": "https://meli.la/1wMB5Pe",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/papel-higienico-folha-dupla-com-24-rolos-de-30m-mimmo/p/MLB18725227",
-      "precoDe": 44.99,
-      "cupomAnuncio": "Compre R$75 e ganhe 20% OFF",
-      "postado": "2026-11-23T19:48:51.629Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1wMB5Pe.jpg"
     }
   ]
 }
