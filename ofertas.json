@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T17:49:43.448Z",
+  "atualizado": "2026-11-25T17:50:58.141Z",
   "ofertas": [
+    {
+      "id": "12S9oyg",
+      "nome": "Suplemento em cápsula Always Fit N-acetil L-cisteína (NAC) Sem sabor x 750mg de",
+      "categoria": "Suplementos",
+      "preco": 34.9,
+      "link": "https://meli.la/12S9oyg",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/suplemento-em-capsula-always-fit-n-acetil-l-cisteina-nac-sem-sabor-x-750mg-de-30-un/p/MLB44791197",
+      "precoDe": 49.9,
+      "cupomAnuncio": "Compre R$150 e ganhe R$15 OFF por seguir a loja",
+      "postado": "2026-11-25T17:50:58.138Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-12S9oyg.jpg"
+    },
     {
       "id": "1yNyrZn",
       "nome": "Pré Treino Hórus 300g Max Titanium Frutas Vermelhas Energia Sustentada",
