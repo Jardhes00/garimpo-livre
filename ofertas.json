@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T18:14:44.225Z",
+  "atualizado": "2026-11-25T18:15:59.359Z",
   "ofertas": [
+    {
+      "id": "1u9Uxu8",
+      "nome": "Máquina De Solda Sem Gás MIG 200A 3 em 1 Bivolt Mma Eletrodo Tig Lift Smart",
+      "categoria": "Diversos",
+      "preco": 526.94,
+      "link": "https://meli.la/1u9Uxu8",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquina-de-solda-sem-gas-mig-200a-3-em-1-bivolt-mma-eletrodo-tig-lift-smart-preto-portatil-profissional/p/MLB81274818",
+      "precoDe": 1299,
+      "parcelas": "10x de R$52,69 sem juros",
+      "postado": "2026-11-25T18:15:59.355Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1u9Uxu8.jpg"
+    },
     {
       "id": "1SsPCun",
       "nome": "Carregador Portátil Power Bank 20.000mah Turbo Celular Carga Rápida 22.5w",
