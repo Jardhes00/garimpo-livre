@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T18:05:58.549Z",
+  "atualizado": "2026-11-25T18:07:13.795Z",
   "ofertas": [
+    {
+      "id": "21LhPbG",
+      "nome": "Cadeira de Escritório Ergonômica Luminy GOLD com Suporte Lombar e Apoio de",
+      "categoria": "Diversos",
+      "preco": 419,
+      "link": "https://meli.la/21LhPbG",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-escritorio-ergonomica-luminy-gold-com-suporte-lombar-e-apoio-de-cabeca-ajustavel-giratoria-e-reclinavel/p/MLB77075572",
+      "precoDe": 990,
+      "parcelas": "8x de R$52,38 sem juros",
+      "postado": "2026-11-25T18:07:13.794Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-21LhPbG.jpg"
+    },
     {
       "id": "16nxtne",
       "nome": "Whey Protein Concentrado 1kg Dark Lab Sabor Doce de leite",
