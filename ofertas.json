@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-25T17:30:57.549Z",
+  "atualizado": "2026-11-25T17:32:12.704Z",
   "ofertas": [
+    {
+      "id": "19vcS2D",
+      "nome": "Jogo Conjunto de Panelas Caçarolas 12 Peças Indução Revestimento Cerâmico",
+      "categoria": "Games",
+      "preco": 645.05,
+      "link": "https://meli.la/19vcS2D",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/jogo-conjunto-de-panelas-cacarolas-12-pecas-inducao-revestimento-ceramico-antiaderente-fundo-triplo-bravia-cookware/p/MLB66895050",
+      "precoDe": 1199.9,
+      "pix": true,
+      "parcelas": "R$679 em 10x R$67,90 sem juros",
+      "cupomAnuncio": "R$635,55 com Cupom por seguir a loja",
+      "postado": "2026-11-25T17:32:12.702Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-19vcS2D.jpg"
+    },
     {
       "id": "2oTrAws",
       "nome": "Smart TV AOC 32\" Roku 32S5155/78G",
