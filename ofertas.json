@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T18:29:44.800Z",
+  "atualizado": "2026-11-25T18:30:59.502Z",
   "ofertas": [
+    {
+      "id": "2CsKBiz",
+      "nome": "Burigotto Cadeira De Refeição Poke Preto Night Sky",
+      "categoria": "Diversos",
+      "preco": 175.75,
+      "link": "https://meli.la/2CsKBiz",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/burigotto-cadeira-de-refeicao-poke-preto-night-sky/p/MLB24214297",
+      "precoDe": 319,
+      "pix": true,
+      "parcelas": "R$185 em outros meios",
+      "postado": "2026-11-25T18:30:59.501Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2CsKBiz.jpg"
+    },
     {
       "id": "2MgSEKU",
       "nome": "Bicicleta Ergométrica Spinning LTL 1003 para Treino com Roda de Inércia 13kg",
