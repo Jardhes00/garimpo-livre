@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T18:00:58.977Z",
+  "atualizado": "2026-11-25T18:02:13.564Z",
   "ofertas": [
+    {
+      "id": "2dq1eRU",
+      "nome": "Conjunto Sala de Jantar 4 Lugares com Cadeiras Estofadas Mesa Com Tampo",
+      "categoria": "Diversos",
+      "preco": 422.91,
+      "link": "https://meli.la/2dq1eRU",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/conjunto-sala-de-jantar-4-lugares-com-cadeiras-estofadas-mesa-com-tampo-retangular-semelhante-vidro-base-v-mel-branco-off-white/p/MLB52595849",
+      "precoDe": 999.9,
+      "postado": "2026-11-25T18:02:13.561Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2dq1eRU.jpg"
+    },
     {
       "id": "2Goah2k",
       "nome": "Cozinha Modulada Compacta Suspensa 220cm Milano Multimóveis MP2411",
