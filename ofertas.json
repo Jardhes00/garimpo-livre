@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T18:43:30.027Z",
+  "atualizado": "2026-11-25T18:44:45.232Z",
   "ofertas": [
+    {
+      "id": "1AEUhxK",
+      "nome": "Bomba Submersa Caneta Palito 1/2hp 0,50cv 54m Poço Artesiano Caixa Cisterna 3",
+      "categoria": "Diversos",
+      "preco": 446.79,
+      "link": "https://meli.la/1AEUhxK",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bomba-submersa-caneta-palito-12hp-050cv-54m-poco-artesiano-caixa-cisterna-3-pol-cano-100mm-submersivel-chacara-sitio-rancho-fazenda/p/MLB58932586",
+      "precoDe": 808.69,
+      "pix": true,
+      "parcelas": "R$525,64 em 10x R$52,56 sem juros",
+      "postado": "2026-11-25T18:44:45.230Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1AEUhxK.jpg"
+    },
     {
       "id": "2ooKai8",
       "nome": "Travel System Cosco Kids, Reverse Duo, 0 a 15kg, Preto Bronze",
