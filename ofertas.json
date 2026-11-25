@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-25T18:03:28.549Z",
+  "atualizado": "2026-11-25T18:04:44.160Z",
   "ofertas": [
+    {
+      "id": "1y9mwrc",
+      "nome": "Jogo De Toalhas Buddemeyer Brisa Banho 4 Peças Cor Azul/azul",
+      "categoria": "Games",
+      "preco": 149.89,
+      "link": "https://meli.la/1y9mwrc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/jogo-de-toalhas-buddemeyer-brisa-banho-4-pecas-cor-azulazul/p/MLB60954851",
+      "precoDe": 229.9,
+      "pix": true,
+      "parcelas": "R$176,34 em 5x R$35,27 sem juros",
+      "cupomAnuncio": "R$134,90 com Cupom",
+      "postado": "2026-11-25T18:04:44.158Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1y9mwrc.jpg"
+    },
     {
       "id": "2e2aHLY",
       "nome": "Multiprocessador Philips Walita Daily com 1000W e 2L",
