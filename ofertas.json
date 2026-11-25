@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T17:58:28.355Z",
+  "atualizado": "2026-11-25T17:59:43.508Z",
   "ofertas": [
+    {
+      "id": "1xB9rJU",
+      "nome": "Kit 2 Cadeiras De Jantar Madeira Maciça Assento Corino",
+      "categoria": "Diversos",
+      "preco": 699.9,
+      "link": "https://meli.la/1xB9rJU",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-2-cadeiras-de-jantar-madeira-macica-assento-corino/up/MLBU5854488467",
+      "precoDe": 979.9,
+      "parcelas": "10x de R$69,99 sem juros",
+      "postado": "2026-11-25T17:59:43.506Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1xB9rJU.jpg"
+    },
     {
       "id": "1c8RZga",
       "nome": "Panela De Pressão Industrial Profissional Cozinha 24l Alumínio Reforçada Cinza",
