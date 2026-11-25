@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-25T17:09:42.308Z",
+  "atualizado": "2026-11-25T17:10:56.927Z",
   "ofertas": [
+    {
+      "id": "16kUFvu",
+      "nome": "Guarda Roupa Casal Mônaco Madesa 3 Portas Correr Espelho P Cor Preto",
+      "categoria": "Diversos",
+      "preco": 677.59,
+      "link": "https://meli.la/16kUFvu",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB19493953",
+      "precoDe": 1235.28,
+      "pix": true,
+      "parcelas": "R$ 879,99 em 10x R$ 88 sem juros",
+      "cupomAnuncio": "R$639,09 com Cupom",
+      "postado": "2026-11-25T17:10:56.924Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-16kUFvu.jpg"
+    },
     {
       "id": "1va6Fe7",
       "nome": "Micro-ondas Philco Pmo39s Prateado 33l 1400w",
@@ -5359,24 +5378,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1Zx6HEa.jpg"
-    },
-    {
-      "id": "1dMsGaM",
-      "nome": "Monitor LG Fhd Gamer & Office Com Telaips 24, 1ms (mbr), 144hz Nativo",
-      "categoria": "Tech",
-      "preco": 546.25,
-      "link": "https://meli.la/1dMsGaM",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/monitor-lg-fhd-gamer-office-com-telaips-24-1ms-mbr-144hz-nativo-freesync-hdr10-srgb-modo-leitura-flicker-safe-hdmi-black-stabilizer-dynamic-action-sync-preto-24u411b/p/MLB80076113",
-      "precoDe": 1399,
-      "pix": true,
-      "parcelas": "R$575 em outros meios",
-      "postado": "2026-11-23T17:10:52.499Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1dMsGaM.jpg"
     }
   ]
 }
