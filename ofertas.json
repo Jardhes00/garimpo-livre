@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T17:25:57.492Z",
+  "atualizado": "2026-11-25T17:27:12.364Z",
   "ofertas": [
+    {
+      "id": "1V9S5P2",
+      "nome": "Ração Whiskas Carne Gatos Adultos 2,7 kg",
+      "categoria": "Pet",
+      "preco": 24.11,
+      "link": "https://meli.la/1V9S5P2",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/racao-whiskas-carne-gatos-adultos-27-kg/p/MLB21503941",
+      "precoDe": 49.9,
+      "cupomAnuncio": "Compre R$99,99 e ganhe 10% OFF",
+      "postado": "2026-11-25T17:27:12.362Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1V9S5P2.jpg"
+    },
     {
       "id": "11WFD1m",
       "nome": "Luva De Látex Descartável Branca Com Pó Tamanho M Caixa 100 Unid",
