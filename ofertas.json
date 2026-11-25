@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T19:06:00.618Z",
+  "atualizado": "2026-11-25T19:07:15.964Z",
   "ofertas": [
+    {
+      "id": "1UZYBj9",
+      "nome": "Pedigree Biscrok Petisco para Cachorro Adulto Multi Sabor 1kg",
+      "categoria": "Pet",
+      "preco": 17.86,
+      "link": "https://meli.la/1UZYBj9",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/pedigree-biscrok-petisco-para-cachorro-adulto-multi-sabor-1kg/p/MLB16197133",
+      "precoDe": 38.9,
+      "cupomAnuncio": "Compre R$99,99 e ganhe 10% OFF",
+      "postado": "2026-11-25T19:07:15.962Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1UZYBj9.jpg"
+    },
     {
       "id": "2LevU4h",
       "nome": "L'Oréal Paris Revitalift Hialurônico Kit Skincare Anti-Idade, com Sérum",
@@ -6520,24 +6537,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-12d23B2.jpg"
-    },
-    {
-      "id": "1b48HNF",
-      "nome": "Kit Hidrabene K-glass Sérum Completo Tratamento Facial",
-      "categoria": "Beleza",
-      "preco": 227.42,
-      "link": "https://meli.la/1b48HNF",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit-hidrabene-k-glass-serum-completo-tratamento-facial/up/MLBU5755194148",
-      "precoDe": 799.6,
-      "pix": true,
-      "parcelas": "R$239,39 em outros meios",
-      "postado": "2026-11-23T19:06:20.164Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1b48HNF.jpg"
     }
   ]
 }
