@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T16:35:56.150Z",
+  "atualizado": "2026-11-25T16:37:10.916Z",
   "ofertas": [
+    {
+      "id": "2vaeuXh",
+      "nome": "Brother DCP-L2540DW Multifuncional Mono Láser, dúplex Wi-Fi cor Preto",
+      "categoria": "Diversos",
+      "preco": 1873.56,
+      "link": "https://meli.la/2vaeuXh",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/brother-dcp-l2540dw-multifuncional-mono-laser-duplex-wi-fi-cor-preto/p/MLB26986601",
+      "precoDe": 3151.09,
+      "pix": true,
+      "parcelas": "R$2.081,73 em 10x R$208,17 sem juros",
+      "postado": "2026-11-25T16:37:10.914Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2vaeuXh.jpg"
+    },
     {
       "id": "2kmgget",
       "nome": "Kit 4 Pneus 175/65r14 Goodyear Kelly Edge Touring 2 86h Índice de velocidade H",
@@ -5362,23 +5380,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1N2ERb1.jpg"
-    },
-    {
-      "id": "2oy5s3v",
-      "nome": "Aspirador De Pó E Água Wap Gtw Inox 12 1400w 127v Q11 Aço Inoxidável/preto/amar",
-      "categoria": "Casa",
-      "preco": 289.9,
-      "link": "https://meli.la/2oy5s3v",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/aspirador-de-po-e-agua-wap-gtw-inox-12-1400w-127v-q11-aco-inoxidavelpretoamar/p/MLB6339958",
-      "precoDe": 696,
-      "parcelas": "6x de R$48,32 sem juros",
-      "postado": "2026-11-23T16:37:06.966Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2oy5s3v.jpg"
     }
   ]
 }
