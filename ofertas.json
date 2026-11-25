@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T17:55:58.339Z",
+  "atualizado": "2026-11-25T17:57:13.331Z",
   "ofertas": [
+    {
+      "id": "2UJVM6T",
+      "nome": "Desinfetante Ypê Bak Lavanda 5L",
+      "categoria": "Diversos",
+      "preco": 18.99,
+      "link": "https://meli.la/2UJVM6T",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/desinfetante-ype-bak-lavanda-5l/p/MLB22229378",
+      "precoDe": 32.99,
+      "cupomAnuncio": "Compre R$229 e ganhe R$50 OFF",
+      "postado": "2026-11-25T17:57:13.330Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2UJVM6T.jpg"
+    },
     {
       "id": "22k24bo",
       "nome": "Câmera Ptz Externa 9 Mp Wifi Com Lente Tripla + Alarme Sono",
