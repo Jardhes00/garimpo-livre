@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T17:33:27.742Z",
+  "atualizado": "2026-11-25T17:34:42.832Z",
   "ofertas": [
+    {
+      "id": "2eoxeUi",
+      "nome": "Hoverboard Rmira 6.5\" com Bluetooth e Alto-falante de 500W",
+      "categoria": "Diversos",
+      "preco": 448.34,
+      "link": "https://meli.la/2eoxeUi",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/hoverboard-rmira-65-com-bluetooth-e-alto-falante-de-500w/p/MLB61990794",
+      "precoDe": 1299,
+      "pix": true,
+      "parcelas": "R$487,33 em outros meios",
+      "postado": "2026-11-25T17:34:42.830Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2eoxeUi.jpg"
+    },
     {
       "id": "2cG3Gp7",
       "nome": "Mop Electrolux 41046207 Original – Limpeza Fácil, 1 Unidade",
