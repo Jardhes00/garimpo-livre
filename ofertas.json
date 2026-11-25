@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T18:34:44.732Z",
+  "atualizado": "2026-11-25T18:35:59.685Z",
   "ofertas": [
+    {
+      "id": "1mxRW62",
+      "nome": "Árvore de Natal Pinheiro 210 cm Com 1200 Galhos Realistas e 9 Bolas Vermelhas",
+      "categoria": "Esporte",
+      "preco": 279.33,
+      "link": "https://meli.la/1mxRW62",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/arvore-de-natal-pinheiro-210-cm-com-1200-galhos-realistas-e-9-bolas-vermelhas-greycom/p/MLB81084047",
+      "precoDe": 700,
+      "cupomAnuncio": "R$275,33 com Cupom por seguir a loja",
+      "postado": "2026-11-25T18:35:59.683Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1mxRW62.jpg"
+    },
     {
       "id": "1BupNZZ",
       "nome": "Perfume Feminino Eau de Parfum Fragrância Floral Gourmand Inebriante com Notas",
