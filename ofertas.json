@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T19:34:30.832Z",
+  "atualizado": "2026-11-25T19:36:15.997Z",
   "ofertas": [
+    {
+      "id": "1roA31M",
+      "nome": "Mouse Sem Fio Logitech Mx Master 3s - Grafite",
+      "categoria": "Tech",
+      "preco": 356.39,
+      "link": "https://meli.la/1roA31M",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB57724955",
+      "precoDe": 599.9,
+      "pix": true,
+      "parcelas": "R$ 395,99 em 9x de R$ 44 sem juros",
+      "postado": "2026-11-25T19:36:15.996Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1roA31M.jpg"
+    },
     {
       "id": "1Ri1G9Q",
       "nome": "Micro-ondas 21 Litros Mondial 1200W - Mo-01-21-B",
@@ -6402,24 +6420,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-24HeXPc.jpg"
-    },
-    {
-      "id": "1fBmCPV",
-      "nome": "Boné Audi Revolut F1 Team Dna adidas",
-      "categoria": "Diversos",
-      "preco": 79.79,
-      "link": "https://meli.la/1fBmCPV",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/bone-audi-revolut-f1-team-dna-adidas/up/MLBU3939456043",
-      "precoDe": 199.99,
-      "pix": true,
-      "parcelas": "R$83,99 em 3x R$28 sem juros",
-      "postado": "2026-11-23T19:35:06.177Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1fBmCPV.jpg"
     }
   ]
 }
