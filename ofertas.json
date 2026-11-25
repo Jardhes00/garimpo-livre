@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T18:44:45.232Z",
+  "atualizado": "2026-11-25T18:45:59.982Z",
   "ofertas": [
+    {
+      "id": "1yVgp81",
+      "nome": "Parafusadeira e Furadeira de Impacto Wap Wf 12k4.2 com Indicador de Nível de",
+      "categoria": "Ferramentas",
+      "preco": 134.1,
+      "link": "https://meli.la/1yVgp81",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/parafusadeira-e-furadeira-de-impacto-wap-wf-12k42-com-indicador-de-nivel-de-bateria-e-maleta/p/MLB46208531",
+      "precoDe": 490,
+      "pix": true,
+      "parcelas": "R$149 em outros meios",
+      "postado": "2026-11-25T18:45:59.980Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1yVgp81.jpg"
+    },
     {
       "id": "1AEUhxK",
       "nome": "Bomba Submersa Caneta Palito 1/2hp 0,50cv 54m Poço Artesiano Caixa Cisterna 3",
