@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T19:02:15.446Z",
+  "atualizado": "2026-11-25T19:03:30.554Z",
   "ofertas": [
+    {
+      "id": "1mVLU5j",
+      "nome": "Mala de Viagem de Bordo Rígida Sweet Studio em ABS, com Rodas Giro 360°, Rosa",
+      "categoria": "Diversos",
+      "preco": 166.5,
+      "link": "https://meli.la/1mVLU5j",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mala-de-viagem-de-bordo-rigida-sweet-studio-em-abs-com-rodas-giro-360-rosa-2075/p/MLB60939427",
+      "precoDe": 311,
+      "pix": true,
+      "parcelas": "R$185 em outros meios",
+      "postado": "2026-11-25T19:03:30.551Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1mVLU5j.jpg"
+    },
     {
       "id": "2xni13G",
       "nome": "Bomba Elétrica Portátil Digital Para Encher Pneu De Carro Moto Bicicleta",
@@ -6516,24 +6534,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2o2Kir8.jpg"
-    },
-    {
-      "id": "12euPkx",
-      "nome": "Essencial Exclusivo Floral Deo Parfum Feminino - Natura",
-      "categoria": "Diversos",
-      "preco": 142.51,
-      "link": "https://meli.la/12euPkx",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/essencial-exclusivo-floral-deo-parfum-feminino-natura/p/MLB26739970",
-      "precoDe": 279.9,
-      "pix": true,
-      "parcelas": "R$154,90 em 5x R$30,98 sem juros",
-      "postado": "2026-11-23T19:02:35.087Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-12euPkx.jpg"
     }
   ]
 }
