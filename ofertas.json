@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T17:34:42.832Z",
+  "atualizado": "2026-11-25T17:35:57.741Z",
   "ofertas": [
+    {
+      "id": "32iig7x",
+      "nome": "Cozinha Compacta Madesa Emilly Com Armário e Balcão Rustic/Cinza",
+      "categoria": "Casa",
+      "preco": 500.49,
+      "link": "https://meli.la/32iig7x",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cozinha-compacta-madesa-emilly-com-armario-e-balcao-rusticcinza/p/MLB28311049",
+      "precoDe": 905.87,
+      "pix": true,
+      "parcelas": "R$649,99 em 10x R$65 sem juros",
+      "postado": "2026-11-25T17:35:57.738Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-32iig7x.jpg"
+    },
     {
       "id": "2eoxeUi",
       "nome": "Hoverboard Rmira 6.5\" com Bluetooth e Alto-falante de 500W",
