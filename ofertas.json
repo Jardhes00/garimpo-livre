@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T18:45:59.982Z",
+  "atualizado": "2026-11-25T18:47:14.938Z",
   "ofertas": [
+    {
+      "id": "1g8bhpc",
+      "nome": "Luva Nitrílica Rosa Descartável Tamanho P 100 Unidades antiderrapantes",
+      "categoria": "Diversos",
+      "preco": 28.65,
+      "link": "https://meli.la/1g8bhpc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/luva-nitrilica-rosa-descartavel-tamanho-p-100-unidades-antiderrapantes/p/MLB80268657",
+      "precoDe": 69.9,
+      "cupomAnuncio": "Compre R$100 e ganhe 5% OFF por seguir a loja",
+      "postado": "2026-11-25T18:47:14.936Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1g8bhpc.jpg"
+    },
     {
       "id": "1yVgp81",
       "nome": "Parafusadeira e Furadeira de Impacto Wap Wf 12k4.2 com Indicador de Nível de",
