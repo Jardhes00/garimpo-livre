@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T19:13:30.903Z",
+  "atualizado": "2026-11-25T19:14:45.939Z",
   "ofertas": [
+    {
+      "id": "22J95By",
+      "nome": "Smartphone Motorola Moto G37 5G - 64GB 4GB RAM + 8GB RAM Boost, Camera 50MP com",
+      "categoria": "Tech",
+      "preco": 799,
+      "link": "https://meli.la/22J95By",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g37-5g-64gb-4gb-ram-8gb-ram-boost-camera-50mp-com-editor-magico-bateria-de-5200-mah-e-tela-67-120hz-nfc-azul-nautico/p/MLB78889489",
+      "precoDe": 1899,
+      "pix": true,
+      "parcelas": "R$887,78 em 10x R$88,78 sem juros",
+      "postado": "2026-11-25T19:14:45.937Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-22J95By.jpg"
+    },
     {
       "id": "182avkB",
       "nome": "Ventilador Osc Coluna Turbo 6p 50cm Bronze Premium Cor da estrutura Preto",
@@ -6519,24 +6537,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1EZDfz3.jpg"
-    },
-    {
-      "id": "1PSS3pr",
-      "nome": "Tablet Samsung Galaxy Tab A11 Wi-Fi de 64GB com 4GB RAM e Tela de 8.7\" Prata",
-      "categoria": "Tech",
-      "preco": 985.06,
-      "link": "https://meli.la/1PSS3pr",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/tablet-samsung-galaxy-tab-a11-wi-fi-de-64gb-com-4gb-ram-e-tela-de-87-prata/p/MLB59324352",
-      "precoDe": 1599,
-      "pix": true,
-      "parcelas": "R$1.158,89 em outros meios",
-      "postado": "2026-11-23T19:13:50.390Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1PSS3pr.jpg"
     }
   ]
 }
