@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T18:07:13.795Z",
+  "atualizado": "2026-11-25T18:08:28.950Z",
   "ofertas": [
+    {
+      "id": "322wNzi",
+      "nome": "Bravecto Comprimido 20 A 40kg Para Cães - 1 Unidade",
+      "categoria": "Diversos",
+      "preco": 164.25,
+      "link": "https://meli.la/322wNzi",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bravecto-comprimido-20-a-40kg-para-caes-1-unidade/up/MLBU1712522495",
+      "precoDe": 274.5,
+      "pix": true,
+      "parcelas": "R$188,79 em outros meios",
+      "postado": "2026-11-25T18:08:28.947Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-322wNzi.jpg"
+    },
     {
       "id": "21LhPbG",
       "nome": "Cadeira de Escritório Ergonômica Luminy GOLD com Suporte Lombar e Apoio de",
