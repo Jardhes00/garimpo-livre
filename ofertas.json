@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T17:35:57.741Z",
+  "atualizado": "2026-11-25T17:37:12.756Z",
   "ofertas": [
+    {
+      "id": "1r4DpfP",
+      "nome": "Café Torrado E Moído Sul de Minas Gourmet 3 Corações - Pacote 250g",
+      "categoria": "Diversos",
+      "preco": 19.9,
+      "link": "https://meli.la/1r4DpfP",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafe-torrado-e-moido-sul-de-minas-gourmet-3-coracoes-pacote-250g/p/MLB27802420",
+      "precoDe": 37.16,
+      "cupomAnuncio": "Compre R$79 e ganhe 15% OFF",
+      "postado": "2026-11-25T17:37:12.754Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1r4DpfP.jpg"
+    },
     {
       "id": "32iig7x",
       "nome": "Cozinha Compacta Madesa Emilly Com Armário e Balcão Rustic/Cinza",
