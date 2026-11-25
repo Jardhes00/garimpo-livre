@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T19:57:16.716Z",
+  "atualizado": "2026-11-25T19:58:46.570Z",
   "ofertas": [
+    {
+      "id": "2K7X7UJ",
+      "nome": "LG Soundbar S60tr 440w Rms, 5.1 Canais, Bluetooth 5.3, Dol Preto 120 Hz",
+      "categoria": "Tech",
+      "preco": 1499,
+      "link": "https://meli.la/2K7X7UJ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB41234257",
+      "precoDe": 2199,
+      "parcelas": "12x R$ 145,52",
+      "postado": "2026-11-25T19:58:46.569Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2K7X7UJ.jpg"
+    },
     {
       "id": "1GkcDfk",
       "nome": "Kit 2 Pneus 175/70r13 Kelly Edge Touring Goodyear 82t",
@@ -6325,24 +6342,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2UUetti.jpg"
-    },
-    {
-      "id": "33m7k2H",
-      "nome": "Camera Jgl P11 Wifi Segurança 6 Mp 4k Lente Dupla Vigilância",
-      "categoria": "Diversos",
-      "preco": 130.15,
-      "link": "https://meli.la/33m7k2H",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/camera-jgl-p11-wifi-seguranca-6-mp-4k-lente-dupla-vigilancia/up/MLBU3177308565",
-      "precoDe": 450,
-      "pix": true,
-      "parcelas": "R$137 em outros meios",
-      "postado": "2026-11-23T19:57:36.788Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-33m7k2H.jpg"
     }
   ]
 }
