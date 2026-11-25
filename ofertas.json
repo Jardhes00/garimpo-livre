@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T18:47:14.938Z",
+  "atualizado": "2026-11-25T18:48:30.133Z",
   "ofertas": [
+    {
+      "id": "2QZ8dbd",
+      "nome": "Pneu Landspider Citytraxx Gp 175/70 R14 Aro 14 84t Kit2",
+      "categoria": "Auto",
+      "preco": 545.58,
+      "link": "https://meli.la/2QZ8dbd",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/pneu-landspider-citytraxx-gp-17570-r14-aro-14-84t-kit2/up/MLBU3530380009",
+      "precoDe": 857.21,
+      "postado": "2026-11-25T18:48:30.130Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2QZ8dbd.jpg"
+    },
     {
       "id": "1g8bhpc",
       "nome": "Luva Nitrílica Rosa Descartável Tamanho P 100 Unidades antiderrapantes",
@@ -6508,24 +6524,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2c2Uonw.jpg"
-    },
-    {
-      "id": "1B11hKb",
-      "nome": "Celular Samsung Galaxy A57 5G 128GB, 8GB RAM, Câmera 50MP, IP68, Super AMOLED",
-      "categoria": "Tech",
-      "preco": 1799.1,
-      "link": "https://meli.la/1B11hKb",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a57-5g-128gb-8gb-ram-camera-50mp-ip68-super-amoled-67/p/MLB68213520",
-      "precoDe": 3799,
-      "pix": true,
-      "parcelas": "R$1.999 em 10x R$199,90 sem juros",
-      "postado": "2026-11-23T18:47:34.886Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1B11hKb.jpg"
     }
   ]
 }
