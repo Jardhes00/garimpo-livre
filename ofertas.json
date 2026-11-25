@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T17:10:56.927Z",
+  "atualizado": "2026-11-25T17:12:12.004Z",
   "ofertas": [
+    {
+      "id": "1WHVyup",
+      "nome": "Tênis Ultimashow 2.0 adidas",
+      "categoria": "Moda",
+      "preco": 227.99,
+      "link": "https://meli.la/1WHVyup",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://produto.mercadolivre.com.br/MLB-3746595233-tnis-ultimashow-20-adidas-_JM",
+      "precoDe": 379.99,
+      "parcelas": "6x R$ 38 sem juros",
+      "postado": "2026-11-25T17:12:12.001Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1WHVyup.jpg"
+    },
     {
       "id": "16kUFvu",
       "nome": "Guarda Roupa Casal Mônaco Madesa 3 Portas Correr Espelho P Cor Preto",
@@ -5361,23 +5378,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2CEX7bV.jpg"
-    },
-    {
-      "id": "1Zx6HEa",
-      "nome": "Cafeteira Espresso Lattego Ep2330 Série 2300 Philips Walita Cinza",
-      "categoria": "Casa",
-      "preco": 2854.98,
-      "link": "https://meli.la/1Zx6HEa",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cafeteira-espresso-lattego-ep2330-serie-2300-philips-walita-cinza/p/MLB49646722",
-      "precoDe": 4799.9,
-      "parcelas": "10x de R$285,50 sem juros",
-      "postado": "2026-11-23T17:12:07.534Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1Zx6HEa.jpg"
     }
   ]
 }
