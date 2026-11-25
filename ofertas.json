@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T16:43:26.283Z",
+  "atualizado": "2026-11-25T16:44:41.397Z",
   "ofertas": [
+    {
+      "id": "1KCTrnL",
+      "nome": "Aspirador de pó vertical 2 em 1 WAP Power Speed 2000W com filtro HEPA 127V",
+      "categoria": "Casa",
+      "preco": 599.99,
+      "link": "https://meli.la/1KCTrnL",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aspirador-de-po-vertical-2-em-1-wap-power-speed-2000w-com-filtro-hepa-127v/p/MLB14214639",
+      "precoDe": 889.9,
+      "postado": "2026-11-25T16:44:41.396Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1KCTrnL.jpg"
+    },
     {
       "id": "2TLECKa",
       "nome": "Ventilador de parede Wap Rajada Pro 60 turbo com 5 pás",
@@ -5362,24 +5378,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1NmaPnK.jpg"
-    },
-    {
-      "id": "1Rx87h5",
-      "nome": "Smartphone Samsung Galaxy A17 5g 128gb 4gb Super Amoled 6.7'' Câmera 50mp",
-      "categoria": "Tech",
-      "preco": 1062.41,
-      "link": "https://meli.la/1Rx87h5",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/smartphone-samsung-galaxy-a17-5g-128gb-4gb-super-amoled-67-camera-50mp-selfie-13-mp-5000-mah-nfc-dual-sim-recursos-ia-cinza/p/MLB55521828",
-      "precoDe": 1699,
-      "pix": true,
-      "parcelas": "R$1.249,90 em 10x R$124,99 sem juros",
-      "postado": "2026-11-23T16:44:36.745Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1Rx87h5.jpg"
     }
   ]
 }
