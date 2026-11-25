@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T19:18:30.886Z",
+  "atualizado": "2026-11-25T19:20:29.790Z",
   "ofertas": [
+    {
+      "id": "1ETAnWK",
+      "nome": "Carrinho de Bebê Cosco Kids, Toffy, Preto Absoluto",
+      "categoria": "Bebê",
+      "preco": 351.4,
+      "link": "https://meli.la/1ETAnWK",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/carrinho-de-bebe-cosco-kids-toffy-preto-absoluto/p/MLB22508964",
+      "precoDe": 599,
+      "pix": true,
+      "parcelas": "R$369,90 em 12x R$30,82 sem juros",
+      "postado": "2026-11-25T19:19:46.053Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ETAnWK.jpg"
+    },
     {
       "id": "1m6DpSB",
       "nome": "Guarda Roupa Solteiro 6 Portas 2 Gavetas Capri Poquema Cor Branco",
@@ -6506,39 +6524,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1zSVGk7.jpg"
-    },
-    {
-      "id": "1hGjG7V",
-      "nome": "Fralda Geriátrica Derma Plus Unissex 16 Unidades G Bigfral Grande",
-      "categoria": "Bebê",
-      "preco": 47.29,
-      "link": "https://meli.la/1hGjG7V",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/fralda-geriatrica-derma-plus-unissex-16-unidades-g-bigfral-grande/p/MLB18717825",
-      "precoDe": 79.69,
-      "postado": "2026-11-23T19:20:05.662Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1hGjG7V.jpg"
-    },
-    {
-      "id": "2RxV8gK",
-      "nome": "Bebedouro Refrigerado Eletrônico Veronna BE200 Agua Gelada Cor Branco",
-      "categoria": "Bebê",
-      "preco": 348,
-      "link": "https://meli.la/2RxV8gK",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/bebedouro-refrigerado-eletronico-veronna-be200-agua-gelada-cor-branco/p/MLB39027625",
-      "precoDe": 567.7,
-      "parcelas": "6x de R$58 sem juros",
-      "postado": "2026-11-23T19:18:50.968Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2RxV8gK.jpg"
     }
   ]
 }
