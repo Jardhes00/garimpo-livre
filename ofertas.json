@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T17:14:42.159Z",
+  "atualizado": "2026-11-25T17:15:56.981Z",
   "ofertas": [
+    {
+      "id": "172gXug",
+      "nome": "Espumante Salton Branco Doce Moscatel 750ml",
+      "categoria": "Diversos",
+      "preco": 28.83,
+      "link": "https://meli.la/172gXug",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/espumante-salton-branco-doce-moscatel-750ml/p/MLB18308589",
+      "precoDe": 42.9,
+      "cupomAnuncio": "Compre R$100 e ganhe 10% OFF",
+      "postado": "2026-11-25T17:15:56.979Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-172gXug.jpg"
+    },
     {
       "id": "11i6FAC",
       "nome": "Short Masculino Bermuda Praia 2 Bolsos Zíper Secagem Rápida",
@@ -5359,24 +5376,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1hV8TRC.jpg"
-    },
-    {
-      "id": "1gemfpG",
-      "nome": "Ventilador De Coluna Turbo Silencioso Baixo Consumo 110v",
-      "categoria": "Casa",
-      "preco": 169.98,
-      "link": "https://meli.la/1gemfpG",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-coluna-turbo-silencioso-baixo-consumo-110v/up/MLBU5378695662",
-      "precoDe": 289.99,
-      "parcelas": "5x de R$34 sem juros",
-      "cupomAnuncio": "R$164,98 com Cupom por seguir a loja",
-      "postado": "2026-11-23T17:15:52.794Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1gemfpG.jpg"
     }
   ]
 }
