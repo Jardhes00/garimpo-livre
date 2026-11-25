@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T18:28:29.510Z",
+  "atualizado": "2026-11-25T18:29:44.800Z",
   "ofertas": [
+    {
+      "id": "2MgSEKU",
+      "nome": "Bicicleta Ergométrica Spinning LTL 1003 para Treino com Roda de Inércia 13kg",
+      "categoria": "Esporte",
+      "preco": 413.08,
+      "link": "https://meli.la/2MgSEKU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bicicleta-ergometrica-spinning-ltl-1003-para-treino-com-roda-de-inercia-13kg/p/MLB75892522",
+      "precoDe": 1299,
+      "pix": true,
+      "parcelas": "R$449 em 8x R$56,12 sem juros",
+      "postado": "2026-11-25T18:29:44.799Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2MgSEKU.jpg"
+    },
     {
       "id": "29nobub",
       "nome": "Jogo Chave Combinada 14 Pçs 8 A 24mm Boca Estrela Açocromado Kit Chaves Chave",
