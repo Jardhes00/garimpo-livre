@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T17:22:12.289Z",
+  "atualizado": "2026-11-25T17:23:27.378Z",
   "ofertas": [
+    {
+      "id": "1QSBXAB",
+      "nome": "Perfurador Solo Trado Gasolina com 3 Brocas Extensão 1,20m Carbon Fak Laranja",
+      "categoria": "Diversos",
+      "preco": 799,
+      "link": "https://meli.la/1QSBXAB",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/perfurador-solo-trado-gasolina-com-3-brocas-extensao-120m-carbon-fak-laranja/p/MLB53376207",
+      "precoDe": 1274.63,
+      "postado": "2026-11-25T17:23:27.374Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1QSBXAB.jpg"
+    },
     {
       "id": "1NKr9DY",
       "nome": "Frigobar Retrô Vermelho 93l Inverter Bivolt Midea Vermelho",
@@ -5361,22 +5377,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1cHZqsh.jpg"
-    },
-    {
-      "id": "2xk1MrY",
-      "nome": "Cadeira De Alimentação Infantil Acolchoada 3 Em 1 Portátil Cor Cinza",
-      "categoria": "Casa",
-      "preco": 199,
-      "link": "https://meli.la/2xk1MrY",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-alimentacao-infantil-acolchoada-3-em-1-portatil-cor-cinza/p/MLB74644772",
-      "precoDe": 285.7,
-      "postado": "2026-11-23T17:23:23.078Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2xk1MrY.jpg"
     }
   ]
 }
