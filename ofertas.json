@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T21:00:06.378Z",
+  "atualizado": "2026-11-25T21:01:16.810Z",
   "ofertas": [
+    {
+      "id": "3443M3L",
+      "nome": "Cadeira Gamer Thunderx3 Profissional Tgc12 Preta",
+      "categoria": "Games",
+      "preco": 925.3,
+      "link": "https://meli.la/3443M3L",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-gamer-thunderx3-profissional-tgc12-preta/p/MLB39036896",
+      "precoDe": 1521.16,
+      "pix": true,
+      "parcelas": "R$974 em 10x R$97,40 sem juros",
+      "postado": "2026-11-25T21:01:16.808Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-3443M3L.jpg"
+    },
     {
       "id": "1Up5oUf",
       "nome": "Kit 100 Placas Espuma Acústica Anti Chama Isolamento Sonoro Cinza-escuro",
