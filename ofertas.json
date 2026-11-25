@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T16:23:25.427Z",
+  "atualizado": "2026-11-25T16:24:40.514Z",
   "ofertas": [
+    {
+      "id": "1vFyXMS",
+      "nome": "Par Tweeter Jbl Selenium St 400 Trio 150w Twiter Branco",
+      "categoria": "Diversos",
+      "preco": 426.36,
+      "link": "https://meli.la/1vFyXMS",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/par-tweeter-jbl-selenium-st-400-trio-150w-twiter-branco/p/MLB38509139",
+      "precoDe": 612.5,
+      "postado": "2026-11-25T16:24:40.513Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1vFyXMS.jpg"
+    },
     {
       "id": "2BuFwUe",
       "nome": "Ar Condicionado Inverter 12k Hisense Eco Plus Ii Frio 220v",
