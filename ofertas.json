@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T21:02:32.095Z",
+  "atualizado": "2026-11-25T21:03:47.125Z",
   "ofertas": [
+    {
+      "id": "22MBn2t",
+      "nome": "Central Multimídia Espelhamento 1 Din 7 Mp5 Usb Bluetooth",
+      "categoria": "Diversos",
+      "preco": 190,
+      "link": "https://meli.la/22MBn2t",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/central-multimidia-espelhamento-1-din-7-mp5-usb-bluetooth/up/MLBU3882735855",
+      "precoDe": 389.9,
+      "postado": "2026-11-25T21:03:47.123Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-22MBn2t.jpg"
+    },
     {
       "id": "24Din7z",
       "nome": "Lanterna A Verdadeira Mais Forte Do Mundo Tática Alcance 3km Super Potente",
