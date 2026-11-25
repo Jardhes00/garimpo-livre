@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-25T16:37:10.916Z",
+  "atualizado": "2026-11-25T16:38:25.956Z",
   "ofertas": [
+    {
+      "id": "1dNWBfu",
+      "nome": "Shampoo Antiqueda Estimulante Aminexil Dercos Energy+ Vichy Refil 200g",
+      "categoria": "Beleza",
+      "preco": 52.44,
+      "link": "https://meli.la/1dNWBfu",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/shampoo-antiqueda-estimulante-aminexil-dercos-energy-vichy-refil-200g/p/MLB27731058",
+      "precoDe": 98.9,
+      "pix": true,
+      "parcelas": "R$61,69 em outros meios",
+      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
+      "postado": "2026-11-25T16:38:25.955Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1dNWBfu.jpg"
+    },
     {
       "id": "2vaeuXh",
       "nome": "Brother DCP-L2540DW Multifuncional Mono Láser, dúplex Wi-Fi cor Preto",
@@ -5364,22 +5383,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2bPkAaT.jpg"
-    },
-    {
-      "id": "1N2ERb1",
-      "nome": "2 Pneus 225 75 R16c Master Iveco Daily Express Cargo 2500",
-      "categoria": "Auto",
-      "preco": 1173.87,
-      "link": "https://meli.la/1N2ERb1",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/2-pneus-225-75-r16c-master-iveco-daily-express-cargo-2500/p/MLB68589474",
-      "precoDe": 1634,
-      "postado": "2026-11-23T16:38:21.717Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1N2ERb1.jpg"
     }
   ]
 }
