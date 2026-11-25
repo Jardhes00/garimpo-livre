@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T17:44:43.019Z",
+  "atualizado": "2026-11-25T17:45:58.095Z",
   "ofertas": [
+    {
+      "id": "1GV4kAx",
+      "nome": "Cadeira de Balanço Elétrica para Bebê, com Bluetooth, Mosquiteiro e Vibração",
+      "categoria": "Bebê",
+      "preco": 334.75,
+      "link": "https://meli.la/1GV4kAx",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-balanco-eletrica-para-bebe-com-bluetooth-mosquiteiro-e-vibracao/p/MLB72143098",
+      "precoDe": 1299,
+      "pix": true,
+      "parcelas": "R$393,82 em 7x R$56,26 sem juros",
+      "postado": "2026-11-25T17:45:58.092Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1GV4kAx.jpg"
+    },
     {
       "id": "1dBFzfe",
       "nome": "Kit 2 Pneus 195/55R15 Firestone F-600 85H Aro 15",
