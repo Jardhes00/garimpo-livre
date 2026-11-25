@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T17:23:27.378Z",
+  "atualizado": "2026-11-25T17:24:42.659Z",
   "ofertas": [
+    {
+      "id": "2LR7wfA",
+      "nome": "Chave de impacto e Parafusadeira 21V INVAS 2800 Rpm A bateria 3000mah",
+      "categoria": "Ferramentas",
+      "preco": 176.83,
+      "link": "https://meli.la/2LR7wfA",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/chave-de-impacto-e-parafusadeira-21v-invas-2800-rpm-a-bateria-3000mah/p/MLB56389269",
+      "precoDe": 305.94,
+      "pix": true,
+      "parcelas": "R$208,03 em outros meios",
+      "postado": "2026-11-25T17:24:42.655Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2LR7wfA.jpg"
+    },
     {
       "id": "1QSBXAB",
       "nome": "Perfurador Solo Trado Gasolina com 3 Brocas Extensão 1,20m Carbon Fak Laranja",
@@ -5359,24 +5377,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1B11hKb.jpg"
-    },
-    {
-      "id": "1cHZqsh",
-      "nome": "Impressora Térmica de Cupom I8 - 250 mm/s Elgin",
-      "categoria": "Tech",
-      "preco": 494.1,
-      "link": "https://meli.la/1cHZqsh",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/impressora-termica-de-cupom-i8-250-mms-elgin/p/MLB42168211",
-      "precoDe": 759.9,
-      "pix": true,
-      "parcelas": "R$549 em outros meios",
-      "postado": "2026-11-23T17:24:37.886Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1cHZqsh.jpg"
     }
   ]
 }
