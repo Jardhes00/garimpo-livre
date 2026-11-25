@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T18:32:14.571Z",
+  "atualizado": "2026-11-25T18:33:29.904Z",
   "ofertas": [
+    {
+      "id": "16m1Fvb",
+      "nome": "Ar Condicionado Portátil 9000 Btus 127v 3 Em 1 Kian Branco",
+      "categoria": "Casa",
+      "preco": 2089.05,
+      "link": "https://meli.la/16m1Fvb",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-portatil-9000-btus-127v-3-em-1-kian-branco/up/MLBU5405637922",
+      "precoDe": 3799,
+      "pix": true,
+      "parcelas": "R$2.199 em 10x R$219,90 sem juros",
+      "postado": "2026-11-25T18:33:29.902Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-16m1Fvb.jpg"
+    },
     {
       "id": "1KTHkLc",
       "nome": "Kit 2 Pneus 195/55R16 Continental PowerContact 2 87H Aro 16",
