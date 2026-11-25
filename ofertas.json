@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T16:33:25.830Z",
+  "atualizado": "2026-11-25T16:34:40.983Z",
   "ofertas": [
+    {
+      "id": "2Wiy4vZ",
+      "nome": "Impressora 3d Bambu Lab Fdm Aberta A1 Cinza",
+      "categoria": "Tech",
+      "preco": 2716.05,
+      "link": "https://meli.la/2Wiy4vZ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/impressora-3d-bambu-lab-fdm-aberta-a1-cinza/p/MLB45248118",
+      "precoDe": 4999,
+      "pix": true,
+      "parcelas": "R$2.859 em 10x R$285,90 sem juros",
+      "postado": "2026-11-25T16:34:40.982Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Wiy4vZ.jpg"
+    },
     {
       "id": "1ctuwZg",
       "nome": "Cooktop Dako Supreme 5 Bocas de Vidro Temperado com Tripla Chama Preto Bivolt",
