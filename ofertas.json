@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T17:17:12.215Z",
+  "atualizado": "2026-11-25T17:18:27.319Z",
   "ofertas": [
+    {
+      "id": "2Yezpac",
+      "nome": "Camera Wifi 360° Im7 S Full Color Intelbras Ip Externa 1080p",
+      "categoria": "Diversos",
+      "preco": 369.9,
+      "link": "https://meli.la/2Yezpac",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/camera-wifi-360-im7-s-full-color-intelbras-ip-externa-1080p/up/MLBU1989606099",
+      "precoDe": 650,
+      "parcelas": "10x de R$36,99 sem juros",
+      "cupomAnuncio": "R$364,90 com Cupom por seguir a loja",
+      "postado": "2026-11-25T17:18:27.317Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Yezpac.jpg"
+    },
     {
       "id": "1G8u5VN",
       "nome": "Giratas Bomba Vácuo",
@@ -5359,22 +5377,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1rvhfnh.jpg"
-    },
-    {
-      "id": "1auj4hX",
-      "nome": "Nivea Gel Creme Facial Ultra Leve 7 Em 1 Com Vitamina C 100g Todo Tipo De Pele",
-      "categoria": "Suplementos",
-      "preco": 24.29,
-      "link": "https://meli.la/1auj4hX",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/nivea-gel-creme-facial-ultra-leve-7-em-1-com-vitamina-c-100g-todo-tipo-de-pele/p/MLB77125209",
-      "precoDe": 37.99,
-      "postado": "2026-11-23T17:18:23.037Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1auj4hX.jpg"
     }
   ]
 }
