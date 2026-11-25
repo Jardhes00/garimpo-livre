@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T17:57:13.331Z",
+  "atualizado": "2026-11-25T17:58:28.355Z",
   "ofertas": [
+    {
+      "id": "1c8RZga",
+      "nome": "Panela De Pressão Industrial Profissional Cozinha 24l Alumínio Reforçada Cinza",
+      "categoria": "Casa",
+      "preco": 447.21,
+      "link": "https://meli.la/1c8RZga",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/panela-pressao-cinza-aluminio-nacional-24-l/p/MLB22342048",
+      "precoDe": 644.9,
+      "cupomAnuncio": "R$443,21 com Cupom por seguir a loja",
+      "postado": "2026-11-25T17:58:28.354Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1c8RZga.jpg"
+    },
     {
       "id": "2UJVM6T",
       "nome": "Desinfetante Ypê Bak Lavanda 5L",
