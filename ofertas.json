@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T17:38:36.693Z",
+  "atualizado": "2026-11-25T17:39:42.983Z",
   "ofertas": [
+    {
+      "id": "2kAoUbX",
+      "nome": "Caixa de Som Portátil - PartyBox Stage 320 - JBL Pro Sound, até 18h de Bateria",
+      "categoria": "Tech",
+      "preco": 2379.15,
+      "link": "https://meli.la/2kAoUbX",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-portatil-partybox-stage-320-jbl-pro-sound-ate-18h-de-bateria-show-de-luzes-ai-sound-boost-auracast-ipx4-branca/p/MLB46056908",
+      "precoDe": 3499,
+      "pix": true,
+      "parcelas": "R$2.799 em 10x R$279,90 sem juros",
+      "postado": "2026-11-25T17:39:42.981Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2kAoUbX.jpg"
+    },
     {
       "id": "1aeoyif",
       "nome": "Árvore De Natal 1.80 Metros 1000 Galhos Grande Tradicional Luxo Cor Verde",
