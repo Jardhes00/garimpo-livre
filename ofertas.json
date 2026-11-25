@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T16:15:55.209Z",
+  "atualizado": "2026-11-25T16:17:10.386Z",
   "ofertas": [
+    {
+      "id": "1qRZ3cb",
+      "nome": "Whey 100% Pure 900g Pote Integralmedica Gelato Di Latte",
+      "categoria": "Casa",
+      "preco": 143,
+      "link": "https://meli.la/1qRZ3cb",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-100-pure-900g-refil-integralmedica-gelato-di-latte/p/MLB45980098",
+      "precoDe": 321.9,
+      "parcelas": "12x R$ 14,13",
+      "postado": "2026-11-25T16:17:10.384Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1qRZ3cb.jpg"
+    },
     {
       "id": "2bKhHmV",
       "nome": "Cuba Gourmet para Cozinha Aço Inox 201 50x40cm Nawa Prata - Pingoo.casa",
