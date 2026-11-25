@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T17:37:12.756Z",
+  "atualizado": "2026-11-25T17:38:36.693Z",
   "ofertas": [
+    {
+      "id": "1aeoyif",
+      "nome": "Árvore De Natal 1.80 Metros 1000 Galhos Grande Tradicional Luxo Cor Verde",
+      "categoria": "Diversos",
+      "preco": 155,
+      "link": "https://meli.la/1aeoyif",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/arvore-de-natal-180-metros-1000-galhos-grande-tradicional-luxo-cor-verde-premium-sambalele/p/MLB82052875",
+      "precoDe": 299.9,
+      "postado": "2026-11-25T17:38:36.691Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1aeoyif.jpg"
+    },
     {
       "id": "1r4DpfP",
       "nome": "Café Torrado E Moído Sul de Minas Gourmet 3 Corações - Pacote 250g",
