@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T17:03:27.237Z",
+  "atualizado": "2026-11-25T17:04:41.788Z",
   "ofertas": [
+    {
+      "id": "1esSedx",
+      "nome": "Amaciante Downy Concentrado Brisa de Verão 3L Rende 12L",
+      "categoria": "Diversos",
+      "preco": 39.88,
+      "link": "https://meli.la/1esSedx",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB16086214",
+      "precoDe": 57.9,
+      "postado": "2026-11-25T17:04:41.786Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1esSedx.jpg"
+    },
     {
       "id": "2imm7Y4",
       "nome": "Cápsulas De Café Original Nespresso Variados - 50 Cápsulas",
@@ -5363,23 +5379,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-13qoY8U.jpg"
-    },
-    {
-      "id": "2zMchQq",
-      "nome": "Martelete Rompedor e Perfurador Bosch GBH 2-24 D 220V + Maleta 06112A02E0",
-      "categoria": "Diversos",
-      "preco": 649,
-      "link": "https://meli.la/2zMchQq",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/martelete-rompedor-e-perfurador-bosch-gbh-2-24-d-220v-maleta-06112a02e0/p/MLB42517580",
-      "precoDe": 1299.98,
-      "parcelas": "10x de R$64,90 sem juros",
-      "postado": "2026-11-23T17:04:37.381Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2zMchQq.jpg"
     }
   ]
 }
