@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T18:23:29.418Z",
+  "atualizado": "2026-11-25T18:24:44.282Z",
   "ofertas": [
+    {
+      "id": "2YkgYkc",
+      "nome": "Secador de Cabelos Mondial 2000W - SCN-01",
+      "categoria": "Beleza",
+      "preco": 97.2,
+      "link": "https://meli.la/2YkgYkc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/secador-de-cabelos-mondial-2000w-scn-01/p/MLB18638650",
+      "precoDe": 172.9,
+      "pix": true,
+      "parcelas": "R$108 em outros meios",
+      "postado": "2026-11-25T18:24:44.279Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2YkgYkc.jpg"
+    },
     {
       "id": "2UmHAnJ",
       "nome": "Aspirador de Pó e Água WAP GTW 20 1600W de Potência",
