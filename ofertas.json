@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T19:37:31.106Z",
+  "atualizado": "2026-11-25T19:39:01.103Z",
   "ofertas": [
+    {
+      "id": "339Beva",
+      "nome": "Ração Golden Premium Especial Castrado Carne Frango Gato Adulto 10,1kg",
+      "categoria": "Pet",
+      "preco": 115.51,
+      "link": "https://meli.la/339Beva",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB66044612",
+      "precoDe": 277.9,
+      "pix": true,
+      "parcelas": "R$ 135,90 em outros meios",
+      "postado": "2026-11-25T19:39:01.102Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-339Beva.jpg"
+    },
     {
       "id": "25vQ5Sz",
       "nome": "Máscara De Hidratação Morte Súbita 450g Lola Cosmetics",
@@ -6387,42 +6405,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2RjToZB.jpg"
-    },
-    {
-      "id": "1jqwviA",
-      "nome": "Bicicleta Elétrica Dobrável 500w-35km/h-130kg-48v-10ah",
-      "categoria": "Esporte",
-      "preco": 2276.31,
-      "link": "https://meli.la/1jqwviA",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/bicicleta-eletrica-dobravel-500w-35kmh-130kg-48v-10ah/up/MLBU5338851880",
-      "precoDe": 3299,
-      "pix": true,
-      "parcelas": "R$2.474,25 em 10x R$247,43 sem juros",
-      "postado": "2026-11-23T19:38:51.718Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1jqwviA.jpg"
-    },
-    {
-      "id": "2yUTxrq",
-      "nome": "Smartphone Motorola Moto G37 5G - 64GB 4GB RAM + 8GB RAM Boost, Camera 50MP com",
-      "categoria": "Tech",
-      "preco": 899.1,
-      "link": "https://meli.la/2yUTxrq",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g37-5g-64gb-4gb-ram-8gb-ram-boost-camera-50mp-com-editor-magico-bateria-de-5200-mah-e-tela-67-120hz-nfc-grafite/p/MLB78889495",
-      "precoDe": 1899,
-      "pix": true,
-      "parcelas": "R$999 em 10x R$99,90 sem juros",
-      "postado": "2026-11-23T19:37:36.214Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2yUTxrq.jpg"
     }
   ]
 }
