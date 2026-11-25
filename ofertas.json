@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T16:19:40.543Z",
+  "atualizado": "2026-11-25T16:20:55.499Z",
   "ofertas": [
+    {
+      "id": "2TsB1vN",
+      "nome": "Fechadura Inteligente De Embutir Mfw 5000 Wi-fi Intelbras",
+      "categoria": "Casa",
+      "preco": 369.9,
+      "link": "https://meli.la/2TsB1vN",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fechadura-inteligente-de-embutir-mfw-5000-wi-fi-intelbras/up/MLBU5414998923",
+      "precoDe": 599.9,
+      "parcelas": "10x de R$36,99 sem juros",
+      "cupomAnuncio": "R$351,40 com Cupom por seguir a loja",
+      "postado": "2026-11-25T16:20:55.498Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2TsB1vN.jpg"
+    },
     {
       "id": "1Qnu3QB",
       "nome": "Nutella Creme de Avelã 1 uni 650g",
