@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T16:54:41.983Z",
+  "atualizado": "2026-11-25T16:55:56.663Z",
   "ofertas": [
+    {
+      "id": "1JvLbJZ",
+      "nome": "Huggies Fralda Descartável Máxima Proteção XXG - 112 Un",
+      "categoria": "Bebê",
+      "preco": 136.9,
+      "link": "https://meli.la/1JvLbJZ",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/huggies-fralda-descartavel-maxima-protecao-xxg-112-un/p/MLB34295736",
+      "precoDe": 197.75,
+      "postado": "2026-11-25T16:55:56.661Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1JvLbJZ.jpg"
+    },
     {
       "id": "1rbphS7",
       "nome": "Câmera De Seguraça Externa Wifi Dupla Lente 4mp Hd Bullet + PTZ Youse Cor Branco",
@@ -5360,24 +5376,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-14PT1pj.jpg"
-    },
-    {
-      "id": "1QHqphs",
-      "nome": "Controle Nintendo Switch Pro",
-      "categoria": "Games",
-      "preco": 278.07,
-      "link": "https://meli.la/1QHqphs",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/controle-nintendo-switch-pro/p/MLB15009014",
-      "precoDe": 399,
-      "pix": true,
-      "parcelas": "R$299 em 6x R$49,83 sem juros",
-      "postado": "2026-11-23T16:55:52.147Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1QHqphs.jpg"
     }
   ]
 }
