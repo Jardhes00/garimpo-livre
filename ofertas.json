@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T16:29:40.678Z",
+  "atualizado": "2026-11-25T16:30:56.149Z",
   "ofertas": [
+    {
+      "id": "12Muiad",
+      "nome": "Kit 2 Ventiladores 70cm Bivolt Industrial 3 Pás 270w Goar",
+      "categoria": "Casa",
+      "preco": 959,
+      "link": "https://meli.la/12Muiad",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-2-ventiladores-70cm-bivolt-industrial-3-pas-270w-goar/up/MLBU3696861929",
+      "precoDe": 1598.9,
+      "cupomAnuncio": "R$945 com Cupom por seguir a loja",
+      "postado": "2026-11-25T16:30:56.148Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-12Muiad.jpg"
+    },
     {
       "id": "211chyo",
       "nome": "Purificador de Água Midea SlimPure Branco Bivolt",
