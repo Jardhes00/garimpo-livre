@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T19:09:45.778Z",
+  "atualizado": "2026-11-25T19:11:00.846Z",
   "ofertas": [
+    {
+      "id": "1v6bUaK",
+      "nome": "Capa De Chuva Moto Motoqueiro Impermeável Reforçada Pioneira",
+      "categoria": "Auto",
+      "preco": 89.23,
+      "link": "https://meli.la/1v6bUaK",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/capa-de-chuva-moto-motoqueiro-impermeavel-reforcada-pioneira/up/MLBU2966512100",
+      "precoDe": 144.87,
+      "pix": true,
+      "parcelas": "R$96,99 em outros meios",
+      "postado": "2026-11-25T19:11:00.845Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1v6bUaK.jpg"
+    },
     {
       "id": "1oXnQod",
       "nome": "Umidificador Ultrassônico G-tech Allergy Free Hm Bivolt Cor Branco",
@@ -6519,23 +6537,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1eFm3ZW.jpg"
-    },
-    {
-      "id": "1XRAT8L",
-      "nome": "Bicicleta Ergométrica Bike Spinning 6kg de inércia Fitness Preto Ltx Fit Para",
-      "categoria": "Esporte",
-      "preco": 468,
-      "link": "https://meli.la/1XRAT8L",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/bicicleta-ergometrica-bike-spinning-6kg-de-inercia-fitness-preto-ltx-fit-para-cardio-e-musculacao-panther-x/p/MLB78083127",
-      "precoDe": 1200,
-      "parcelas": "9x de R$52 sem juros",
-      "postado": "2026-11-23T19:10:05.955Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1XRAT8L.jpg"
     }
   ]
 }
