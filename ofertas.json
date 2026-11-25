@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T16:30:56.149Z",
+  "atualizado": "2026-11-25T16:32:10.937Z",
   "ofertas": [
+    {
+      "id": "25ifdhK",
+      "nome": "Ferro de Passar a Vapor Philips Walita Série 5000 com Base Cerâmica SteamGlide",
+      "categoria": "Diversos",
+      "preco": 274.55,
+      "link": "https://meli.la/25ifdhK",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ferro-de-passar-a-vapor-philips-walita-serie-5000-com-base-ceramica-steamglide-plus/p/MLB22598240",
+      "precoDe": 414.29,
+      "pix": true,
+      "parcelas": "R$289 em outros meios",
+      "postado": "2026-11-25T16:32:10.936Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-25ifdhK.jpg"
+    },
     {
       "id": "12Muiad",
       "nome": "Kit 2 Ventiladores 70cm Bivolt Industrial 3 Pás 270w Goar",
