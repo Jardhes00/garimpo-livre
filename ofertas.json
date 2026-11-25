@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-25T18:04:44.160Z",
+  "atualizado": "2026-11-25T18:05:58.549Z",
   "ofertas": [
+    {
+      "id": "16nxtne",
+      "nome": "Whey Protein Concentrado 1kg Dark Lab Sabor Doce de leite",
+      "categoria": "Suplementos",
+      "preco": 134.93,
+      "link": "https://meli.la/16nxtne",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-protein-concentrado-1kg-dark-lab-sabor-doce-de-leite/p/MLB40366976",
+      "precoDe": 349.9,
+      "pix": true,
+      "parcelas": "R$149,92 em outros meios",
+      "cupomAnuncio": "Compre R$187 e ganhe R$20 OFF",
+      "postado": "2026-11-25T18:05:58.548Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-16nxtne.jpg"
+    },
     {
       "id": "1y9mwrc",
       "nome": "Jogo De Toalhas Buddemeyer Brisa Banho 4 Peças Cor Azul/azul",
