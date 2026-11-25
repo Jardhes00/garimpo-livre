@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T18:15:59.359Z",
+  "atualizado": "2026-11-25T18:17:14.213Z",
   "ofertas": [
+    {
+      "id": "2ojNwME",
+      "nome": "Caixa Som Amplificada Philco/britania 250w Audio Pcx3800 Preto 127/220v",
+      "categoria": "Diversos",
+      "preco": 246.05,
+      "link": "https://meli.la/2ojNwME",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/caixa-som-amplificada-philcobritania-250w-audio-pcx3800-preto/p/MLB42050783",
+      "precoDe": 499,
+      "pix": true,
+      "parcelas": "R$259 em 6x R$43,17 sem juros",
+      "postado": "2026-11-25T18:17:14.208Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ojNwME.jpg"
+    },
     {
       "id": "1u9Uxu8",
       "nome": "Máquina De Solda Sem Gás MIG 200A 3 em 1 Bivolt Mma Eletrodo Tig Lift Smart",
