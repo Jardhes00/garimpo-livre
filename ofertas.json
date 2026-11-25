@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T18:49:45.167Z",
+  "atualizado": "2026-11-25T18:51:00.197Z",
   "ofertas": [
+    {
+      "id": "2BH6dgK",
+      "nome": "Robô Aspirador 36000pa Redroad R11 Max 3 Em 1 Mapeamento App",
+      "categoria": "Casa",
+      "preco": 1726,
+      "link": "https://meli.la/2BH6dgK",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/robo-aspirador-36000pa-redroad-r11-max-3-em-1-mapeamento-app/p/MLB80270765",
+      "precoDe": 2499.99,
+      "parcelas": "10x de R$172,60 sem juros",
+      "postado": "2026-11-25T18:51:00.194Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2BH6dgK.jpg"
+    },
     {
       "id": "1XAwMSy",
       "nome": "Travesseiros Cunha Anti Refluxo Encosto Pós Operatório 4pcs",
@@ -6511,22 +6528,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2u199RU.jpg"
-    },
-    {
-      "id": "2eM2StZ",
-      "nome": "Climatizador Portátil 16 Litros 130w Ventisol Clin16 Cor Cinza",
-      "categoria": "Diversos",
-      "preco": 466.99,
-      "link": "https://meli.la/2eM2StZ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/climatizador-portatil-16-litros-130w-ventisol-clin16-cor-cinza/p/MLB37633348",
-      "precoDe": 649.7,
-      "postado": "2026-11-23T18:50:05.115Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2eM2StZ.jpg"
     }
   ]
 }
