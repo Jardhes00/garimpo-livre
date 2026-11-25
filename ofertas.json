@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T18:24:44.282Z",
+  "atualizado": "2026-11-25T18:25:59.288Z",
   "ofertas": [
+    {
+      "id": "21pKPpr",
+      "nome": "Filamento PLA Branco 1,75mm 1kg Impressão 3D Alta Precisão e Acabamento Greycom",
+      "categoria": "Diversos",
+      "preco": 78.97,
+      "link": "https://meli.la/21pKPpr",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/filamento-pla-branco-175mm-1kg-impressao-3d-alta-precisao-e-acabamento-greycom/p/MLB82448833",
+      "precoDe": 250,
+      "cupomAnuncio": "Compre R$80 e ganhe R$4 OFF por seguir a loja",
+      "postado": "2026-11-25T18:25:59.284Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-21pKPpr.jpg"
+    },
     {
       "id": "2YkgYkc",
       "nome": "Secador de Cabelos Mondial 2000W - SCN-01",
