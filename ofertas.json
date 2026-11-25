@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T19:17:16.086Z",
+  "atualizado": "2026-11-25T19:18:30.886Z",
   "ofertas": [
+    {
+      "id": "1m6DpSB",
+      "nome": "Guarda Roupa Solteiro 6 Portas 2 Gavetas Capri Poquema Cor Branco",
+      "categoria": "Diversos",
+      "preco": 389.9,
+      "link": "https://meli.la/1m6DpSB",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/guarda-roupa-solteiro-6-portas-2-gavetas-capri-poquema-cor-branco/p/MLB37263240",
+      "precoDe": 960.2,
+      "postado": "2026-11-25T19:18:30.885Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1m6DpSB.jpg"
+    },
     {
       "id": "1fetqGh",
       "nome": "Árvore De Natal Pinheiro Canadense 210 cm 1860 Galhos Cheia Luxo Linha Premium",
@@ -6523,22 +6539,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2RxV8gK.jpg"
-    },
-    {
-      "id": "2XC8EcU",
-      "nome": "Pneu Landspider Citytraxx Gp 175/70 R14 Aro 14 84t",
-      "categoria": "Auto",
-      "preco": 272.79,
-      "link": "https://meli.la/2XC8EcU",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/pneu-landspider-citytraxx-gp-17570-r14-aro-14-84t/up/MLBU3441158219",
-      "precoDe": 428.6,
-      "postado": "2026-11-23T19:17:35.595Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2XC8EcU.jpg"
     }
   ]
 }
