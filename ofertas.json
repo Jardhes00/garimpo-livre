@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-25T17:50:58.141Z",
+  "atualizado": "2026-11-25T17:52:13.299Z",
   "ofertas": [
+    {
+      "id": "1NaSqEs",
+      "nome": "Liquidz Eletrólitos Isotônico Zero Açúcar 14 Sachês Limonada",
+      "categoria": "Diversos",
+      "preco": 66.3,
+      "link": "https://meli.la/1NaSqEs",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/liquidz-eletrolitos-isotonico-zero-acucar-14-saches-limonada/p/MLB55629484",
+      "precoDe": 119.46,
+      "pix": true,
+      "parcelas": "R$78 em 3x R$26 sem juros",
+      "cupomAnuncio": "Compre R$229 e ganhe R$50 OFF",
+      "postado": "2026-11-25T17:52:13.297Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1NaSqEs.jpg"
+    },
     {
       "id": "12S9oyg",
       "nome": "Suplemento em cápsula Always Fit N-acetil L-cisteína (NAC) Sem sabor x 750mg de",
