@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T17:04:41.788Z",
+  "atualizado": "2026-11-25T17:05:57.927Z",
   "ofertas": [
+    {
+      "id": "25KRwBp",
+      "nome": "Jogo 6 Copos Vidro Diamante Grosso Resistente Agua 300ml Branco Ms Variedades",
+      "categoria": "Games",
+      "preco": 25.99,
+      "link": "https://meli.la/25KRwBp",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB64093958",
+      "precoDe": 39.9,
+      "postado": "2026-11-25T17:05:57.920Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-25KRwBp.jpg"
+    },
     {
       "id": "1esSedx",
       "nome": "Amaciante Downy Concentrado Brisa de Verão 3L Rende 12L",
@@ -5363,22 +5379,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2kmyuXP.jpg"
-    },
-    {
-      "id": "13qoY8U",
-      "nome": "Kit Teclado e Mouse Sem Fio CSI50, 2.4GHz, ABNT2, Preto Intelbras",
-      "categoria": "Tech",
-      "preco": 98,
-      "link": "https://meli.la/13qoY8U",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit-teclado-e-mouse-sem-fio-csi50-24ghz-abnt2-preto-intelbras/p/MLB20689534",
-      "precoDe": 179.9,
-      "postado": "2026-11-23T17:05:52.698Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-13qoY8U.jpg"
     }
   ]
 }
