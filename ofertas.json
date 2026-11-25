@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-25T18:33:29.904Z",
+  "atualizado": "2026-11-25T18:34:44.732Z",
   "ofertas": [
+    {
+      "id": "1BupNZZ",
+      "nome": "Perfume Feminino Eau de Parfum Fragrância Floral Gourmand Inebriante com Notas",
+      "categoria": "Beleza",
+      "preco": 404.99,
+      "link": "https://meli.la/1BupNZZ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/perfume-feminino-eau-de-parfum-fragrancia-floral-gourmand-inebriante-com-notas-de-iris-nobre-baunilha-e-praline-la-vie-est-belle-lancome-frasco-com-50ml/p/MLB6092973",
+      "precoDe": 829,
+      "pix": true,
+      "parcelas": "R$449,99 em outros meios",
+      "cupomAnuncio": "Compre R$599 e ganhe 5% OFF",
+      "postado": "2026-11-25T18:34:44.731Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1BupNZZ.jpg"
+    },
     {
       "id": "16m1Fvb",
       "nome": "Ar Condicionado Portátil 9000 Btus 127v 3 Em 1 Kian Branco",
