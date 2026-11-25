@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T16:27:10.661Z",
+  "atualizado": "2026-11-25T16:28:25.897Z",
   "ofertas": [
+    {
+      "id": "2Bq7Ysa",
+      "nome": "Seringa Insulina 100ui Agulha Fixa 8x0,30mm 100 Unidades Sr 1 Ml",
+      "categoria": "Diversos",
+      "preco": 103.99,
+      "link": "https://meli.la/2Bq7Ysa",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/seringa-insulina-100ui-agulha-fixa-8x030mm-100-unidades-sr-1-ml/p/MLB65462457",
+      "precoDe": 249.9,
+      "cupomAnuncio": "Compre R$119 e ganhe R$8 OFF por seguir a loja",
+      "postado": "2026-11-25T16:28:25.896Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Bq7Ysa.jpg"
+    },
     {
       "id": "1M7utTv",
       "nome": "Cerveja Spaten Puro Malte lata 350ml 12 u",
