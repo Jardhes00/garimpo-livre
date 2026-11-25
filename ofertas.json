@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T16:09:54.314Z",
+  "atualizado": "2026-11-25T16:13:25.603Z",
   "ofertas": [
+    {
+      "id": "1djkkuN",
+      "nome": "Samsung Galaxy Tab S10 Lite 10.9\" 128 GB 6 GB RAM Wi-Fi com S Pen Cinza",
+      "categoria": "Tech",
+      "preco": 2023.49,
+      "link": "https://meli.la/1djkkuN",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/samsung-galaxy-tab-s10-lite-109-128-gb-6-gb-ram-wi-fi-com-s-pen-cinza/p/MLB55467027",
+      "precoDe": 3599,
+      "pix": true,
+      "parcelas": "R$ 2.129,99 em 10x R$ 213 sem juros",
+      "postado": "2026-11-25T16:13:25.600Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1djkkuN.jpg"
+    },
     {
       "id": "2cGCc1L",
       "nome": "HD Interno 1TB WD Purple SATA para Sistemas de Videovigilância CFTV",
