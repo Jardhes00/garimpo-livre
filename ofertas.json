@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T17:42:12.926Z",
+  "atualizado": "2026-11-25T17:43:28.008Z",
   "ofertas": [
+    {
+      "id": "1nREr1c",
+      "nome": "Whey 100% Pure Pote 900g Baunilha Integralmédica",
+      "categoria": "Casa",
+      "preco": 154.11,
+      "link": "https://meli.la/1nREr1c",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-100-pure-baunilha-907g-integralmedica-whey-protein/p/MLB36562306",
+      "precoDe": 321.9,
+      "postado": "2026-11-25T17:43:28.005Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1nREr1c.jpg"
+    },
     {
       "id": "1x24Qh1",
       "nome": "Smartphone Motorola Moto g47 5G 256GB, 4GB RAM, câmera 50 MP Sony LYTIA 600",
