@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T18:37:14.890Z",
+  "atualizado": "2026-11-25T18:38:30.180Z",
   "ofertas": [
+    {
+      "id": "27D1hsB",
+      "nome": "Colchão Queen Luuna Blue, Espuma 20 cm com Bloqueio de Movimento, 10 Anos de",
+      "categoria": "Casa",
+      "preco": 1637.8,
+      "link": "https://meli.la/27D1hsB",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/colchao-queen-luuna-blue-espuma-20-cm-com-bloqueio-de-movimento-10-anos-de-garantia/p/MLB25810851",
+      "precoDe": 3280,
+      "pix": true,
+      "parcelas": "R$1.724 em 10x R$172,40 sem juros",
+      "postado": "2026-11-25T18:38:30.178Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-27D1hsB.jpg"
+    },
     {
       "id": "33pWnq7",
       "nome": "Semáforo Grande Slim 37 Leds Incotel Bivolt Com Nota Fiscal",
