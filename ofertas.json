@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T16:58:26.641Z",
+  "atualizado": "2026-11-25T16:59:41.561Z",
   "ofertas": [
+    {
+      "id": "2FXM2fL",
+      "nome": "Proteína New Millen Premium Whey Isolado Isolate em pó sabor Chocolate x 900g",
+      "categoria": "Suplementos",
+      "preco": 138,
+      "link": "https://meli.la/2FXM2fL",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/proteina-new-millen-premium-whey-isolado-isolate-em-po-sabor-chocolate-x-900g/p/MLB50222672",
+      "precoDe": 289.9,
+      "parcelas": "12x R$ 13,64",
+      "postado": "2026-11-25T16:59:41.560Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2FXM2fL.jpg"
+    },
     {
       "id": "2eFbC6L",
       "nome": "Esteira Elétrica Ergométrica Dobravel e Inclinação com Controle Remoto para Treinos Fitness, Corridas e Caminhadas Residencial até 100kg - Bivolt 110/220v - APFER",
@@ -5359,24 +5376,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1pCscPm.jpg"
-    },
-    {
-      "id": "2j7T5kw",
-      "nome": "Micro-ondas Electrolux Efficient 29L Preto ME29P",
-      "categoria": "Casa",
-      "preco": 579.4,
-      "link": "https://meli.la/2j7T5kw",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-electrolux-efficient-29l-preto-me29p/p/MLB76914970",
-      "precoDe": 889,
-      "pix": true,
-      "parcelas": "R$609,90 em 10x R$60,99 sem juros",
-      "postado": "2026-11-23T16:59:37.344Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2j7T5kw.jpg"
     }
   ]
 }
