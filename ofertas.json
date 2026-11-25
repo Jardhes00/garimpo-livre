@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T17:39:42.983Z",
+  "atualizado": "2026-11-25T17:40:58.250Z",
   "ofertas": [
+    {
+      "id": "1Qhx33x",
+      "nome": "Panela De Pressão Elétrica Digital 6l, Fmaxx, Inox 1000w",
+      "categoria": "Casa",
+      "preco": 258.3,
+      "link": "https://meli.la/1Qhx33x",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/panela-de-pressao-eletrica-digital-6l-fmaxx-inox-1000w/p/MLB76409397",
+      "precoDe": 699,
+      "pix": true,
+      "parcelas": "R$287 em 6x R$47,83 sem juros",
+      "postado": "2026-11-25T17:40:58.248Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Qhx33x.jpg"
+    },
     {
       "id": "2kAoUbX",
       "nome": "Caixa de Som Portátil - PartyBox Stage 320 - JBL Pro Sound, até 18h de Bateria",
