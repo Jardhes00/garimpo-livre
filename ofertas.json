@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-25T18:30:59.502Z",
+  "atualizado": "2026-11-25T18:32:14.571Z",
   "ofertas": [
+    {
+      "id": "1KTHkLc",
+      "nome": "Kit 2 Pneus 195/55R16 Continental PowerContact 2 87H Aro 16",
+      "categoria": "Auto",
+      "preco": 912.85,
+      "link": "https://meli.la/1KTHkLc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-2-pneus-19555r16-continental-powercontact-2-87h-aro-16/p/MLB37143636",
+      "precoDe": 1471.8,
+      "postado": "2026-11-25T18:32:14.569Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1KTHkLc.jpg"
+    },
     {
       "id": "2CsKBiz",
       "nome": "Burigotto Cadeira De Refeição Poke Preto Night Sky",
