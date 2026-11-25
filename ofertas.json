@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-25T18:52:15.201Z",
+  "atualizado": "2026-11-25T18:53:30.241Z",
   "ofertas": [
+    {
+      "id": "2FZgtaW",
+      "nome": "Mala De Bordo 10 Kg Abs 4 Rodas Detroit Bagaggio",
+      "categoria": "Diversos",
+      "preco": 233.91,
+      "link": "https://meli.la/2FZgtaW",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-bagaggio/up/MLBU2929756941",
+      "precoDe": 549.9,
+      "pix": true,
+      "parcelas": "R$259,90 em 10x R$25,99 sem juros",
+      "postado": "2026-11-25T18:53:30.238Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2FZgtaW.jpg"
+    },
     {
       "id": "26uY3HL",
       "nome": "Nível Laser Verde 16 Linhas War Shark 2 Bateria+1.2m Tripé",
@@ -6511,23 +6529,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1jp6NtS.jpg"
-    },
-    {
-      "id": "1qpJKKH",
-      "nome": "3 Body Splash Very Sexy Delight Roses Barbour's Beauty",
-      "categoria": "Diversos",
-      "preco": 74.9,
-      "link": "https://meli.la/1qpJKKH",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/3-body-splash-very-sexy-delight-roses-barbours-beauty/p/MLB65442354",
-      "precoDe": 184.9,
-      "parcelas": "3x de R$24,97 sem juros",
-      "postado": "2026-11-23T18:52:34.772Z",
-      "conferido": "2026-11-23",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1qpJKKH.jpg"
     }
   ]
 }
