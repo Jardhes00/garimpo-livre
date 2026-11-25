@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-25T16:18:26.082Z",
+  "atualizado": "2026-11-25T16:19:40.543Z",
   "ofertas": [
+    {
+      "id": "1Qnu3QB",
+      "nome": "Nutella Creme de Avelã 1 uni 650g",
+      "categoria": "Beleza",
+      "preco": 38.99,
+      "link": "https://meli.la/1Qnu3QB",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/nutella-creme-de-avela-1-uni-650g/p/MLB18309809",
+      "precoDe": 58.37,
+      "cupomAnuncio": "Compre R$109 e ganhe 3% OFF",
+      "postado": "2026-11-25T16:19:40.541Z",
+      "conferido": "2026-11-25",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Qnu3QB.jpg"
+    },
     {
       "id": "2r2THLm",
       "nome": "Kit 2 Pneus 175/65R14 Goodyear Kelly Edge Touring 2 86H",
