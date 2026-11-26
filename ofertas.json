@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T18:26:30.711Z",
+  "atualizado": "2026-11-26T18:27:45.741Z",
   "ofertas": [
+    {
+      "id": "2mWtQyz",
+      "nome": "Micro-ondas Electrolux 20l Branco MTO30",
+      "categoria": "Casa",
+      "preco": 406.43,
+      "link": "https://meli.la/2mWtQyz",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-electrolux-20l-branco-mto30/p/MLB6309815",
+      "precoDe": 599,
+      "pix": true,
+      "parcelas": "R$419 em outros meios",
+      "postado": "2026-11-26T18:27:45.739Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2mWtQyz.jpg"
+    },
     {
       "id": "14g6Mmo",
       "nome": "Notebook Asus Vivobook Go 15 Amd Ryzen 5 7520u 16gb 512ssd Mixed Black",
