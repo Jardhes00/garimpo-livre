@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T20:22:19.065Z",
+  "atualizado": "2026-11-26T20:24:33.230Z",
   "ofertas": [
+    {
+      "id": "1bPEZRQ",
+      "nome": "Arno Genio S Basic DGS5 Gris",
+      "categoria": "Diversos",
+      "preco": 367.68,
+      "link": "https://meli.la/1bPEZRQ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/arno-genio-s-basic-dgs5-gris/p/MLB23161790",
+      "precoDe": 814.8,
+      "pix": true,
+      "parcelas": "R$ 387,03 em 7x R$ 55,29 sem juros",
+      "postado": "2026-11-26T20:24:33.228Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1bPEZRQ.jpg"
+    },
     {
       "id": "2nqkjVq",
       "nome": "Celular Samsung Galaxy A37 5g 128gb, 6gb Ram, Câmera 50mp Lavanda",
