@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-26T19:25:17.644Z",
+  "atualizado": "2026-11-26T19:26:32.801Z",
   "ofertas": [
+    {
+      "id": "1vk71L6",
+      "nome": "Air Fryer Kitchen Art 16l 4 Em 1 Espeto Rotisserie Kaf16a",
+      "categoria": "Casa",
+      "preco": 391.92,
+      "link": "https://meli.la/1vk71L6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/air-fryer-kitchen-art-16l-4-em-1-espeto-rotisserie-kaf16a/p/MLB46559895",
+      "precoDe": 620.9,
+      "pix": true,
+      "parcelas": "R$489,90 em 9x R$54,43 sem juros",
+      "cupomAnuncio": "R$351,92 com Cupom",
+      "postado": "2026-11-26T19:26:32.799Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1vk71L6.jpg"
+    },
     {
       "id": "1gB81BH",
       "nome": "Powerbank Carregador Veicular Auxiliar De Partida Calibrador",
