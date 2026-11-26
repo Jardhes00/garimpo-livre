@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T20:15:19.051Z",
+  "atualizado": "2026-11-26T20:16:34.125Z",
   "ofertas": [
+    {
+      "id": "1CF9AFj",
+      "nome": "Tênis Flyer Runner Mesh Bdp Puma",
+      "categoria": "Moda",
+      "preco": 179.99,
+      "link": "https://meli.la/1CF9AFj",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tenis-flyer-runner-mesh-bdp-puma/p/MLB65661155",
+      "precoDe": 349.99,
+      "parcelas": "5x de R$36 sem juros",
+      "postado": "2026-11-26T20:16:34.124Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1CF9AFj.jpg"
+    },
     {
       "id": "17ngB22",
       "nome": "Lavadora de Alta Pressão Kärcher Compacta 1.500 PSI 1400W 300L/h com Aplicador",
