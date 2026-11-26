@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T18:34:01.015Z",
+  "atualizado": "2026-11-26T18:35:15.999Z",
   "ofertas": [
+    {
+      "id": "2cqFZNx",
+      "nome": "Kit Cronograma Capilar Wella Fios Perfeitos 3 Produtos",
+      "categoria": "Beleza",
+      "preco": 278.76,
+      "link": "https://meli.la/2cqFZNx",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-cronograma-capilar-wella-fios-perfeitos-3-produtos/p/MLB64554339",
+      "precoDe": 465,
+      "postado": "2026-11-26T18:35:15.997Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2cqFZNx.jpg"
+    },
     {
       "id": "2Xior8r",
       "nome": "Micro-ondas Electrolux 23L Preto Efficient com Descongelamento Assistido (ME23P",
