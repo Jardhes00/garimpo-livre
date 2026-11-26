@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-26T19:49:03.137Z",
+  "atualizado": "2026-11-26T19:50:18.361Z",
   "ofertas": [
+    {
+      "id": "2xyg6Xu",
+      "nome": "Shampoo Anticaspa Cabelos Normais a Oleosos, Dercos DS Vichy, 300g",
+      "categoria": "Beleza",
+      "preco": 80.7,
+      "link": "https://meli.la/2xyg6Xu",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/shampoo-anticaspa-cabelos-normais-a-oleosos-dercos-ds-vichy-300g/p/MLB37257779",
+      "precoDe": 153.9,
+      "pix": true,
+      "parcelas": "R$89,67 em outros meios",
+      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
+      "postado": "2026-11-26T19:50:18.360Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2xyg6Xu.jpg"
+    },
     {
       "id": "2bHiyCL",
       "nome": "Frigobar Electrolux 47L Efficient com Controle de Temperatura Cor Branca EM50",
@@ -6420,23 +6439,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2MSMyWh.jpg"
-    },
-    {
-      "id": "2uCCde6",
-      "nome": "Air Fryer Oven 11 Litros Wap Waod4 Grey Stone Painel Digital 11 Funções 127V",
-      "categoria": "Casa",
-      "preco": 379.9,
-      "link": "https://meli.la/2uCCde6",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/air-fryer-oven-11-litros-wap-waod4-grey-stone-painel-digital-11-funcoes-127v/p/MLB66128452",
-      "precoDe": 684.29,
-      "parcelas": "12x R$ 37,16",
-      "postado": "2026-11-24T19:49:56.439Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2uCCde6.jpg"
     }
   ]
 }
