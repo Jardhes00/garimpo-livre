@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T18:00:14.875Z",
+  "atualizado": "2026-11-26T18:01:33.267Z",
   "ofertas": [
+    {
+      "id": "17KNGY7",
+      "nome": "Jogo De Banho Karsten 4 Empire Naval Cor Azul Lisa",
+      "categoria": "Games",
+      "preco": 123,
+      "link": "https://meli.la/17KNGY7",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/jogo-de-banho-karsten-4-empire-naval-cor-azul-lisa/p/MLB27632212",
+      "precoDe": 189.9,
+      "parcelas": "4x de R$30,75 sem juros",
+      "postado": "2026-11-26T18:01:33.264Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-17KNGY7.jpg"
+    },
     {
       "id": "2CXW8cd",
       "nome": "Tupia Laminadora Brushless 21v 6 Velocidades A Bateria 21v",
