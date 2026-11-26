@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T20:34:33.523Z",
+  "atualizado": "2026-11-26T20:36:18.460Z",
   "ofertas": [
+    {
+      "id": "1Z3jnth",
+      "nome": "Relógio Casio G-Shock Masculino Carbon GA-2100-1A1DR Preto",
+      "categoria": "Moda",
+      "preco": 364,
+      "link": "https://meli.la/1Z3jnth",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/relogio-casio-g-shock-masculino-carbon-ga-2100-1a1dr-preto/p/MLB17822926",
+      "precoDe": 899,
+      "parcelas": "12x R$ 35,61",
+      "cupomAnuncio": "Compre R$600 e ganhe 5% OFF por seguir a loja",
+      "postado": "2026-11-26T20:36:18.459Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Z3jnth.jpg"
+    },
     {
       "id": "1N9px1m",
       "nome": "Arvore De Natal Pinheiro Luxo Gigante 240cm Bem Cheia 2,40m Premium D'presentes",
@@ -6780,25 +6798,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1NfcS5F.jpg"
-    },
-    {
-      "id": "17Hm7DK",
-      "nome": "Câmera De Vídeo Wi-Fi Intelbras IM3 C MicroSD 32GB Branco",
-      "categoria": "Diversos",
-      "preco": 202.42,
-      "link": "https://meli.la/17Hm7DK",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/camera-de-video-wi-fi-intelbras-im3-c-microsd-32gb-branco/p/MLB23409605",
-      "precoDe": 395.9,
-      "pix": true,
-      "parcelas": "R$269,90 em 6x R$44,98 sem juros",
-      "cupomAnuncio": "R$187,42 com Cupom",
-      "postado": "2026-11-24T20:35:11.899Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-17Hm7DK.jpg"
     }
   ]
 }
