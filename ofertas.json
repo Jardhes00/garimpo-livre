@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T18:29:01.094Z",
+  "atualizado": "2026-11-26T18:30:15.882Z",
   "ofertas": [
+    {
+      "id": "2HpCR2y",
+      "nome": "Nintendo Switch Console Oled 64gb + Super Mario Bros Wonder",
+      "categoria": "Games",
+      "preco": 1804.05,
+      "link": "https://meli.la/2HpCR2y",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/nintendo-switch-console-oled-64gb-super-mario-bros-wonder/p/MLB58623212",
+      "precoDe": 2699,
+      "pix": true,
+      "parcelas": "R$1.899 em 10x R$189,90 sem juros",
+      "postado": "2026-11-26T18:30:15.879Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2HpCR2y.jpg"
+    },
     {
       "id": "2Xnbx8c",
       "nome": "Perfume Feminino L' Eau de Parfum Fragrância Floral Gourmand Inebriante com",
