@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T20:29:48.440Z",
+  "atualizado": "2026-11-26T20:31:33.324Z",
   "ofertas": [
+    {
+      "id": "17RsVZ7",
+      "nome": "Relógio inteligente Samsung Galaxy Watch8 (bluetooth, 44 mm) preto grafite preto milanês preto preto",
+      "categoria": "Tech",
+      "preco": 1399,
+      "link": "https://meli.la/17RsVZ7",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/relogio-inteligente-samsung-galaxy-watch8-bluetooth-44-mm-preto-grafite-preto-milanes-preto-preto/p/MLB62892112",
+      "precoDe": 3199,
+      "parcelas": "10x R$ 139,90 sem juros",
+      "postado": "2026-11-26T20:31:33.322Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-17RsVZ7.jpg"
+    },
     {
       "id": "1CpxqkJ",
       "nome": "Serra Circular Elétrica WAP ESC 1500 com Guia Laser e 1500W de Potência",
@@ -6779,38 +6796,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-25B1KzF.jpg"
-    },
-    {
-      "id": "1C9cQmm",
-      "nome": "Eps-5062 Organizador Com Zíper 9 Prateleiras Sapateira Estante Cor Preto",
-      "categoria": "Casa",
-      "preco": 50.16,
-      "link": "https://meli.la/1C9cQmm",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/eps-5062-organizador-com-ziper-9-prateleiras-sapateira-estante-cor-preto/p/MLB81894697",
-      "precoDe": 120,
-      "postado": "2026-11-24T20:31:26.778Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1C9cQmm.jpg"
-    },
-    {
-      "id": "152t8wG",
-      "nome": "Filamento Masterprint Petg 3d Cor Preto 1.75mm 1kg Original",
-      "categoria": "Diversos",
-      "preco": 57.39,
-      "link": "https://meli.la/152t8wG",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/filamento-masterprint-petg-3d-cor-preto-175mm-1kg-original/p/MLB24229494",
-      "precoDe": 99.99,
-      "postado": "2026-11-24T20:30:12.130Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-152t8wG.jpg"
     }
   ]
 }
