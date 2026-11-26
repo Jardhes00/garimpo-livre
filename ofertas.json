@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T17:53:59.913Z",
+  "atualizado": "2026-11-26T17:55:14.860Z",
   "ofertas": [
+    {
+      "id": "2QifPje",
+      "nome": "Tênis Ramarim Feminino 2589202",
+      "categoria": "Moda",
+      "preco": 150.25,
+      "link": "https://meli.la/2QifPje",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tenis-ramarim-feminino-2589202/up/MLBU4581656979",
+      "precoDe": 229.9,
+      "parcelas": "5x de R$30,05 sem juros",
+      "postado": "2026-11-26T17:55:14.853Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2QifPje.jpg"
+    },
     {
       "id": "1zTdtsX",
       "nome": "Panela De Pressão Inox 8l Para Fogão A Gás E Indução,100kpa",
