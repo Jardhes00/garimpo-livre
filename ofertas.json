@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T18:24:00.407Z",
+  "atualizado": "2026-11-26T18:25:15.763Z",
   "ofertas": [
+    {
+      "id": "1HGBMzT",
+      "nome": "Dark Oil - Óleo Capilar 100ml",
+      "categoria": "Diversos",
+      "preco": 125.95,
+      "link": "https://meli.la/1HGBMzT",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/dark-oil-oleo-capilar-100ml/up/MLBU3995283954",
+      "precoDe": 239,
+      "cupomAnuncio": "Compre R$150 e ganhe R$30 OFF",
+      "postado": "2026-11-26T18:25:15.761Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1HGBMzT.jpg"
+    },
     {
       "id": "1AXAtuo",
       "nome": "Mascara Sebastian Dark Oil",
