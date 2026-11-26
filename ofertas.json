@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T18:45:16.823Z",
+  "atualizado": "2026-11-26T18:46:31.380Z",
   "ofertas": [
+    {
+      "id": "1m2X3Rs",
+      "nome": "Fralda Protect & Sec 90 Unidades Tamanho Médio Personal Baby",
+      "categoria": "Bebê",
+      "preco": 30.58,
+      "link": "https://meli.la/1m2X3Rs",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fralda-protect-sec-90-unidades-tamanho-medio-personal-baby/p/MLB42105593",
+      "precoDe": 63.9,
+      "cupomAnuncio": "Compre R$65 e ganhe 30% OFF",
+      "postado": "2026-11-26T18:46:31.377Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1m2X3Rs.jpg"
+    },
     {
       "id": "1SZ3HVJ",
       "nome": "Cadeira de Carro Infantil All Stages 2.0 Isofix Preto Litet",
