@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-26T17:52:45.300Z",
+  "atualizado": "2026-11-26T17:53:59.913Z",
   "ofertas": [
+    {
+      "id": "1zTdtsX",
+      "nome": "Panela De Pressão Inox 8l Para Fogão A Gás E Indução,100kpa",
+      "categoria": "Casa",
+      "preco": 310.65,
+      "link": "https://meli.la/1zTdtsX",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/panela-de-pressao-inox-8l-para-fogao-a-gas-e-inducao100kpa/up/MLBU5339410150",
+      "precoDe": 489,
+      "pix": true,
+      "parcelas": "R$327 em outros meios",
+      "cupomAnuncio": "Compre R$399 e ganhe R$40 OFF",
+      "postado": "2026-11-26T17:53:59.907Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1zTdtsX.jpg"
+    },
     {
       "id": "1Qb3wqr",
       "nome": "Ampola Capilar Tratamento Fortalecedor Antiquebra para Crescimento Saudável",
