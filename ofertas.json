@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T19:41:33.254Z",
+  "atualizado": "2026-11-26T19:42:48.240Z",
   "ofertas": [
+    {
+      "id": "1DXort8",
+      "nome": "Suplemento em pó Growth Supplements Whey Protein Concentrado sabor Natural 1 kg",
+      "categoria": "Suplementos",
+      "preco": 189.9,
+      "link": "https://meli.la/1DXort8",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/suplemento-em-po-growth-supplements-whey-protein-concentrado-sabor-natural-1-kg/p/MLB18953094",
+      "precoDe": 279.9,
+      "postado": "2026-11-26T19:42:48.238Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1DXort8.jpg"
+    },
     {
       "id": "24WBTo9",
       "nome": "Power Bank Baseus Bipow2 Pro FC51 20000mAh 22,5W Carregamento Rápido Cabo USB-C",
