@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T20:07:48.869Z",
+  "atualizado": "2026-11-26T20:09:04.006Z",
   "ofertas": [
+    {
+      "id": "1rwfXAx",
+      "nome": "Impressora 3d Bambu Lab A1 Mini - A1m Cinza",
+      "categoria": "Tech",
+      "preco": 1849.97,
+      "link": "https://meli.la/1rwfXAx",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/impressora-3d-bambu-lab-a1-mini-a1m-cinza/p/MLB65260733",
+      "precoDe": 4500,
+      "cupomAnuncio": "R$1.845,97 com Cupom por seguir a loja",
+      "postado": "2026-11-26T20:09:04.005Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1rwfXAx.jpg"
+    },
     {
       "id": "1pudLw6",
       "nome": "Sala De Jantar Estofada Madesa Evelin Mesa Tampo Vidro Com 4 Cadeiras Cor",
