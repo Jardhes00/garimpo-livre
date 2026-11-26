@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T19:32:47.717Z",
+  "atualizado": "2026-11-26T19:34:03.049Z",
   "ofertas": [
+    {
+      "id": "13r8Fka",
+      "nome": "Secador de Cabelos Mondial Preto 2000W SCN-01",
+      "categoria": "Beleza",
+      "preco": 88.2,
+      "link": "https://meli.la/13r8Fka",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/secador-de-cabelos-mondial-preto-2000w-scn-01/p/MLB18638651",
+      "precoDe": 172.9,
+      "pix": true,
+      "parcelas": "R$98 em outros meios",
+      "postado": "2026-11-26T19:34:03.048Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-13r8Fka.jpg"
+    },
     {
       "id": "246Lhhd",
       "nome": "Micro-ondas 27 Litros St55lmrun Prata Panasonic",
