@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T19:55:18.439Z",
+  "atualizado": "2026-11-26T19:56:33.418Z",
   "ofertas": [
+    {
+      "id": "1N95MFR",
+      "nome": "Perfume Masculino Alta Fixação, The Most Wanted Azzaro Parfum, 50ml",
+      "categoria": "Beleza",
+      "preco": 408.49,
+      "link": "https://meli.la/1N95MFR",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/perfume-masculino-alta-fixacao-the-most-wanted-azzaro-parfum-50ml/p/MLB24547919",
+      "precoDe": 749,
+      "parcelas": "8x de R$51,06 sem juros",
+      "cupomAnuncio": "Compre R$599 e ganhe 5% OFF",
+      "postado": "2026-11-26T19:56:33.417Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1N95MFR.jpg"
+    },
     {
       "id": "2uDKQia",
       "nome": "Shampoo Pantene Pro-V Diamond Glow 1 L",
@@ -6436,24 +6454,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-296yan3.jpg"
-    },
-    {
-      "id": "2XswSdS",
-      "nome": "Galaxy-A57 Azul Claro 256gb",
-      "categoria": "Tech",
-      "preco": 2198.7,
-      "link": "https://meli.la/2XswSdS",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/galaxy-a57-azul-claro-256gb/p/MLB66149470",
-      "precoDe": 4299,
-      "pix": true,
-      "parcelas": "R$ 2.443 em 10x R$ 244,30 sem juros",
-      "postado": "2026-11-24T19:55:41.764Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2XswSdS.jpg"
     }
   ]
 }
