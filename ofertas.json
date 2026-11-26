@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T19:52:48.420Z",
+  "atualizado": "2026-11-26T19:54:03.651Z",
   "ofertas": [
+    {
+      "id": "1YNt5Bh",
+      "nome": "Colchão Queen Emma Original 158x198cm 3 Camadas de Espuma à Vácuo, Alta",
+      "categoria": "Casa",
+      "preco": 2346,
+      "link": "https://meli.la/1YNt5Bh",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/colchao-queen-emma-original-158x198cm-3-camadas-de-espuma-vacuo-alta-respirabilidade-tecnologia-alema-capa-removivel-lavavel-e-10-anos-de-garantia/p/MLB17351734",
+      "precoDe": 5909,
+      "parcelas": "10x de R$234,60 sem juros",
+      "postado": "2026-11-26T19:54:03.650Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1YNt5Bh.jpg"
+    },
     {
       "id": "1S9iPHP",
       "nome": "Kérastase Chroma Absolu Fondant Cica Chroma Condicionador Cuidado de Color",
