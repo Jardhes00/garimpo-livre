@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T19:36:33.080Z",
+  "atualizado": "2026-11-26T19:37:48.081Z",
   "ofertas": [
+    {
+      "id": "2sfaPGm",
+      "nome": "Vinho Chileno Tinto Concha Y Toro Reservado Cabernet Sauvignon 750ml",
+      "categoria": "Diversos",
+      "preco": 15.28,
+      "link": "https://meli.la/2sfaPGm",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/vinho-chileno-tinto-concha-y-toro-reservado-cabernet-sauvignon-750ml/p/MLB18217029",
+      "precoDe": 39.5,
+      "postado": "2026-11-26T19:37:48.079Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2sfaPGm.jpg"
+    },
     {
       "id": "1k7yGHi",
       "nome": "Cadeira De Banho Dobrável Higiênica Rodas Sanitária Idoso",
@@ -6375,23 +6391,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2ByykcM.jpg"
-    },
-    {
-      "id": "1XYU6ER",
-      "nome": "Smart TV Hisense HI-QLED 4K 43\" Polegadas com Dolby Atmos, Dolby Gaming e Alexa - 43Q6QVV",
-      "categoria": "Tech",
-      "preco": 1567.99,
-      "link": "https://meli.la/1XYU6ER",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/smart-tv-hisense-hi-qled-4k-43-polegadas-com-dolby-atmos-dolby-gaming-e-alexa-43q6qvv/p/MLB78379469",
-      "precoDe": 2199,
-      "parcelas": "10x R$ 156,80 sem juros",
-      "postado": "2026-11-24T19:37:41.099Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1XYU6ER.jpg"
     }
   ]
 }
