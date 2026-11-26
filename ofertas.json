@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-26T18:54:01.444Z",
+  "atualizado": "2026-11-26T18:55:16.586Z",
   "ofertas": [
+    {
+      "id": "2Koa9wF",
+      "nome": "Máquina de Lavar Electrolux 13kg Cesto Inox LDA13 Branco",
+      "categoria": "Diversos",
+      "preco": 1648.03,
+      "link": "https://meli.la/2Koa9wF",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquina-de-lavar-electrolux-13kg-cesto-inox-lda13-branco/p/MLB52300325",
+      "precoDe": 2399,
+      "pix": true,
+      "parcelas": "R$1.699 em 10x R$169,90 sem juros",
+      "cupomAnuncio": "R$1.608,03 com Cupom",
+      "postado": "2026-11-26T18:55:16.583Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Koa9wF.jpg"
+    },
     {
       "id": "1kAvdDZ",
       "nome": "Máscara Kérastase Nutritive Masquintense Riche 200ml",
