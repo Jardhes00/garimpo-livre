@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T18:20:15.597Z",
+  "atualizado": "2026-11-26T18:21:30.738Z",
   "ofertas": [
+    {
+      "id": "1TYkk17",
+      "nome": "Kit 10 Potes de Vidro Herméticos 640ml Retangulares para Marmita com 4 Travas e",
+      "categoria": "Casa",
+      "preco": 74.8,
+      "link": "https://meli.la/1TYkk17",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-10-potes-de-vidro-hermeticos-640ml-retangulares-para-marmita-com-4-travas-e-vedacao/p/MLB72081098",
+      "precoDe": 149.9,
+      "postado": "2026-11-26T18:21:30.736Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1TYkk17.jpg"
+    },
     {
       "id": "2PhX2CP",
       "nome": "Shampoo Sebastian Dark Oil 1L",
