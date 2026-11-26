@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T18:56:31.605Z",
+  "atualizado": "2026-11-26T18:57:46.553Z",
   "ofertas": [
+    {
+      "id": "1vmgnqc",
+      "nome": "Óleo Capilar Pantene Pro-V Queratina Milagroso Finalizador Leave-in 95 ml",
+      "categoria": "Diversos",
+      "preco": 18.75,
+      "link": "https://meli.la/1vmgnqc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/oleo-capilar-pantene-pro-v-queratina-milagroso-finalizador-leave-in-95-ml/p/MLB37926038",
+      "precoDe": 30.9,
+      "cupomAnuncio": "Compre R$399 e ganhe R$40 OFF",
+      "postado": "2026-11-26T18:57:46.552Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1vmgnqc.jpg"
+    },
     {
       "id": "2RY2cBy",
       "nome": "Samsung Smart Tv 43 Qled Full Hd Q5f 2025, Xbox Cloud Gaming, Canais Gratuitos",
