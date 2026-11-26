@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T19:44:03.623Z",
+  "atualizado": "2026-11-26T19:45:18.251Z",
   "ofertas": [
+    {
+      "id": "1cDoCxA",
+      "nome": "Lenços Umedecidos Huggies Rosto E Corpo 4 pcts - 192 Un",
+      "categoria": "Diversos",
+      "preco": 23.74,
+      "link": "https://meli.la/1cDoCxA",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lencos-umedecidos-huggies-rosto-e-corpo-4-pcts-192-un/p/MLB18392841",
+      "precoDe": 39.23,
+      "postado": "2026-11-26T19:45:18.249Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1cDoCxA.jpg"
+    },
     {
       "id": "1nnGCKB",
       "nome": "Cama Elástica Infantil Pula Pula 1,8m Trampolim Com Zíper",
@@ -6407,24 +6423,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2fQiUNh.jpg"
-    },
-    {
-      "id": "2NEgSzx",
-      "nome": "Smartwatch Amazfit BIP 6 GPS Preto com Pulseira de Silicone",
-      "categoria": "Tech",
-      "preco": 482.85,
-      "link": "https://meli.la/2NEgSzx",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/smartwatch-amazfit-bip-6-gps-preto-com-pulseira-de-silicone/p/MLB61540022",
-      "precoDe": 831,
-      "pix": true,
-      "parcelas": "R$ 555 em 10x R$ 55,50 sem juros",
-      "postado": "2026-11-24T19:44:56.315Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2NEgSzx.jpg"
     }
   ]
 }
