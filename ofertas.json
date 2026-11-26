@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T19:35:18.059Z",
+  "atualizado": "2026-11-26T19:36:33.080Z",
   "ofertas": [
+    {
+      "id": "1k7yGHi",
+      "nome": "Cadeira De Banho Dobrável Higiênica Rodas Sanitária Idoso",
+      "categoria": "Diversos",
+      "preco": 169.97,
+      "link": "https://meli.la/1k7yGHi",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-banho-dobravel-higienica-rodas-sanitaria-idoso/up/MLBU3089775174",
+      "precoDe": 590,
+      "cupomAnuncio": "Compre R$300 e ganhe R$15 OFF",
+      "postado": "2026-11-26T19:36:33.078Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1k7yGHi.jpg"
+    },
     {
       "id": "32vx5Zh",
       "nome": "Cozinha Compacta Madesa Emilly Pop com Armário e Balcão Rustic",
@@ -6375,26 +6392,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1XYU6ER.jpg"
-    },
-    {
-      "id": "2vCzWaY",
-      "nome": "Protetor Solar Facial La Roche-Posay Anthelios Airlicium+ FPS 80 Com Cor 2.0 Para Pele Oleosa, 40g",
-      "categoria": "Beleza",
-      "preco": 69.29,
-      "link": "https://meli.la/2vCzWaY",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/protetor-solar-facial-la-roche-posay-anthelios-airlicium-fps-80-com-cor-20-para-pele-oleosa-40g/p/MLB30067110",
-      "precoDe": 120.9,
-      "pix": true,
-      "parcelas": "R$ 76,99 em 3x R$ 25,66 sem juros",
-      "extra": "15% OFF com cupom no anúncio",
-      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
-      "postado": "2026-11-24T19:36:10.898Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2vCzWaY.jpg"
     }
   ]
 }
