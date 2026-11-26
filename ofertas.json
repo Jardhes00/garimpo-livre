@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T20:01:33.049Z",
+  "atualizado": "2026-11-26T20:02:48.775Z",
   "ofertas": [
+    {
+      "id": "1BGMJnu",
+      "nome": "Papel Higiênico Neve Supreme Folha Tripla, Kit Com 24 Rolos",
+      "categoria": "Diversos",
+      "preco": 31.99,
+      "link": "https://meli.la/1BGMJnu",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/papel-higienico-neve-supreme-folha-tripla-kit-com-24-rolos/p/MLB16084358",
+      "precoDe": 60.99,
+      "postado": "2026-11-26T20:02:48.774Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1BGMJnu.jpg"
+    },
     {
       "id": "1ZZJqbV",
       "nome": "Lavadora De Alta Pressão Electrolux 1600psi 1400w De Potência Com Engate Rápido",
