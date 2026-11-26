@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T18:05:15.545Z",
+  "atualizado": "2026-11-26T18:06:30.230Z",
   "ofertas": [
+    {
+      "id": "2r1oEJy",
+      "nome": "Arara Roupas 1,0m Cromada Rodinhas Expositor Loja Boutique",
+      "categoria": "Diversos",
+      "preco": 394.99,
+      "link": "https://meli.la/2r1oEJy",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/arara-roupas-10m-cromada-rodinhas-expositor-loja-boutique/up/MLBU5707511018",
+      "precoDe": 659.99,
+      "parcelas": "7x de R$56,43 sem juros",
+      "cupomAnuncio": "R$367,34 com Cupom por seguir a loja",
+      "postado": "2026-11-26T18:06:30.228Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2r1oEJy.jpg"
+    },
     {
       "id": "27nW6cs",
       "nome": "LYZRC L900 PRO SE Drone GPS Profissional 4K Camera FPV Drones Com 3 Baterias E",
