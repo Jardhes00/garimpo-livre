@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T19:56:33.418Z",
+  "atualizado": "2026-11-26T19:57:48.586Z",
   "ofertas": [
+    {
+      "id": "1K9YD1y",
+      "nome": "Piscina estrutural redonda Bestway Steel Pro 4678 litros Azul",
+      "categoria": "Diversos",
+      "preco": 609.9,
+      "link": "https://meli.la/1K9YD1y",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/piscina-estrutural-redonda-bestway-steel-pro-4678-litros-azul/p/MLB27616664",
+      "precoDe": 922.24,
+      "cupomAnuncio": "R$594,90 com Cupom por seguir a loja",
+      "postado": "2026-11-26T19:57:48.584Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1K9YD1y.jpg"
+    },
     {
       "id": "1N95MFR",
       "nome": "Perfume Masculino Alta Fixação, The Most Wanted Azzaro Parfum, 50ml",
@@ -6436,24 +6453,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1dbQh9e.jpg"
-    },
-    {
-      "id": "296yan3",
-      "nome": "Tablet VAIO TL10 4GB RAM 64GB SSD 4G Teclado Magnético, Android 13, Câmera Traseira 8MP, Bateria De 7000mAH, Tela 10.4\" 2K, Wifi Dual Band - Preto",
-      "categoria": "Tech",
-      "preco": 1043.1,
-      "link": "https://meli.la/296yan3",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/tablet-vaio-tl10-4gb-ram-64gb-ssd-4g-teclado-magnetico-android-13-camera-traseira-8mp-bateria-de-7000mah-tela-104-2k-wifi-dual-band-preto/p/MLB68834675",
-      "precoDe": 1925.35,
-      "pix": true,
-      "parcelas": "R$ 1.159 em 10x R$ 115,90 sem juros",
-      "postado": "2026-11-24T19:57:42.016Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-296yan3.jpg"
     }
   ]
 }
