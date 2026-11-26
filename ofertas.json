@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T20:19:04.237Z",
+  "atualizado": "2026-11-26T20:20:19.600Z",
   "ofertas": [
+    {
+      "id": "1ft53xv",
+      "nome": "Capa De Chuva Moto Pioneira Impermeável Pvc Motoqueiro Frio",
+      "categoria": "Auto",
+      "preco": 78.39,
+      "link": "https://meli.la/1ft53xv",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/capa-de-chuva-moto-pioneira-impermeavel-pvc-motoqueiro-frio/up/MLBU1425791872",
+      "precoDe": 155.38,
+      "pix": true,
+      "parcelas": "R$97,99 em outros meios",
+      "postado": "2026-11-26T20:20:19.598Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ft53xv.jpg"
+    },
     {
       "id": "13Haqrq",
       "nome": "Enceradeira Industrial Cl-350 Plus Cleaner Escova E Suporte Cor Azul-aço",
