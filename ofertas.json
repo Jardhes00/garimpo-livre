@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T20:44:48.701Z",
+  "atualizado": "2026-11-26T20:46:03.737Z",
   "ofertas": [
+    {
+      "id": "1b24Dwv",
+      "nome": "Cafeteira Espresso Mondial Dolce Crema 1200w C-21-e-cnp Preto",
+      "categoria": "Casa",
+      "preco": 449,
+      "link": "https://meli.la/1b24Dwv",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafeteira-espresso-mondial-dolce-crema-1200w-c-21-e-cnp-preto/p/MLB67159677",
+      "precoDe": 759.9,
+      "parcelas": "12x R$ 43,42",
+      "postado": "2026-11-26T20:46:03.736Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1b24Dwv.jpg"
+    },
     {
       "id": "1RMsuLM",
       "nome": "Creatina Max Titanium Em Pó Sem sabor 300g Creatina 100% Pura Monohidratada",
@@ -6748,24 +6765,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2dtigmQ.jpg"
-    },
-    {
-      "id": "1LEf48D",
-      "nome": "Bicicleta Spinning Romantic Crown Preto Roda Inércia 13kg",
-      "categoria": "Esporte",
-      "preco": 707.48,
-      "link": "https://meli.la/1LEf48D",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/bicicleta-spinning-romantic-crown-preto-roda-inercia-13kg/p/MLB62816576",
-      "precoDe": 1799.99,
-      "pix": true,
-      "parcelas": "R$769 em outros meios",
-      "postado": "2026-11-24T20:45:12.635Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1LEf48D.jpg"
     }
   ]
 }
