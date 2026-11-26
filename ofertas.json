@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T18:21:30.738Z",
+  "atualizado": "2026-11-26T18:22:46.006Z",
   "ofertas": [
+    {
+      "id": "2TTsejE",
+      "nome": "Aspirador de Pó Vertical 1450W Electrolux cabo 5,0m portátil de mão 2 em 1",
+      "categoria": "Casa",
+      "preco": 134,
+      "link": "https://meli.la/2TTsejE",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aspirador-de-po-vertical-1450w-electrolux-cabo-50m-portatil-de-mao-2-em-1-potente-com-capacidade-16l-filtro-hepa-stk14-azul-denim/p/MLB18185615",
+      "precoDe": 264.59,
+      "parcelas": "4x de R$33,50 sem juros",
+      "postado": "2026-11-26T18:22:46.004Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2TTsejE.jpg"
+    },
     {
       "id": "1TYkk17",
       "nome": "Kit 10 Potes de Vidro Herméticos 640ml Retangulares para Marmita com 4 Travas e",
