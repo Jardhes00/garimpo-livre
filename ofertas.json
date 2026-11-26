@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T18:40:16.200Z",
+  "atualizado": "2026-11-26T18:41:31.234Z",
   "ofertas": [
+    {
+      "id": "2oMCNjn",
+      "nome": "Armani Beauty, Perfume Masculino, Acqua di Giò Profondo Parfum, 200ml",
+      "categoria": "Beleza",
+      "preco": 709,
+      "link": "https://meli.la/2oMCNjn",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/armani-beauty-perfume-masculino-acqua-di-gi-profondo-parfum-200ml/p/MLB40286240",
+      "precoDe": 1299.85,
+      "postado": "2026-11-26T18:41:31.232Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2oMCNjn.jpg"
+    },
     {
       "id": "2pYjcHU",
       "nome": "Lavadora e Desobstruidora de Alta Pressão WAP 5100 TURBO ULTRA Motor Indução",
