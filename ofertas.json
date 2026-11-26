@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T18:46:31.380Z",
+  "atualizado": "2026-11-26T18:47:46.384Z",
   "ofertas": [
+    {
+      "id": "2MGharg",
+      "nome": "Câmera Inteligente Intelbras Ime 360 3mp Visão 360 Wi-fi Cor Branco",
+      "categoria": "Diversos",
+      "preco": 175.12,
+      "link": "https://meli.la/2MGharg",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/camera-inteligente-intelbras-ime-360-3mp-visao-360-wi-fi-cor-branco/p/MLB53403093",
+      "precoDe": 299.9,
+      "pix": true,
+      "parcelas": "R$199 em 6x R$33,17 sem juros",
+      "postado": "2026-11-26T18:47:46.381Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2MGharg.jpg"
+    },
     {
       "id": "1m2X3Rs",
       "nome": "Fralda Protect & Sec 90 Unidades Tamanho Médio Personal Baby",
