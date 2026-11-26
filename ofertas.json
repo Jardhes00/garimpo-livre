@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T19:34:03.049Z",
+  "atualizado": "2026-11-26T19:35:18.059Z",
   "ofertas": [
+    {
+      "id": "32vx5Zh",
+      "nome": "Cozinha Compacta Madesa Emilly Pop com Armário e Balcão Rustic",
+      "categoria": "Casa",
+      "preco": 617.49,
+      "link": "https://meli.la/32vx5Zh",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cozinha-compacta-madesa-emilly-pop-com-armario-e-balcao-rustic/p/MLB28310834",
+      "precoDe": 905.87,
+      "pix": true,
+      "parcelas": "R$649,99 em 10x R$65 sem juros",
+      "postado": "2026-11-26T19:35:18.057Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-32vx5Zh.jpg"
+    },
     {
       "id": "13r8Fka",
       "nome": "Secador de Cabelos Mondial Preto 2000W SCN-01",
@@ -6377,25 +6395,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2vCzWaY.jpg"
-    },
-    {
-      "id": "29FgQKi",
-      "nome": "Huggies Fralda Descartável Máxima Proteção G - 136 Un Sem Gênero",
-      "categoria": "Bebê",
-      "preco": 117.79,
-      "link": "https://meli.la/29FgQKi",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/huggies-fralda-descartavel-maxima-protecao-g-136-un-sem-genero/p/MLB17336383",
-      "precoDe": 197.75,
-      "pix": true,
-      "parcelas": "R$ 123,99 em outros meios",
-      "cupomAnuncio": "R$88,34 com Cupom",
-      "postado": "2026-11-24T19:34:41.328Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-29FgQKi.jpg"
     }
   ]
 }
