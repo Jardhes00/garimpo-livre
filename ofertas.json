@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T19:15:17.168Z",
+  "atualizado": "2026-11-26T19:16:32.115Z",
   "ofertas": [
+    {
+      "id": "1vStESK",
+      "nome": "Micro-ondas Nn-st67lsru 34 Litros Inox Panasonic",
+      "categoria": "Casa",
+      "preco": 699,
+      "link": "https://meli.la/1vStESK",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-nn-st67lsru-34-litros-inox-panasonic/p/MLB18233848",
+      "precoDe": 1009,
+      "postado": "2026-11-26T19:16:32.114Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1vStESK.jpg"
+    },
     {
       "id": "2UwSCuf",
       "nome": "Cafeteira Espresso Dolce Crema 20 Bar Mondial Preto/Inox 1200W C-21-E-CNP",
