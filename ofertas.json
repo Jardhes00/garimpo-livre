@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T20:12:49.142Z",
+  "atualizado": "2026-11-26T20:14:04.024Z",
   "ofertas": [
+    {
+      "id": "2nU78t9",
+      "nome": "Micro-ondas 33L Philco Linha Branca PMO39S - 1400W - Prateado",
+      "categoria": "Casa",
+      "preco": 569,
+      "link": "https://meli.la/2nU78t9",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-33l-philco-linha-branca-pmo39s-1400w-prateado/p/MLB75001526",
+      "precoDe": 819,
+      "parcelas": "10x de R$56,90 sem juros",
+      "postado": "2026-11-26T20:14:04.022Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2nU78t9.jpg"
+    },
     {
       "id": "1TfXFMa",
       "nome": "Bitter Campari 748ml Aperitivo Italiano Para Drinks",
