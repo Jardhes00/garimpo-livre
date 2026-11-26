@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T19:30:17.117Z",
+  "atualizado": "2026-11-26T19:31:32.803Z",
   "ofertas": [
+    {
+      "id": "2uucMYs",
+      "nome": "Café Em Grao Torrado Expresso Arábica Torra Escura Grãos 1kg Gourmet Cafe Italle",
+      "categoria": "Diversos",
+      "preco": 65.9,
+      "link": "https://meli.la/2uucMYs",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafe-em-grao-torrado-expresso-arabica-torra-escura-graos-1kg-gourmet-cafe-italle/p/MLB19542141",
+      "precoDe": 99.9,
+      "postado": "2026-11-26T19:31:32.801Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2uucMYs.jpg"
+    },
     {
       "id": "2VNSjM2",
       "nome": "Micro-ondas Nn-st67l 34 Litros Inox Panasonic",
@@ -6363,24 +6379,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1GTv8T4.jpg"
-    },
-    {
-      "id": "2QvooAA",
-      "nome": "Smartphone G17 Tela 6,7 Polegadas 128GB 4G Câmera 50MP Motorola",
-      "categoria": "Tech",
-      "preco": 798.3,
-      "link": "https://meli.la/2QvooAA",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/smartphone-g17-tela-67-polegadas-128gb-4g-camera-50mp-motorola/p/MLB65041643",
-      "precoDe": 1599,
-      "pix": true,
-      "parcelas": "R$ 887 em 10x R$ 88,70 sem juros",
-      "postado": "2026-11-24T19:30:55.908Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2QvooAA.jpg"
     }
   ]
 }
