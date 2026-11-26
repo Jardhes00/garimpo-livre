@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T19:20:17.702Z",
+  "atualizado": "2026-11-26T19:21:33.097Z",
   "ofertas": [
+    {
+      "id": "2ujXxxf",
+      "nome": "Barra Integralmédica Protein Crisp Bar Duo Crunch 12x45g",
+      "categoria": "Diversos",
+      "preco": 66.98,
+      "link": "https://meli.la/2ujXxxf",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/barra-integralmedica-protein-crisp-bar-duo-crunch-12x45g/p/MLB24588327",
+      "precoDe": 154.8,
+      "pix": true,
+      "parcelas": "R$83,72 em outros meios",
+      "postado": "2026-11-26T19:21:33.095Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ujXxxf.jpg"
+    },
     {
       "id": "1tP4i1R",
       "nome": "Electrolux Kit 12 Potes Herméticos de Plástico Retangulares",
