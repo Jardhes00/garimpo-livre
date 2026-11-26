@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T18:01:33.267Z",
+  "atualizado": "2026-11-26T18:02:45.066Z",
   "ofertas": [
+    {
+      "id": "2552kh2",
+      "nome": "Carro Elétrico Infantil De Controle Remoto Quadriciclo Utv Cor Amarelo Voltagem",
+      "categoria": "Games",
+      "preco": 773.91,
+      "link": "https://meli.la/2552kh2",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/carro-eletrico-infantil-de-controle-remoto-quadriciclo-utv-cor-amarelo-voltagem-do-carregador-127220v/p/MLB53589500",
+      "precoDe": 1690,
+      "pix": true,
+      "parcelas": "R$859,90 em outros meios",
+      "postado": "2026-11-26T18:02:45.063Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2552kh2.jpg"
+    },
     {
       "id": "17KNGY7",
       "nome": "Jogo De Banho Karsten 4 Empire Naval Cor Azul Lisa",
