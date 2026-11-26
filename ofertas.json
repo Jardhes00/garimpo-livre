@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T19:19:02.555Z",
+  "atualizado": "2026-11-26T19:20:17.702Z",
   "ofertas": [
+    {
+      "id": "1tP4i1R",
+      "nome": "Electrolux Kit 12 Potes Herméticos de Plástico Retangulares",
+      "categoria": "Casa",
+      "preco": 64.9,
+      "link": "https://meli.la/1tP4i1R",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/electrolux-kit-12-potes-hermeticos-de-plastico-retangulares/p/MLB23191928",
+      "precoDe": 119,
+      "postado": "2026-11-26T19:20:17.700Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1tP4i1R.jpg"
+    },
     {
       "id": "1F7hUK6",
       "nome": "Aparador de Pelos Super Groom 10 Mondial Preto/Azul Bivolt BG-03",
