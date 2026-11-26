@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T19:00:16.731Z",
+  "atualizado": "2026-11-26T19:01:31.700Z",
   "ofertas": [
+    {
+      "id": "1jvJRQs",
+      "nome": "Fogão 5 Bocas Atlas Atenas Glass A Gás com Mesa de Vidro e Mega Chama Preto",
+      "categoria": "Diversos",
+      "preco": 979,
+      "link": "https://meli.la/1jvJRQs",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fogao-5-bocas-atlas-atenas-glass-a-gas-com-mesa-de-vidro-e-mega-chama-preto-bivolt/p/MLB18612048",
+      "precoDe": 1859,
+      "postado": "2026-11-26T19:01:31.698Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1jvJRQs.jpg"
+    },
     {
       "id": "1GafLAW",
       "nome": "Corneta Taramps Sfd4300 8ohms 300w Corneta Som Automotivo",
