@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T18:44:01.132Z",
+  "atualizado": "2026-11-26T18:45:16.823Z",
   "ofertas": [
+    {
+      "id": "1SZ3HVJ",
+      "nome": "Cadeira de Carro Infantil All Stages 2.0 Isofix Preto Litet",
+      "categoria": "Auto",
+      "preco": 728,
+      "link": "https://meli.la/1SZ3HVJ",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-carro-infantil-all-stages-20-isofix-preto-litet/p/MLB26070781",
+      "precoDe": 1199,
+      "parcelas": "10x de R$72,80 sem juros",
+      "postado": "2026-11-26T18:45:16.821Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1SZ3HVJ.jpg"
+    },
     {
       "id": "31V1FL2",
       "nome": "Fogão 4 Bocas Dako Magister Style Com Mesa De Vidro Preto/espelhado",
