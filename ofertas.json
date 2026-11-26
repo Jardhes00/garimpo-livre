@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T20:47:53.334Z",
+  "atualizado": "2026-11-26T20:49:08.120Z",
   "ofertas": [
+    {
+      "id": "2aod3hy",
+      "nome": "Fralda Turma Da Mônica Baby Mega G 44 Unidades G",
+      "categoria": "Bebê",
+      "preco": 29.89,
+      "link": "https://meli.la/2aod3hy",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fralda-turma-da-monica-baby-mega-g-44-unidades-g/p/MLB18392677",
+      "precoDe": 51.04,
+      "extra": "25% OFF com cupom no anúncio",
+      "cupomAnuncio": "Compre R$99,90 e ganhe 25% OFF",
+      "postado": "2026-11-26T20:49:08.119Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2aod3hy.jpg"
+    },
     {
       "id": "1AQzNto",
       "nome": "Lavadora de Alta Pressão WAP ECO FIT PLUS WL1830 Compacta Portátil Leve 1600W 1700 PSI",
@@ -6728,25 +6746,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2G5UTxH.jpg"
-    },
-    {
-      "id": "29ERjYC",
-      "nome": "Purificador De Água Fr600 Speciale Branco Ibbl",
-      "categoria": "Diversos",
-      "preco": 743.07,
-      "link": "https://meli.la/29ERjYC",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/purificador-de-agua-fr600-speciale-branco-ibbl/p/MLB24224407",
-      "precoDe": 1039,
-      "pix": true,
-      "parcelas": "R$799 em 8x R$99,88 sem juros",
-      "cupomAnuncio": "R$743,07 com Cupom",
-      "postado": "2026-11-24T20:48:57.299Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-29ERjYC.jpg"
     }
   ]
 }
