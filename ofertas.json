@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T19:16:32.115Z",
+  "atualizado": "2026-11-26T19:17:47.407Z",
   "ofertas": [
+    {
+      "id": "2MNHCuh",
+      "nome": "Mascara Sebastian Penetraitt 145ml",
+      "categoria": "Diversos",
+      "preco": 107.55,
+      "link": "https://meli.la/2MNHCuh",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mascara-sebastian-penetraitt-145ml/up/MLBU3936465830",
+      "precoDe": 197,
+      "cupomAnuncio": "Compre R$399 e ganhe R$40 OFF",
+      "postado": "2026-11-26T19:17:47.405Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2MNHCuh.jpg"
+    },
     {
       "id": "1vStESK",
       "nome": "Micro-ondas Nn-st67lsru 34 Litros Inox Panasonic",
