@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T19:12:47.158Z",
+  "atualizado": "2026-11-26T19:14:02.171Z",
   "ofertas": [
+    {
+      "id": "1optVXt",
+      "nome": "Máquina de costura reta Singer Facilita Pro 4423 portátil - cinza",
+      "categoria": "Diversos",
+      "preco": 1214.1,
+      "link": "https://meli.la/1optVXt",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquina-de-costura-reta-singer-facilita-pro-4423-portatil-cinza/p/MLB15141564",
+      "precoDe": 1799,
+      "pix": true,
+      "parcelas": "R$1.349 em 10x R$134,90 sem juros",
+      "postado": "2026-11-26T19:14:02.170Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1optVXt.jpg"
+    },
     {
       "id": "25gjY9A",
       "nome": "Impressora multifuncional Epson Ecotank L3250",
