@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T18:06:30.230Z",
+  "atualizado": "2026-11-26T18:07:45.193Z",
   "ofertas": [
+    {
+      "id": "2zbGTqf",
+      "nome": "Lavadora Alta Pressão Bosch Ghp 200 1700w 220v + Acessórios",
+      "categoria": "Diversos",
+      "preco": 749.9,
+      "link": "https://meli.la/2zbGTqf",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-alta-pressao-bosch-ghp-200-1700w-220v-acessorios/up/MLBU3447999486",
+      "precoDe": 1499,
+      "parcelas": "10x de R$74,99 sem juros",
+      "cupomAnuncio": "R$710,40 com Cupom por seguir a loja",
+      "postado": "2026-11-26T18:07:45.191Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2zbGTqf.jpg"
+    },
     {
       "id": "2r1oEJy",
       "nome": "Arara Roupas 1,0m Cromada Rodinhas Expositor Loja Boutique",
