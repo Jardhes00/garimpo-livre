@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T19:46:33.376Z",
+  "atualizado": "2026-11-26T19:47:48.279Z",
   "ofertas": [
+    {
+      "id": "1SVcLWh",
+      "nome": "Amaciante Ypê Pro Ultra 7L",
+      "categoria": "Diversos",
+      "preco": 23.99,
+      "link": "https://meli.la/1SVcLWh",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/amaciante-ype-pro-ultra-7l/p/MLB20806906",
+      "precoDe": 49.99,
+      "postado": "2026-11-26T19:47:48.277Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1SVcLWh.jpg"
+    },
     {
       "id": "2erREjv",
       "nome": "Misturador Elétrico De Argamassa 1400w Tinta Gesso Rejunte Textura Profissional",
@@ -6422,23 +6438,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2pkMnDB.jpg"
-    },
-    {
-      "id": "2fQiUNh",
-      "nome": "Cofre Eletrônico Digital Contelux de Aço Preto 31x20x20 cm",
-      "categoria": "Diversos",
-      "preco": 199.99,
-      "link": "https://meli.la/2fQiUNh",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cofre-eletronico-digital-contelux-de-aco-preto-31x20x20-cm/p/MLB19858054",
-      "precoDe": 359.98,
-      "parcelas": "12x R$ 19,80",
-      "postado": "2026-11-24T19:46:41.679Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2fQiUNh.jpg"
     }
   ]
 }
