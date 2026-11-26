@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-26T18:32:46.025Z",
+  "atualizado": "2026-11-26T18:34:01.015Z",
   "ofertas": [
+    {
+      "id": "2Xior8r",
+      "nome": "Micro-ondas Electrolux 23L Preto Efficient com Descongelamento Assistido (ME23P",
+      "categoria": "Casa",
+      "preco": 484.03,
+      "link": "https://meli.la/2Xior8r",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-electrolux-23l-preto-efficient-com-descongelamento-assistido-me23p/p/MLB19617681",
+      "precoDe": 849,
+      "pix": true,
+      "parcelas": "R$499 em 9x R$55,44 sem juros",
+      "cupomAnuncio": "R$445,23 com Cupom",
+      "postado": "2026-11-26T18:34:01.014Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Xior8r.jpg"
+    },
     {
       "id": "2bGZVA4",
       "nome": "Cesta De Natal Bauducco P",
