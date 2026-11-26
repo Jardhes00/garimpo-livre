@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-26T20:06:34.019Z",
+  "atualizado": "2026-11-26T20:07:48.869Z",
   "ofertas": [
+    {
+      "id": "1pudLw6",
+      "nome": "Sala De Jantar Estofada Madesa Evelin Mesa Tampo Vidro Com 4 Cadeiras Cor",
+      "categoria": "Diversos",
+      "preco": 688.79,
+      "link": "https://meli.la/1pudLw6",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/sala-de-jantar-estofada-madesa-evelin-mesa-tampo-vidro-com-4-cadeiras-cor-rusticcremaimperial-mdja0401037gsim/p/MLB23563569",
+      "precoDe": 1176.46,
+      "pix": true,
+      "parcelas": "R$839,99 em 10x R$84 sem juros",
+      "cupomAnuncio": "R$647,79 com Cupom",
+      "postado": "2026-11-26T20:07:48.867Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1pudLw6.jpg"
+    },
     {
       "id": "1Z1fsTT",
       "nome": "Piscina Redonda Estrutural Aço 7200 Litros 3.66 x 3.66m Mor",
