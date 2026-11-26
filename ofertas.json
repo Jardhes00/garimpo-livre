@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T18:04:00.192Z",
+  "atualizado": "2026-11-26T18:05:15.545Z",
   "ofertas": [
+    {
+      "id": "27nW6cs",
+      "nome": "LYZRC L900 PRO SE Drone GPS Profissional 4K Camera FPV Drones Com 3 Baterias E",
+      "categoria": "Diversos",
+      "preco": 659.99,
+      "link": "https://meli.la/27nW6cs",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lyzrc-l900-pro-se-drone-gps-profissional-4k-camera-fpv-drones-com-3-baterias-e-bolsa-laranja/p/MLB78869926",
+      "precoDe": 1499,
+      "postado": "2026-11-26T18:05:15.542Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-27nW6cs.jpg"
+    },
     {
       "id": "16yXEdh",
       "nome": "Torquímetro De Estalo Click Para Soquete 1/2 Pol 28-210 Nm 2.8 A 21kg",
