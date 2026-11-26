@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T18:55:16.586Z",
+  "atualizado": "2026-11-26T18:56:31.605Z",
   "ofertas": [
+    {
+      "id": "2RY2cBy",
+      "nome": "Samsung Smart Tv 43 Qled Full Hd Q5f 2025, Xbox Cloud Gaming, Canais Gratuitos",
+      "categoria": "Tech",
+      "preco": 1499,
+      "link": "https://meli.la/2RY2cBy",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/samsung-smart-tv-43-qled-full-hd-q5f-2025-xbox-cloud-gaming-canais-gratuitos-hdr-som-em-movimento-virtual/p/MLB63467528",
+      "precoDe": 2099,
+      "parcelas": "10x de R$149,90 sem juros",
+      "postado": "2026-11-26T18:56:31.604Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2RY2cBy.jpg"
+    },
     {
       "id": "2Koa9wF",
       "nome": "Máquina de Lavar Electrolux 13kg Cesto Inox LDA13 Branco",
