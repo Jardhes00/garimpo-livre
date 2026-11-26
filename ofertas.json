@@ -1,6 +1,40 @@
 {
-  "atualizado": "2026-11-26T17:48:09.264Z",
+  "atualizado": "2026-11-26T17:52:45.300Z",
   "ofertas": [
+    {
+      "id": "1Qb3wqr",
+      "nome": "Ampola Capilar Tratamento Fortalecedor Antiquebra para Crescimento Saudável",
+      "categoria": "Diversos",
+      "preco": 84.47,
+      "link": "https://meli.la/1Qb3wqr",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ampola-capilar-tratamento-fortalecedor-antiquebra-para-crescimento-saudavel-dercos-energizante-vichy-40ml/p/MLB19751415",
+      "precoDe": 131.9,
+      "parcelas": "3x de R$28,16 sem juros",
+      "postado": "2026-11-26T17:52:45.285Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Qb3wqr.jpg"
+    },
+    {
+      "id": "2a1uaTU",
+      "nome": "COLÁGENO TIPO 2 com 45mg - Fórmula Exclusiva com Máxima Concentração e",
+      "categoria": "Suplementos",
+      "preco": 41.77,
+      "link": "https://meli.la/2a1uaTU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/colageno-tipo-2-com-45mg-formula-exclusiva-com-maxima-concentracao-e-biodisponibilidade-60-capsulas/p/MLB43057072",
+      "precoDe": 77.77,
+      "cupomAnuncio": "Compre R$156 e ganhe 5% OFF por seguir a loja",
+      "postado": "2026-11-26T17:51:10.412Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2a1uaTU.jpg"
+    },
     {
       "id": "2fFfw4q",
       "nome": "Caixa Térmica Cooler Soprano Tropical 12lt Alça Retrátil",
