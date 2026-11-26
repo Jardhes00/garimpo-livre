@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T18:17:44.821Z",
+  "atualizado": "2026-11-26T18:19:00.458Z",
   "ofertas": [
+    {
+      "id": "2r5knva",
+      "nome": "Smart TV 4K 55\" LG QNED Mini LED AI QNED70 2026 Processador α7 Ger9 HDR10 Xbox",
+      "categoria": "Tech",
+      "preco": 2499,
+      "link": "https://meli.la/2r5knva",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smart-tv-4k-55-lg-qned-mini-led-ai-qned70-2026-processador-7-ger9-hdr10-xbox-bluetooth-wi-fi-ai-search-google-gemini-webos-26-55qned70bsa/p/MLB74143355",
+      "precoDe": 3599,
+      "parcelas": "10x de R$249,90 sem juros",
+      "postado": "2026-11-26T18:19:00.456Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2r5knva.jpg"
+    },
     {
       "id": "29ubvQB",
       "nome": "Wella Treatment Oil Reflections Light 100ml",
