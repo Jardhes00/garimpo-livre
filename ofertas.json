@@ -1,6 +1,26 @@
 {
-  "atualizado": "2026-11-26T20:26:33.268Z",
+  "atualizado": "2026-11-26T20:27:48.190Z",
   "ofertas": [
+    {
+      "id": "2yfQosm",
+      "nome": "Shampoo Anticaspa Cabelos Normais a Oleosos, Dercos DS Vichy, 200g",
+      "categoria": "Beleza",
+      "preco": 51.4,
+      "link": "https://meli.la/2yfQosm",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/shampoo-anticaspa-cabelos-normais-a-oleosos-dercos-ds-vichy-200g/p/MLB38919855",
+      "precoDe": 98.9,
+      "pix": true,
+      "parcelas": "R$ 60,47 em 3x R$ 20,16 sem juros",
+      "extra": "15% OFF com cupom no anúncio",
+      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
+      "postado": "2026-11-26T20:27:48.189Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2yfQosm.jpg"
+    },
     {
       "id": "1DnSF7x",
       "nome": "Tênis Masculino Casual Aramis Daily Slip Confortável Moderno",
@@ -6789,24 +6809,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2AZBJCM.jpg"
-    },
-    {
-      "id": "1zG5QM7",
-      "nome": "Kit Eucerin Anti-pigment Dual Sérum Gel Limpeza Esfoliante",
-      "categoria": "Beleza",
-      "preco": 191.52,
-      "link": "https://meli.la/1zG5QM7",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit-eucerin-anti-pigment-dual-serum-gel-limpeza-esfoliante/up/MLBU5145365068",
-      "precoDe": 339.9,
-      "pix": true,
-      "parcelas": "R$212,80 em 6x R$35,47 sem juros",
-      "postado": "2026-11-24T20:27:42.161Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1zG5QM7.jpg"
     }
   ]
 }
