@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T20:04:03.829Z",
+  "atualizado": "2026-11-26T20:05:18.857Z",
   "ofertas": [
+    {
+      "id": "2g54geq",
+      "nome": "Webcam Full HD Logitech C920s com Microfone Embutido, Proteção de Privacidade",
+      "categoria": "Tech",
+      "preco": 332.91,
+      "link": "https://meli.la/2g54geq",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/webcam-full-hd-logitech-c920s-com-microfone-embutido-protecao-de-privacidade-widescreen-1080p-e-conexao-usb/p/MLB18351904",
+      "precoDe": 499.9,
+      "pix": true,
+      "parcelas": "R$369,90 em 2x R$184,95 sem juros",
+      "postado": "2026-11-26T20:05:18.856Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2g54geq.jpg"
+    },
     {
       "id": "14jbzkP",
       "nome": "Capacete Integral ASX City Solid SV Preto Fosco com Viseira Solar",
