@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T19:50:18.361Z",
+  "atualizado": "2026-11-26T19:51:33.435Z",
   "ofertas": [
+    {
+      "id": "2si6ZWh",
+      "nome": "Mouse Logitech M90 USB com Fio 1000 DPI 3 Botões Óptico Preto Plug and Play",
+      "categoria": "Tech",
+      "preco": 26.91,
+      "link": "https://meli.la/2si6ZWh",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mouse-logitech-m90-usb-com-fio-1000-dpi-3-botoes-optico-preto-plug-and-play/p/MLB6162297",
+      "precoDe": 39.9,
+      "postado": "2026-11-26T19:51:33.433Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2si6ZWh.jpg"
+    },
     {
       "id": "2xyg6Xu",
       "nome": "Shampoo Anticaspa Cabelos Normais a Oleosos, Dercos DS Vichy, 300g",
@@ -6421,24 +6437,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1pTZcEW.jpg"
-    },
-    {
-      "id": "2MSMyWh",
-      "nome": "Porteiro Residencial Ipr 8010 Preto/Branco Intelbras",
-      "categoria": "Diversos",
-      "preco": 148.8,
-      "link": "https://meli.la/2MSMyWh",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/porteiro-residencial-ipr-8010-pretobranco-intelbras/p/MLB38112373",
-      "precoDe": 317.9,
-      "pix": true,
-      "parcelas": "R$ 186 em 6x R$ 31 sem juros",
-      "postado": "2026-11-24T19:51:26.285Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2MSMyWh.jpg"
     }
   ]
 }
