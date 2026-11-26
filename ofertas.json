@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-26T20:10:19.257Z",
+  "atualizado": "2026-11-26T20:11:34.161Z",
   "ofertas": [
+    {
+      "id": "2yssAC3",
+      "nome": "Lavadora De Alta Pressão Vonder 1400w Lav 1600 Amarelo 127 V",
+      "categoria": "Diversos",
+      "preco": 294.93,
+      "link": "https://meli.la/2yssAC3",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-vonder-1400w-lav-1600-amarelo-127-v/p/MLB29187736",
+      "precoDe": 560.74,
+      "pix": true,
+      "parcelas": "R$339 em outros meios",
+      "cupomAnuncio": "R$255,78 com Cupom",
+      "postado": "2026-11-26T20:11:34.159Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2yssAC3.jpg"
+    },
     {
       "id": "1MKRQhD",
       "nome": "Tapete Higiênico para Cachorro 50 Unidades 60x55cm com Gel Absorvente Fralda",
