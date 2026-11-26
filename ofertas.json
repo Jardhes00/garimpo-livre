@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T19:24:02.493Z",
+  "atualizado": "2026-11-26T19:25:17.644Z",
   "ofertas": [
+    {
+      "id": "1gB81BH",
+      "nome": "Powerbank Carregador Veicular Auxiliar De Partida Calibrador",
+      "categoria": "Tech",
+      "preco": 141.36,
+      "link": "https://meli.la/1gB81BH",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/powerbank-carregador-veicular-auxiliar-de-partida-calibrador/up/MLBU3773952566",
+      "precoDe": 288.5,
+      "postado": "2026-11-26T19:25:17.642Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1gB81BH.jpg"
+    },
     {
       "id": "1hBM6Q4",
       "nome": "Teclado Logitech K120 USB Preto",
