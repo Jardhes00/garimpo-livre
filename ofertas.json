@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T18:11:30.500Z",
+  "atualizado": "2026-11-26T18:12:45.597Z",
   "ofertas": [
+    {
+      "id": "1b896EN",
+      "nome": "Carregador Turbo 200w Inteligente Usb-c Usb-a Bivolt",
+      "categoria": "Tech",
+      "preco": 29.9,
+      "link": "https://meli.la/1b896EN",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/carregador-turbo-200w-inteligente-usb-c-usb-a-bivolt/up/MLBU3956172281",
+      "precoDe": 99.99,
+      "cupomAnuncio": "Compre R$399 e ganhe R$40 OFF",
+      "postado": "2026-11-26T18:12:45.592Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1b896EN.jpg"
+    },
     {
       "id": "2VvRXDQ",
       "nome": "Fone de Ouvido Monster E62 Open-Ear Bluetooth, com Cancelamento de Ruído e",
