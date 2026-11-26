@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T20:16:34.125Z",
+  "atualizado": "2026-11-26T20:17:49.271Z",
   "ofertas": [
+    {
+      "id": "1n3GShZ",
+      "nome": "Protein Crisp Bar Trufa De Avelã 12 Und Integralmédica",
+      "categoria": "Diversos",
+      "preco": 62.02,
+      "link": "https://meli.la/1n3GShZ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/barra-integralmedica-protein-crisp-bar-trufa-de-avela-12x45g/p/MLB6099973",
+      "precoDe": 154.8,
+      "pix": true,
+      "parcelas": "R$77,53 em outros meios",
+      "postado": "2026-11-26T20:17:49.270Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1n3GShZ.jpg"
+    },
     {
       "id": "1CF9AFj",
       "nome": "Tênis Flyer Runner Mesh Bdp Puma",
