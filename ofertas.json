@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T19:26:32.801Z",
+  "atualizado": "2026-11-26T19:27:48.169Z",
   "ofertas": [
+    {
+      "id": "2BKy8e9",
+      "nome": "Whisky Chivas Regal 18 Anos Escocês 750 Ml",
+      "categoria": "Diversos",
+      "preco": 290.9,
+      "link": "https://meli.la/2BKy8e9",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whisky-chivas-regal-18-anos-escoces-750-ml/p/MLB16102961",
+      "precoDe": 499.9,
+      "pix": true,
+      "parcelas": "R$299,90 em outros meios",
+      "postado": "2026-11-26T19:27:48.168Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2BKy8e9.jpg"
+    },
     {
       "id": "1vk71L6",
       "nome": "Air Fryer Kitchen Art 16l 4 Em 1 Espeto Rotisserie Kaf16a",
