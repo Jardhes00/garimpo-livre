@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T18:35:15.999Z",
+  "atualizado": "2026-11-26T18:36:31.133Z",
   "ofertas": [
+    {
+      "id": "2uLgZwe",
+      "nome": "Ar Condicionado Hisense Hi-efficiency 9.000 Btus Frio Branco As-09tw2rlc00c",
+      "categoria": "Casa",
+      "preco": 1799,
+      "link": "https://meli.la/2uLgZwe",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-hisense-hi-efficiency-9000-btus-frio-branco-as-09tw2rlc00c/p/MLB75981059",
+      "precoDe": 2500,
+      "postado": "2026-11-26T18:36:31.129Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2uLgZwe.jpg"
+    },
     {
       "id": "2cqFZNx",
       "nome": "Kit Cronograma Capilar Wella Fios Perfeitos 3 Produtos",
