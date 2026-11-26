@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T20:32:48.376Z",
+  "atualizado": "2026-11-26T20:34:33.523Z",
   "ofertas": [
+    {
+      "id": "1N9px1m",
+      "nome": "Arvore De Natal Pinheiro Luxo Gigante 240cm Bem Cheia 2,40m Premium D'presentes",
+      "categoria": "Diversos",
+      "preco": 331.19,
+      "link": "https://meli.la/1N9px1m",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/arvore-de-natal-pinheiro-luxo-gigante-240cm-bem-cheia-240m-premium-dpresentes/p/MLB56604352",
+      "precoDe": 730.5,
+      "pix": true,
+      "parcelas": "R$ 359,99 em outros meios",
+      "postado": "2026-11-26T20:34:33.522Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1N9px1m.jpg"
+    },
     {
       "id": "2hi1kjV",
       "nome": "Whey Protein Concentrado 1kg Dark Lab Sabor Baunilha",
@@ -6781,22 +6799,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-17Hm7DK.jpg"
-    },
-    {
-      "id": "1oVKaPC",
-      "nome": "Huggies Fralda Descartável Máxima Proteção XG - 112 Un",
-      "categoria": "Bebê",
-      "preco": 123.99,
-      "link": "https://meli.la/1oVKaPC",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/huggies-fralda-descartavel-maxima-protecao-xg-112-un/p/MLB17336025",
-      "precoDe": 197.75,
-      "postado": "2026-11-24T20:33:57.036Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1oVKaPC.jpg"
     }
   ]
 }
