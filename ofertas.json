@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T19:57:48.586Z",
+  "atualizado": "2026-11-26T19:59:03.458Z",
   "ofertas": [
+    {
+      "id": "2ULgSbY",
+      "nome": "Frigobar Para Bebidas Bc52 52l Compacto Hq Preto",
+      "categoria": "Diversos",
+      "preco": 589,
+      "link": "https://meli.la/2ULgSbY",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/frigobar-para-bebidas-bc52-52l-compacto-hq-preto/p/MLB66418197",
+      "precoDe": 949,
+      "postado": "2026-11-26T19:59:03.457Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ULgSbY.jpg"
+    },
     {
       "id": "1K9YD1y",
       "nome": "Piscina estrutural redonda Bestway Steel Pro 4678 litros Azul",
