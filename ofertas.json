@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T19:47:48.279Z",
+  "atualizado": "2026-11-26T19:49:03.137Z",
   "ofertas": [
+    {
+      "id": "2bHiyCL",
+      "nome": "Frigobar Electrolux 47L Efficient com Controle de Temperatura Cor Branca EM50",
+      "categoria": "Games",
+      "preco": 674.1,
+      "link": "https://meli.la/2bHiyCL",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/frigobar-electrolux-47l-efficient-com-controle-de-temperatura-cor-branca-em50/p/MLB32487240",
+      "precoDe": 989,
+      "pix": true,
+      "parcelas": "R$749 em 10x R$74,90 sem juros",
+      "postado": "2026-11-26T19:49:03.134Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2bHiyCL.jpg"
+    },
     {
       "id": "1SVcLWh",
       "nome": "Amaciante Ypê Pro Ultra 7L",
@@ -6419,25 +6437,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2uCCde6.jpg"
-    },
-    {
-      "id": "2pkMnDB",
-      "nome": "Condicionador Kérastase Nutritive Lait Vital, 200 ml",
-      "categoria": "Beleza",
-      "preco": 197.41,
-      "link": "https://meli.la/2pkMnDB",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/condicionador-kerastase-nutritive-lait-vital-200-ml/p/MLB25933233",
-      "precoDe": 304.9,
-      "parcelas": "6x R$ 32,90 sem juros",
-      "extra": "R$100 OFF com cupom no anúncio",
-      "cupomAnuncio": "Compre R$799 e ganhe R$100 OFF",
-      "postado": "2026-11-24T19:47:56.342Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2pkMnDB.jpg"
     }
   ]
 }
