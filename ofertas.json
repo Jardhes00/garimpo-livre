@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T19:11:31.916Z",
+  "atualizado": "2026-11-26T19:12:47.158Z",
   "ofertas": [
+    {
+      "id": "25gjY9A",
+      "nome": "Impressora multifuncional Epson Ecotank L3250",
+      "categoria": "Tech",
+      "preco": 1039.9,
+      "link": "https://meli.la/25gjY9A",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/impressora-multifuncional-epson-ecotank-l3250/p/MLB45880631",
+      "precoDe": 1817.84,
+      "postado": "2026-11-26T19:12:47.157Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-25gjY9A.jpg"
+    },
     {
       "id": "2s4dGmx",
       "nome": "Espumante Branco Brut Réserve Chandon 750ml",
