@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-26T18:30:15.882Z",
+  "atualizado": "2026-11-26T18:31:30.879Z",
   "ofertas": [
+    {
+      "id": "2FrjVn1",
+      "nome": "Bicicleta Spinning Com Roda De Inércia De 13kg Wct Fitness Original Cor Preto",
+      "categoria": "Esporte",
+      "preco": 993,
+      "link": "https://meli.la/2FrjVn1",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bicicleta-spinning-com-roda-de-inercia-de-13kg-wct-fitness-original-cor-preto-pretoamarelo/p/MLB34219371",
+      "precoDe": 2290.9,
+      "pix": true,
+      "parcelas": "R$1.129,99 em 10x R$113 sem juros",
+      "cupomAnuncio": "R$954 com Cupom por seguir a loja",
+      "postado": "2026-11-26T18:31:30.877Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2FrjVn1.jpg"
+    },
     {
       "id": "2HpCR2y",
       "nome": "Nintendo Switch Console Oled 64gb + Super Mario Bros Wonder",
