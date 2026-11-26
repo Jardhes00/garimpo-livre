@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T19:29:03.064Z",
+  "atualizado": "2026-11-26T19:30:17.117Z",
   "ofertas": [
+    {
+      "id": "2VNSjM2",
+      "nome": "Micro-ondas Nn-st67l 34 Litros Inox Panasonic",
+      "categoria": "Casa",
+      "preco": 699,
+      "link": "https://meli.la/2VNSjM2",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-nn-st67l-34-litros-inox-panasonic/p/MLB18219632",
+      "precoDe": 1009,
+      "postado": "2026-11-26T19:30:17.116Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2VNSjM2.jpg"
+    },
     {
       "id": "19DQJ4y",
       "nome": "Micro-ondas Panasonic 21 Litros Branco - NN-ST25lWRU",
@@ -6365,23 +6381,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2QvooAA.jpg"
-    },
-    {
-      "id": "1AX2Uv6",
-      "nome": "Fritadeira Elétrica AFON-12L-BG Forno Oven 12 Litros Preto Mondial",
-      "categoria": "Casa",
-      "preco": 419.9,
-      "link": "https://meli.la/1AX2Uv6",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/fritadeira-eletrica-afon-12l-bg-forno-oven-12-litros-preto-mondial/p/MLB44117615",
-      "precoDe": 899,
-      "parcelas": "8x R$ 52,49 sem juros",
-      "postado": "2026-11-24T19:29:26.324Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1AX2Uv6.jpg"
     }
   ]
 }
