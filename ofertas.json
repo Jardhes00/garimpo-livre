@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T19:40:18.102Z",
+  "atualizado": "2026-11-26T19:41:33.254Z",
   "ofertas": [
+    {
+      "id": "24WBTo9",
+      "nome": "Power Bank Baseus Bipow2 Pro FC51 20000mAh 22,5W Carregamento Rápido Cabo USB-C",
+      "categoria": "Diversos",
+      "preco": 193.22,
+      "link": "https://meli.la/24WBTo9",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/power-bank-baseus-bipow2-pro-fc51-20000mah-225w-carregamento-rapido-cabo-usb-c-integrado-display-digital-carrega-3-dispositivos-protecao-inteligente-preto/p/MLB58097097",
+      "precoDe": 286.9,
+      "pix": true,
+      "parcelas": "R$214,69 em outros meios",
+      "postado": "2026-11-26T19:41:33.252Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-24WBTo9.jpg"
+    },
     {
       "id": "2WwCAG6",
       "nome": "Roteador Mercusys Mr60x 1500 Mbps 4 Antenas 3 Portas Gigabit Dual Band EasyMesh",
@@ -6390,24 +6408,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2z95qQT.jpg"
-    },
-    {
-      "id": "1ZNdV4h",
-      "nome": "Bateria Li-ion 18v Lithium-ion Makita Bl1850 5ah Original Nf",
-      "categoria": "Diversos",
-      "preco": 339.99,
-      "link": "https://meli.la/1ZNdV4h",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/bateria-li-ion-18v-lithium-ion-makita-bl1850-5ah-original-nf/up/MLBU1414358885",
-      "precoDe": 673.45,
-      "pix": true,
-      "parcelas": "R$ 399,99 em 10x R$ 40 sem juros",
-      "postado": "2026-11-24T19:41:11.136Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1ZNdV4h.jpg"
     }
   ]
 }
