@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T18:07:45.193Z",
+  "atualizado": "2026-11-26T18:09:00.292Z",
   "ofertas": [
+    {
+      "id": "2pXzYhp",
+      "nome": "Fone de Ouvido Bluetooth 5.4 TWS com Ear Clip e Gancho, Som HiFi Graves",
+      "categoria": "Tech",
+      "preco": 93,
+      "link": "https://meli.la/2pXzYhp",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fone-de-ouvido-bluetooth-54-tws-com-ear-clip-e-gancho-som-hifi-graves-potentes-e-3d-50h-bateria-e-carga-rapida-enc-cancelamento-de-ruido-ipx6-prova-dagua-ideal-para-academia-e-corrida-basike/p/MLB67513507",
+      "precoDe": 149.08,
+      "postado": "2026-11-26T18:09:00.290Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2pXzYhp.jpg"
+    },
     {
       "id": "2zbGTqf",
       "nome": "Lavadora Alta Pressão Bosch Ghp 200 1700w 220v + Acessórios",
