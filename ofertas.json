@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T18:25:15.763Z",
+  "atualizado": "2026-11-26T18:26:30.711Z",
   "ofertas": [
+    {
+      "id": "14g6Mmo",
+      "nome": "Notebook Asus Vivobook Go 15 Amd Ryzen 5 7520u 16gb 512ssd Mixed Black",
+      "categoria": "Tech",
+      "preco": 2943.08,
+      "link": "https://meli.la/14g6Mmo",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/notebook-asus-vivobook-go-15-amd-ryzen-5-7520u-16gb-512ssd-mixed-black/p/MLB43417665",
+      "precoDe": 4399,
+      "pix": true,
+      "parcelas": "R$3.199 em 10x R$319,90 sem juros",
+      "postado": "2026-11-26T18:26:30.708Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-14g6Mmo.jpg"
+    },
     {
       "id": "1HGBMzT",
       "nome": "Dark Oil - Óleo Capilar 100ml",
