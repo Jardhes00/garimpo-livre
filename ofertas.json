@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T19:22:47.477Z",
+  "atualizado": "2026-11-26T19:24:02.493Z",
   "ofertas": [
+    {
+      "id": "1hBM6Q4",
+      "nome": "Teclado Logitech K120 USB Preto",
+      "categoria": "Tech",
+      "preco": 47.61,
+      "link": "https://meli.la/1hBM6Q4",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/teclado-logitech-k120-usb-preto/p/MLB16016004",
+      "precoDe": 79.9,
+      "postado": "2026-11-26T19:24:02.492Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1hBM6Q4.jpg"
+    },
     {
       "id": "1q7njuZ",
       "nome": "Parafusadeira E Furadeira Sem Fio Bateria 3/8 10mm Com Maleta E Acessorios The",
