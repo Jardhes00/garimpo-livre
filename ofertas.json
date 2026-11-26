@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T18:15:15.352Z",
+  "atualizado": "2026-11-26T18:17:44.821Z",
   "ofertas": [
+    {
+      "id": "29ubvQB",
+      "nome": "Wella Treatment Oil Reflections Light 100ml",
+      "categoria": "Beleza",
+      "preco": 96.51,
+      "link": "https://meli.la/29ubvQB",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/wella-treatment-oil-reflections-light-100ml/p/MLB20599672",
+      "precoDe": 193,
+      "cupomAnuncio": "Compre R$399 e ganhe R$40 OFF",
+      "postado": "2026-11-26T18:17:44.819Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-29ubvQB.jpg"
+    },
     {
       "id": "2bPxBgN",
       "nome": "Torradeira Inox Elite Elétrica 230ºc 850w 7 Níveis De Torra 2 Fatias Grossas",
