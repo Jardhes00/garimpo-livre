@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T20:43:33.763Z",
+  "atualizado": "2026-11-26T20:44:48.701Z",
   "ofertas": [
+    {
+      "id": "1RMsuLM",
+      "nome": "Creatina Max Titanium Em Pó Sem sabor 300g Creatina 100% Pura Monohidratada",
+      "categoria": "Suplementos",
+      "preco": 38.9,
+      "link": "https://meli.la/1RMsuLM",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/creatina-max-titanium-em-po-sem-sabor-300g-creatina-100-pura-monohidratada/p/MLB6104856",
+      "precoDe": 78.9,
+      "postado": "2026-11-26T20:44:48.699Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1RMsuLM.jpg"
+    },
     {
       "id": "16zyq5Z",
       "nome": "Impressora 3D FDM Bambu Lab A1 Bivolt",
@@ -6750,24 +6766,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1LEf48D.jpg"
-    },
-    {
-      "id": "2tn8D7V",
-      "nome": "Estante Bancada Firme Mdp 120x60 Organização Electrónicos",
-      "categoria": "Diversos",
-      "preco": 182.75,
-      "link": "https://meli.la/2tn8D7V",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/estante-bancada-firme-mdp-120x60-organizacao-electronicos/up/MLBU3983724606",
-      "precoDe": 325.2,
-      "pix": true,
-      "parcelas": "R$215 em 6x R$35,83 sem juros",
-      "postado": "2026-11-24T20:43:57.573Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2tn8D7V.jpg"
     }
   ]
 }
