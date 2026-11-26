@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T18:50:16.355Z",
+  "atualizado": "2026-11-26T18:51:31.528Z",
   "ofertas": [
+    {
+      "id": "2gi1jvH",
+      "nome": "Azeite de Oliva Extra Virgem O-live & Co 450ml",
+      "categoria": "Diversos",
+      "preco": 25.22,
+      "link": "https://meli.la/2gi1jvH",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/azeite-de-oliva-extra-virgem-o-live-co-450ml/p/MLB26643973",
+      "precoDe": 39.9,
+      "cupomAnuncio": "Compre R$399 e ganhe R$40 OFF",
+      "postado": "2026-11-26T18:51:31.526Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2gi1jvH.jpg"
+    },
     {
       "id": "29RPuCY",
       "nome": "Ar-condicionado Electrolux Color Adapt Inverter 12.000 BTUs Frio (J12C)",
