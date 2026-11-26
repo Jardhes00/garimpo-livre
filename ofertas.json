@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-26T20:17:49.271Z",
+  "atualizado": "2026-11-26T20:19:04.237Z",
   "ofertas": [
+    {
+      "id": "13Haqrq",
+      "nome": "Enceradeira Industrial Cl-350 Plus Cleaner Escova E Suporte Cor Azul-aço",
+      "categoria": "Diversos",
+      "preco": 2724.97,
+      "link": "https://meli.la/13Haqrq",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/enceradeira-industrial-cl-350-plus-cleaner-escova-e-suporte-cor-azul-aco/p/MLB66921449",
+      "precoDe": 3999.9,
+      "pix": true,
+      "parcelas": "R$2.898,90 em outros meios",
+      "cupomAnuncio": "R$2.706,17 com Cupom por seguir a loja",
+      "postado": "2026-11-26T20:19:04.236Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-13Haqrq.jpg"
+    },
     {
       "id": "1n3GShZ",
       "nome": "Protein Crisp Bar Trufa De Avelã 12 Und Integralmédica",
