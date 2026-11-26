@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T19:05:16.971Z",
+  "atualizado": "2026-11-26T19:06:31.974Z",
   "ofertas": [
+    {
+      "id": "2Z2edrL",
+      "nome": "Lavadora de Alta Pressão Electrolux 1600PSI 1400W de Potência com Engate Rápido",
+      "categoria": "Diversos",
+      "preco": 271.92,
+      "link": "https://meli.la/2Z2edrL",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-electrolux-1600psi-1400w-de-potencia-com-engate-rapido-easywash-lava-jato-lava-car-qws1600-cinza/p/MLB41881090",
+      "precoDe": 429,
+      "pix": true,
+      "parcelas": "R$309 em 6x R$51,50 sem juros",
+      "postado": "2026-11-26T19:06:31.973Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Z2edrL.jpg"
+    },
     {
       "id": "2uttnCU",
       "nome": "Gazebo Barraca Tenda Camping Praia Garagem Feira Teto 3x3 Mt Cor Azul",
