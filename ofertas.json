@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T18:27:45.741Z",
+  "atualizado": "2026-11-26T18:29:01.094Z",
   "ofertas": [
+    {
+      "id": "2Xnbx8c",
+      "nome": "Perfume Feminino L' Eau de Parfum Fragrância Floral Gourmand Inebriante com",
+      "categoria": "Beleza",
+      "preco": 598.9,
+      "link": "https://meli.la/2Xnbx8c",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/perfume-feminino-l-eau-de-parfum-fragrancia-floral-gourmand-inebriante-com-notas-de-iris-nobre-baunilha-e-praline-la-vie-est-belle-lancome-frasco-com-100ml/p/MLB6140723",
+      "precoDe": 1129,
+      "parcelas": "10x de R$59,89 sem juros",
+      "cupomAnuncio": "Compre R$599 e ganhe 5% OFF",
+      "postado": "2026-11-26T18:29:01.092Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Xnbx8c.jpg"
+    },
     {
       "id": "2mWtQyz",
       "nome": "Micro-ondas Electrolux 20l Branco MTO30",
