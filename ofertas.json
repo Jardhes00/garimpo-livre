@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T20:41:48.724Z",
+  "atualizado": "2026-11-26T20:43:33.763Z",
   "ofertas": [
+    {
+      "id": "16zyq5Z",
+      "nome": "Impressora 3D FDM Bambu Lab A1 Bivolt",
+      "categoria": "Tech",
+      "preco": 2622.97,
+      "link": "https://meli.la/16zyq5Z",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/impressora-3d-fdm-bambu-lab-a1-bivolt/p/MLB47537331",
+      "precoDe": 5599,
+      "parcelas": "12x R$ 252,11",
+      "cupomAnuncio": "R$2.618,97 com Cupom por seguir a loja",
+      "postado": "2026-11-26T20:43:33.762Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-16zyq5Z.jpg"
+    },
     {
       "id": "2wsrwan",
       "nome": "Secador de Cabelos Mondial 2000W - SCN-11",
@@ -6750,22 +6768,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2tn8D7V.jpg"
-    },
-    {
-      "id": "2PNLrpi",
-      "nome": "Huggies Fralda Descartável Máxima Proteção M - 172 Un Sem Gênero",
-      "categoria": "Bebê",
-      "preco": 123.99,
-      "link": "https://meli.la/2PNLrpi",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/huggies-fralda-descartavel-maxima-protecao-m-172-un-sem-genero/p/MLB17336059",
-      "precoDe": 197.75,
-      "postado": "2026-11-24T20:42:42.626Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2PNLrpi.jpg"
     }
   ]
 }
