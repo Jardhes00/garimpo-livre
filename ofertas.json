@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T18:51:31.528Z",
+  "atualizado": "2026-11-26T18:52:46.532Z",
   "ofertas": [
+    {
+      "id": "294drJg",
+      "nome": "Gillette Mach3 Sensitive Com 16 Lâminas",
+      "categoria": "Diversos",
+      "preco": 79.52,
+      "link": "https://meli.la/294drJg",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/gillette-mach3-sensitive-com-16-laminas/p/MLB16088420",
+      "precoDe": 127.9,
+      "cupomAnuncio": "Compre R$399 e ganhe R$40 OFF",
+      "postado": "2026-11-26T18:52:46.530Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-294drJg.jpg"
+    },
     {
       "id": "2gi1jvH",
       "nome": "Azeite de Oliva Extra Virgem O-live & Co 450ml",
