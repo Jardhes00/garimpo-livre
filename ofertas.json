@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T20:50:23.122Z",
+  "atualizado": "2026-11-26T20:52:23.540Z",
   "ofertas": [
+    {
+      "id": "2TVfem9",
+      "nome": "Escova Secadora Keratin, Mondial, 1300W - ES-11-BI Bivolt",
+      "categoria": "Beleza",
+      "preco": 94.5,
+      "link": "https://meli.la/2TVfem9",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/escova-secadora-keratin-mondial-1300w-es-11-bi-bivolt/p/MLB22647527",
+      "precoDe": 222.9,
+      "pix": true,
+      "parcelas": "R$ 105 em outros meios",
+      "postado": "2026-11-26T20:52:23.500Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2TVfem9.jpg"
+    },
     {
       "id": "2D9KPTW",
       "nome": "Patinete Elétrico GM5 P1 Preto Dobrável com Bluetooth, 25 Km/h e Autonomia de 22 Km",
@@ -6727,24 +6745,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1327jVo.jpg"
-    },
-    {
-      "id": "2E4YjM8",
-      "nome": "Placa De Vídeo MSI RTX 3050 LP OC NVIDIA Geforce 6GB GDDR6",
-      "categoria": "Diversos",
-      "preco": 1394.91,
-      "link": "https://meli.la/2E4YjM8",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/placa-de-video-msi-rtx-3050-lp-oc-nvidia-geforce-6gb-gddr6/p/MLB35152824",
-      "precoDe": 1939,
-      "pix": true,
-      "parcelas": "R$1.549,90 em outros meios",
-      "postado": "2026-11-24T20:51:27.480Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2E4YjM8.jpg"
     }
   ]
 }
