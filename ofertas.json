@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T19:37:48.081Z",
+  "atualizado": "2026-11-26T19:39:03.075Z",
   "ofertas": [
+    {
+      "id": "24MD6o1",
+      "nome": "Patinete Elétrico 350w E App Gps Bateria Recarregável Dobrável Super Autonomia",
+      "categoria": "Esporte",
+      "preco": 1059.99,
+      "link": "https://meli.la/24MD6o1",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/patinete-eletrico-350w-e-app-gps-bateria-recarregavel-dobravel-super-autonomia-para-adultos-ate-150kg/p/MLB71569646",
+      "precoDe": 1999.99,
+      "postado": "2026-11-26T19:39:03.074Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-24MD6o1.jpg"
+    },
     {
       "id": "2sfaPGm",
       "nome": "Vinho Chileno Tinto Concha Y Toro Reservado Cabernet Sauvignon 750ml",
