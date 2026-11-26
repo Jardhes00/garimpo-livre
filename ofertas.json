@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-26T19:07:46.410Z",
+  "atualizado": "2026-11-26T19:09:01.420Z",
   "ofertas": [
+    {
+      "id": "1iH1GBe",
+      "nome": "Ar Condicionado Hisense Hi-efficiency Inverter 12.000 Btu Frio Wi-fi Branco 220v",
+      "categoria": "Casa",
+      "preco": 1965.55,
+      "link": "https://meli.la/1iH1GBe",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/hisense-hi-efficiency-as-12tw2rlu00c-energia-eletrica-branco/p/MLB78188997",
+      "precoDe": 3097.04,
+      "pix": true,
+      "parcelas": "R$2.069 em outros meios",
+      "cupomAnuncio": "R$1.925,55 com Cupom",
+      "postado": "2026-11-26T19:09:01.418Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1iH1GBe.jpg"
+    },
     {
       "id": "27KJ2rC",
       "nome": "Modulo Taramps Ts 800 Rms TS800X4 2 Ohms Amplificador 800w Entrada Rca e Fio 4",
