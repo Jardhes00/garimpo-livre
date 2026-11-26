@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T20:05:18.857Z",
+  "atualizado": "2026-11-26T20:06:34.019Z",
   "ofertas": [
+    {
+      "id": "1Z1fsTT",
+      "nome": "Piscina Redonda Estrutural Aço 7200 Litros 3.66 x 3.66m Mor",
+      "categoria": "Diversos",
+      "preco": 777.35,
+      "link": "https://meli.la/1Z1fsTT",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/piscina-redonda-estrutural-aco-7200-litros-366-x-366m-mor/p/MLB56330281",
+      "precoDe": 1087.54,
+      "pix": true,
+      "parcelas": "R$818,26 em 10x R$81,83 sem juros",
+      "postado": "2026-11-26T20:06:34.018Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Z1fsTT.jpg"
+    },
     {
       "id": "2g54geq",
       "nome": "Webcam Full HD Logitech C920s com Microfone Embutido, Proteção de Privacidade",
