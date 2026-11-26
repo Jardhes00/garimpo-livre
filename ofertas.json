@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T17:59:00.331Z",
+  "atualizado": "2026-11-26T18:00:14.875Z",
   "ofertas": [
+    {
+      "id": "2CXW8cd",
+      "nome": "Tupia Laminadora Brushless 21v 6 Velocidades A Bateria 21v",
+      "categoria": "Diversos",
+      "preco": 339,
+      "link": "https://meli.la/2CXW8cd",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tupia-laminadora-brushless-21v-6-velocidades-a-bateria-21v/up/MLBU2074051211",
+      "precoDe": 559.9,
+      "parcelas": "6x de R$56,50 sem juros",
+      "postado": "2026-11-26T18:00:14.872Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2CXW8cd.jpg"
+    },
     {
       "id": "18amNZe",
       "nome": "Opk Original Relógio Masculino Quartzo À Prova D'água 6003",
