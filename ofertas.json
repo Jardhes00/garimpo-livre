@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T20:46:03.737Z",
+  "atualizado": "2026-11-26T20:47:53.334Z",
   "ofertas": [
+    {
+      "id": "1AQzNto",
+      "nome": "Lavadora de Alta Pressão WAP ECO FIT PLUS WL1830 Compacta Portátil Leve 1600W 1700 PSI",
+      "categoria": "Diversos",
+      "preco": 303.05,
+      "link": "https://meli.la/1AQzNto",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-wap-eco-fit-plus-wl1830-compacta-portatil-leve-1600w-1700-psi/p/MLB68934922",
+      "precoDe": 499,
+      "pix": true,
+      "parcelas": "R$ 319 em outros meios",
+      "postado": "2026-11-26T20:47:53.333Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1AQzNto.jpg"
+    },
     {
       "id": "1b24Dwv",
       "nome": "Cafeteira Espresso Mondial Dolce Crema 1200w C-21-e-cnp Preto",
@@ -6729,42 +6747,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-29ERjYC.jpg"
-    },
-    {
-      "id": "1Y8tJUE",
-      "nome": "Vodka Destilada Belvedere Garrafa 750ml",
-      "categoria": "Diversos",
-      "preco": 106,
-      "link": "https://meli.la/1Y8tJUE",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/vodka-destilada-belvedere-garrafa-750ml/p/MLB18308306",
-      "precoDe": 198.99,
-      "cupomAnuncio": "Compre R$229 e ganhe R$50 OFF",
-      "postado": "2026-11-24T20:47:42.616Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1Y8tJUE.jpg"
-    },
-    {
-      "id": "2dtigmQ",
-      "nome": "Impressora De Etiqueta Zd220 Zebra Nova Gc420t Preto",
-      "categoria": "Tech",
-      "preco": 1664.1,
-      "link": "https://meli.la/2dtigmQ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/impressora-de-etiqueta-zd220-zebra-nova-gc420t-preto/p/MLB25979638",
-      "precoDe": 2410.61,
-      "pix": true,
-      "parcelas": "R$1.849 em 10x R$184,90 sem juros",
-      "cupomAnuncio": "Compre R$3.000 e ganhe 5% OFF por seguir a loja",
-      "postado": "2026-11-24T20:46:27.374Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2dtigmQ.jpg"
     }
   ]
 }
