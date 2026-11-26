@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T19:09:01.420Z",
+  "atualizado": "2026-11-26T19:10:17.112Z",
   "ofertas": [
+    {
+      "id": "2syoDxc",
+      "nome": "Soundbar JBL Cinema SB595 Bluetooth 220w 3.1.2 Canais - JBLSB595BLKBR",
+      "categoria": "Tech",
+      "preco": 1499,
+      "link": "https://meli.la/2syoDxc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/soundbar-jbl-cinema-sb595-bluetooth-220w-312-canais-jblsb595blkbr/p/MLB62147806",
+      "precoDe": 1999,
+      "parcelas": "10x de R$149,90 sem juros",
+      "postado": "2026-11-26T19:10:17.110Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2syoDxc.jpg"
+    },
     {
       "id": "1iH1GBe",
       "nome": "Ar Condicionado Hisense Hi-efficiency Inverter 12.000 Btu Frio Wi-fi Branco 220v",
