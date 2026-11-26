@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T20:09:04.006Z",
+  "atualizado": "2026-11-26T20:10:19.257Z",
   "ofertas": [
+    {
+      "id": "1MKRQhD",
+      "nome": "Tapete Higiênico para Cachorro 50 Unidades 60x55cm com Gel Absorvente Fralda",
+      "categoria": "Casa",
+      "preco": 42.99,
+      "link": "https://meli.la/1MKRQhD",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tapete-higienico-para-cachorro-50-unidades-60x55cm-com-gel-absorvente-fralda-manta-pet-cao-com-fitas-adesivas-anti-odor-atrativo-canino-borda-absorvente/p/MLB28131416",
+      "precoDe": 74.9,
+      "cupomAnuncio": "Compre R$79 e ganhe 5% OFF por seguir a loja",
+      "postado": "2026-11-26T20:10:19.256Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1MKRQhD.jpg"
+    },
     {
       "id": "1rwfXAx",
       "nome": "Impressora 3d Bambu Lab A1 Mini - A1m Cinza",
