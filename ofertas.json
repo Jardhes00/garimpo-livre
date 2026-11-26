@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T18:42:46.024Z",
+  "atualizado": "2026-11-26T18:44:01.132Z",
   "ofertas": [
+    {
+      "id": "31V1FL2",
+      "nome": "Fogão 4 Bocas Dako Magister Style Com Mesa De Vidro Preto/espelhado",
+      "categoria": "Diversos",
+      "preco": 1121.43,
+      "link": "https://meli.la/31V1FL2",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fogao-4-bocas-dako-magister-style-com-mesa-de-vidro-pretoespelhado/p/MLB18733749",
+      "precoDe": 2309,
+      "pix": true,
+      "parcelas": "R$1.289 em outros meios",
+      "postado": "2026-11-26T18:44:01.131Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-31V1FL2.jpg"
+    },
     {
       "id": "1Vdask4",
       "nome": "Máscara Wella Oil Reflections 150ml",
