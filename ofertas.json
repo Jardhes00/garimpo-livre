@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T19:01:31.700Z",
+  "atualizado": "2026-11-26T19:02:46.836Z",
   "ofertas": [
+    {
+      "id": "17ofFcg",
+      "nome": "Detergente Ypê Pro 7 Litros",
+      "categoria": "Diversos",
+      "preco": 23.99,
+      "link": "https://meli.la/17ofFcg",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/detergente-ype-pro-7-litros/p/MLB20988811",
+      "precoDe": 42.1,
+      "cupomAnuncio": "Compre R$150 e ganhe R$30 OFF",
+      "postado": "2026-11-26T19:02:46.834Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-17ofFcg.jpg"
+    },
     {
       "id": "1jvJRQs",
       "nome": "Fogão 5 Bocas Atlas Atenas Glass A Gás com Mesa de Vidro e Mega Chama Preto",
