@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T18:09:00.292Z",
+  "atualizado": "2026-11-26T18:10:15.438Z",
   "ofertas": [
+    {
+      "id": "1MPx51N",
+      "nome": "Kit 4 Pilhas + Carregador De Pilhas Rápido Bivolt Aa/aaa",
+      "categoria": "Tech",
+      "preco": 44.29,
+      "link": "https://meli.la/1MPx51N",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-4-pilhas-carregador-de-pilhas-rapido-bivolt-aaaaa/up/MLBU1731566880",
+      "precoDe": 74.99,
+      "postado": "2026-11-26T18:10:15.436Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1MPx51N.jpg"
+    },
     {
       "id": "2pXzYhp",
       "nome": "Fone de Ouvido Bluetooth 5.4 TWS com Ear Clip e Gancho, Som HiFi Graves",
