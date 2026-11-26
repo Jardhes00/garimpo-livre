@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T20:11:34.161Z",
+  "atualizado": "2026-11-26T20:12:49.142Z",
   "ofertas": [
+    {
+      "id": "1TfXFMa",
+      "nome": "Bitter Campari 748ml Aperitivo Italiano Para Drinks",
+      "categoria": "Diversos",
+      "preco": 39.9,
+      "link": "https://meli.la/1TfXFMa",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bitter-campari-748ml-aperitivo-italiano-para-drinks/p/MLB29541417",
+      "precoDe": 59.9,
+      "cupomAnuncio": "Compre R$49 e ganhe 10% OFF",
+      "postado": "2026-11-26T20:12:49.140Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1TfXFMa.jpg"
+    },
     {
       "id": "2yssAC3",
       "nome": "Lavadora De Alta Pressão Vonder 1400w Lav 1600 Amarelo 127 V",
