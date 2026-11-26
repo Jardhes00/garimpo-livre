@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T20:27:48.190Z",
+  "atualizado": "2026-11-26T20:29:48.440Z",
   "ofertas": [
+    {
+      "id": "1CpxqkJ",
+      "nome": "Serra Circular Elétrica WAP ESC 1500 com Guia Laser e 1500W de Potência",
+      "categoria": "Ferramentas",
+      "preco": 296.1,
+      "link": "https://meli.la/1CpxqkJ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/serra-circular-eletrica-wap-esc-1500-com-guia-laser-e-1500w-de-potencia/p/MLB19580344",
+      "precoDe": 620,
+      "pix": true,
+      "parcelas": "R$ 329 em 3x R$ 109,67 sem juros",
+      "postado": "2026-11-26T20:29:48.439Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1CpxqkJ.jpg"
+    },
     {
       "id": "2yfQosm",
       "nome": "Shampoo Anticaspa Cabelos Normais a Oleosos, Dercos DS Vichy, 200g",
@@ -6793,22 +6811,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-152t8wG.jpg"
-    },
-    {
-      "id": "2AZBJCM",
-      "nome": "Patinete Elétrico Infantil Triciclo PARES Drift Bluetooth 3 Rodas Diversão e",
-      "categoria": "Bebê",
-      "preco": 890.9,
-      "link": "https://meli.la/2AZBJCM",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/patinete-eletrico-infantil-triciclo-pares-drift-bluetooth-3-rodas-diversao-e-lazer-kit-de-seguranca/p/MLB81565711",
-      "precoDe": 1299,
-      "postado": "2026-11-24T20:28:57.073Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2AZBJCM.jpg"
     }
   ]
 }
