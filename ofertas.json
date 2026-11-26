@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T19:10:17.112Z",
+  "atualizado": "2026-11-26T19:11:31.916Z",
   "ofertas": [
+    {
+      "id": "2s4dGmx",
+      "nome": "Espumante Branco Brut Réserve Chandon 750ml",
+      "categoria": "Diversos",
+      "preco": 89,
+      "link": "https://meli.la/2s4dGmx",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/espumante-branco-brut-reserve-chandon-750ml/p/MLB18308628",
+      "precoDe": 124.9,
+      "cupomAnuncio": "Compre R$399 e ganhe R$40 OFF",
+      "postado": "2026-11-26T19:11:31.914Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2s4dGmx.jpg"
+    },
     {
       "id": "2syoDxc",
       "nome": "Soundbar JBL Cinema SB595 Bluetooth 220w 3.1.2 Canais - JBLSB595BLKBR",
