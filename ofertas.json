@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T19:17:47.407Z",
+  "atualizado": "2026-11-26T19:19:02.555Z",
   "ofertas": [
+    {
+      "id": "1F7hUK6",
+      "nome": "Aparador de Pelos Super Groom 10 Mondial Preto/Azul Bivolt BG-03",
+      "categoria": "Diversos",
+      "preco": 105,
+      "link": "https://meli.la/1F7hUK6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aparador-de-pelos-super-groom-10-mondial-pretoazul-bivolt-bg-03/p/MLB44784310",
+      "precoDe": 202.9,
+      "postado": "2026-11-26T19:19:02.553Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1F7hUK6.jpg"
+    },
     {
       "id": "2MNHCuh",
       "nome": "Mascara Sebastian Penetraitt 145ml",
