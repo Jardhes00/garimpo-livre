@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-26T20:14:04.024Z",
+  "atualizado": "2026-11-26T20:15:19.051Z",
   "ofertas": [
+    {
+      "id": "17ngB22",
+      "nome": "Lavadora de Alta Pressão Kärcher Compacta 1.500 PSI 1400W 300L/h com Aplicador",
+      "categoria": "Diversos",
+      "preco": 334.3,
+      "link": "https://meli.la/17ngB22",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-krcher-compacta-1500-psi-1400w-300lh-com-aplicador-de-detergente-e-lanca-regulavel/p/MLB31422977",
+      "precoDe": 520.32,
+      "pix": true,
+      "parcelas": "R$363,37 em outros meios",
+      "cupomAnuncio": "R$317,58 com Cupom por seguir a loja",
+      "postado": "2026-11-26T20:15:19.050Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-17ngB22.jpg"
+    },
     {
       "id": "2nU78t9",
       "nome": "Micro-ondas 33L Philco Linha Branca PMO39S - 1400W - Prateado",
