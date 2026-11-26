@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T20:49:08.120Z",
+  "atualizado": "2026-11-26T20:50:23.122Z",
   "ofertas": [
+    {
+      "id": "2D9KPTW",
+      "nome": "Patinete Elétrico GM5 P1 Preto Dobrável com Bluetooth, 25 Km/h e Autonomia de 22 Km",
+      "categoria": "Esporte",
+      "preco": 1260,
+      "link": "https://meli.la/2D9KPTW",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/patinete-eletrico-gm5-p1-preto-dobravel-com-bluetooth-25-kmh-e-autonomia-de-22-km/p/MLB51757209",
+      "precoDe": 3165,
+      "parcelas": "12x R$ 122,31",
+      "postado": "2026-11-26T20:50:23.120Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2D9KPTW.jpg"
+    },
     {
       "id": "2aod3hy",
       "nome": "Fralda Turma Da Mônica Baby Mega G 44 Unidades G",
@@ -6728,24 +6745,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2E4YjM8.jpg"
-    },
-    {
-      "id": "2G5UTxH",
-      "nome": "Máquina de Lavar Consul 10 kg Dosagem Econômica - CWB10BB Branca",
-      "categoria": "Diversos",
-      "preco": 1421.1,
-      "link": "https://meli.la/2G5UTxH",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/maquina-de-lavar-consul-10-kg-dosagem-economica-cwb10bb-branca/p/MLB67841910",
-      "precoDe": 2689,
-      "pix": true,
-      "parcelas": "R$1.495,90 em 10x R$149,59 sem juros",
-      "postado": "2026-11-24T20:50:12.355Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2G5UTxH.jpg"
     }
   ]
 }
