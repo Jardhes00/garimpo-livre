@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-26T17:57:44.803Z",
+  "atualizado": "2026-11-26T17:59:00.331Z",
   "ofertas": [
+    {
+      "id": "18amNZe",
+      "nome": "Opk Original Relógio Masculino Quartzo À Prova D'água 6003",
+      "categoria": "Moda",
+      "preco": 102.6,
+      "link": "https://meli.la/18amNZe",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/opk-original-relogio-masculino-quartzo-prova-dagua-6003/up/MLBU2908216854",
+      "precoDe": 240,
+      "pix": true,
+      "parcelas": "R$108 em 4x R$27 sem juros",
+      "cupomAnuncio": "R$97,85 com Cupom por seguir a loja",
+      "postado": "2026-11-26T17:59:00.329Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-18amNZe.jpg"
+    },
     {
       "id": "2H9oCHL",
       "nome": "Kit Etiqueta Autoclave Dupla Rdc1002 + Caneta Esterilização",
