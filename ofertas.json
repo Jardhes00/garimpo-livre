@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T19:59:03.458Z",
+  "atualizado": "2026-11-26T20:00:18.927Z",
   "ofertas": [
+    {
+      "id": "1TD6eTK",
+      "nome": "Lavadora Portátil Alta Pressão Pistola 1000W 48V 2 Baterias",
+      "categoria": "Diversos",
+      "preco": 77.82,
+      "link": "https://meli.la/1TD6eTK",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-portatil-alta-pressao-pistola-1000w-48v-2-baterias/p/MLB59867845",
+      "precoDe": 219.9,
+      "pix": true,
+      "parcelas": "R$94,90 em outros meios",
+      "postado": "2026-11-26T20:00:18.925Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1TD6eTK.jpg"
+    },
     {
       "id": "2ULgSbY",
       "nome": "Frigobar Para Bebidas Bc52 52l Compacto Hq Preto",
@@ -6451,24 +6469,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-317SJET.jpg"
-    },
-    {
-      "id": "1dbQh9e",
-      "nome": "Jogo De Panelas Antiaderente 6pç Sirius Vanilla Brinox",
-      "categoria": "Games",
-      "preco": 594.06,
-      "link": "https://meli.la/1dbQh9e",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/jogo-de-panelas-antiaderente-6pc-sirius-vanilla-brinox/p/MLB34379877",
-      "precoDe": 1199,
-      "pix": true,
-      "parcelas": "R$ 698,90 em 10x R$ 69,89 sem juros",
-      "postado": "2026-11-24T19:59:42.007Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1dbQh9e.jpg"
     }
   ]
 }
