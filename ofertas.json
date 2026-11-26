@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T20:24:33.230Z",
+  "atualizado": "2026-11-26T20:26:33.268Z",
   "ofertas": [
+    {
+      "id": "1DnSF7x",
+      "nome": "Tênis Masculino Casual Aramis Daily Slip Confortável Moderno",
+      "categoria": "Moda",
+      "preco": 134.99,
+      "link": "https://meli.la/1DnSF7x",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tenis-masculino-casual-aramis-daily-slip-confortavel-moderno/up/MLBU4398961933",
+      "precoDe": 339.99,
+      "parcelas": "12x R$ 13,34",
+      "cupomAnuncio": "Compre R$400 e ganhe R$20 OFF por seguir a loja",
+      "postado": "2026-11-26T20:26:33.267Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1DnSF7x.jpg"
+    },
     {
       "id": "1bPEZRQ",
       "nome": "Arno Genio S Basic DGS5 Gris",
