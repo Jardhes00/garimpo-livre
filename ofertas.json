@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T18:31:30.879Z",
+  "atualizado": "2026-11-26T18:32:46.025Z",
   "ofertas": [
+    {
+      "id": "2bGZVA4",
+      "nome": "Cesta De Natal Bauducco P",
+      "categoria": "Diversos",
+      "preco": 88.9,
+      "link": "https://meli.la/2bGZVA4",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cesta-de-natal-bauducco-p/p/MLB2082976815",
+      "precoDe": 179.9,
+      "cupomAnuncio": "Compre R$150 e ganhe R$30 OFF",
+      "postado": "2026-11-26T18:32:46.024Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2bGZVA4.jpg"
+    },
     {
       "id": "2FrjVn1",
       "nome": "Bicicleta Spinning Com Roda De Inércia De 13kg Wct Fitness Original Cor Preto",
