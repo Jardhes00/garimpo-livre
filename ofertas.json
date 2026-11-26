@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T18:14:00.393Z",
+  "atualizado": "2026-11-26T18:15:15.352Z",
   "ofertas": [
+    {
+      "id": "2bPxBgN",
+      "nome": "Torradeira Inox Elite Elétrica 230ºc 850w 7 Níveis De Torra 2 Fatias Grossas",
+      "categoria": "Diversos",
+      "preco": 189.99,
+      "link": "https://meli.la/2bPxBgN",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/torradeira-inox-elite-eletrica-230c-850w-7-niveis-de-torra-2-fatias-grossas-com-bandeja-de-migalhas-removivel-hamilton-beach/p/MLB21014454",
+      "precoDe": 274.9,
+      "parcelas": "6x de R$31,67 sem juros",
+      "cupomAnuncio": "Compre R$350 e ganhe R$20 OFF por seguir a loja",
+      "postado": "2026-11-26T18:15:15.350Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2bPxBgN.jpg"
+    },
     {
       "id": "33gXd6E",
       "nome": "Caixa De Som Bluetooth Portátil LG Xboom Grab",
