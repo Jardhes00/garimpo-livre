@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T18:10:15.438Z",
+  "atualizado": "2026-11-26T18:11:30.500Z",
   "ofertas": [
+    {
+      "id": "2VvRXDQ",
+      "nome": "Fone de Ouvido Monster E62 Open-Ear Bluetooth, com Cancelamento de Ruído e",
+      "categoria": "Tech",
+      "preco": 99.99,
+      "link": "https://meli.la/2VvRXDQ",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fone-de-ouvido-monster-e62-open-ear-bluetooth-com-cancelamento-de-ruido-e-microfone/p/MLB41370035",
+      "precoDe": 400,
+      "postado": "2026-11-26T18:11:30.497Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2VvRXDQ.jpg"
+    },
     {
       "id": "1MPx51N",
       "nome": "Kit 4 Pilhas + Carregador De Pilhas Rápido Bivolt Aa/aaa",
