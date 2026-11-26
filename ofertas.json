@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T18:41:31.234Z",
+  "atualizado": "2026-11-26T18:42:46.024Z",
   "ofertas": [
+    {
+      "id": "1Vdask4",
+      "nome": "Máscara Wella Oil Reflections 150ml",
+      "categoria": "Beleza",
+      "preco": 84.51,
+      "link": "https://meli.la/1Vdask4",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mascara-wella-oil-reflections-150ml/p/MLB19525627",
+      "precoDe": 164,
+      "postado": "2026-11-26T18:42:46.022Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Vdask4.jpg"
+    },
     {
       "id": "2oMCNjn",
       "nome": "Armani Beauty, Perfume Masculino, Acqua di Giò Profondo Parfum, 200ml",
