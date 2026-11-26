@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-26T18:47:46.384Z",
+  "atualizado": "2026-11-26T18:49:01.161Z",
   "ofertas": [
+    {
+      "id": "258z2uH",
+      "nome": "Kérastase Génesis Sérum Fortalecedor Anti Queda Cure Activate 365 | 90ml |",
+      "categoria": "Beleza",
+      "preco": 301.5,
+      "link": "https://meli.la/258z2uH",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kerastase-genesis-serum-fortalecedor-anti-queda-cure-activate-365-90ml-/p/MLB19760356",
+      "precoDe": 484.9,
+      "pix": true,
+      "parcelas": "R$335 em 6x R$55,83 sem juros",
+      "cupomAnuncio": "Compre R$799 e ganhe R$100 OFF",
+      "postado": "2026-11-26T18:49:01.159Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-258z2uH.jpg"
+    },
     {
       "id": "2MGharg",
       "nome": "Câmera Inteligente Intelbras Ime 360 3mp Visão 360 Wi-fi Cor Branco",
