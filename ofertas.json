@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T20:36:18.460Z",
+  "atualizado": "2026-11-26T20:38:33.684Z",
   "ofertas": [
+    {
+      "id": "115pCQ7",
+      "nome": "Berço Portátil PipDip Co-Sleeper, Com Balanço e Colchão Extra Grosso",
+      "categoria": "Casa",
+      "preco": 502.9,
+      "link": "https://meli.la/115pCQ7",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/berco-portatil-pipdip-co-sleeper-com-balanco-e-colchao-extra-grosso/p/MLB72720626",
+      "precoDe": 1299.9,
+      "parcelas": "12x R$ 48,63",
+      "postado": "2026-11-26T20:38:33.682Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-115pCQ7.jpg"
+    },
     {
       "id": "1Z3jnth",
       "nome": "Relógio Casio G-Shock Masculino Carbon GA-2100-1A1DR Preto",
@@ -6763,41 +6780,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1TxhLJg.jpg"
-    },
-    {
-      "id": "1uai1id",
-      "nome": "Amaciante Downy Concentrado Perfume Collection Místico 3L",
-      "categoria": "Beleza",
-      "preco": 39.92,
-      "link": "https://meli.la/1uai1id",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/amaciante-downy-concentrado-perfume-collection-mistico-3l/p/MLB18409183",
-      "precoDe": 57.9,
-      "cupomAnuncio": "Compre R$69,90 e ganhe 15% OFF",
-      "postado": "2026-11-24T20:37:42.136Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1uai1id.jpg"
-    },
-    {
-      "id": "1NfcS5F",
-      "nome": "Creality K1C Impressora 3D preto 220*220*250 mm, Compatível Com CFS",
-      "categoria": "Tech",
-      "preco": 2600.99,
-      "link": "https://meli.la/1NfcS5F",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/creality-k1c-impressora-3d-preto-220220250-mm-compativel-com-cfs/p/MLB34239135",
-      "precoDe": 5969,
-      "pix": true,
-      "parcelas": "R$3.059,99 em 10x R$306 sem juros",
-      "postado": "2026-11-24T20:36:26.841Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1NfcS5F.jpg"
     }
   ]
 }
