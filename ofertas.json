@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-26T19:51:33.435Z",
+  "atualizado": "2026-11-26T19:52:48.420Z",
   "ofertas": [
+    {
+      "id": "1S9iPHP",
+      "nome": "Kérastase Chroma Absolu Fondant Cica Chroma Condicionador Cuidado de Color",
+      "categoria": "Beleza",
+      "preco": 188.1,
+      "link": "https://meli.la/1S9iPHP",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kerastase-chroma-absolu-fondant-cica-chroma-condicionador-cuidado-de-color-200ml/p/MLB35478376",
+      "precoDe": 330.9,
+      "pix": true,
+      "parcelas": "R$209 em 6x R$34,83 sem juros",
+      "cupomAnuncio": "Compre R$799 e ganhe R$100 OFF",
+      "postado": "2026-11-26T19:52:48.418Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1S9iPHP.jpg"
+    },
     {
       "id": "2si6ZWh",
       "nome": "Mouse Logitech M90 USB com Fio 1000 DPI 3 Botões Óptico Preto Plug and Play",
@@ -6421,22 +6440,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1YynH6F.jpg"
-    },
-    {
-      "id": "1pTZcEW",
-      "nome": "Vinho Português Branco Casal Garcia Vinho Verde Aveleda 750ml",
-      "categoria": "Diversos",
-      "preco": 41.89,
-      "link": "https://meli.la/1pTZcEW",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/vinho-portugues-branco-casal-garcia-vinho-verde-aveleda-750ml/p/MLB18216944",
-      "precoDe": 76.9,
-      "postado": "2026-11-24T19:52:41.721Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1pTZcEW.jpg"
     }
   ]
 }
