@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-26T19:39:03.075Z",
+  "atualizado": "2026-11-26T19:40:18.102Z",
   "ofertas": [
+    {
+      "id": "2WwCAG6",
+      "nome": "Roteador Mercusys Mr60x 1500 Mbps 4 Antenas 3 Portas Gigabit Dual Band EasyMesh",
+      "categoria": "Diversos",
+      "preco": 104.92,
+      "link": "https://meli.la/2WwCAG6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/roteador-mercusys-mr60x-1500-mbps-4-antenas-3-portas-gigabit-dual-band-easymesh/p/MLB56337155",
+      "precoDe": 179.9,
+      "pix": true,
+      "parcelas": "R$139,90 em 3x R$46,63 sem juros",
+      "cupomAnuncio": "R$82,42 com Cupom",
+      "postado": "2026-11-26T19:40:18.100Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2WwCAG6.jpg"
+    },
     {
       "id": "24MD6o1",
       "nome": "Patinete Elétrico 350w E App Gps Bateria Recarregável Dobrável Super Autonomia",
@@ -6389,24 +6408,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1ZNdV4h.jpg"
-    },
-    {
-      "id": "2ByykcM",
-      "nome": "Controle Sem Fio Xbox Series X|S Microsoft Azul Shock com Bluetooth",
-      "categoria": "Games",
-      "preco": 339.91,
-      "link": "https://meli.la/2ByykcM",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/controle-sem-fio-xbox-series-xs-microsoft-azul-shock-com-bluetooth/p/MLB51545470",
-      "precoDe": 615.12,
-      "pix": true,
-      "parcelas": "R$ 399,90 em outros meios",
-      "postado": "2026-11-24T19:39:26.042Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2ByykcM.jpg"
     }
   ]
 }
