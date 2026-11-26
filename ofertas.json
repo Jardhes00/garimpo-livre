@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T18:12:45.597Z",
+  "atualizado": "2026-11-26T18:14:00.393Z",
   "ofertas": [
+    {
+      "id": "33gXd6E",
+      "nome": "Caixa De Som Bluetooth Portátil LG Xboom Grab",
+      "categoria": "Tech",
+      "preco": 362.39,
+      "link": "https://meli.la/33gXd6E",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-portatil-lg-xboom-grab/p/MLB56679838",
+      "precoDe": 839,
+      "parcelas": "7x de R$51,77 sem juros",
+      "postado": "2026-11-26T18:14:00.389Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-33gXd6E.jpg"
+    },
     {
       "id": "1b896EN",
       "nome": "Carregador Turbo 200w Inteligente Usb-c Usb-a Bivolt",
