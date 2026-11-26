@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T18:49:01.161Z",
+  "atualizado": "2026-11-26T18:50:16.355Z",
   "ofertas": [
+    {
+      "id": "29RPuCY",
+      "nome": "Ar-condicionado Electrolux Color Adapt Inverter 12.000 BTUs Frio (J12C)",
+      "categoria": "Casa",
+      "preco": 1999,
+      "link": "https://meli.la/29RPuCY",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-electrolux-color-adapt-inverter-12000-btus-frio-j12c/p/MLB80060387",
+      "precoDe": 3021,
+      "cupomAnuncio": "R$1.959 com Cupom",
+      "postado": "2026-11-26T18:50:16.351Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-29RPuCY.jpg"
+    },
     {
       "id": "258z2uH",
       "nome": "Kérastase Génesis Sérum Fortalecedor Anti Queda Cure Activate 365 | 90ml |",
