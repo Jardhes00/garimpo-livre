@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-26T18:39:01.187Z",
+  "atualizado": "2026-11-26T18:40:16.200Z",
   "ofertas": [
+    {
+      "id": "2pYjcHU",
+      "nome": "Lavadora e Desobstruidora de Alta Pressão WAP 5100 TURBO ULTRA Motor Indução",
+      "categoria": "Diversos",
+      "preco": 1519.9,
+      "link": "https://meli.la/2pYjcHU",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-e-desobstruidora-de-alta-pressao-wap-5100-turbo-ultra-motor-inducao-2300-psi-2500w-550-lh-220v/p/MLB22316479",
+      "precoDe": 2173,
+      "pix": true,
+      "parcelas": "R$1.599,90 em 10x R$159,99 sem juros",
+      "cupomAnuncio": "R$1.479,90 com Cupom",
+      "postado": "2026-11-26T18:40:16.198Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2pYjcHU.jpg"
+    },
     {
       "id": "1dZtSbT",
       "nome": "Kit Wella Professionals Invigo Nutri-enrich Trio Pequeno",
