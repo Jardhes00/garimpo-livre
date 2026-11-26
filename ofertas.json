@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T18:59:01.666Z",
+  "atualizado": "2026-11-26T19:00:16.731Z",
   "ofertas": [
+    {
+      "id": "1GafLAW",
+      "nome": "Corneta Taramps Sfd4300 8ohms 300w Corneta Som Automotivo",
+      "categoria": "Auto",
+      "preco": 504.9,
+      "link": "https://meli.la/1GafLAW",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/corneta-taramps-sfd4300-8ohms-300w-corneta-som-automotivo/up/MLBU1969343811",
+      "precoDe": 949.86,
+      "pix": true,
+      "parcelas": "R$594 em outros meios",
+      "postado": "2026-11-26T19:00:16.729Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1GafLAW.jpg"
+    },
     {
       "id": "15rhfHS",
       "nome": "EUCERIN Protetor Solar Facial Antimanchas Cor Clara FPS 70 50ml, Pigment",
