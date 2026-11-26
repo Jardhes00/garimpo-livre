@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T19:14:02.171Z",
+  "atualizado": "2026-11-26T19:15:17.168Z",
   "ofertas": [
+    {
+      "id": "2UwSCuf",
+      "nome": "Cafeteira Espresso Dolce Crema 20 Bar Mondial Preto/Inox 1200W C-21-E-CNP",
+      "categoria": "Casa",
+      "preco": 449,
+      "link": "https://meli.la/2UwSCuf",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafeteira-espresso-dolce-crema-20-bar-mondial-pretoinox-1200w-c-21-e-cnp/p/MLB65923840",
+      "precoDe": 719.9,
+      "cupomAnuncio": "R$409 com Cupom",
+      "postado": "2026-11-26T19:15:17.167Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2UwSCuf.jpg"
+    },
     {
       "id": "1optVXt",
       "nome": "Máquina de costura reta Singer Facilita Pro 4423 portátil - cinza",
