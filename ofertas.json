@@ -1,6 +1,26 @@
 {
-  "atualizado": "2026-11-26T20:31:33.324Z",
+  "atualizado": "2026-11-26T20:32:48.376Z",
   "ofertas": [
+    {
+      "id": "2hi1kjV",
+      "nome": "Whey Protein Concentrado 1kg Dark Lab Sabor Baunilha",
+      "categoria": "Suplementos",
+      "preco": 123.21,
+      "link": "https://meli.la/2hi1kjV",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-protein-concentrado-1kg-dark-lab-sabor-baunilha/p/MLB40367709",
+      "precoDe": 319.9,
+      "pix": true,
+      "parcelas": "R$ 136,90 em outros meios",
+      "extra": "R$ 20 OFF com cupom no anúncio",
+      "cupomAnuncio": "Compre R$187 e ganhe R$20 OFF",
+      "postado": "2026-11-26T20:32:48.374Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2hi1kjV.jpg"
+    },
     {
       "id": "17RsVZ7",
       "nome": "Relógio inteligente Samsung Galaxy Watch8 (bluetooth, 44 mm) preto grafite preto milanês preto preto",
@@ -6777,25 +6797,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1oVKaPC.jpg"
-    },
-    {
-      "id": "25B1KzF",
-      "nome": "Estação Musculação 45kg Completa Academia Treino Wct Fitness Preto Preto E",
-      "categoria": "Esporte",
-      "preco": 1399,
-      "link": "https://meli.la/25B1KzF",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/estacao-musculacao-45kg-completa-academia-treino-wct-fitness/p/MLB24423814",
-      "precoDe": 3000.9,
-      "pix": true,
-      "parcelas": "R$1.499 em 10x R$149,90 sem juros",
-      "cupomAnuncio": "R$1.360 com Cupom por seguir a loja",
-      "postado": "2026-11-24T20:32:42.093Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-25B1KzF.jpg"
     }
   ]
 }
