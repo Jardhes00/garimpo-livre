@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-26T17:55:14.860Z",
+  "atualizado": "2026-11-26T17:56:30.101Z",
   "ofertas": [
+    {
+      "id": "2tEBb9N",
+      "nome": "Torneira Gourmet Filtro Parede Flexivel Preta Pia Cozinha",
+      "categoria": "Casa",
+      "preco": 128.2,
+      "link": "https://meli.la/2tEBb9N",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/torneira-gourmet-filtro-parede-flexivel-preta-pia-cozinha/up/MLBU1418049189",
+      "precoDe": 189.99,
+      "pix": true,
+      "parcelas": "R$134,95 em 4x R$33,74 sem juros",
+      "cupomAnuncio": "Compre R$399 e ganhe R$40 OFF",
+      "postado": "2026-11-26T17:56:30.098Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2tEBb9N.jpg"
+    },
     {
       "id": "2QifPje",
       "nome": "Tênis Ramarim Feminino 2589202",
