@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T19:02:46.836Z",
+  "atualizado": "2026-11-26T19:04:01.931Z",
   "ofertas": [
+    {
+      "id": "1v5pcZs",
+      "nome": "Ar-condicionado Split Consul Triple Inverter Econo - Cbk12cb",
+      "categoria": "Casa",
+      "preco": 1999,
+      "link": "https://meli.la/1v5pcZs",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-split-consul-triple-inverter-econo-cbk12cb/up/MLBU4928316947",
+      "precoDe": 2999,
+      "parcelas": "10x de R$199,90 sem juros",
+      "postado": "2026-11-26T19:04:01.929Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1v5pcZs.jpg"
+    },
     {
       "id": "17ofFcg",
       "nome": "Detergente Ypê Pro 7 Litros",
