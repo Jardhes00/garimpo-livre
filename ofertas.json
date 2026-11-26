@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T19:04:01.931Z",
+  "atualizado": "2026-11-26T19:05:16.971Z",
   "ofertas": [
+    {
+      "id": "2uttnCU",
+      "nome": "Gazebo Barraca Tenda Camping Praia Garagem Feira Teto 3x3 Mt Cor Azul",
+      "categoria": "Diversos",
+      "preco": 398.9,
+      "link": "https://meli.la/2uttnCU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/gazebo-barraca-tenda-camping-praia-garagem-feira-teto-3x3-mt-cor-azul/p/MLB63777568",
+      "precoDe": 549.99,
+      "cupomAnuncio": "Compre R$700 e ganhe R$35 OFF por seguir a loja",
+      "postado": "2026-11-26T19:05:16.969Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2uttnCU.jpg"
+    },
     {
       "id": "1v5pcZs",
       "nome": "Ar-condicionado Split Consul Triple Inverter Econo - Cbk12cb",
