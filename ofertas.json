@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T20:38:33.684Z",
+  "atualizado": "2026-11-26T20:40:03.758Z",
   "ofertas": [
+    {
+      "id": "2TMUpbs",
+      "nome": "Jogo Sonic Racing Crossworlds Launch Edition Switch Fisico",
+      "categoria": "Games",
+      "preco": 138.2,
+      "link": "https://meli.la/2TMUpbs",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/jogo-sonic-racing-crossworlds-launch-edition-switch-fisico/p/MLB54245130",
+      "precoDe": 379.71,
+      "pix": true,
+      "parcelas": "R$ 145,47 em outros meios",
+      "postado": "2026-11-26T20:40:03.757Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2TMUpbs.jpg"
+    },
     {
       "id": "115pCQ7",
       "nome": "Berço Portátil PipDip Co-Sleeper, Com Balanço e Colchão Extra Grosso",
@@ -6764,22 +6782,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1Uo5z8u.jpg"
-    },
-    {
-      "id": "1TxhLJg",
-      "nome": "Fralda Pampers Pants Ajuste Total Tamanho XXG 120 Unidades",
-      "categoria": "Bebê",
-      "preco": 140.06,
-      "link": "https://meli.la/1TxhLJg",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/fralda-pampers-pants-ajuste-total-tamanho-xxg-120-unidades/p/MLB27937426",
-      "precoDe": 203.9,
-      "postado": "2026-11-24T20:38:57.673Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1TxhLJg.jpg"
     }
   ]
 }
