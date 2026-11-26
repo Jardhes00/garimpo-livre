@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T19:54:03.651Z",
+  "atualizado": "2026-11-26T19:55:18.439Z",
   "ofertas": [
+    {
+      "id": "2uDKQia",
+      "nome": "Shampoo Pantene Pro-V Diamond Glow 1 L",
+      "categoria": "Beleza",
+      "preco": 37.9,
+      "link": "https://meli.la/2uDKQia",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/shampoo-pantene-pro-v-diamond-glow-1-l/p/MLB79713643",
+      "precoDe": 55.9,
+      "postado": "2026-11-26T19:55:18.436Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2uDKQia.jpg"
+    },
     {
       "id": "1YNt5Bh",
       "nome": "Colchão Queen Emma Original 158x198cm 3 Camadas de Espuma à Vácuo, Alta",
@@ -6438,25 +6454,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2XswSdS.jpg"
-    },
-    {
-      "id": "1YynH6F",
-      "nome": "Ração Pedigree Cães Adultos Raças pequenas Sabor Carne e Vegetais de 15kg",
-      "categoria": "Pet",
-      "preco": 121.63,
-      "link": "https://meli.la/1YynH6F",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/racao-pedigree-caes-adultos-racas-pequenas-sabor-carne-e-vegetais-de-15kg/p/MLB17938255",
-      "precoDe": 199.9,
-      "pix": true,
-      "parcelas": "R$ 135,15 em outros meios",
-      "cupomAnuncio": "R$121,63 com Cupom",
-      "postado": "2026-11-24T19:54:26.694Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1YynH6F.jpg"
     }
   ]
 }
