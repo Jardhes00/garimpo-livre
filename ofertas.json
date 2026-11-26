@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T20:00:18.927Z",
+  "atualizado": "2026-11-26T20:01:33.049Z",
   "ofertas": [
+    {
+      "id": "1ZZJqbV",
+      "nome": "Lavadora De Alta Pressão Electrolux 1600psi 1400w De Potência Com Engate Rápido",
+      "categoria": "Diversos",
+      "preco": 309,
+      "link": "https://meli.la/1ZZJqbV",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-electrolux-1600psi-1400w-de-potencia-com-engate-rapido-easywash-lava-jato-lava-car-qws1600-cinza/p/MLB42082466",
+      "precoDe": 429,
+      "parcelas": "10x de R$30,90 sem juros",
+      "postado": "2026-11-26T20:01:33.048Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ZZJqbV.jpg"
+    },
     {
       "id": "1TD6eTK",
       "nome": "Lavadora Portátil Alta Pressão Pistola 1000W 48V 2 Baterias",
@@ -6450,25 +6467,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1zG5QM7.jpg"
-    },
-    {
-      "id": "317SJET",
-      "nome": "Whisky Jack Daniel's Tennessee Apple de 1 L",
-      "categoria": "Diversos",
-      "preco": 109.99,
-      "link": "https://meli.la/317SJET",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/whisky-jack-daniels-tennessee-apple-de-1-l/p/MLB78001990",
-      "precoDe": 149.99,
-      "parcelas": "12x R$ 10,87",
-      "extra": "R$50 OFF com cupom no anúncio",
-      "cupomAnuncio": "Compre R$199 e ganhe R$50 OFF",
-      "postado": "2026-11-24T20:00:56.777Z",
-      "conferido": "2026-11-24",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-317SJET.jpg"
     }
   ]
 }
