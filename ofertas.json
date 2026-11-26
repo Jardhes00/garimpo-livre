@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T18:57:46.553Z",
+  "atualizado": "2026-11-26T18:59:01.666Z",
   "ofertas": [
+    {
+      "id": "15rhfHS",
+      "nome": "EUCERIN Protetor Solar Facial Antimanchas Cor Clara FPS 70 50ml, Pigment",
+      "categoria": "Beleza",
+      "preco": 59.89,
+      "link": "https://meli.la/15rhfHS",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/eucerin-protetor-solar-facial-antimanchas-cor-clara-fps-70-50ml-pigment-control-protecao-uva-uvb-e-luz-visivel-thiamidol/p/MLB19828355",
+      "precoDe": 129.9,
+      "parcelas": "2x de R$29,95 sem juros",
+      "postado": "2026-11-26T18:59:01.664Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-15rhfHS.jpg"
+    },
     {
       "id": "1vmgnqc",
       "nome": "Óleo Capilar Pantene Pro-V Queratina Milagroso Finalizador Leave-in 95 ml",
