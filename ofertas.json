@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T18:22:46.006Z",
+  "atualizado": "2026-11-26T18:24:00.407Z",
   "ofertas": [
+    {
+      "id": "1AXAtuo",
+      "nome": "Mascara Sebastian Dark Oil",
+      "categoria": "Diversos",
+      "preco": 107.55,
+      "link": "https://meli.la/1AXAtuo",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mascara-sebastian-dark-oil/p/MLB67625344",
+      "precoDe": 197,
+      "cupomAnuncio": "Compre R$150 e ganhe R$30 OFF",
+      "postado": "2026-11-26T18:24:00.405Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1AXAtuo.jpg"
+    },
     {
       "id": "2TTsejE",
       "nome": "Aspirador de Pó Vertical 1450W Electrolux cabo 5,0m portátil de mão 2 em 1",
