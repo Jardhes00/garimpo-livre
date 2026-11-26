@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-26T18:52:46.532Z",
+  "atualizado": "2026-11-26T18:54:01.444Z",
   "ofertas": [
+    {
+      "id": "1kAvdDZ",
+      "nome": "Máscara Kérastase Nutritive Masquintense Riche 200ml",
+      "categoria": "Diversos",
+      "preco": 255.35,
+      "link": "https://meli.la/1kAvdDZ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mascara-kerastase-nutritive-masquintense-riche-200ml/p/MLB26377245",
+      "precoDe": 399.9,
+      "parcelas": "6x de R$42,56 sem juros",
+      "postado": "2026-11-26T18:54:01.443Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1kAvdDZ.jpg"
+    },
     {
       "id": "294drJg",
       "nome": "Gillette Mach3 Sensitive Com 16 Lâminas",
