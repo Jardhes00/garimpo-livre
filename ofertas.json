@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-26T20:02:48.775Z",
+  "atualizado": "2026-11-26T20:04:03.829Z",
   "ofertas": [
+    {
+      "id": "14jbzkP",
+      "nome": "Capacete Integral ASX City Solid SV Preto Fosco com Viseira Solar",
+      "categoria": "Diversos",
+      "preco": 405.13,
+      "link": "https://meli.la/14jbzkP",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/capacete-integral-asx-city-solid-sv-preto-fosco-com-viseira-solar/p/MLB63335393",
+      "precoDe": 599,
+      "pix": true,
+      "parcelas": "R$426,45 em 8x R$53,31 sem juros",
+      "postado": "2026-11-26T20:04:03.826Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-14jbzkP.jpg"
+    },
     {
       "id": "1BGMJnu",
       "nome": "Papel Higiênico Neve Supreme Folha Tripla, Kit Com 24 Rolos",
