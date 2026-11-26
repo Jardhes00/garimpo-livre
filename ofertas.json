@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-26T19:27:48.169Z",
+  "atualizado": "2026-11-26T19:29:03.064Z",
   "ofertas": [
+    {
+      "id": "19DQJ4y",
+      "nome": "Micro-ondas Panasonic 21 Litros Branco - NN-ST25lWRU",
+      "categoria": "Casa",
+      "preco": 410.1,
+      "link": "https://meli.la/19DQJ4y",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-panasonic-21-litros-branco-nn-st25lwru/p/MLB17325969",
+      "precoDe": 649,
+      "postado": "2026-11-26T19:29:03.062Z",
+      "conferido": "2026-11-26",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-19DQJ4y.jpg"
+    },
     {
       "id": "2BKy8e9",
       "nome": "Whisky Chivas Regal 18 Anos Escocês 750 Ml",
