@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T11:21:54.775Z",
+  "atualizado": "2026-11-27T11:23:09.186Z",
   "ofertas": [
+    {
+      "id": "2TJTL6Z",
+      "nome": "Amaciante Downy Concentrado Brisa Suave 3L Rende 12L",
+      "categoria": "Diversos",
+      "preco": 37.88,
+      "link": "https://meli.la/2TJTL6Z",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/amaciante-downy-concentrado-brisa-suave-3l-rende-12l/p/MLB32396229",
+      "precoDe": 57.9,
+      "cupomAnuncio": "Compre R$69,90 e ganhe 30% OFF",
+      "postado": "2026-11-27T11:23:09.185Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2TJTL6Z.jpg"
+    },
     {
       "id": "1FewYd4",
       "nome": "Máquina de Lavar Electrolux Efficient 12kg Branca Compacta, Econômica e",
