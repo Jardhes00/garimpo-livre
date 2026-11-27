@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T16:12:06.077Z",
+  "atualizado": "2026-11-27T16:13:21.030Z",
   "ofertas": [
+    {
+      "id": "2vkAEmD",
+      "nome": "Whey Concentrado 750g Growth Supplements - Variados Sabores",
+      "categoria": "Suplementos",
+      "preco": 134.91,
+      "link": "https://meli.la/2vkAEmD",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-concentrado-750g-growth-supplements-variados-sabores/up/MLBU5106097630",
+      "precoDe": 279.9,
+      "pix": true,
+      "parcelas": "R$149,90 em outros meios",
+      "cupomAnuncio": "Compre R$159 e ganhe R$25 OFF",
+      "postado": "2026-11-27T16:13:21.028Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2vkAEmD.jpg"
+    },
     {
       "id": "1RdfL8z",
       "nome": "Mixer Arno Turbomix Pro 3 Em 1 Cor Preto 127v MX31",
