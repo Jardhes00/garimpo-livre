@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T17:29:23.334Z",
+  "atualizado": "2026-11-27T17:30:38.120Z",
   "ofertas": [
+    {
+      "id": "1JtBni1",
+      "nome": "Termo Stanley Classic 950mL preto liso",
+      "categoria": "Diversos",
+      "preco": 189.09,
+      "link": "https://meli.la/1JtBni1",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB15558230",
+      "precoDe": 349,
+      "parcelas": "6x R$ 31,52 sem juros",
+      "postado": "2026-11-27T17:30:38.118Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1JtBni1.jpg"
+    },
     {
       "id": "2SPgram",
       "nome": "Caixa Para Ferramentas Tramontina Master Sanfonada 43800/005 Azul 5 Gavetas",
@@ -9901,24 +9918,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2oTrAws.jpg"
-    },
-    {
-      "id": "22fG5VB",
-      "nome": "Secador Modelador Cadence Poderosa, SEC1000, Escova e Cachos, 220 V",
-      "categoria": "Beleza",
-      "preco": 283.41,
-      "link": "https://meli.la/22fG5VB",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/secador-modelador-cadence-poderosa-sec1000-escova-e-cachos-220-v/p/MLB77837809",
-      "precoDe": 499,
-      "pix": true,
-      "parcelas": "R$314,90 em outros meios",
-      "postado": "2026-11-25T17:29:42.582Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-22fG5VB.jpg"
     }
   ]
 }
