@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T12:44:26.475Z",
+  "atualizado": "2026-11-27T12:45:41.684Z",
   "ofertas": [
+    {
+      "id": "2NNZerP",
+      "nome": "Monitor Gamer Curvo Samsung Odyssey 34\" G5 165 Hz 1ms Ultrawide Preto",
+      "categoria": "Tech",
+      "preco": 1569,
+      "link": "https://meli.la/2NNZerP",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/monitor-gamer-curvo-samsung-odyssey-34-g5-165-hz-1ms-ultrawide-preto/p/MLB37944478",
+      "precoDe": 2199,
+      "parcelas": "2x de R$784,50 sem juros",
+      "postado": "2026-11-27T12:45:41.683Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2NNZerP.jpg"
+    },
     {
       "id": "1KDPHAb",
       "nome": "Whey protein Dux Nutrition FreshWhey em pó sabor Chocolate belga e avelã x 900g",
