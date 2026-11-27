@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T12:46:56.574Z",
+  "atualizado": "2026-11-27T12:48:11.632Z",
   "ofertas": [
+    {
+      "id": "2F9WLka",
+      "nome": "Mala Viagem Wilson P Bordo 10kg Unitária M 23kg Expansível",
+      "categoria": "Diversos",
+      "preco": 330.19,
+      "link": "https://meli.la/2F9WLka",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mala-viagem-wilson-p-bordo-10kg-unitaria-m-23kg-expansivel/up/MLBU5347717206",
+      "precoDe": 485.58,
+      "parcelas": "7x de R$51,33 sem juros",
+      "postado": "2026-11-27T12:48:11.630Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2F9WLka.jpg"
+    },
     {
       "id": "2LKi1Qj",
       "nome": "Freezer Horizontal 142l Inverter Bivolt Branco Midea",
