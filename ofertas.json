@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T19:41:52.999Z",
+  "atualizado": "2026-11-27T19:43:08.013Z",
   "ofertas": [
+    {
+      "id": "2DnHSBv",
+      "nome": "Sofá Retrátil Reclinável Aconchego 2,30m Bouclê Cinza Liso",
+      "categoria": "Diversos",
+      "preco": 1346.73,
+      "link": "https://meli.la/2DnHSBv",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/sofa-retratil-reclinavel-aconchego-230m-boucle-cinza/p/MLB46050063",
+      "precoDe": 3002.89,
+      "pix": true,
+      "parcelas": "R$1.749 em 10x R$174,90 sem juros",
+      "cupomAnuncio": "R$1.269,77 com Cupom por seguir a loja",
+      "postado": "2026-11-27T19:43:08.011Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2DnHSBv.jpg"
+    },
     {
       "id": "1rrWWLs",
       "nome": "Robô Aspirador De Pó Inteligente Passa Pano Mapeamento Ekaza Preto",
@@ -9166,26 +9185,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2beryou.jpg"
-    },
-    {
-      "id": "2A3eN6x",
-      "nome": "Protetor Solar Facial Alta Cobertura Anthelios La Roche-Posay Cor 3.0 30g",
-      "categoria": "Beleza",
-      "preco": 63.62,
-      "link": "https://meli.la/2A3eN6x",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB19767143",
-      "precoDe": 109.9,
-      "pix": true,
-      "parcelas": "R$ 74,85 em outros meios",
-      "extra": "15% OFF com cupom no anúncio",
-      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
-      "postado": "2026-11-25T19:43:01.108Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2A3eN6x.jpg"
     }
   ]
 }
