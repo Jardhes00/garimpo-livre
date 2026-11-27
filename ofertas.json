@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T14:30:47.688Z",
+  "atualizado": "2026-11-27T14:32:03.077Z",
   "ofertas": [
+    {
+      "id": "1wdh77R",
+      "nome": "Liquidificador Oster Full 3,2L 220V 1400W Preto OLIQ610",
+      "categoria": "Casa",
+      "preco": 148.82,
+      "link": "https://meli.la/1wdh77R",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/liquidificador-oster-full-32l-220v-1400w-preto-oliq610/p/MLB16602519",
+      "precoDe": 269.9,
+      "parcelas": "4x de R$37,21 sem juros",
+      "postado": "2026-11-27T14:32:03.075Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1wdh77R.jpg"
+    },
     {
       "id": "2KF2Mmb",
       "nome": "Micro-Ondas Mondial 1200W MO-01-21-B",
