@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T12:13:10.695Z",
+  "atualizado": "2026-11-27T12:14:25.675Z",
   "ofertas": [
+    {
+      "id": "2fzuK7w",
+      "nome": "Som Automotivo Radio Pioneer Bluetooth Usb Lançamento Mp3",
+      "categoria": "Auto",
+      "preco": 311.08,
+      "link": "https://meli.la/2fzuK7w",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/som-automotivo-radio-pioneer-bluetooth-usb-lancamento-mp3/up/MLBU3425141084",
+      "precoDe": 699.9,
+      "pix": true,
+      "parcelas": "R$365,98 em outros meios",
+      "postado": "2026-11-27T12:14:25.673Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2fzuK7w.jpg"
+    },
     {
       "id": "2FqbKN1",
       "nome": "Impressora multifuncional Epson Ecotank L4360",
