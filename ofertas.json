@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T19:34:22.844Z",
+  "atualizado": "2026-11-27T19:35:37.846Z",
   "ofertas": [
+    {
+      "id": "1QAEdTy",
+      "nome": "Cadeira de Escritório Gamer Alpha Racer Ergonômica Couro Sintético Reclinável",
+      "categoria": "Games",
+      "preco": 421.73,
+      "link": "https://meli.la/1QAEdTy",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-escritorio-gamer-alpha-racer-ergonomica-couro-sintetico-reclinavel-altura-ajustavel-com-apoio-para-pes-preta-vincere-brasil/p/MLB51379247",
+      "precoDe": 838,
+      "parcelas": "8x de R$52,72 sem juros",
+      "postado": "2026-11-27T19:35:37.843Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1QAEdTy.jpg"
+    },
     {
       "id": "1sfqLpq",
       "nome": "ISDIN Protetor Solar Facial Fusion Water Magic Color FPS 50 - Cor Média - 50ml",
@@ -9157,23 +9174,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1roA31M.jpg"
-    },
-    {
-      "id": "1Ri1G9Q",
-      "nome": "Micro-ondas 21 Litros Mondial 1200W - Mo-01-21-B",
-      "categoria": "Casa",
-      "preco": 400.73,
-      "link": "https://meli.la/1Ri1G9Q",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB19119114",
-      "precoDe": 636.9,
-      "parcelas": "12x R$ 38,75",
-      "postado": "2026-11-25T19:34:30.830Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1Ri1G9Q.jpg"
     }
   ]
 }
