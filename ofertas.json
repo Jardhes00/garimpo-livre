@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T15:44:35.275Z",
+  "atualizado": "2026-11-27T15:45:50.070Z",
   "ofertas": [
+    {
+      "id": "1dbJDcS",
+      "nome": "Boné Nike Club Swoosh Unissex Cor Preto Tamanho M/g",
+      "categoria": "Diversos",
+      "preco": 55.99,
+      "link": "https://meli.la/1dbJDcS",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bone-nike-club-swoosh-unissex-cor-preto-tamanho-mg/p/MLB56159637",
+      "precoDe": 179.99,
+      "pix": true,
+      "parcelas": "R$58,94 em outros meios",
+      "cupomAnuncio": "Compre R$159 e ganhe R$25 OFF",
+      "postado": "2026-11-27T15:45:50.069Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1dbJDcS.jpg"
+    },
     {
       "id": "2kQnAZk",
       "nome": "Taiff Black Ion Secador De Cabelo Profissional 2000w Cor Preto",
