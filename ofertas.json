@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T15:24:34.346Z",
+  "atualizado": "2026-11-27T15:25:49.766Z",
   "ofertas": [
+    {
+      "id": "1GCXV1H",
+      "nome": "Sala De Jantar 4 Cadeiras Charlotte Carraro Nogal cor preto",
+      "categoria": "Diversos",
+      "preco": 715.47,
+      "link": "https://meli.la/1GCXV1H",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/sala-de-jantar-4-cadeiras-charlotte-carraro-nogal-cor-preto/p/MLB51534474",
+      "precoDe": 1578.94,
+      "pix": true,
+      "parcelas": "R$794,97 em 10x R$79,50 sem juros",
+      "postado": "2026-11-27T15:25:49.764Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1GCXV1H.jpg"
+    },
     {
       "id": "253yvYR",
       "nome": "Cafeteira elétrica Electrolux inox filtro permanente removivel corta pingos",
