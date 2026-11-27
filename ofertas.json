@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T11:46:54.772Z",
+  "atualizado": "2026-11-27T11:48:09.917Z",
   "ofertas": [
+    {
+      "id": "1SCcLYy",
+      "nome": "Limpadora De Pisos Sem Fio Arno X-clean 7 Lxc7 Preto",
+      "categoria": "Diversos",
+      "preco": 2789.07,
+      "link": "https://meli.la/1SCcLYy",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/limpadora-de-pisos-sem-fio-arno-x-clean-7-lxc7-preto/p/MLB74415167",
+      "precoDe": 3999,
+      "pix": true,
+      "parcelas": "R$2.999 em 10x R$299,90 sem juros",
+      "cupomAnuncio": "R$2.658,87 com Cupom",
+      "postado": "2026-11-27T11:48:09.916Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1SCcLYy.jpg"
+    },
     {
       "id": "24LZ91d",
       "nome": "Panela De Pressão Elétrica Ppe-102 6 Litros Kian Preto",
