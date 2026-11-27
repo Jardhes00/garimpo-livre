@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T19:19:22.208Z",
+  "atualizado": "2026-11-27T19:20:37.288Z",
   "ofertas": [
+    {
+      "id": "1tZR6wP",
+      "nome": "Purificador Água E-due Equilibrium Grafite Ibbl Bivolt",
+      "categoria": "Diversos",
+      "preco": 371.9,
+      "link": "https://meli.la/1tZR6wP",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/purificador-agua-e-due-equilibrium-grafite-ibbl-bivolt/p/MLB68765218",
+      "precoDe": 519.99,
+      "postado": "2026-11-27T19:20:37.286Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1tZR6wP.jpg"
+    },
     {
       "id": "21NaKZK",
       "nome": "Whisky Jack Daniel's Tennesee Honey 1 Litro",
@@ -9037,24 +9053,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2XN1RC9.jpg"
-    },
-    {
-      "id": "1ETAnWK",
-      "nome": "Carrinho de Bebê Cosco Kids, Toffy, Preto Absoluto",
-      "categoria": "Bebê",
-      "preco": 351.4,
-      "link": "https://meli.la/1ETAnWK",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/carrinho-de-bebe-cosco-kids-toffy-preto-absoluto/p/MLB22508964",
-      "precoDe": 599,
-      "pix": true,
-      "parcelas": "R$369,90 em 12x R$30,82 sem juros",
-      "postado": "2026-11-25T19:19:46.053Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1ETAnWK.jpg"
     }
   ]
 }
