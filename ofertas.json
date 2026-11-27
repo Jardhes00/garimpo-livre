@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T14:52:03.501Z",
+  "atualizado": "2026-11-27T14:53:18.594Z",
   "ofertas": [
+    {
+      "id": "2RX5uWQ",
+      "nome": "Secador Multifuncional 5 em 1 Mondial SM-01-BLDC-SP Roxo",
+      "categoria": "Beleza",
+      "preco": 429.3,
+      "link": "https://meli.la/2RX5uWQ",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/secador-multifuncional-5-em-1-mondial-sm-01-bldc-sp-roxo/p/MLB66170612",
+      "precoDe": 699.9,
+      "pix": true,
+      "parcelas": "R$477 em 9x R$53 sem juros",
+      "postado": "2026-11-27T14:53:18.593Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2RX5uWQ.jpg"
+    },
     {
       "id": "1k3HxsN",
       "nome": "Fritadeira Air Fryer Philco PAF16A 4 Em 1 Painel Digital 16l",
