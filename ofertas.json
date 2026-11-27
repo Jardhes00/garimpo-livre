@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T19:08:07.300Z",
+  "atualizado": "2026-11-27T19:09:21.807Z",
   "ofertas": [
+    {
+      "id": "2E5EUCC",
+      "nome": "Micro-ondas Mondial 21L 1200W MO-01-21-E Espelhado",
+      "categoria": "Casa",
+      "preco": 398.05,
+      "link": "https://meli.la/2E5EUCC",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-mondial-21l-1200w-mo-01-21-e-espelhado/p/MLB49550881",
+      "precoDe": 669.9,
+      "pix": true,
+      "parcelas": "R$419 em outros meios",
+      "postado": "2026-11-27T19:09:21.805Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2E5EUCC.jpg"
+    },
     {
       "id": "1pZQLPP",
       "nome": "Robô Aspirador e Passa Pano KABUM! smart K800 Pro, Mapeia a Laser",
@@ -9032,22 +9050,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1oXnQod.jpg"
-    },
-    {
-      "id": "1ajCC37",
-      "nome": "Bota De Compressao Pneumatica Massageador Pes Easezen 6 Modos Médio Preto/azul",
-      "categoria": "Auto",
-      "preco": 974,
-      "link": "https://meli.la/1ajCC37",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/bota-de-compressao-pneumatica-massageador-pes-easezen-6-modos-medio-pretoazul-azulpreto/p/MLB67407827",
-      "precoDe": 1600,
-      "postado": "2026-11-25T19:08:31.092Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1ajCC37.jpg"
     }
   ]
 }
