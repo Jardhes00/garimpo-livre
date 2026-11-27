@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T12:11:55.688Z",
+  "atualizado": "2026-11-27T12:13:10.695Z",
   "ofertas": [
+    {
+      "id": "2FqbKN1",
+      "nome": "Impressora multifuncional Epson Ecotank L4360",
+      "categoria": "Tech",
+      "preco": 1330.32,
+      "link": "https://meli.la/2FqbKN1",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/impressora-multifuncional-epson-ecotank-l4360/p/MLB53968883",
+      "precoDe": 2524.09,
+      "pix": true,
+      "parcelas": "R$1.446 em outros meios",
+      "postado": "2026-11-27T12:13:10.694Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2FqbKN1.jpg"
+    },
     {
       "id": "2EHPXXs",
       "nome": "Perfume Maahir Honor Lattafa Edp 100ml 2026 Premium",
