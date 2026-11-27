@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T11:48:09.917Z",
+  "atualizado": "2026-11-27T11:49:24.859Z",
   "ofertas": [
+    {
+      "id": "2ciXfG3",
+      "nome": "Caixa de som Boombox Philco Extreme Bluetooth V.5.4 300W PBX01",
+      "categoria": "Tech",
+      "preco": 773.1,
+      "link": "https://meli.la/2ciXfG3",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-boombox-philco-extreme-bluetooth-v54-300w-pbx01/p/MLB53878745",
+      "precoDe": 1399,
+      "pix": true,
+      "parcelas": "R$859 em 10x R$85,90 sem juros",
+      "postado": "2026-11-27T11:49:24.858Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ciXfG3.jpg"
+    },
     {
       "id": "1SCcLYy",
       "nome": "Limpadora De Pisos Sem Fio Arno X-clean 7 Lxc7 Preto",
