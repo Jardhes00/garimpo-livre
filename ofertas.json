@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T11:19:24.241Z",
+  "atualizado": "2026-11-27T11:20:39.592Z",
   "ofertas": [
+    {
+      "id": "22jfPWJ",
+      "nome": "Creatina Soldiers Nutrition Em Pó Sem Sabor X 1.2kg 2 Un",
+      "categoria": "Suplementos",
+      "preco": 63.12,
+      "link": "https://meli.la/22jfPWJ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/creatina-soldiers-nutrition-em-po-sem-sabor-2x-600g/p/MLB67348665",
+      "precoDe": 229.9,
+      "pix": true,
+      "parcelas": "R$78,90 em outros meios",
+      "cupomAnuncio": "Compre R$150 e ganhe R$10 OFF",
+      "postado": "2026-11-27T11:20:39.591Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-22jfPWJ.jpg"
+    },
     {
       "id": "1enELxh",
       "nome": "Whey Fort 3w Cookies & Cream 900g Vitafor",
