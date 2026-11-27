@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T14:05:47.069Z",
+  "atualizado": "2026-11-27T14:07:02.326Z",
   "ofertas": [
+    {
+      "id": "1dcMJFG",
+      "nome": "Kit Wella Oil Reflections Shampoo 250ml + Máscara 150ml",
+      "categoria": "Beleza",
+      "preco": 144.44,
+      "link": "https://meli.la/1dcMJFG",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-wella-oil-reflections-shampoo-250ml-mascara-150ml/p/MLB63180217",
+      "precoDe": 283,
+      "postado": "2026-11-27T14:07:02.324Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1dcMJFG.jpg"
+    },
     {
       "id": "1uxe71i",
       "nome": "Ômega 3 Omegafor Plus 240 Cápsulas Óleo de peixe - Vitafor",
