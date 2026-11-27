@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T20:28:09.363Z",
+  "atualizado": "2026-11-27T20:29:24.248Z",
   "ofertas": [
+    {
+      "id": "2szBe9j",
+      "nome": "Suplemento em pó Growth Supplements Whey Protein Concentrado sabor Morango 1 kg",
+      "categoria": "Suplementos",
+      "preco": 148.12,
+      "link": "https://meli.la/2szBe9j",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/suplemento-em-po-growth-supplements-whey-protein-concentrado-sabor-morango-1-kg/p/MLB19049039",
+      "precoDe": 279.9,
+      "pix": true,
+      "parcelas": "R$189,90 em outros meios",
+      "postado": "2026-11-27T20:29:24.247Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2szBe9j.jpg"
+    },
     {
       "id": "2xUN8QT",
       "nome": "Buffet Aparador Ripado 4 Portas Pés De Mdf Astúrias 180cm Cor Off White E Cedro",
