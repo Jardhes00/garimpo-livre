@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T18:48:15.730Z",
+  "atualizado": "2026-11-27T18:49:21.408Z",
   "ofertas": [
+    {
+      "id": "1LTyo4K",
+      "nome": "Bicicleta Ergométrica Bike Spinning 6kg Sensação Inércia Sevenfit Para Cardio",
+      "categoria": "Esporte",
+      "preco": 382.9,
+      "link": "https://meli.la/1LTyo4K",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bicicleta-ergometrica-bike-spinning-6kg-sensacao-inercia-sevenfit-para-cardio-fitness-preto-e-vermelho/p/MLB83747577",
+      "precoDe": 1094.99,
+      "postado": "2026-11-27T18:49:21.405Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1LTyo4K.jpg"
+    },
     {
       "id": "25Bz1vn",
       "nome": "Hidratante Facial Epidrat Calm 120ml Mantecorp Skincare Todo Tipo De Pele",
@@ -9038,22 +9054,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1XAwMSy.jpg"
-    },
-    {
-      "id": "2QZ8dbd",
-      "nome": "Pneu Landspider Citytraxx Gp 175/70 R14 Aro 14 84t Kit2",
-      "categoria": "Auto",
-      "preco": 545.58,
-      "link": "https://meli.la/2QZ8dbd",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/pneu-landspider-citytraxx-gp-17570-r14-aro-14-84t-kit2/up/MLBU3530380009",
-      "precoDe": 857.21,
-      "postado": "2026-11-25T18:48:30.130Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2QZ8dbd.jpg"
     }
   ]
 }
