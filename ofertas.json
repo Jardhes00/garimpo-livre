@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T16:00:50.670Z",
+  "atualizado": "2026-11-27T16:02:05.569Z",
   "ofertas": [
+    {
+      "id": "26YXWB3",
+      "nome": "Kérastase Génesis Fondant Reforçador Condicionador Anticaída 200ml",
+      "categoria": "Beleza",
+      "preco": 177.67,
+      "link": "https://meli.la/26YXWB3",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kerastase-genesis-fondant-reforcador-condicionador-anticaida-200ml/p/MLB24166946",
+      "precoDe": 330.9,
+      "pix": true,
+      "parcelas": "R$209,02 em 6x R$34,84 sem juros",
+      "cupomAnuncio": "R$156,42 com Cupom",
+      "postado": "2026-11-27T16:02:05.567Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-26YXWB3.jpg"
+    },
     {
       "id": "2YGZ2Ho",
       "nome": "Aspirador De Pó Arno X-force Flex 9.60 Aqua Xf9a Bivolt Preto",
