@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T19:25:37.631Z",
+  "atualizado": "2026-11-27T19:26:52.492Z",
   "ofertas": [
+    {
+      "id": "2v1FXb7",
+      "nome": "Kit 4 Travesseiros50x70- Toque De Pluma- Médio- Antialérgico",
+      "categoria": "Casa",
+      "preco": 84.99,
+      "link": "https://meli.la/2v1FXb7",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-4-travesseiros50x70-toque-de-pluma-medio-antialergico/p/MLB44160351",
+      "precoDe": 175.4,
+      "cupomAnuncio": "R$83,99 com Cupom por seguir a loja",
+      "postado": "2026-11-27T19:26:52.490Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2v1FXb7.jpg"
+    },
     {
       "id": "2VpsCuv",
       "nome": "Bicicleta Aro 20 Xgt Infantil Feminina Mariinha Rodas Cesta",
