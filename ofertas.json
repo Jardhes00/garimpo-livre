@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T16:38:22.073Z",
+  "atualizado": "2026-11-27T16:39:36.801Z",
   "ofertas": [
+    {
+      "id": "2HJrQxS",
+      "nome": "ISDIN Clareador Facial Foto Ultra Active Unify Sem Cor FPS 99 - 50ml",
+      "categoria": "Diversos",
+      "preco": 77.71,
+      "link": "https://meli.la/2HJrQxS",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/isdin-clareador-facial-foto-ultra-active-unify-sem-cor-fps-99-50ml/p/MLB24792861",
+      "precoDe": 149.9,
+      "pix": true,
+      "parcelas": "R$86,35 em 3x R$28,78 sem juros",
+      "cupomAnuncio": "Compre R$159 e ganhe R$25 OFF",
+      "postado": "2026-11-27T16:39:36.799Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2HJrQxS.jpg"
+    },
     {
       "id": "1HmH2t6",
       "nome": "Perfume Rabanne Invictus Victory Absolu Parfum Intense 100 ml Masculino",
@@ -9962,25 +9981,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1eJ14Gs.jpg"
-    },
-    {
-      "id": "1dNWBfu",
-      "nome": "Shampoo Antiqueda Estimulante Aminexil Dercos Energy+ Vichy Refil 200g",
-      "categoria": "Beleza",
-      "preco": 52.44,
-      "link": "https://meli.la/1dNWBfu",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/shampoo-antiqueda-estimulante-aminexil-dercos-energy-vichy-refil-200g/p/MLB27731058",
-      "precoDe": 98.9,
-      "pix": true,
-      "parcelas": "R$61,69 em outros meios",
-      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
-      "postado": "2026-11-25T16:38:25.955Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1dNWBfu.jpg"
     }
   ]
 }
