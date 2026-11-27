@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T20:55:39.980Z",
+  "atualizado": "2026-11-27T20:56:55.087Z",
   "ofertas": [
+    {
+      "id": "2SVNj5Q",
+      "nome": "Panela De Arroz Elétrica Dako 700w Com 4 Litros 10 Xícaras Cinza",
+      "categoria": "Casa",
+      "preco": 184.63,
+      "link": "https://meli.la/2SVNj5Q",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/panela-de-arroz-eletrica-dako-700w-com-4-litros-10-xicaras-cinza/p/MLB50614359",
+      "precoDe": 278,
+      "cupomAnuncio": "Compre R$199 e ganhe 20% OFF",
+      "postado": "2026-11-27T20:56:55.086Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2SVNj5Q.jpg"
+    },
     {
       "id": "2nCNJ7L",
       "nome": "Lavadora de Alta Pressão Electrolux 1850PSI 1500W Potência com Canhão de Espuma",
