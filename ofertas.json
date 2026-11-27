@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T15:12:04.059Z",
+  "atualizado": "2026-11-27T15:13:18.952Z",
   "ofertas": [
+    {
+      "id": "2qmbVtR",
+      "nome": "Densifique Masque Densité Máscara 200ml | Kérastase",
+      "categoria": "Diversos",
+      "preco": 265.66,
+      "link": "https://meli.la/2qmbVtR",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/densifique-masque-densite-mascara-200ml-kerastase/p/MLB19769630",
+      "precoDe": 429.9,
+      "pix": true,
+      "parcelas": "R$312,54 em outros meios",
+      "postado": "2026-11-27T15:13:18.949Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2qmbVtR.jpg"
+    },
     {
       "id": "1fE3c4R",
       "nome": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
