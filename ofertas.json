@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T11:50:40.239Z",
+  "atualizado": "2026-11-27T11:51:54.912Z",
   "ofertas": [
+    {
+      "id": "2UrbLde",
+      "nome": "Condicionador Kérastase Gloss Absolu de Brilho e Antifrizz para Cabelos com",
+      "categoria": "Beleza",
+      "preco": 199.75,
+      "link": "https://meli.la/2UrbLde",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/condicionador-kerastase-gloss-absolu-de-brilho-e-antifrizz-para-cabelos-com-frizz-250-ml/p/MLB53173356",
+      "precoDe": 314.9,
+      "pix": true,
+      "parcelas": "R$235 em 6x R$39,17 sem juros",
+      "cupomAnuncio": "Compre R$799 e ganhe R$100 OFF",
+      "postado": "2026-11-27T11:51:54.911Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2UrbLde.jpg"
+    },
     {
       "id": "2qB33AC",
       "nome": "Shampoo Kérastase Chronologiste Bain Régénérant",
