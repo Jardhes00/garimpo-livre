@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T20:31:54.289Z",
+  "atualizado": "2026-11-27T20:33:09.398Z",
   "ofertas": [
+    {
+      "id": "2ncgFW6",
+      "nome": "Creme Antirrugas Estimulador de Colágeno Liftactiv Specialist Vichy 50ml",
+      "categoria": "Suplementos",
+      "preco": 199.6,
+      "link": "https://meli.la/2ncgFW6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/creme-antirrugas-estimulador-de-colageno-liftactiv-specialist-vichy-50ml/p/MLB54024181",
+      "precoDe": 329.9,
+      "pix": true,
+      "parcelas": "R$249,50 em 6x R$41,58 sem juros",
+      "cupomAnuncio": "R$159,68 com Cupom",
+      "postado": "2026-11-27T20:33:09.397Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ncgFW6.jpg"
+    },
     {
       "id": "15yf3jD",
       "nome": "Relógio Life Formatura Feminino de Aço Dourado e Prateado",
