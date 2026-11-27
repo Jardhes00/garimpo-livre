@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T13:53:16.644Z",
+  "atualizado": "2026-11-27T13:54:31.619Z",
   "ofertas": [
+    {
+      "id": "2pFDNqr",
+      "nome": "Secador de Cabelos Britânia 3 Temperaturas 2100W BSC2250 Bivolt",
+      "categoria": "Beleza",
+      "preco": 91,
+      "link": "https://meli.la/2pFDNqr",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/secador-de-cabelos-britania-3-temperaturas-2100w-bsc2250-bivolt/p/MLB44555600",
+      "precoDe": 129.9,
+      "postado": "2026-11-27T13:54:31.617Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2pFDNqr.jpg"
+    },
     {
       "id": "2zdhoVc",
       "nome": "Shampoo Fortalecedor Pielus Forte 400ml Mantecorp",
