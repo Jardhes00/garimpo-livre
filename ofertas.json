@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T12:05:40.448Z",
+  "atualizado": "2026-11-27T12:06:55.489Z",
   "ofertas": [
+    {
+      "id": "2KugrTf",
+      "nome": "Escada Articulada 16 Degraus 4x4 Garden Life Aluminum Cor Cinza",
+      "categoria": "Diversos",
+      "preco": 579.99,
+      "link": "https://meli.la/2KugrTf",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/escada-articulada-16-degraus-4x4-garden-life-aluminum-cor-cinza/p/MLB23654120",
+      "precoDe": 882.74,
+      "parcelas": "10x de R$58 sem juros",
+      "postado": "2026-11-27T12:06:55.487Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2KugrTf.jpg"
+    },
     {
       "id": "1iJxy16",
       "nome": "Colchão Casal Emma Duo Comfort 138x188cm, Dupla Face, à Vácuo, Suporte Ideal",
