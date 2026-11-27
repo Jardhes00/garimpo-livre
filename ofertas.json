@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T19:38:07.763Z",
+  "atualizado": "2026-11-27T19:39:22.751Z",
   "ofertas": [
+    {
+      "id": "2ydDDJx",
+      "nome": "Gel de Limpeza Facial Antimanchas Uniformizador com Melasyl, Niacinamida e PHA",
+      "categoria": "Diversos",
+      "preco": 79.46,
+      "link": "https://meli.la/2ydDDJx",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/gel-de-limpeza-facial-antimanchas-uniformizador-com-melasyl-niacinamida-e-pha-limpa-profundamente-e-uniformiza-o-tom-da-pele-mela-b3-la-roche-posay-120g/p/MLB49600668",
+      "precoDe": 131.9,
+      "cupomAnuncio": "Compre R$199 e ganhe 20% OFF",
+      "postado": "2026-11-27T19:39:22.749Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ydDDJx.jpg"
+    },
     {
       "id": "2JnKxdJ",
       "nome": "Secador de Cabelos Philco Motor BLDC 6 acessórios Fast Dry 1450W PSD16A 127v",
@@ -9153,24 +9170,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1jhmR8y.jpg"
-    },
-    {
-      "id": "339Beva",
-      "nome": "Ração Golden Premium Especial Castrado Carne Frango Gato Adulto 10,1kg",
-      "categoria": "Pet",
-      "preco": 115.51,
-      "link": "https://meli.la/339Beva",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB66044612",
-      "precoDe": 277.9,
-      "pix": true,
-      "parcelas": "R$ 135,90 em outros meios",
-      "postado": "2026-11-25T19:39:01.102Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-339Beva.jpg"
     }
   ]
 }
