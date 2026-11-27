@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T11:29:24.488Z",
+  "atualizado": "2026-11-27T11:30:39.276Z",
   "ofertas": [
+    {
+      "id": "1tyWQSS",
+      "nome": "Máquina de Lavar Roupas 14kg Wave Agitator Branca Midea",
+      "categoria": "Diversos",
+      "preco": 1479,
+      "link": "https://meli.la/1tyWQSS",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquina-de-lavar-roupas-14kg-wave-agitator-branca-midea/p/MLB77290788",
+      "precoDe": 2208.59,
+      "postado": "2026-11-27T11:30:39.275Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1tyWQSS.jpg"
+    },
     {
       "id": "2SyZNG5",
       "nome": "Red Bull Energético, Energy Drink, 250ml, 4 latas",
