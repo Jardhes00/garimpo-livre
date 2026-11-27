@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T17:07:22.604Z",
+  "atualizado": "2026-11-27T17:09:22.810Z",
   "ofertas": [
+    {
+      "id": "2pK43Zd",
+      "nome": "Câmera Inteligente Compatível com Alexa iM3 C Intelbras",
+      "categoria": "Tech",
+      "preco": 110.4,
+      "link": "https://meli.la/2pK43Zd",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB19820096",
+      "precoDe": 319.87,
+      "pix": true,
+      "parcelas": "R$ 138 em outros meios",
+      "extra": "R$ 25 OFF com cupom no anúncio",
+      "postado": "2026-11-27T17:09:22.808Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2pK43Zd.jpg"
+    },
     {
       "id": "1SCMVrN",
       "nome": "Cooktop De Indução Pctq1 Função Turbo 4 Bocas Philco",
@@ -9952,23 +9971,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1va6Fe7.jpg"
-    },
-    {
-      "id": "2Q1hTiC",
-      "nome": "Escova modeladora/cacheadora Gokoco GD037 rosa",
-      "categoria": "Diversos",
-      "preco": 184.99,
-      "link": "https://meli.la/2Q1hTiC",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB77612240",
-      "precoDe": 399,
-      "parcelas": "6x R$ 30,83 sem juros",
-      "postado": "2026-11-25T17:08:26.906Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2Q1hTiC.jpg"
     }
   ]
 }
