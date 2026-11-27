@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T14:40:48.083Z",
+  "atualizado": "2026-11-27T14:42:03.023Z",
   "ofertas": [
+    {
+      "id": "2bDQdHx",
+      "nome": "Gel de Limpeza Facial Pele Oleosa 3 Ceramidas e Niacinamida CeraVe 454g",
+      "categoria": "Diversos",
+      "preco": 62.32,
+      "link": "https://meli.la/2bDQdHx",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/gel-de-limpeza-facial-pele-oleosa-3-ceramidas-e-niacinamida-cerave-454g/p/MLB26194700",
+      "precoDe": 126.9,
+      "pix": true,
+      "parcelas": "R$77,90 em outros meios",
+      "cupomAnuncio": "Compre R$79 e ganhe 20% OFF",
+      "postado": "2026-11-27T14:42:03.022Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2bDQdHx.jpg"
+    },
     {
       "id": "1wSBBFD",
       "nome": "Bicicleta Ergométrica Spinning 20kg Wct Fitness Cor Preto/Verde",
