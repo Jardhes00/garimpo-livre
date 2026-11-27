@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T11:24:24.137Z",
+  "atualizado": "2026-11-27T11:25:39.062Z",
   "ofertas": [
+    {
+      "id": "31mCjQa",
+      "nome": "Escova Secadora Britânia Bivolt 1300w Soft Bec07r Original Rosa 127/220v",
+      "categoria": "Beleza",
+      "preco": 81.7,
+      "link": "https://meli.la/31mCjQa",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/escova-secadora-britania-bivolt-1300w-soft-bec07r-original/p/MLB19694427",
+      "precoDe": 139.9,
+      "pix": true,
+      "parcelas": "R$118,35 em 4x R$29,59 sem juros",
+      "postado": "2026-11-27T11:25:39.061Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-31mCjQa.jpg"
+    },
     {
       "id": "1URTBxS",
       "nome": "Perfume Givenchy Ange Ou Démon Eau De Parfum Feminino",
