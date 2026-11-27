@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T13:03:11.972Z",
+  "atualizado": "2026-11-27T13:04:27.149Z",
   "ofertas": [
+    {
+      "id": "2KYsUPC",
+      "nome": "Escova de Dente Elétrica Oral-B Power Pro Precision Clean 1 Unidade",
+      "categoria": "Diversos",
+      "preco": 58.71,
+      "link": "https://meli.la/2KYsUPC",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/escova-de-dente-eletrica-oral-b-power-pro-precision-clean-1-unidade/p/MLB24997304",
+      "precoDe": 94.9,
+      "cupomAnuncio": "R$41,10 com Cupom",
+      "postado": "2026-11-27T13:04:27.148Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2KYsUPC.jpg"
+    },
     {
       "id": "32EYibA",
       "nome": "Projetor Powerlite E24 Epson 3.600 Lúmens Xga",
