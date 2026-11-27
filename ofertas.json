@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T14:02:01.803Z",
+  "atualizado": "2026-11-27T14:03:16.895Z",
   "ofertas": [
+    {
+      "id": "2As4Sj7",
+      "nome": "Perfume Feminino Eau de Parfum, Fragrância Floral Gourmand Inebriante com Íris",
+      "categoria": "Beleza",
+      "preco": 270.73,
+      "link": "https://meli.la/2As4Sj7",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/perfume-feminino-eau-de-parfum-fragrancia-floral-gourmand-inebriante-com-iris-nobre-e-baunilha-aroma-de-felicidade-e-feminilidade-la-vie-est-belle-lancome-frasco-com-30ml/p/MLB5360656",
+      "precoDe": 539,
+      "pix": true,
+      "parcelas": "R$284,98 em 6x R$47,50 sem juros",
+      "cupomAnuncio": "Compre R$599 e ganhe 5% OFF",
+      "postado": "2026-11-27T14:03:16.893Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2As4Sj7.jpg"
+    },
     {
       "id": "2uzR3R6",
       "nome": "Parafusadeira Furadeira 48v Impacto Sem Fio 2 Baterias Recarregável Bivolt",
