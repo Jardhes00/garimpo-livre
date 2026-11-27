@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T16:22:06.333Z",
+  "atualizado": "2026-11-27T16:23:21.651Z",
   "ofertas": [
+    {
+      "id": "1wg3mkd",
+      "nome": "Fogão 5q Gás Dako Supreme Glass Preto Mesa De Vidro",
+      "categoria": "Diversos",
+      "preco": 1599.9,
+      "link": "https://meli.la/1wg3mkd",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fogao-5q-gas-dako-supreme-glass-preto-mesa-de-vidro/p/MLB47864248",
+      "precoDe": 2579,
+      "parcelas": "10x de R$159,99 sem juros",
+      "cupomAnuncio": "R$1.574,90 com Cupom",
+      "postado": "2026-11-27T16:23:21.649Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1wg3mkd.jpg"
+    },
     {
       "id": "2UYXazS",
       "nome": "Bau Para Moto 65l Alumínio Base Universal Top Case Maletero",
@@ -9962,22 +9980,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2BuFwUe.jpg"
-    },
-    {
-      "id": "1MKkj84",
-      "nome": "Kit 4 Pneus 225/55r18 Bridgestone Alenza 001 98v Índice de velocidade V",
-      "categoria": "Auto",
-      "preco": 1981.79,
-      "link": "https://meli.la/1MKkj84",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit-4-pneus-22555r18-bridgestone-alenza-001-98v-indice-de-velocidade-v/p/MLB28636397",
-      "precoDe": 3234.8,
-      "postado": "2026-11-25T16:22:10.480Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1MKkj84.jpg"
     }
   ]
 }
