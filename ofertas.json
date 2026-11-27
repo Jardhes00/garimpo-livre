@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T19:44:22.997Z",
+  "atualizado": "2026-11-27T19:45:38.043Z",
   "ofertas": [
+    {
+      "id": "1z3Ykpp",
+      "nome": "Huggies Fralda Pants Roupinha Proteção Acolchoada Xg - 64 Un Extra Grande (Xg)",
+      "categoria": "Casa",
+      "preco": 62.5,
+      "link": "https://meli.la/1z3Ykpp",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/huggies-fralda-pants-roupinha-protecao-acolchoada-xg-64-un-extra-grande-xg-sem-genero/p/MLB25836673",
+      "precoDe": 114.33,
+      "pix": true,
+      "parcelas": "R$67,20 em outros meios",
+      "postado": "2026-11-27T19:45:38.041Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1z3Ykpp.jpg"
+    },
     {
       "id": "2Fs2G7c",
       "nome": "Whisky Bourbon Jim Beam White Kentucky Straight 1L",
@@ -9183,25 +9201,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1Uc3iVL.jpg"
-    },
-    {
-      "id": "2beryou",
-      "nome": "Ar-condicionado Split Inverter 12000 Btus Tcl Breeze In High Wall Só Frio Tac-12ctg3-inv-i/tac-12ctg3-inv-o 220v",
-      "categoria": "Casa",
-      "preco": 1859.07,
-      "link": "https://meli.la/2beryou",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB79391617",
-      "precoDe": 2633.2,
-      "pix": true,
-      "parcelas": "R$ 1.999 em 10x de R$ 199,90 sem juros",
-      "cupomAnuncio": "R$1.784,67 com Cupom",
-      "postado": "2026-11-25T19:45:01.087Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2beryou.jpg"
     }
   ]
 }
