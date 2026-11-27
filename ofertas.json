@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T15:47:05.053Z",
+  "atualizado": "2026-11-27T15:48:20.034Z",
   "ofertas": [
+    {
+      "id": "1NxgFjK",
+      "nome": "Bicicleta Infantil Caloi Ceci Aro 20, Quadro Rebaixado, Cestinha, Freio",
+      "categoria": "Bebê",
+      "preco": 588.62,
+      "link": "https://meli.la/1NxgFjK",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bicicleta-infantil-caloi-ceci-aro-20-quadro-rebaixado-cestinha-freio-v-brake-protetor-de-corrente-passeio-e-lazer/p/MLB80271630",
+      "precoDe": 899,
+      "pix": true,
+      "parcelas": "R$654,02 em outros meios",
+      "cupomAnuncio": "R$566,12 com Cupom",
+      "postado": "2026-11-27T15:48:20.033Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1NxgFjK.jpg"
+    },
     {
       "id": "1UXMFEK",
       "nome": "Bicicleta Ergométrica Spinning Rmira Conexão Bluetooth 12kg 150kg",
