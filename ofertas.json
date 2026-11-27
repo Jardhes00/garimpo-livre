@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T12:00:40.272Z",
+  "atualizado": "2026-11-27T12:01:55.453Z",
   "ofertas": [
+    {
+      "id": "2ueMoWV",
+      "nome": "Kit 3 Camisetas Light T-shirt Insider",
+      "categoria": "Moda",
+      "preco": 159,
+      "link": "https://meli.la/2ueMoWV",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-3-camisetas-light-t-shirt-insider/up/MLBU6023433066",
+      "precoDe": 567,
+      "parcelas": "5x de R$31,80 sem juros",
+      "postado": "2026-11-27T12:01:55.452Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ueMoWV.jpg"
+    },
     {
       "id": "1vmR2V5",
       "nome": "Impressora Multifuncional HP Smart Tank 724 Tanque de Tinta Colorida Wi-Fi",
