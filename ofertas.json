@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T19:31:52.690Z",
+  "atualizado": "2026-11-27T19:33:07.849Z",
   "ofertas": [
+    {
+      "id": "2QPfyz8",
+      "nome": "Yodoit Portatil Monitor 15.6 Com Hdmi Usb Gamer Tela Auxiliar Notebook Con",
+      "categoria": "Tech",
+      "preco": 292.69,
+      "link": "https://meli.la/2QPfyz8",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/monitor-portatil-yodoit-156-full-hd-ips-para-trabalho-e-jogos-com-usb-c-e-hdmi/p/MLB41843850",
+      "precoDe": 409,
+      "pix": true,
+      "parcelas": "R$308,10 em 6x R$51,35 sem juros",
+      "postado": "2026-11-27T19:33:07.846Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2QPfyz8.jpg"
+    },
     {
       "id": "1vxgkLL",
       "nome": "Bicicleta Ergométrica Bike Spinning 6kg Sensação Inércia Fitness Preto E",
@@ -9139,26 +9157,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1Ri1G9Q.jpg"
-    },
-    {
-      "id": "2NkgHFA",
-      "nome": "Aperitivo Aperol Spritz Italiano 750ml – Bebida Alcoólica",
-      "categoria": "Diversos",
-      "preco": 42.74,
-      "link": "https://meli.la/2NkgHFA",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB16195364",
-      "precoDe": 63.9,
-      "pix": true,
-      "parcelas": "R$ 44,99 em outros meios",
-      "extra": "10% OFF com cupom no anúncio",
-      "cupomAnuncio": "Compre R$49 e ganhe 10% OFF",
-      "postado": "2026-11-25T19:32:45.926Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2NkgHFA.jpg"
     }
   ]
 }
