@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T12:19:25.784Z",
+  "atualizado": "2026-11-27T12:21:55.223Z",
   "ofertas": [
+    {
+      "id": "326AjGB",
+      "nome": "Percarbonato De Sódio 100% Puro | Sem Cloro, Tira Manchas e Branqueador 1kg",
+      "categoria": "Diversos",
+      "preco": 22.23,
+      "link": "https://meli.la/326AjGB",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/percarbonato-de-sodio-100-puro-sem-cloro-tira-manchas-e-branqueador-1kg/p/MLB58661685",
+      "precoDe": 50,
+      "postado": "2026-11-27T12:21:55.222Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-326AjGB.jpg"
+    },
     {
       "id": "2VkiK3s",
       "nome": "Jogo de Panelas Antiaderente 7 Camadas 10 Peças Kit Cozinha Casa Nova com",
