@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T12:21:55.223Z",
+  "atualizado": "2026-11-27T12:23:10.964Z",
   "ofertas": [
+    {
+      "id": "1J1CEq9",
+      "nome": "Lavadora Alta Pressão Portátil Recarregável Sem Fio Bivolt",
+      "categoria": "Diversos",
+      "preco": 77.52,
+      "link": "https://meli.la/1J1CEq9",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-alta-pressao-portatil-recarregavel-sem-fio-bivolt/up/MLBU3860853413",
+      "precoDe": 249.9,
+      "pix": true,
+      "parcelas": "R$96,90 em outros meios",
+      "postado": "2026-11-27T12:23:10.963Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1J1CEq9.jpg"
+    },
     {
       "id": "326AjGB",
       "nome": "Percarbonato De Sódio 100% Puro | Sem Cloro, Tira Manchas e Branqueador 1kg",
