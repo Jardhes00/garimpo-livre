@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T16:50:52.079Z",
+  "atualizado": "2026-11-27T16:52:07.203Z",
   "ofertas": [
+    {
+      "id": "2Z3JyuY",
+      "nome": "Ar Condicionado Janela Eletrônico Hisense 8500 Btus Branco",
+      "categoria": "Casa",
+      "preco": 1599,
+      "link": "https://meli.la/2Z3JyuY",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-janela-eletronico-hisense-8500-btus-branco/p/MLB50563522",
+      "precoDe": 2339.02,
+      "cupomAnuncio": "R$1.574 com Cupom",
+      "postado": "2026-11-27T16:52:07.201Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Z3JyuY.jpg"
+    },
     {
       "id": "1XTDxw3",
       "nome": "Panela de Pressão Panelux Classic 4,5 L em Alumínio Polido",
@@ -9967,24 +9984,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-17qwrdZ.jpg"
-    },
-    {
-      "id": "2PZxk76",
-      "nome": "Caixa Jogo De Ferramentas 110 Peças Completo Maleta Para Mecânico Profissional",
-      "categoria": "Games",
-      "preco": 370.4,
-      "link": "https://meli.la/2PZxk76",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/caixa-jogo-de-ferramentas-110-pecas-completo-maleta-para-mecanico-profissional-aco-cromo-vanadio-ttk110-the-black-tools/p/MLB27233627",
-      "precoDe": 599.9,
-      "pix": true,
-      "parcelas": "R$389,90 em 10x R$38,99 sem juros",
-      "postado": "2026-11-25T16:50:56.419Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2PZxk76.jpg"
     }
   ]
 }
