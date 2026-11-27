@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T18:41:51.208Z",
+  "atualizado": "2026-11-27T18:43:06.249Z",
   "ofertas": [
+    {
+      "id": "2e2QDhC",
+      "nome": "Smartphone Motorola Moto G17 4g - 128gb 4gb Ram + 8gb Ram Boost, Camera 50mp",
+      "categoria": "Tech",
+      "preco": 799,
+      "link": "https://meli.la/2e2QDhC",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g17-4g-128gb-4gb-ram-8gb-ram-boost-camera-50mp-sony-lytia-600-tela-fhd-60hz-bateria-5200-mah-roxo/p/MLB65041644",
+      "precoDe": 1599,
+      "pix": true,
+      "parcelas": "R$887,78 em 10x R$88,78 sem juros",
+      "postado": "2026-11-27T18:43:06.247Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2e2QDhC.jpg"
+    },
     {
       "id": "32LPogN",
       "nome": "Chuveiro Eletrônico Lorenzetti Acqua Duo Ultra Preto/cromado Parede 7800w",
@@ -9034,22 +9052,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2ooKai8.jpg"
-    },
-    {
-      "id": "1YSGTJ4",
-      "nome": "Ventilador De Mesa/parede Ultra Mondial 50w V-ut-30-02",
-      "categoria": "Casa",
-      "preco": 109.92,
-      "link": "https://meli.la/1YSGTJ4",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-mesaparede-ultra-mondial-50w-v-ut-30-02/p/MLB46138222",
-      "precoDe": 157.04,
-      "postado": "2026-11-25T18:42:15.196Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1YSGTJ4.jpg"
     }
   ]
 }
