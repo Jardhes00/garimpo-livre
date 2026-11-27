@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T19:33:07.849Z",
+  "atualizado": "2026-11-27T19:34:22.844Z",
   "ofertas": [
+    {
+      "id": "1sfqLpq",
+      "nome": "ISDIN Protetor Solar Facial Fusion Water Magic Color FPS 50 - Cor Média - 50ml",
+      "categoria": "Beleza",
+      "preco": 69.9,
+      "link": "https://meli.la/1sfqLpq",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/isdin-protetor-solar-facial-fusion-water-magic-color-fps-50-cor-media-50ml/p/MLB19566403",
+      "precoDe": 114.9,
+      "cupomAnuncio": "Compre R$199 e ganhe 20% OFF",
+      "postado": "2026-11-27T19:34:22.842Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1sfqLpq.jpg"
+    },
     {
       "id": "2QPfyz8",
       "nome": "Yodoit Portatil Monitor 15.6 Com Hdmi Usb Gamer Tela Auxiliar Notebook Con",
