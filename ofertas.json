@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T16:55:52.311Z",
+  "atualizado": "2026-11-27T16:57:07.749Z",
   "ofertas": [
+    {
+      "id": "1AsF87G",
+      "nome": "Babá Eletrônica Monitor 2.4 Sem Fio Zoom Baby On Maxi Baby",
+      "categoria": "Tech",
+      "preco": 151.99,
+      "link": "https://meli.la/1AsF87G",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/baba-eletronica-monitor-24-sem-fio-zoom-baby-on-maxi-baby/p/MLB62933980",
+      "precoDe": 447.82,
+      "postado": "2026-11-27T16:57:07.746Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1AsF87G.jpg"
+    },
     {
       "id": "33WWQjk",
       "nome": "Nutriol Med anticoceira DARROW 390g",
@@ -9969,22 +9985,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1tbGY3V.jpg"
-    },
-    {
-      "id": "1JvLbJZ",
-      "nome": "Huggies Fralda Descartável Máxima Proteção XXG - 112 Un",
-      "categoria": "Bebê",
-      "preco": 136.9,
-      "link": "https://meli.la/1JvLbJZ",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/huggies-fralda-descartavel-maxima-protecao-xxg-112-un/p/MLB34295736",
-      "precoDe": 197.75,
-      "postado": "2026-11-25T16:55:56.661Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1JvLbJZ.jpg"
     }
   ]
 }
