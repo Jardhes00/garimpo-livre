@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T11:58:10.409Z",
+  "atualizado": "2026-11-27T11:59:25.236Z",
   "ofertas": [
+    {
+      "id": "2evQiv3",
+      "nome": "Cafeteira Espresso Luna Preta - TRES 3 Corações",
+      "categoria": "Casa",
+      "preco": 305.1,
+      "link": "https://meli.la/2evQiv3",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafeteira-espresso-luna-preta-tres-3-coracoes/p/MLB28203110",
+      "precoDe": 720,
+      "pix": true,
+      "parcelas": "R$339 em 6x R$56,50 sem juros",
+      "postado": "2026-11-27T11:59:25.235Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2evQiv3.jpg"
+    },
     {
       "id": "2ugnFbu",
       "nome": "Whisky Ballantines Sunshine Abacaxi 700ml",
