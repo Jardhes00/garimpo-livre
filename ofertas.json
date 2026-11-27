@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T12:03:10.156Z",
+  "atualizado": "2026-11-27T12:04:25.429Z",
   "ofertas": [
+    {
+      "id": "15Zu6PE",
+      "nome": "Whey Core 70% Proteína Concentrada Baunilha 900g - 30 Doses",
+      "categoria": "Suplementos",
+      "preco": 65.79,
+      "link": "https://meli.la/15Zu6PE",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-core-70-proteina-concentrada-baunilha-900g-30-doses/p/MLB74125008",
+      "precoDe": 110.9,
+      "pix": true,
+      "parcelas": "R$69,25 em 3x R$23,08 sem juros",
+      "postado": "2026-11-27T12:04:25.427Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-15Zu6PE.jpg"
+    },
     {
       "id": "2PSMr7H",
       "nome": "Espumante Branco Brut Casa Perini 750 ml",
