@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T17:22:37.966Z",
+  "atualizado": "2026-11-27T17:24:38.337Z",
   "ofertas": [
+    {
+      "id": "11UrxwK",
+      "nome": "Kit 12 Potes Herméticos Acrílico Transparente Quadrado Porta Mantimento Livre de BPA",
+      "categoria": "Casa",
+      "preco": 78.9,
+      "link": "https://meli.la/11UrxwK",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB68340345",
+      "precoDe": 149.9,
+      "extra": "R$ 25 OFF com cupom no anúncio",
+      "postado": "2026-11-27T17:24:38.335Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-11UrxwK.jpg"
+    },
     {
       "id": "2hw8dsR",
       "nome": "Proteína Growth Supplements Basic Whey Pro em pó sabor Morango x 1kg",
@@ -9914,22 +9931,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2LR7wfA.jpg"
-    },
-    {
-      "id": "1QSBXAB",
-      "nome": "Perfurador Solo Trado Gasolina com 3 Brocas Extensão 1,20m Carbon Fak Laranja",
-      "categoria": "Diversos",
-      "preco": 799,
-      "link": "https://meli.la/1QSBXAB",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/perfurador-solo-trado-gasolina-com-3-brocas-extensao-120m-carbon-fak-laranja/p/MLB53376207",
-      "precoDe": 1274.63,
-      "postado": "2026-11-25T17:23:27.374Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1QSBXAB.jpg"
     }
   ]
 }
