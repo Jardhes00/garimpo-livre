@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T19:14:22.216Z",
+  "atualizado": "2026-11-27T19:15:37.219Z",
   "ofertas": [
+    {
+      "id": "2dM5KJi",
+      "nome": "Protetor Solar Facial Isdin Fusion Water Sem Cor Fps 60 30ml",
+      "categoria": "Beleza",
+      "preco": 49.9,
+      "link": "https://meli.la/2dM5KJi",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/protetor-solar-facial-isdin-fusion-water-sem-cor-fps-60-30ml/p/MLB19508914",
+      "precoDe": 79.9,
+      "cupomAnuncio": "Compre R$399,90 e ganhe 20% OFF",
+      "postado": "2026-11-27T19:15:37.216Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2dM5KJi.jpg"
+    },
     {
       "id": "1H87K4a",
       "nome": "Pneu 205/55r16 91v Powercontact 2 Original Mercedes Classe B",
@@ -9036,24 +9053,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1EQrfqr.jpg"
-    },
-    {
-      "id": "22J95By",
-      "nome": "Smartphone Motorola Moto G37 5G - 64GB 4GB RAM + 8GB RAM Boost, Camera 50MP com",
-      "categoria": "Tech",
-      "preco": 799,
-      "link": "https://meli.la/22J95By",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g37-5g-64gb-4gb-ram-8gb-ram-boost-camera-50mp-com-editor-magico-bateria-de-5200-mah-e-tela-67-120hz-nfc-azul-nautico/p/MLB78889489",
-      "precoDe": 1899,
-      "pix": true,
-      "parcelas": "R$887,78 em 10x R$88,78 sem juros",
-      "postado": "2026-11-25T19:14:45.937Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-22J95By.jpg"
     }
   ]
 }
