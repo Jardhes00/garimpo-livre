@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T19:54:23.338Z",
+  "atualizado": "2026-11-27T19:55:38.154Z",
   "ofertas": [
+    {
+      "id": "23fhd54",
+      "nome": "Sérum Ultra Concentrado La Roche Posay Effaclar noite para pele grasa de 30mL",
+      "categoria": "Beleza",
+      "preco": 165.96,
+      "link": "https://meli.la/23fhd54",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/serum-ultra-concentrado-la-roche-posay-effaclar-noite-para-pele-grasa-de-30ml-30g-30-ms-anos/p/MLB19123630",
+      "precoDe": 280.9,
+      "cupomAnuncio": "Compre R$199 e ganhe 20% OFF",
+      "postado": "2026-11-27T19:55:38.152Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-23fhd54.jpg"
+    },
     {
       "id": "1WVtSmK",
       "nome": "Kit 2 Pneus 205/55r16 Goodyear Eagle Sport 2 91v Aro 16 Índice de velocidade V",
@@ -9216,24 +9233,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1GkcDfk.jpg"
-    },
-    {
-      "id": "2T7d2G6",
-      "nome": "Energético Monster Ultra White Sem Açúcar 6 Latas 473ml Top",
-      "categoria": "Diversos",
-      "preco": 48.99,
-      "link": "https://meli.la/2T7d2G6",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB38154301",
-      "precoDe": 65.94,
-      "extra": "10% OFF com cupom no anúncio",
-      "cupomAnuncio": "Compre R$100 e ganhe 10% OFF",
-      "postado": "2026-11-25T19:55:16.675Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2T7d2G6.jpg"
     }
   ]
 }
