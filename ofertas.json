@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T19:48:08.123Z",
+  "atualizado": "2026-11-27T19:49:23.075Z",
   "ofertas": [
+    {
+      "id": "2guKqCZ",
+      "nome": "Micro-ondas Electrolux Efficient 34L Branco Função Descongelar e Receitas",
+      "categoria": "Casa",
+      "preco": 539,
+      "link": "https://meli.la/2guKqCZ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-electrolux-efficient-34l-branco-funcao-descongelar-e-receitas-pre-programadas-me34b/p/MLB78423216",
+      "precoDe": 759,
+      "parcelas": "10x de R$53,90 sem juros",
+      "cupomAnuncio": "R$479 com Cupom",
+      "postado": "2026-11-27T19:49:23.074Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2guKqCZ.jpg"
+    },
     {
       "id": "2grE9g6",
       "nome": "Tanquinho de Lavar Roupa Mueller Big 20,1kg com Sistema de Drenagem no Painel",
@@ -9201,23 +9219,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-24TivPs.jpg"
-    },
-    {
-      "id": "1g3eEFJ",
-      "nome": "Relógio Lacoste Lc33 Masculino Borracha Preto 2011365",
-      "categoria": "Moda",
-      "preco": 295,
-      "link": "https://meli.la/1g3eEFJ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB45405680",
-      "precoDe": 590,
-      "parcelas": "10x R$ 29,50 sem juros",
-      "postado": "2026-11-25T19:48:46.418Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1g3eEFJ.jpg"
     }
   ]
 }
