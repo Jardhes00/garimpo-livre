@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T12:55:42.341Z",
+  "atualizado": "2026-11-27T12:56:56.936Z",
   "ofertas": [
+    {
+      "id": "21wtnR5",
+      "nome": "Fone de Ouvido QCY Buds T43 ENC Bluetooth 5.3, IPX4, 35H de Reprodução, Drivers",
+      "categoria": "Tech",
+      "preco": 96.22,
+      "link": "https://meli.la/21wtnR5",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fone-de-ouvido-qcy-buds-t43-enc-bluetooth-53-ipx4-35h-de-reproducao-drivers-de-10mm-cor-preto/p/MLB50002371",
+      "precoDe": 168.2,
+      "postado": "2026-11-27T12:56:56.935Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-21wtnR5.jpg"
+    },
     {
       "id": "2zuAAmZ",
       "nome": "Red Bull Energético, Sugar Free, Sem Açúcar, 250ml, 24 latas",
