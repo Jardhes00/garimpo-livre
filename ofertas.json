@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T16:19:36.414Z",
+  "atualizado": "2026-11-27T16:20:51.732Z",
   "ofertas": [
+    {
+      "id": "2bGhyNU",
+      "nome": "Triciclo Elétrico Drift Infantil e Adulto Carrinho Rolimã Elétrico Scooter",
+      "categoria": "Bebê",
+      "preco": 1048.72,
+      "link": "https://meli.la/2bGhyNU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/triciclo-eletrico-drift-infantil-e-adulto-carrinho-rolima-eletrico-scooter-eletrica-3-rodas-bateria-de-litio-36v-ate-15-kmh-com-bluetooth-e-luzes-led-firewater-kizumba/p/MLB76339067",
+      "precoDe": 1799,
+      "pix": true,
+      "parcelas": "R$1.139,91 em outros meios",
+      "postado": "2026-11-27T16:20:51.730Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2bGhyNU.jpg"
+    },
     {
       "id": "1EVKtZt",
       "nome": "Whey Fort 3w 900g Protein Neutro Sem Sabor - Vitafor",
@@ -9961,23 +9979,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2TsB1vN.jpg"
-    },
-    {
-      "id": "1Qnu3QB",
-      "nome": "Nutella Creme de Avelã 1 uni 650g",
-      "categoria": "Beleza",
-      "preco": 38.99,
-      "link": "https://meli.la/1Qnu3QB",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/nutella-creme-de-avela-1-uni-650g/p/MLB18309809",
-      "precoDe": 58.37,
-      "cupomAnuncio": "Compre R$109 e ganhe 3% OFF",
-      "postado": "2026-11-25T16:19:40.541Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1Qnu3QB.jpg"
     }
   ]
 }
