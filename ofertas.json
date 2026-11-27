@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T14:32:03.077Z",
+  "atualizado": "2026-11-27T14:33:18.317Z",
   "ofertas": [
+    {
+      "id": "2esRHJu",
+      "nome": "JBL BOOMBOX4 BLACK - PRETA",
+      "categoria": "Diversos",
+      "preco": 2127.48,
+      "link": "https://meli.la/2esRHJu",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/jbl-boombox4-black-preta/p/MLB63192704",
+      "precoDe": 3099,
+      "pix": true,
+      "parcelas": "R$2.239,45 em outros meios",
+      "postado": "2026-11-27T14:33:18.315Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2esRHJu.jpg"
+    },
     {
       "id": "1wdh77R",
       "nome": "Liquidificador Oster Full 3,2L 220V 1400W Preto OLIQ610",
