@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T19:09:21.807Z",
+  "atualizado": "2026-11-27T19:10:37.254Z",
   "ofertas": [
+    {
+      "id": "2kYkVnf",
+      "nome": "Bicicleta Elétrica Gts Black Fish 500w Aro 14 Sem Cnh",
+      "categoria": "Esporte",
+      "preco": 2934.55,
+      "link": "https://meli.la/2kYkVnf",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bicicleta-eletrica-gts-black-fish-500w-aro-14-sem-cnh/up/MLBU5563613668",
+      "precoDe": 4999,
+      "pix": true,
+      "parcelas": "R$3.089 em outros meios",
+      "postado": "2026-11-27T19:10:37.252Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2kYkVnf.jpg"
+    },
     {
       "id": "2E5EUCC",
       "nome": "Micro-ondas Mondial 21L 1200W MO-01-21-E Espelhado",
@@ -9034,22 +9052,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1v6bUaK.jpg"
-    },
-    {
-      "id": "1oXnQod",
-      "nome": "Umidificador Ultrassônico G-tech Allergy Free Hm Bivolt Cor Branco",
-      "categoria": "Diversos",
-      "preco": 106.1,
-      "link": "https://meli.la/1oXnQod",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/umidificador-ultrassonico-g-tech-allergy-free-hm-bivolt-cor-branco/p/MLB63921527",
-      "precoDe": 167,
-      "postado": "2026-11-25T19:09:45.777Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1oXnQod.jpg"
     }
   ]
 }
