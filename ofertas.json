@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T13:01:56.991Z",
+  "atualizado": "2026-11-27T13:03:11.972Z",
   "ofertas": [
+    {
+      "id": "32EYibA",
+      "nome": "Projetor Powerlite E24 Epson 3.600 Lúmens Xga",
+      "categoria": "Diversos",
+      "preco": 2289.29,
+      "link": "https://meli.la/32EYibA",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/projetor-powerlite-e24-epson-3600-lumens-xga/p/MLB61372830",
+      "precoDe": 6399,
+      "parcelas": "10x de R$228,93 sem juros",
+      "postado": "2026-11-27T13:03:11.970Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-32EYibA.jpg"
+    },
     {
       "id": "17ahRYs",
       "nome": "Perfume Carolina Herrera Good Girl Eau de Parfum 30 ml feminino",
