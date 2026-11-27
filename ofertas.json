@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T20:34:24.670Z",
+  "atualizado": "2026-11-27T20:35:39.593Z",
   "ofertas": [
+    {
+      "id": "2jUrZJ4",
+      "nome": "Penteadeira de Canto 120cm 6 Gavetas Flex Multimóveis MP4404 Branco",
+      "categoria": "Diversos",
+      "preco": 569.99,
+      "link": "https://meli.la/2jUrZJ4",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/penteadeira-de-canto-120cm-6-gavetas-flex-multimoveis-mp4404-branco/p/MLB60602499",
+      "precoDe": 833.32,
+      "pix": true,
+      "parcelas": "R$599,99 em 10x R$60 sem juros",
+      "cupomAnuncio": "R$427,49 com Cupom",
+      "postado": "2026-11-27T20:35:39.591Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2jUrZJ4.jpg"
+    },
     {
       "id": "1T6kTLd",
       "nome": "Bicicleta Aro 29 Gts Dexter 24 Marchas Freio A Disco Cor Branco Com Preto",
