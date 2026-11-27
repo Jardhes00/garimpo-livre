@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T20:54:25.117Z",
+  "atualizado": "2026-11-27T20:55:39.980Z",
   "ofertas": [
+    {
+      "id": "2nCNJ7L",
+      "nome": "Lavadora de Alta Pressão Electrolux 1850PSI 1500W Potência com Canhão de Espuma",
+      "categoria": "Diversos",
+      "preco": 359,
+      "link": "https://meli.la/2nCNJ7L",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-electrolux-1850psi-1500w-potencia-com-canhao-de-espuma-powerwash-ews1850p-preta-lava-jato-lava-car/p/MLB48683264",
+      "precoDe": 698.57,
+      "parcelas": "7x de R$68,56 sem juros",
+      "postado": "2026-11-27T20:55:39.978Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2nCNJ7L.jpg"
+    },
     {
       "id": "1ERLNRV",
       "nome": "Pré-treino Evolution 300G Termogênico Blueberry - Soldiers Nutrition",
