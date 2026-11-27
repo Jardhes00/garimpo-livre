@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T14:38:18.040Z",
+  "atualizado": "2026-11-27T14:39:32.750Z",
   "ofertas": [
+    {
+      "id": "2WdPUon",
+      "nome": "Lavadora Midea Wave Agitator 13kg Cor Branco",
+      "categoria": "Diversos",
+      "preco": 1399,
+      "link": "https://meli.la/2WdPUon",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-midea-wave-agitator-13kg-cor-branco/p/MLB46230872",
+      "precoDe": 2147.48,
+      "postado": "2026-11-27T14:39:32.749Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2WdPUon.jpg"
+    },
     {
       "id": "1dZjDvF",
       "nome": "Parafusadeira Furadeira 48v Profissional 2 Baterias Sem Fio",
