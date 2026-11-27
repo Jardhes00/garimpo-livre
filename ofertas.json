@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T12:50:42.096Z",
+  "atualizado": "2026-11-27T12:51:57.111Z",
   "ofertas": [
+    {
+      "id": "29QZ8Jj",
+      "nome": "Fogão 5 Bocas Dako Magister Style Com Frente Espelhada Mesa de Vidro e Tripla",
+      "categoria": "Diversos",
+      "preco": 1739,
+      "link": "https://meli.la/29QZ8Jj",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fogao-5-bocas-dako-magister-style-com-frente-espelhada-mesa-de-vidro-e-tripla-chama-bivolt/p/MLB18636583",
+      "precoDe": 2979,
+      "parcelas": "10x de R$173,90 sem juros",
+      "postado": "2026-11-27T12:51:57.109Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-29QZ8Jj.jpg"
+    },
     {
       "id": "2sUUqxr",
       "nome": "Lava-Roupas Líquido Brilhante Limpeza Total 3L",
