@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T11:25:39.062Z",
+  "atualizado": "2026-11-27T11:26:54.262Z",
   "ofertas": [
+    {
+      "id": "2iPxcM4",
+      "nome": "Micro-ondas Electrolux 20L Branco com Função Tira Odor e Descongelar MTO30",
+      "categoria": "Casa",
+      "preco": 406.43,
+      "link": "https://meli.la/2iPxcM4",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-electrolux-20l-branco-com-funcao-tira-odor-e-descongelar-mto30/p/MLB6309816",
+      "precoDe": 599,
+      "pix": true,
+      "parcelas": "R$419 em outros meios",
+      "postado": "2026-11-27T11:26:54.261Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2iPxcM4.jpg"
+    },
     {
       "id": "31mCjQa",
       "nome": "Escova Secadora Britânia Bivolt 1300w Soft Bec07r Original Rosa 127/220v",
