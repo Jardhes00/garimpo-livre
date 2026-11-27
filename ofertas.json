@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T12:06:55.489Z",
+  "atualizado": "2026-11-27T12:08:10.465Z",
   "ofertas": [
+    {
+      "id": "1czduxz",
+      "nome": "Bicicleta Elétrica Scooter 500w Bateria Removível 48v 15ah cor preto Bikelete",
+      "categoria": "Esporte",
+      "preco": 2851.2,
+      "link": "https://meli.la/1czduxz",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bicicleta-eletrica-scooter-500w-bateria-removivel-48v-15ah-cor-preto-bikelete-smart-mt2/p/MLB47712045",
+      "precoDe": 5199.9,
+      "postado": "2026-11-27T12:08:10.464Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1czduxz.jpg"
+    },
     {
       "id": "2KugrTf",
       "nome": "Escada Articulada 16 Degraus 4x4 Garden Life Aluminum Cor Cinza",
