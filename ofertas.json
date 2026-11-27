@@ -1,6 +1,42 @@
 {
-  "atualizado": "2026-11-27T13:05:42.278Z",
+  "atualizado": "2026-11-27T13:53:16.644Z",
   "ofertas": [
+    {
+      "id": "2zdhoVc",
+      "nome": "Shampoo Fortalecedor Pielus Forte 400ml Mantecorp",
+      "categoria": "Beleza",
+      "preco": 93.51,
+      "link": "https://meli.la/2zdhoVc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/shampoo-fortalecedor-pielus-forte-400ml-mantecorp/p/MLB50470706",
+      "precoDe": 169.9,
+      "pix": true,
+      "parcelas": "R$103,90 em outros meios",
+      "cupomAnuncio": "Compre R$299,90 e ganhe R$50 OFF",
+      "postado": "2026-11-27T13:53:16.636Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2zdhoVc.jpg"
+    },
+    {
+      "id": "1hvnH5a",
+      "nome": "Tablet Lenovo Idea Tab 4gb 128gb Android 15 Caneta E Teclado",
+      "categoria": "Tech",
+      "preco": 1169,
+      "link": "https://meli.la/1hvnH5a",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tablet-lenovo-idea-tab-4gb-128gb-android-15-caneta-e-teclado/up/MLBU5657881973",
+      "precoDe": 1949,
+      "parcelas": "10x de R$116,90 sem juros",
+      "postado": "2026-11-27T13:06:57.258Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1hvnH5a.jpg"
+    },
     {
       "id": "2HqLGnm",
       "nome": "Perfume Árabe Maison Alhambra Philos Pura Eau de Parfum 100ml",
