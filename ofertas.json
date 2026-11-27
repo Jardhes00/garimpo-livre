@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T14:34:32.689Z",
+  "atualizado": "2026-11-27T14:35:47.963Z",
   "ofertas": [
+    {
+      "id": "1oYUX1s",
+      "nome": "Bicicleta Ergométrica Spinning Inércia 13kg Fitness Cardio Preto",
+      "categoria": "Esporte",
+      "preco": 464.67,
+      "link": "https://meli.la/1oYUX1s",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bicicleta-ergometrica-spinning-inercia-13kg-fitness-cardio-preto/p/MLB76056654",
+      "precoDe": 1119,
+      "pix": true,
+      "parcelas": "R$566,67 em 10x R$56,67 sem juros",
+      "postado": "2026-11-27T14:35:47.961Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1oYUX1s.jpg"
+    },
     {
       "id": "1tGMm9c",
       "nome": "Kit Vaso Sanitário Deca Level Total Clean Branco Com Caixa Acoplada E Assento",
