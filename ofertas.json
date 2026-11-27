@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T20:19:24.354Z",
+  "atualizado": "2026-11-27T20:20:39.348Z",
   "ofertas": [
+    {
+      "id": "2hCEnY7",
+      "nome": "Fogão 5 Bocas Dako Supreme Glass Mesa de Vidro com Timer Touch Titanium Bivolt",
+      "categoria": "Diversos",
+      "preco": 1743,
+      "link": "https://meli.la/2hCEnY7",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fogao-5-bocas-dako-supreme-glass-mesa-de-vidro-com-timer-touch-titanium-bivolt/p/MLB49196281",
+      "precoDe": 2479,
+      "parcelas": "10x de R$174,30 sem juros",
+      "postado": "2026-11-27T20:20:39.347Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2hCEnY7.jpg"
+    },
     {
       "id": "2nWtG1G",
       "nome": "Carro Elétrico Infantil Controle Remoto Bateria 6v Marcha Frente/Ré Bluetooth",
