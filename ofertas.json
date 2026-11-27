@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T11:01:53.747Z",
+  "atualizado": "2026-11-27T11:03:08.504Z",
   "ofertas": [
+    {
+      "id": "1ew2b4N",
+      "nome": "Máquina de Cortar Cabelo Profissional Sem Fio 8000 RPM com Display LED e",
+      "categoria": "Diversos",
+      "preco": 74.34,
+      "link": "https://meli.la/1ew2b4N",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquina-de-cortar-cabelo-profissional-sem-fio-8000-rpm-com-display-led-e-bateria-1800mah-recarregavel-para-cabelo-e-barba/p/MLB81278190",
+      "precoDe": 118,
+      "postado": "2026-11-27T11:03:08.503Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ew2b4N.jpg"
+    },
     {
       "id": "2cH1pwL",
       "nome": "Máquina De Cortar Cabelo Profissional De Ajustável Sem Fio Com Visor Led",
