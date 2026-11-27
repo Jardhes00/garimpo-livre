@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T16:09:37.206Z",
+  "atualizado": "2026-11-27T16:10:50.948Z",
   "ofertas": [
+    {
+      "id": "2Q7SHPa",
+      "nome": "Caixa De Som Speaker Aiwa SP-05-LB 30w Bluetooth Ipx5",
+      "categoria": "Tech",
+      "preco": 299,
+      "link": "https://meli.la/2Q7SHPa",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-speaker-aiwa-sp-05-lb-30w-bluetooth-ipx5/p/MLB53397326",
+      "precoDe": 599,
+      "parcelas": "6x de R$49,83 sem juros",
+      "postado": "2026-11-27T16:10:50.946Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Q7SHPa.jpg"
+    },
     {
       "id": "2Yek1JS",
       "nome": "Triciclo Elétrico De Drift Vifit Com Suspensão,350w,100kg",
