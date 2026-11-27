@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T17:19:22.945Z",
+  "atualizado": "2026-11-27T17:20:53.165Z",
   "ofertas": [
+    {
+      "id": "1b1JxhT",
+      "nome": "Cascata Natal Com 8 Funções Branco Frio 400 Leds 10 Metros A Prova D'água LARUNO",
+      "categoria": "Diversos",
+      "preco": 61.65,
+      "link": "https://meli.la/1b1JxhT",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB78875859",
+      "precoDe": 249.9,
+      "pix": true,
+      "parcelas": "R$ 64,90 em outros meios",
+      "extra": "R$ 25 OFF com cupom no anúncio",
+      "postado": "2026-11-27T17:20:53.163Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1b1JxhT.jpg"
+    },
     {
       "id": "2n2TZfR",
       "nome": "Creme Reparador Protetor Avène Cicalfate+ Pele Sensível 100ml",
@@ -9926,23 +9945,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1xGWHUH.jpg"
-    },
-    {
-      "id": "1c6h657",
-      "nome": "Luva Latex C/pó Kit Com 1000 Kit 10cx",
-      "categoria": "Diversos",
-      "preco": 217.99,
-      "link": "https://meli.la/1c6h657",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/luva-latex-cpo-kit-com-1000-kit-10cx/up/MLBU1152231434",
-      "precoDe": 499.9,
-      "cupomAnuncio": "R$212,99 com Cupom por seguir a loja",
-      "postado": "2026-11-25T17:19:42.386Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1c6h657.jpg"
     }
   ]
 }
