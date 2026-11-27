@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T11:05:38.799Z",
+  "atualizado": "2026-11-27T11:06:53.619Z",
   "ofertas": [
+    {
+      "id": "2e3YZPc",
+      "nome": "Colchão Casal Emma Original 138x188cm 3 Camadas de Espuma, Embalado à Vácuo",
+      "categoria": "Casa",
+      "preco": 2094,
+      "link": "https://meli.la/2e3YZPc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/colchao-casal-emma-original-138x188cm-3-camadas-de-espuma-embalado-vacuo-suporte-para-coluna-alta-respirabilidade-capa-lavavel/p/MLB18724648",
+      "precoDe": 5369,
+      "parcelas": "10x de R$209,40 sem juros",
+      "postado": "2026-11-27T11:06:53.618Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2e3YZPc.jpg"
+    },
     {
       "id": "1SUdVsp",
       "nome": "Relógio masculino Tommy Hilfiger Modern Classic 1710595 Liniers Blue Mesh Blue",
