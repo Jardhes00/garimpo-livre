@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T11:26:54.262Z",
+  "atualizado": "2026-11-27T11:28:09.293Z",
   "ofertas": [
+    {
+      "id": "2HZYJWD",
+      "nome": "Panela de Pressão Tramontina 4,5L Vancouver Effect Preto 20591/420",
+      "categoria": "Casa",
+      "preco": 154.21,
+      "link": "https://meli.la/2HZYJWD",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/panela-de-pressao-tramontina-45l-vancouver-effect-preto-20591420/p/MLB10892513",
+      "precoDe": 216,
+      "pix": true,
+      "parcelas": "R$158,98 em outros meios",
+      "postado": "2026-11-27T11:28:09.292Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2HZYJWD.jpg"
+    },
     {
       "id": "2iPxcM4",
       "nome": "Micro-ondas Electrolux 20L Branco com Função Tira Odor e Descongelar MTO30",
