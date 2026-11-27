@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T18:55:36.567Z",
+  "atualizado": "2026-11-27T18:56:51.636Z",
   "ofertas": [
+    {
+      "id": "1fybhAo",
+      "nome": "The Legend Of Zelda Ocarina Of Time Switch 2 Br Cartões Foil",
+      "categoria": "Games",
+      "preco": 407.82,
+      "link": "https://meli.la/1fybhAo",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/the-legend-of-zelda-ocarina-of-time-switch-2-br-cartoes-foil/up/MLBU5806719365",
+      "precoDe": 607.56,
+      "postado": "2026-11-27T18:56:51.634Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1fybhAo.jpg"
+    },
     {
       "id": "2BmrDJS",
       "nome": "Creatina (250g) Creapure - G.supplements Sabor Sem Sabor",
@@ -9032,24 +9048,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2Ga43pp.jpg"
-    },
-    {
-      "id": "25w3std",
-      "nome": "Bateria Makita De 5.0ah Li-ion 18v Lxt Profissional Bl1850b",
-      "categoria": "Diversos",
-      "preco": 398,
-      "link": "https://meli.la/25w3std",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/bateria-makita-de-50ah-li-ion-18v-lxt-profissional-bl1850b/p/MLB46064762",
-      "precoDe": 786.45,
-      "parcelas": "10x de R$39,80 sem juros",
-      "cupomAnuncio": "R$378,10 com Cupom por seguir a loja",
-      "postado": "2026-11-25T18:56:00.577Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-25w3std.jpg"
     }
   ]
 }
