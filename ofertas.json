@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T11:55:40.211Z",
+  "atualizado": "2026-11-27T11:56:54.975Z",
   "ofertas": [
+    {
+      "id": "2aDCHZ3",
+      "nome": "Smart Tv Stick Full Hd Intelbras Preto Padrão",
+      "categoria": "Tech",
+      "preco": 214.68,
+      "link": "https://meli.la/2aDCHZ3",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smart-tv-stick-full-hd-intelbras-preto-padrao/p/MLB28572551",
+      "precoDe": 434.9,
+      "pix": true,
+      "parcelas": "R$252,56 em 6x R$42,09 sem juros",
+      "postado": "2026-11-27T11:56:54.974Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2aDCHZ3.jpg"
+    },
     {
       "id": "29CRwDk",
       "nome": "Cama Elástica Pula Pula Infantil Trampolim 1,4 Metros Atentu",
