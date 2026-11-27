@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T19:04:21.871Z",
+  "atualizado": "2026-11-27T19:05:36.830Z",
   "ofertas": [
+    {
+      "id": "2t7nFbu",
+      "nome": "Robô Aspirador de Pó WAP ROBOT W4000 - Estação Autolimpante, Mapeamento LDS",
+      "categoria": "Casa",
+      "preco": 1710.27,
+      "link": "https://meli.la/2t7nFbu",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/robo-aspirador-de-po-wap-robot-w4000-estacao-autolimpante-mapeamento-lds-360-passa-pano-com-mop-giratorio/p/MLB42518345",
+      "precoDe": 4240,
+      "pix": true,
+      "parcelas": "R$1.839 em 10x R$183,90 sem juros",
+      "postado": "2026-11-27T19:05:36.828Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2t7nFbu.jpg"
+    },
     {
       "id": "19rQrGJ",
       "nome": "Panela Frigideira Antiaderente Cerâmica Dinda Home Indução Gás Elétrico Linha",
@@ -9030,25 +9048,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2LevU4h.jpg"
-    },
-    {
-      "id": "2Z5jkc8",
-      "nome": "Ddpai N1 Dual Câmera Veicular 1296p+1080p Uber Nightvis App",
-      "categoria": "Auto",
-      "preco": 495.88,
-      "link": "https://meli.la/2Z5jkc8",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ddpai-n1-dual-camera-veicular-1296p1080p-uber-nightvis-app/up/MLBU1756154230",
-      "precoDe": 998,
-      "pix": true,
-      "parcelas": "R$539 em 10x R$53,90 sem juros",
-      "cupomAnuncio": "R$477,48 com Cupom por seguir a loja",
-      "postado": "2026-11-25T19:04:45.536Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2Z5jkc8.jpg"
     }
   ]
 }
