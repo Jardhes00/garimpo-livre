@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T15:52:05.080Z",
+  "atualizado": "2026-11-27T15:53:20.252Z",
   "ofertas": [
+    {
+      "id": "1CLHZ5y",
+      "nome": "Fritadeira Airfryer Forno Philips Walita Série 5000 12L Preta - AI551",
+      "categoria": "Casa",
+      "preco": 490.35,
+      "link": "https://meli.la/1CLHZ5y",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fritadeira-airfryer-forno-philips-walita-serie-5000-12l-preta-ai551/p/MLB44000664",
+      "precoDe": 980,
+      "pix": true,
+      "parcelas": "R$597,99 em outros meios",
+      "postado": "2026-11-27T15:53:20.251Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1CLHZ5y.jpg"
+    },
     {
       "id": "2kRKPmU",
       "nome": "Limpadora De Pisos Kärcher Fc 7 Bateria 4 Em 1",
