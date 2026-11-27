@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T16:30:51.935Z",
+  "atualizado": "2026-11-27T16:32:06.640Z",
   "ofertas": [
+    {
+      "id": "23amzUz",
+      "nome": "EUCERIN Creme Facial Anti-idade Firmador Noite 50ml, Elasticity, Pele Madura",
+      "categoria": "Beleza",
+      "preco": 229.98,
+      "link": "https://meli.la/23amzUz",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/eucerin-creme-facial-anti-idade-firmador-noite-50ml-elasticity-pele-madura-hyaluron-filler-acido-hialuronico-antirrugas/p/MLB22857320",
+      "precoDe": 319.9,
+      "parcelas": "6x de R$38,33 sem juros",
+      "postado": "2026-11-27T16:32:06.638Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-23amzUz.jpg"
+    },
     {
       "id": "1JG1xRk",
       "nome": "Roupa Íntima Descartável Tena Pants Noturna P/M Leve 32 Pague 28 Unidades",
@@ -9964,23 +9981,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-25ifdhK.jpg"
-    },
-    {
-      "id": "12Muiad",
-      "nome": "Kit 2 Ventiladores 70cm Bivolt Industrial 3 Pás 270w Goar",
-      "categoria": "Casa",
-      "preco": 959,
-      "link": "https://meli.la/12Muiad",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit-2-ventiladores-70cm-bivolt-industrial-3-pas-270w-goar/up/MLBU3696861929",
-      "precoDe": 1598.9,
-      "cupomAnuncio": "R$945 com Cupom por seguir a loja",
-      "postado": "2026-11-25T16:30:56.148Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-12Muiad.jpg"
     }
   ]
 }
