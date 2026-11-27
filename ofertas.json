@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T14:50:48.331Z",
+  "atualizado": "2026-11-27T14:52:03.501Z",
   "ofertas": [
+    {
+      "id": "1k3HxsN",
+      "nome": "Fritadeira Air Fryer Philco PAF16A 4 Em 1 Painel Digital 16l",
+      "categoria": "Casa",
+      "preco": 511.91,
+      "link": "https://meli.la/1k3HxsN",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fritadeira-air-fryer-philco-paf16a-4-em-1-painel-digital-16l/p/MLB43419989",
+      "precoDe": 899,
+      "pix": true,
+      "parcelas": "R$556,42 em outros meios",
+      "postado": "2026-11-27T14:52:03.499Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1k3HxsN.jpg"
+    },
     {
       "id": "2bpsus1",
       "nome": "EUCERIN Protetor Solar Facial Antimanchas Cor Média FPS 70 50ml, Pigment",
