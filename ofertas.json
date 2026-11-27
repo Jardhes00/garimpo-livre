@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T19:39:22.751Z",
+  "atualizado": "2026-11-27T19:40:37.260Z",
   "ofertas": [
+    {
+      "id": "2kUrGHP",
+      "nome": "Ventilador de Coluna 40cm Super Power VSP40C 6 Pás 3 Velocidades Mondial",
+      "categoria": "Casa",
+      "preco": 190.32,
+      "link": "https://meli.la/2kUrGHP",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-coluna-40cm-super-power-vsp40c-6-pas-3-velocidades-mondial/p/MLB27341794",
+      "precoDe": 279.9,
+      "parcelas": "6x de R$32,75 sem juros",
+      "postado": "2026-11-27T19:40:37.259Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2kUrGHP.jpg"
+    },
     {
       "id": "2ydDDJx",
       "nome": "Gel de Limpeza Facial Antimanchas Uniformizador com Melasyl, Niacinamida e PHA",
