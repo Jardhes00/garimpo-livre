@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T11:41:55.158Z",
+  "atualizado": "2026-11-27T11:43:09.730Z",
   "ofertas": [
+    {
+      "id": "14Nk9vR",
+      "nome": "Smart TV LG UHD AI UA75 50 polegadas HDR10 Pro Processador α7 AI Ger8 webOS 25",
+      "categoria": "Tech",
+      "preco": 1999.9,
+      "link": "https://meli.la/14Nk9vR",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smart-tv-lg-uhd-ai-ua75-50-polegadas-hdr10-pro-processador-7-ai-ger8-webos-25/p/MLB53201474",
+      "precoDe": 5000,
+      "postado": "2026-11-27T11:43:09.728Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-14Nk9vR.jpg"
+    },
     {
       "id": "2Ahy9Py",
       "nome": "Tenda Gazebo Sanfonada Articulada Luvinco 3x3m Azul Impermeável Resistente",
