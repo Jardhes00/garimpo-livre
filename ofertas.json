@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T19:53:08.071Z",
+  "atualizado": "2026-11-27T19:54:23.338Z",
   "ofertas": [
+    {
+      "id": "1WVtSmK",
+      "nome": "Kit 2 Pneus 205/55r16 Goodyear Eagle Sport 2 91v Aro 16 Índice de velocidade V",
+      "categoria": "Auto",
+      "preco": 795.79,
+      "link": "https://meli.la/1WVtSmK",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-2-pneus-20555r16-goodyear-eagle-sport-2-91v-aro-16-indice-de-velocidade-v/p/MLB28689951",
+      "precoDe": 1600,
+      "pix": true,
+      "parcelas": "R$864,99 em outros meios",
+      "postado": "2026-11-27T19:54:23.337Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1WVtSmK.jpg"
+    },
     {
       "id": "332Yqya",
       "nome": "Aspirador de Pó Vertical 1600W Electrolux com cabo 6m portátil de mão 2 em 1",
@@ -9216,24 +9234,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2T7d2G6.jpg"
-    },
-    {
-      "id": "26xKWv2",
-      "nome": "Panela Pressão Britânia 6L Bpp06p Preto Com Inox",
-      "categoria": "Casa",
-      "preco": 305.1,
-      "link": "https://meli.la/26xKWv2",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB69751621",
-      "precoDe": 595.87,
-      "pix": true,
-      "parcelas": "R$ 339 em outros meios",
-      "postado": "2026-11-25T19:54:01.777Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-26xKWv2.jpg"
     }
   ]
 }
