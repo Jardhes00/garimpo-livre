@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T14:00:46.741Z",
+  "atualizado": "2026-11-27T14:02:01.803Z",
   "ofertas": [
+    {
+      "id": "2uzR3R6",
+      "nome": "Parafusadeira Furadeira 48v Impacto Sem Fio 2 Baterias Recarregável Bivolt",
+      "categoria": "Ferramentas",
+      "preco": 92.34,
+      "link": "https://meli.la/2uzR3R6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/parafusadeira-furadeira-sem-fio-48v-2-baterias-340w-cbrocas-amarelo-e-preto-indobest/p/MLB42366695",
+      "precoDe": 189.42,
+      "pix": true,
+      "parcelas": "R$115,43 em outros meios",
+      "postado": "2026-11-27T14:02:01.802Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2uzR3R6.jpg"
+    },
     {
       "id": "27ty6j2",
       "nome": "Kit 3 Camisetas Light Insider",
