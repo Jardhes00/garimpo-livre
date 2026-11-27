@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T19:00:36.723Z",
+  "atualizado": "2026-11-27T19:01:51.785Z",
   "ofertas": [
+    {
+      "id": "2rb2k2S",
+      "nome": "Ventilador de Coluna 40cm Super Power VSP40C 6 Pás 3 Velocidades Mondial 127v",
+      "categoria": "Casa",
+      "preco": 190.32,
+      "link": "https://meli.la/2rb2k2S",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-coluna-40cm-super-power-vsp40c-6-pas-3-velocidades-mondial-127v/p/MLB27577458",
+      "precoDe": 279.9,
+      "postado": "2026-11-27T19:01:51.783Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2rb2k2S.jpg"
+    },
     {
       "id": "1H5nbb9",
       "nome": "EUCERIN Creme de Olhos Clareador de Olheiras 15ml, Anti-Pigment, Antimanchas",
@@ -9032,24 +9048,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2xni13G.jpg"
-    },
-    {
-      "id": "2s8adCK",
-      "nome": "Ventilador De Coluna Pvt466 Tecnologia Maxx Force 174w Cor Preto Philco",
-      "categoria": "Casa",
-      "preco": 245.4,
-      "link": "https://meli.la/2s8adCK",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-coluna-pvt466-tecnologia-maxx-force-174w-cor-preto-philco/p/MLB28529765",
-      "precoDe": 384.9,
-      "pix": true,
-      "parcelas": "R$272,67 em 6x R$45,44 sem juros",
-      "postado": "2026-11-25T19:01:00.742Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2s8adCK.jpg"
     }
   ]
 }
