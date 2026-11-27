@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T17:12:07.742Z",
+  "atualizado": "2026-11-27T17:15:22.227Z",
   "ofertas": [
+    {
+      "id": "2coV3J4",
+      "nome": "Tênis Corrida Runfalcon 5 adidas",
+      "categoria": "Moda",
+      "preco": 177.5,
+      "link": "https://meli.la/2coV3J4",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tenis-corrida-runfalcon-5-adidas/up/MLBU3705882548",
+      "precoDe": 449.99,
+      "pix": true,
+      "parcelas": "R$ 192,93 em 6x de R$ 32,16 sem juros",
+      "postado": "2026-11-27T17:15:22.224Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2coV3J4.jpg"
+    },
     {
       "id": "1MSbDnk",
       "nome": "Coenzima Q10 200mg - 120 Cápsulas Sem Sabor - Vitafor",
@@ -9922,56 +9940,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-172gXug.jpg"
-    },
-    {
-      "id": "11i6FAC",
-      "nome": "Short Masculino Bermuda Praia 2 Bolsos Zíper Secagem Rápida",
-      "categoria": "Moda",
-      "preco": 31.35,
-      "link": "https://meli.la/11i6FAC",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://produto.mercadolivre.com.br/MLB-4096917772-short-masculino-bermuda-praia-2-bolsos-ziper-secagem-rapida-_JM",
-      "precoDe": 44.99,
-      "pix": true,
-      "postado": "2026-11-25T17:14:42.156Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-11i6FAC.jpg"
-    },
-    {
-      "id": "2RZj8Fc",
-      "nome": "Kit Com 2 Camisetas Masculinas Básicas Slim Hering",
-      "categoria": "Moda",
-      "preco": 49.99,
-      "link": "https://meli.la/2RZj8Fc",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://produto.mercadolivre.com.br/MLB-2874132176-kit-com-2-camisetas-masculinas-basicas-slim-hering-_JM",
-      "precoDe": 119.99,
-      "postado": "2026-11-25T17:13:27.322Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2RZj8Fc.jpg"
-    },
-    {
-      "id": "1WHVyup",
-      "nome": "Tênis Ultimashow 2.0 adidas",
-      "categoria": "Moda",
-      "preco": 227.99,
-      "link": "https://meli.la/1WHVyup",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://produto.mercadolivre.com.br/MLB-3746595233-tnis-ultimashow-20-adidas-_JM",
-      "precoDe": 379.99,
-      "parcelas": "6x R$ 38 sem juros",
-      "postado": "2026-11-25T17:12:12.001Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1WHVyup.jpg"
     }
   ]
 }
