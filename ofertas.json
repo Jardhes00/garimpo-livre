@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T19:20:37.288Z",
+  "atualizado": "2026-11-27T19:21:52.439Z",
   "ofertas": [
+    {
+      "id": "2K3RAUr",
+      "nome": "Robô Aspirador Anker eufy C20 3 em 1 Estação Tudo em Um Sucção 7000Pa Corpo",
+      "categoria": "Casa",
+      "preco": 2542.87,
+      "link": "https://meli.la/2K3RAUr",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/robo-aspirador-anker-eufy-c20-3-em-1-estacao-tudo-em-um-succao-7000pa-corpo-ultrafino-85cm-esvaziamento-limpeza-e-secagem-automatica-mapeamento-laser-multinivel-escova-antiembaraco-wifi-app-voz-220v/p/MLB45873105",
+      "precoDe": 5999,
+      "pix": true,
+      "parcelas": "R$2.734,27 em 10x R$273,43 sem juros",
+      "postado": "2026-11-27T19:21:52.437Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2K3RAUr.jpg"
+    },
     {
       "id": "1tZR6wP",
       "nome": "Purificador Água E-due Equilibrium Grafite Ibbl Bivolt",
