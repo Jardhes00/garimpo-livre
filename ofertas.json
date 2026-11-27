@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T19:01:51.785Z",
+  "atualizado": "2026-11-27T19:03:06.957Z",
   "ofertas": [
+    {
+      "id": "15pKVqZ",
+      "nome": "Cooktop a Gás, 4 Bocas, Mondial Bivolt CTG-01",
+      "categoria": "Diversos",
+      "preco": 284.05,
+      "link": "https://meli.la/15pKVqZ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cooktop-a-gas-4-bocas-mondial-bivolt-ctg-01/p/MLB16157795",
+      "precoDe": 479.9,
+      "pix": true,
+      "parcelas": "R$299 em 6x R$49,83 sem juros",
+      "postado": "2026-11-27T19:03:06.955Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-15pKVqZ.jpg"
+    },
     {
       "id": "2rb2k2S",
       "nome": "Ventilador de Coluna 40cm Super Power VSP40C 6 Pás 3 Velocidades Mondial 127v",
@@ -9032,22 +9050,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1mVLU5j.jpg"
-    },
-    {
-      "id": "2xni13G",
-      "nome": "Bomba Elétrica Portátil Digital Para Encher Pneu De Carro Moto Bicicleta",
-      "categoria": "Auto",
-      "preco": 148.49,
-      "link": "https://meli.la/2xni13G",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/bomba-eletrica-portatil-digital-para-encher-pneu-de-carro-moto-bicicleta-inflador-automotivo-cor-preto/p/MLB57468779",
-      "precoDe": 489.98,
-      "postado": "2026-11-25T19:02:15.444Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2xni13G.jpg"
     }
   ]
 }
