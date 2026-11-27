@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T14:28:17.024Z",
+  "atualizado": "2026-11-27T14:29:33.014Z",
   "ofertas": [
+    {
+      "id": "1mXRqd7",
+      "nome": "Cafeteira Nescafé Dolce Gusto Mini Me Cinza E Preta 110v Cor Preto",
+      "categoria": "Casa",
+      "preco": 349,
+      "link": "https://meli.la/1mXRqd7",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafeteira-nescafe-dolce-gusto-mini-me-cinza-e-preta-110v-cor-preto/p/MLB23298076",
+      "precoDe": 579.9,
+      "postado": "2026-11-27T14:29:33.013Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1mXRqd7.jpg"
+    },
     {
       "id": "2CgsvKE",
       "nome": "Micro-ondas Philco 20L 1100W Limpa Fácil Tira Odor PMO24E",
