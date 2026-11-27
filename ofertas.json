@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T11:35:39.551Z",
+  "atualizado": "2026-11-27T11:36:54.503Z",
   "ofertas": [
+    {
+      "id": "2bkSD9V",
+      "nome": "Relógio Tommy Hilfiger Th Essentials Masculino Couro Marrom",
+      "categoria": "Moda",
+      "preco": 379,
+      "link": "https://meli.la/2bkSD9V",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/relogio-tommy-hilfiger-th-essentials-masculino-couro-marrom/up/MLBU5041416543",
+      "precoDe": 990,
+      "parcelas": "7x de R$54,14 sem juros",
+      "postado": "2026-11-27T11:36:54.502Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2bkSD9V.jpg"
+    },
     {
       "id": "32uoV24",
       "nome": "100% Whey Concentrado 900g Growth Supplements Morango",
