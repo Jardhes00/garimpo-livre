@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T16:49:37.114Z",
+  "atualizado": "2026-11-27T16:50:52.079Z",
   "ofertas": [
+    {
+      "id": "1XTDxw3",
+      "nome": "Panela de Pressão Panelux Classic 4,5 L em Alumínio Polido",
+      "categoria": "Casa",
+      "preco": 45.69,
+      "link": "https://meli.la/1XTDxw3",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/panela-de-pressao-panelux-classic-45-l-em-aluminio-polido/p/MLB28466817",
+      "precoDe": 63.9,
+      "cupomAnuncio": "Compre R$79 e ganhe 20% OFF",
+      "postado": "2026-11-27T16:50:52.076Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1XTDxw3.jpg"
+    },
     {
       "id": "1hY33jZ",
       "nome": "Colchão King Emma Original 193x203cm 3 Camadas de Espuma Embalado à vácuo, Alta",
@@ -9968,24 +9985,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2PZxk76.jpg"
-    },
-    {
-      "id": "2MZr4mt",
-      "nome": "Scanner de Mesa Canon LiDE 300 Preto para Documentos e Fotos",
-      "categoria": "Diversos",
-      "preco": 376.28,
-      "link": "https://meli.la/2MZr4mt",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/scanner-de-mesa-canon-lide-300-preto-para-documentos-e-fotos/p/MLB24121696",
-      "precoDe": 806.4,
-      "pix": true,
-      "parcelas": "R$409 em outros meios",
-      "postado": "2026-11-25T16:49:41.186Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2MZr4mt.jpg"
     }
   ]
 }
