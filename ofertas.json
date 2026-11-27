@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T17:04:37.616Z",
+  "atualizado": "2026-11-27T17:05:52.652Z",
   "ofertas": [
+    {
+      "id": "2S9hW3A",
+      "nome": "3 Und Wd40 Spray Produto Multiuso Lubrifica Desengripa 300ml",
+      "categoria": "Diversos",
+      "preco": 103.99,
+      "link": "https://meli.la/2S9hW3A",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB34066815",
+      "precoDe": 220.71,
+      "postado": "2026-11-27T17:05:52.651Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2S9hW3A.jpg"
+    },
     {
       "id": "1YGfaeq",
       "nome": "Ventilador de Mesa e Parede Britânia Maxx Force Turbo BVT400 Preto 150W 40cm",
@@ -9968,22 +9984,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-25KRwBp.jpg"
-    },
-    {
-      "id": "1esSedx",
-      "nome": "Amaciante Downy Concentrado Brisa de Verão 3L Rende 12L",
-      "categoria": "Diversos",
-      "preco": 39.88,
-      "link": "https://meli.la/1esSedx",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB16086214",
-      "precoDe": 57.9,
-      "postado": "2026-11-25T17:04:41.786Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1esSedx.jpg"
     }
   ]
 }
