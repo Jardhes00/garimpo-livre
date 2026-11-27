@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T20:35:39.593Z",
+  "atualizado": "2026-11-27T20:36:54.500Z",
   "ofertas": [
+    {
+      "id": "1BJmtQx",
+      "nome": "Furadeira Industrial Impacto Rev 450w Gsb 450 Re Bosch + Kit",
+      "categoria": "Ferramentas",
+      "preco": 289,
+      "link": "https://meli.la/1BJmtQx",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/furadeira-industrial-impacto-rev-450w-gsb-450-re-bosch-kit/p/MLB46104754",
+      "precoDe": 462.38,
+      "parcelas": "6x de R$43,83 sem juros",
+      "cupomAnuncio": "R$260,10 com Cupom",
+      "postado": "2026-11-27T20:36:54.499Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1BJmtQx.jpg"
+    },
     {
       "id": "2jUrZJ4",
       "nome": "Penteadeira de Canto 120cm 6 Gavetas Flex Multimóveis MP4404 Branco",
