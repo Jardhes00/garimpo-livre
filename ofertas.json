@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T15:59:35.778Z",
+  "atualizado": "2026-11-27T16:00:50.670Z",
   "ofertas": [
+    {
+      "id": "2YGZ2Ho",
+      "nome": "Aspirador De Pó Arno X-force Flex 9.60 Aqua Xf9a Bivolt Preto",
+      "categoria": "Casa",
+      "preco": 994.17,
+      "link": "https://meli.la/2YGZ2Ho",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aspirador-de-po-arno-x-force-flex-960-aqua-xf9a-bivolt-preto/p/MLB74497292",
+      "precoDe": 2399.99,
+      "pix": true,
+      "parcelas": "R$1.069 em 10x R$106,90 sem juros",
+      "cupomAnuncio": "R$924,58 com Cupom",
+      "postado": "2026-11-27T16:00:50.668Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2YGZ2Ho.jpg"
+    },
     {
       "id": "2JJy7AL",
       "nome": "Jogo Silent Hill Townfall Day One Edition Ps5 Midia Fisica",
