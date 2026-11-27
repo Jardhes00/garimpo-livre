@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T14:07:02.326Z",
+  "atualizado": "2026-11-27T14:08:17.003Z",
   "ofertas": [
+    {
+      "id": "2hmPYrp",
+      "nome": "Kit 2 Pneus 175/70R14 Firestone F-600 84T Aro 14",
+      "categoria": "Auto",
+      "preco": 617.93,
+      "link": "https://meli.la/2hmPYrp",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-2-pneus-17570r14-firestone-f-600-84t-aro-14/p/MLB27720999",
+      "precoDe": 897,
+      "pix": true,
+      "parcelas": "R$650,45 em outros meios",
+      "postado": "2026-11-27T14:08:17.001Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2hmPYrp.jpg"
+    },
     {
       "id": "1dcMJFG",
       "nome": "Kit Wella Oil Reflections Shampoo 250ml + Máscara 150ml",
