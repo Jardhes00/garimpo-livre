@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T11:09:23.711Z",
+  "atualizado": "2026-11-27T11:10:38.709Z",
   "ofertas": [
+    {
+      "id": "2keooH6",
+      "nome": "Relógio Tommy Hilfiger Toc Masculino em Couro Preto 1791819",
+      "categoria": "Moda",
+      "preco": 353.39,
+      "link": "https://meli.la/2keooH6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/relogio-tommy-hilfiger-toc-masculino-em-couro-preto-1791819/p/MLB25970762",
+      "precoDe": 990,
+      "pix": true,
+      "parcelas": "R$384,12 em 7x R$54,87 sem juros",
+      "postado": "2026-11-27T11:10:38.708Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2keooH6.jpg"
+    },
     {
       "id": "1dT61Nc",
       "nome": "Controle Microsoft Wireless Carbon Black para Xbox Series X|S e PC",
