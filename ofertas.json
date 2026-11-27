@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T11:51:54.912Z",
+  "atualizado": "2026-11-27T11:53:09.983Z",
   "ofertas": [
+    {
+      "id": "2k8ZRrD",
+      "nome": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi Baby - CINZA",
+      "categoria": "Bebê",
+      "preco": 295.71,
+      "link": "https://meli.la/2k8ZRrD",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/berco-portatil-bebe-acoplado-co-bed-connect-maxi-baby-cinza/p/MLB61794290",
+      "precoDe": 799.9,
+      "pix": true,
+      "parcelas": "R$347,90 em outros meios",
+      "postado": "2026-11-27T11:53:09.981Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2k8ZRrD.jpg"
+    },
     {
       "id": "2UrbLde",
       "nome": "Condicionador Kérastase Gloss Absolu de Brilho e Antifrizz para Cabelos com",
