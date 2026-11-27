@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T11:56:54.975Z",
+  "atualizado": "2026-11-27T11:58:10.409Z",
   "ofertas": [
+    {
+      "id": "2ugnFbu",
+      "nome": "Whisky Ballantines Sunshine Abacaxi 700ml",
+      "categoria": "Diversos",
+      "preco": 49.4,
+      "link": "https://meli.la/2ugnFbu",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whisky-ballantines-sunshine-abacaxi-700ml/p/MLB46140451",
+      "precoDe": 84.9,
+      "postado": "2026-11-27T11:58:10.407Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ugnFbu.jpg"
+    },
     {
       "id": "2aDCHZ3",
       "nome": "Smart Tv Stick Full Hd Intelbras Preto Padrão",
