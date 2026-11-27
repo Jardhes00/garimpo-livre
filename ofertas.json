@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T18:39:21.265Z",
+  "atualizado": "2026-11-27T18:40:36.017Z",
   "ofertas": [
+    {
+      "id": "2GD1V2Y",
+      "nome": "Ar Condicionado Split Inverter 9000 Btus Hisense Frio 220v",
+      "categoria": "Casa",
+      "preco": 1517.08,
+      "link": "https://meli.la/2GD1V2Y",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-split-inverter-9000-btus-hisense-frio-220v/up/MLBU4304970379",
+      "precoDe": 2279,
+      "pix": true,
+      "parcelas": "R$1.649 em 10x R$164,90 sem juros",
+      "postado": "2026-11-27T18:40:36.014Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2GD1V2Y.jpg"
+    },
     {
       "id": "2wAwc15",
       "nome": "Robô Aspirador KABUM! smart K800 Pro Mapeamento Laser Autolimpante 13000Pa Preto",
@@ -9029,24 +9047,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2MADyiW.jpg"
-    },
-    {
-      "id": "2HoCK2q",
-      "nome": "Lançamento 2027 Câmera Com Tecnologia De Última Geração",
-      "categoria": "Pet",
-      "preco": 113.05,
-      "link": "https://meli.la/2HoCK2q",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/lancamento-2027-camera-com-tecnologia-de-ultima-geracao/up/MLBU3946182642",
-      "precoDe": 350,
-      "pix": true,
-      "parcelas": "R$119 em outros meios",
-      "postado": "2026-11-25T18:39:44.896Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2HoCK2q.jpg"
     }
   ]
 }
