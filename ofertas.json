@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T14:13:17.471Z",
+  "atualizado": "2026-11-27T14:14:32.472Z",
   "ofertas": [
+    {
+      "id": "1zG6gRL",
+      "nome": "Garrafa Térmica Quick Flip Stanley Preto 710ml",
+      "categoria": "Diversos",
+      "preco": 122.94,
+      "link": "https://meli.la/1zG6gRL",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/garrafa-termica-quick-flip-stanley-preto-710ml/p/MLB47793257",
+      "precoDe": 289,
+      "pix": true,
+      "parcelas": "R$132,19 em 4x R$33,05 sem juros",
+      "postado": "2026-11-27T14:14:32.471Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1zG6gRL.jpg"
+    },
     {
       "id": "2BnuAi3",
       "nome": "EUCERIN Sérum Facial Daily Booster Ultraleve 30ml, 24h Hidratação",
