@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T16:10:50.948Z",
+  "atualizado": "2026-11-27T16:12:06.077Z",
   "ofertas": [
+    {
+      "id": "1RdfL8z",
+      "nome": "Mixer Arno Turbomix Pro 3 Em 1 Cor Preto 127v MX31",
+      "categoria": "Diversos",
+      "preco": 148.49,
+      "link": "https://meli.la/1RdfL8z",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mixer-arno-turbomix-pro-3-em-1-cor-preto-127v-mx31/p/MLB15138036",
+      "precoDe": 419.99,
+      "parcelas": "4x de R$37,12 sem juros",
+      "postado": "2026-11-27T16:12:06.076Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1RdfL8z.jpg"
+    },
     {
       "id": "2Q7SHPa",
       "nome": "Caixa De Som Speaker Aiwa SP-05-LB 30w Bluetooth Ipx5",
