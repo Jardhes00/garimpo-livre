@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T20:46:54.818Z",
+  "atualizado": "2026-11-27T20:48:10.001Z",
   "ofertas": [
+    {
+      "id": "2WCtFaa",
+      "nome": "Proteína bovina isolada Shark Pro Whey Beef Zero Lac 900G em pó sabor Laranja",
+      "categoria": "Suplementos",
+      "preco": 128.7,
+      "link": "https://meli.la/2WCtFaa",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/proteina-bovina-isolada-shark-pro-whey-beef-zero-lac-900g-em-po-sabor-laranja-com-acerola-x-900g/p/MLB53041068",
+      "precoDe": 249.9,
+      "cupomAnuncio": "Compre R$199 e ganhe 20% OFF",
+      "postado": "2026-11-27T20:48:10.000Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2WCtFaa.jpg"
+    },
     {
       "id": "1MUjdHZ",
       "nome": "Sofá Retrátil Reclinável Zurique 2,50m Suede Velut Cinza Molas no Assento",
