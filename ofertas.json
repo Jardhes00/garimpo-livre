@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T15:28:19.530Z",
+  "atualizado": "2026-11-27T15:29:34.487Z",
   "ofertas": [
+    {
+      "id": "1phbXtT",
+      "nome": "Panificadora Multipane 12 Programações Com Função Timer e Antiaderente Potência",
+      "categoria": "Diversos",
+      "preco": 499.9,
+      "link": "https://meli.la/1phbXtT",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/panificadora-multipane-12-programacoes-com-funcao-timer-e-antiaderente-potencia-de-550-w-cor-preto-britania/p/MLB14489716",
+      "precoDe": 799.9,
+      "parcelas": "9x de R$52,14 sem juros",
+      "postado": "2026-11-27T15:29:34.485Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1phbXtT.jpg"
+    },
     {
       "id": "1Ebnre5",
       "nome": "Caixa de Som Basike Bluetooth Portátil 200W com Subwoofer e IPX6 Azul-Marinho",
