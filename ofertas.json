@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T17:00:22.492Z",
+  "atualizado": "2026-11-27T17:01:37.543Z",
   "ofertas": [
+    {
+      "id": "2zeVYus",
+      "nome": "Fone de Ouvido TWS JBL Tune Flex 2, Bluetooth, JBL Pure Bass, Cancelamento Adaptativo de Ruído",
+      "categoria": "Tech",
+      "preco": 379.05,
+      "link": "https://meli.la/2zeVYus",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB45929271",
+      "precoDe": 599,
+      "pix": true,
+      "parcelas": "R$ 399 em 2x de R$ 199,50 sem juros",
+      "postado": "2026-11-27T17:01:37.541Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2zeVYus.jpg"
+    },
     {
       "id": "2UDEcM1",
       "nome": "Panela de Pressão Brinox Vanilla 5.4 L De Indução Com Revestimento Cerâmico",
@@ -9965,25 +9983,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2JtvvJ2.jpg"
-    },
-    {
-      "id": "1Y2aSqU",
-      "nome": "Máquina de Solda Inversora 3 em 1 King Note KMIG-140A, MIG sem Gás, TIG Lift e MMA",
-      "categoria": "Auto",
-      "preco": 357.6,
-      "link": "https://meli.la/1Y2aSqU",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/maquina-de-solda-inversora-3-em-1-king-note-kmig-140a-mig-sem-gas-tig-lift-e-mma/p/MLB43964693",
-      "precoDe": 729.9,
-      "pix": true,
-      "parcelas": "R$ 376,42 em outros meios",
-      "cupomAnuncio": "Compre R$1.000 e ganhe 5% OFF por seguir a loja",
-      "postado": "2026-11-25T17:00:56.616Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1Y2aSqU.jpg"
     }
   ]
 }
