@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T16:27:06.446Z",
+  "atualizado": "2026-11-27T16:28:21.415Z",
   "ofertas": [
+    {
+      "id": "2UKi2Gp",
+      "nome": "Oleo Para Motores A Diesel 15w40 Disel Óleo Lubrificante X1",
+      "categoria": "Diversos",
+      "preco": 319.99,
+      "link": "https://meli.la/2UKi2Gp",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/oleo-para-motores-a-diesel-15w40-disel-oleo-lubrificante-x1/p/MLB2083159907",
+      "precoDe": 790,
+      "pix": true,
+      "parcelas": "R$399,99 em outros meios",
+      "postado": "2026-11-27T16:28:21.412Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2UKi2Gp.jpg"
+    },
     {
       "id": "2Kn3Z5T",
       "nome": "Ômega 3 Epa Dha 120 Cápsulas Sem Sabor - Vitafor",
@@ -9964,22 +9982,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2Bq7Ysa.jpg"
-    },
-    {
-      "id": "1M7utTv",
-      "nome": "Cerveja Spaten Puro Malte lata 350ml 12 u",
-      "categoria": "Diversos",
-      "preco": 37.9,
-      "link": "https://meli.la/1M7utTv",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cerveja-spaten-puro-malte-lata-350ml-12-u/p/MLB19544777",
-      "precoDe": 63.48,
-      "postado": "2026-11-25T16:27:10.659Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1M7utTv.jpg"
     }
   ]
 }
