@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T19:59:23.454Z",
+  "atualizado": "2026-11-27T20:00:38.493Z",
   "ofertas": [
+    {
+      "id": "1tJvV4r",
+      "nome": "Óleo De Banho Higiene Hidratante Diária Atoderm 1l Bioderma",
+      "categoria": "Beleza",
+      "preco": 189.8,
+      "link": "https://meli.la/1tJvV4r",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/oleo-de-banho-higiene-hidratante-diaria-atoderm-1l-bioderma/p/MLB26583068",
+      "precoDe": 299.9,
+      "parcelas": "6x de R$31,63 sem juros",
+      "cupomAnuncio": "Compre R$199 e ganhe 20% OFF",
+      "postado": "2026-11-27T20:00:38.491Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1tJvV4r.jpg"
+    },
     {
       "id": "2zFWM4A",
       "nome": "Óleo Wella Professionals Ultimate Luxe Oil 100ml Reconstrução",
@@ -9232,25 +9250,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1Up5oUf.jpg"
-    },
-    {
-      "id": "1ShEbxq",
-      "nome": "Refil Perfume Feminino Eau De Parfum La Vie Est Belle Lancôme, Frasco Com 100ml",
-      "categoria": "Beleza",
-      "preco": 496.37,
-      "link": "https://meli.la/1ShEbxq",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB34729362",
-      "precoDe": 909,
-      "pix": true,
-      "parcelas": "R$ 522,49 em 10x de R$ 52,25 sem juros",
-      "cupomAnuncio": "Compre R$599 e ganhe 5% OFF",
-      "postado": "2026-11-25T20:00:01.538Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1ShEbxq.jpg"
     }
   ]
 }
