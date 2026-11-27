@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T11:15:38.828Z",
+  "atualizado": "2026-11-27T11:16:53.891Z",
   "ofertas": [
+    {
+      "id": "1F2Twyz",
+      "nome": "Multiprocessador Philco 1700W 9 em 1 Preto PMP1600P",
+      "categoria": "Casa",
+      "preco": 264.95,
+      "link": "https://meli.la/1F2Twyz",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/multiprocessador-philco-1700w-9-em-1-preto-pmp1600p/p/MLB15162739",
+      "precoDe": 378.9,
+      "pix": true,
+      "parcelas": "R$278,90 em 6x R$46,48 sem juros",
+      "postado": "2026-11-27T11:16:53.890Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1F2Twyz.jpg"
+    },
     {
       "id": "1f2am4y",
       "nome": "Micro-ondas Philco 20L 1100W Limpa Fácil Tira Odor PMO24E",
