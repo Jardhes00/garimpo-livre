@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T16:17:06.084Z",
+  "atualizado": "2026-11-27T16:18:21.012Z",
   "ofertas": [
+    {
+      "id": "24u3ZNz",
+      "nome": "Freixenet Carta Nevada semi Sec 750 ml",
+      "categoria": "Diversos",
+      "preco": 56.15,
+      "link": "https://meli.la/24u3ZNz",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/freixenet-carta-nevada-semi-sec-750-ml/p/MLB18975139",
+      "precoDe": 109.9,
+      "pix": true,
+      "parcelas": "R$62,39 em outros meios",
+      "cupomAnuncio": "Compre R$159 e ganhe R$25 OFF",
+      "postado": "2026-11-27T16:18:21.010Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-24u3ZNz.jpg"
+    },
     {
       "id": "2JiS3ji",
       "nome": "Projetor Bettdow Ac1099 1200ansi Equipado Sistemavidaa Dolby",
@@ -9960,23 +9979,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2r2THLm.jpg"
-    },
-    {
-      "id": "1qRZ3cb",
-      "nome": "Whey 100% Pure 900g Pote Integralmedica Gelato Di Latte",
-      "categoria": "Casa",
-      "preco": 143,
-      "link": "https://meli.la/1qRZ3cb",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/whey-100-pure-900g-refil-integralmedica-gelato-di-latte/p/MLB45980098",
-      "precoDe": 321.9,
-      "parcelas": "12x R$ 14,13",
-      "postado": "2026-11-25T16:17:10.384Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1qRZ3cb.jpg"
     }
   ]
 }
