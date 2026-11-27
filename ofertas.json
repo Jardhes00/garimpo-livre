@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T16:42:06.661Z",
+  "atualizado": "2026-11-27T16:43:21.964Z",
   "ofertas": [
+    {
+      "id": "2YQqKop",
+      "nome": "Jogo De 6 Pratos Rasos 27,5cm Ryo Maresia Cor Marrom Off White Oxford",
+      "categoria": "Games",
+      "preco": 136.9,
+      "link": "https://meli.la/2YQqKop",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/jogo-de-6-pratos-rasos-275cm-ryo-maresia-cor-marrom-off-white-oxford/p/MLB23544122",
+      "precoDe": 206.3,
+      "postado": "2026-11-27T16:43:21.962Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2YQqKop.jpg"
+    },
     {
       "id": "2gnTbnk",
       "nome": "Máquina De Lavar Electrolux Efficient 13kg Auto Cesto Inox Branco",
@@ -9965,22 +9981,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2TLECKa.jpg"
-    },
-    {
-      "id": "27KDF9P",
-      "nome": "Hidrabene Protetor Facial Solar Fps 70 Toque Seco Antissinais Clareia A Pele 50g",
-      "categoria": "Diversos",
-      "preco": 26.76,
-      "link": "https://meli.la/27KDF9P",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/hidrabene-protetor-facial-solar-fps-70-toque-seco-antissinais-clareia-a-pele-50g/p/MLB60416809",
-      "precoDe": 59.9,
-      "postado": "2026-11-25T16:42:11.163Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-27KDF9P.jpg"
     }
   ]
 }
