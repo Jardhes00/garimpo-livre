@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T15:54:35.545Z",
+  "atualizado": "2026-11-27T15:55:50.329Z",
   "ofertas": [
+    {
+      "id": "1tqoWPy",
+      "nome": "Cerveja Corona Extra Lata 350ml - Pack 8 Unidades",
+      "categoria": "Diversos",
+      "preco": 34.9,
+      "link": "https://meli.la/1tqoWPy",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cerveja-corona-extra-lata-350ml-pack-8-unidades/p/MLB27045991",
+      "precoDe": 50.32,
+      "postado": "2026-11-27T15:55:50.328Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1tqoWPy.jpg"
+    },
     {
       "id": "2aGC6QY",
       "nome": "Secador Vulcan 2500w Cinza Taiff Cinza",
