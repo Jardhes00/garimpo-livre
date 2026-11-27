@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T11:03:08.504Z",
+  "atualizado": "2026-11-27T11:04:23.439Z",
   "ofertas": [
+    {
+      "id": "19irsi5",
+      "nome": "Ar-condicionado Prime Air Split 9000btus Quente/frio 9qg",
+      "categoria": "Casa",
+      "preco": 1671.45,
+      "link": "https://meli.la/19irsi5",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-prime-air-split-9000btus-quentefrio-9qg/up/MLBU5744945988",
+      "precoDe": 2345.9,
+      "pix": true,
+      "parcelas": "R$1.759,42 em 10x R$175,94 sem juros",
+      "cupomAnuncio": "R$1.595,45 com Cupom",
+      "postado": "2026-11-27T11:04:23.438Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-19irsi5.jpg"
+    },
     {
       "id": "1ew2b4N",
       "nome": "Máquina de Cortar Cabelo Profissional Sem Fio 8000 RPM com Display LED e",
