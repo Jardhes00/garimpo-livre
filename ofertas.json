@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T15:13:18.952Z",
+  "atualizado": "2026-11-27T15:14:34.690Z",
   "ofertas": [
+    {
+      "id": "21ZtjNs",
+      "nome": "Lavadora de Alta Pressão WAP Extreme Turbo 2800 com Aplicador de Detergente",
+      "categoria": "Diversos",
+      "preco": 949.05,
+      "link": "https://meli.la/21ZtjNs",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-wap-extreme-turbo-2800-com-aplicador-de-detergente-1900w/p/MLB16192441",
+      "precoDe": 1412,
+      "pix": true,
+      "parcelas": "R$999 em outros meios",
+      "postado": "2026-11-27T15:14:34.688Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-21ZtjNs.jpg"
+    },
     {
       "id": "2qmbVtR",
       "nome": "Densifique Masque Densité Máscara 200ml | Kérastase",
