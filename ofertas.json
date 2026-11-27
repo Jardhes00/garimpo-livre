@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T20:51:54.760Z",
+  "atualizado": "2026-11-27T20:53:10.363Z",
   "ofertas": [
+    {
+      "id": "2fJPDuE",
+      "nome": "Forno De Bancada Elétrico Dako Pratiko 70 L Com Grill Preto Preto",
+      "categoria": "Diversos",
+      "preco": 579.9,
+      "link": "https://meli.la/2fJPDuE",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/forno-de-bancada-eletrico-dako-pratiko-70-l-com-grill-preto-preto/p/MLB66328834",
+      "precoDe": 979,
+      "parcelas": "10x de R$57,99 sem juros",
+      "postado": "2026-11-27T20:53:10.362Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2fJPDuE.jpg"
+    },
     {
       "id": "1gp13Tk",
       "nome": "Hidrante Corporal Epidrat Corpo Intensivo Com 450ml Mantecorp",
