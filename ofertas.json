@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T16:40:51.885Z",
+  "atualizado": "2026-11-27T16:42:06.661Z",
   "ofertas": [
+    {
+      "id": "2gnTbnk",
+      "nome": "Máquina De Lavar Electrolux Efficient 13kg Auto Cesto Inox Branco",
+      "categoria": "Diversos",
+      "preco": 1648.03,
+      "link": "https://meli.la/2gnTbnk",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquina-de-lavar-electrolux-efficient-13kg-auto-cesto-inox-branco/p/MLB52701918",
+      "precoDe": 2399,
+      "pix": true,
+      "parcelas": "R$1.699 em 10x R$169,90 sem juros",
+      "postado": "2026-11-27T16:42:06.658Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2gnTbnk.jpg"
+    },
     {
       "id": "1BByBd2",
       "nome": "Patinete Triciclo Infantil Drift Elétrico com Bluetooth, Assento com 4 Níveis",
@@ -9963,24 +9981,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-27KDF9P.jpg"
-    },
-    {
-      "id": "1bSXBqc",
-      "nome": "Smartwatch Amazfit Bip 6 Global com GPS, Alexa e Tela AMOLED 1.97\"",
-      "categoria": "Tech",
-      "preco": 480.24,
-      "link": "https://meli.la/1bSXBqc",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/smartwatch-amazfit-bip-6-global-com-gps-alexa-e-tela-amoled-197/p/MLB57802650",
-      "precoDe": 729,
-      "pix": true,
-      "parcelas": "R$552 em 10x R$55,20 sem juros",
-      "postado": "2026-11-25T16:40:56.010Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1bSXBqc.jpg"
     }
   ]
 }
