@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T18:51:51.433Z",
+  "atualizado": "2026-11-27T18:53:06.983Z",
   "ofertas": [
+    {
+      "id": "1xbFKLw",
+      "nome": "EUCERIN Pomada Reparadora Aquaphor, Hidratação Intensiva, Hidratante Corporal",
+      "categoria": "Beleza",
+      "preco": 32.37,
+      "link": "https://meli.la/1xbFKLw",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/eucerin-pomada-reparadora-aquaphor-hidratacao-intensiva-hidratante-corporal/p/MLB19586232",
+      "precoDe": 64.9,
+      "cupomAnuncio": "Compre R$199 e ganhe 20% OFF",
+      "postado": "2026-11-27T18:53:06.981Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1xbFKLw.jpg"
+    },
     {
       "id": "1EsY9pR",
       "nome": "Ar Condicionado Split Hw 9000 Btu Eco Inverter 3 Elgin",
@@ -9037,23 +9054,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2FZgtaW.jpg"
-    },
-    {
-      "id": "26uY3HL",
-      "nome": "Nível Laser Verde 16 Linhas War Shark 2 Bateria+1.2m Tripé",
-      "categoria": "Diversos",
-      "preco": 259,
-      "link": "https://meli.la/26uY3HL",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/nivel-laser-verde-16-linhas-war-shark-2-bateria12m-tripe/p/MLB62445524",
-      "precoDe": 500,
-      "cupomAnuncio": "Compre R$300 e ganhe 10% OFF",
-      "postado": "2026-11-25T18:52:15.199Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-26uY3HL.jpg"
     }
   ]
 }
