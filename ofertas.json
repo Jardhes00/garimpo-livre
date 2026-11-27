@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T16:20:51.732Z",
+  "atualizado": "2026-11-27T16:22:06.333Z",
   "ofertas": [
+    {
+      "id": "2UYXazS",
+      "nome": "Bau Para Moto 65l Alumínio Base Universal Top Case Maletero",
+      "categoria": "Auto",
+      "preco": 669,
+      "link": "https://meli.la/2UYXazS",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bau-para-moto-65l-aluminio-base-universal-top-case-maletero/up/MLBU3746486755",
+      "precoDe": 1399,
+      "parcelas": "10x de R$66,90 sem juros",
+      "postado": "2026-11-27T16:22:06.331Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2UYXazS.jpg"
+    },
     {
       "id": "2bGhyNU",
       "nome": "Triciclo Elétrico Drift Infantil e Adulto Carrinho Rolimã Elétrico Scooter",
@@ -9961,24 +9978,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1MKkj84.jpg"
-    },
-    {
-      "id": "2TsB1vN",
-      "nome": "Fechadura Inteligente De Embutir Mfw 5000 Wi-fi Intelbras",
-      "categoria": "Casa",
-      "preco": 369.9,
-      "link": "https://meli.la/2TsB1vN",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/fechadura-inteligente-de-embutir-mfw-5000-wi-fi-intelbras/up/MLBU5414998923",
-      "precoDe": 599.9,
-      "parcelas": "10x de R$36,99 sem juros",
-      "cupomAnuncio": "R$351,40 com Cupom por seguir a loja",
-      "postado": "2026-11-25T16:20:55.498Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2TsB1vN.jpg"
     }
   ]
 }
