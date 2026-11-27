@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T19:28:07.733Z",
+  "atualizado": "2026-11-27T19:29:22.478Z",
   "ofertas": [
+    {
+      "id": "1kM5tZc",
+      "nome": "Cafeteira Nespresso Essenza Mini Branca Branco 127v",
+      "categoria": "Casa",
+      "preco": 339,
+      "link": "https://meli.la/1kM5tZc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafeteira-nespresso-essenza-mini-branca/p/MLB19479462",
+      "precoDe": 589,
+      "parcelas": "6x de R$56,50 sem juros",
+      "postado": "2026-11-27T19:29:22.476Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1kM5tZc.jpg"
+    },
     {
       "id": "2voXmn4",
       "nome": "Whey Concentrado 750g Growth Supplements - Variados Sabores Baunilha",
@@ -9124,24 +9141,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-22hpzA4.jpg"
-    },
-    {
-      "id": "26wqdqx",
-      "nome": "Máquina de Lavar Consul 13Kg Branca Ciclo Edredom - CWH13AB",
-      "categoria": "Diversos",
-      "preco": 1512.46,
-      "link": "https://meli.la/26wqdqx",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB66787442",
-      "precoDe": 2279.9,
-      "pix": true,
-      "parcelas": "R$ 1.609 em 10x de R$ 160,90 sem juros",
-      "postado": "2026-11-25T19:29:00.751Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-26wqdqx.jpg"
     }
   ]
 }
