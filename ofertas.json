@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T15:27:04.491Z",
+  "atualizado": "2026-11-27T15:28:19.530Z",
   "ofertas": [
+    {
+      "id": "1Ebnre5",
+      "nome": "Caixa de Som Basike Bluetooth Portátil 200W com Subwoofer e IPX6 Azul-Marinho",
+      "categoria": "Tech",
+      "preco": 503.19,
+      "link": "https://meli.la/1Ebnre5",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-basike-bluetooth-portatil-200w-com-subwoofer-e-ipx6-azul-marinho/p/MLB73076144",
+      "precoDe": 1128,
+      "pix": true,
+      "parcelas": "R$578,38 em 10x R$57,84 sem juros",
+      "postado": "2026-11-27T15:28:19.529Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Ebnre5.jpg"
+    },
     {
       "id": "2FbmAVy",
       "nome": "Torre De Som LG Xboom Rnc5 Bluetooth, Som Potente, Função Dj, Iluminação Led E",
