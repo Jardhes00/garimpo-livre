@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T18:53:06.983Z",
+  "atualizado": "2026-11-27T18:54:21.532Z",
   "ofertas": [
+    {
+      "id": "2FM5ZUt",
+      "nome": "Secadora De Piso Mueller MSP13F 13kg Branca Com Sensor De Umidade",
+      "categoria": "Beleza",
+      "preco": 1999,
+      "link": "https://meli.la/2FM5ZUt",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/secadora-de-piso-mueller-msp13f-13kg-branca-com-sensor-de-umidade/p/MLB68305217",
+      "precoDe": 3067.87,
+      "postado": "2026-11-27T18:54:21.530Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2FM5ZUt.jpg"
+    },
     {
       "id": "1xbFKLw",
       "nome": "EUCERIN Pomada Reparadora Aquaphor, Hidratação Intensiva, Hidratante Corporal",
@@ -9036,24 +9052,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1j6YD8q.jpg"
-    },
-    {
-      "id": "2FZgtaW",
-      "nome": "Mala De Bordo 10 Kg Abs 4 Rodas Detroit Bagaggio",
-      "categoria": "Diversos",
-      "preco": 233.91,
-      "link": "https://meli.la/2FZgtaW",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/mala-de-bordo-10-kg-abs-4-rodas-detroit-bagaggio/up/MLBU2929756941",
-      "precoDe": 549.9,
-      "pix": true,
-      "parcelas": "R$259,90 em 10x R$25,99 sem juros",
-      "postado": "2026-11-25T18:53:30.238Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2FZgtaW.jpg"
     }
   ]
 }
