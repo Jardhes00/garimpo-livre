@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T12:56:56.936Z",
+  "atualizado": "2026-11-27T12:58:12.299Z",
   "ofertas": [
+    {
+      "id": "2TTqVL8",
+      "nome": "Caixa de Som Bluetooth Portátil - JBL Boombox 4 - JBL Pro Sound, AI Sound",
+      "categoria": "Tech",
+      "preco": 2459,
+      "link": "https://meli.la/2TTqVL8",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-bluetooth-portatil-jbl-boombox-4-jbl-pro-sound-ai-sound-boost-210w-rms-ate-34h-de-bateria-bass-boost-ip68-auracast-e-usb-c-lossless-branca/p/MLB54150718",
+      "precoDe": 3692.9,
+      "parcelas": "10x de R$245,90 sem juros",
+      "postado": "2026-11-27T12:58:12.297Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2TTqVL8.jpg"
+    },
     {
       "id": "21wtnR5",
       "nome": "Fone de Ouvido QCY Buds T43 ENC Bluetooth 5.3, IPX4, 35H de Reprodução, Drivers",
