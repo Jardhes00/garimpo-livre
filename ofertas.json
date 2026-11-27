@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T11:54:24.915Z",
+  "atualizado": "2026-11-27T11:55:40.211Z",
   "ofertas": [
+    {
+      "id": "29CRwDk",
+      "nome": "Cama Elástica Pula Pula Infantil Trampolim 1,4 Metros Atentu",
+      "categoria": "Bebê",
+      "preco": 173.91,
+      "link": "https://meli.la/29CRwDk",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cama-elastica-pula-pula-infantil-trampolim-14-metros-atentu/p/MLB28717101",
+      "precoDe": 659,
+      "pix": true,
+      "parcelas": "R$199,90 em outros meios",
+      "postado": "2026-11-27T11:55:40.210Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-29CRwDk.jpg"
+    },
     {
       "id": "1bKAYAz",
       "nome": "Freezer horizontal Electrolux 400L Smart bivolt hi440t cor branco",
