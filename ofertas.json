@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T16:39:36.801Z",
+  "atualizado": "2026-11-27T16:40:51.885Z",
   "ofertas": [
+    {
+      "id": "1BByBd2",
+      "nome": "Patinete Triciclo Infantil Drift Elétrico com Bluetooth, Assento com 4 Níveis",
+      "categoria": "Bebê",
+      "preco": 891.51,
+      "link": "https://meli.la/1BByBd2",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/patinete-triciclo-infantil-drift-eletrico-com-bluetooth-assento-com-4-niveis-de-ajuste-e-3-velocidades-luzes-led-suporta-ate-90kg-alcance-de-15km-cor-azul-o-melhor-presente-para-criancas/p/MLB82539093",
+      "precoDe": 1299,
+      "pix": true,
+      "parcelas": "R$969,03 em outros meios",
+      "postado": "2026-11-27T16:40:51.882Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1BByBd2.jpg"
+    },
     {
       "id": "2HJrQxS",
       "nome": "ISDIN Clareador Facial Foto Ultra Active Unify Sem Cor FPS 99 - 50ml",
@@ -9963,24 +9981,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1bSXBqc.jpg"
-    },
-    {
-      "id": "1eJ14Gs",
-      "nome": "Purificador Midea SlimPure Bivolt Cinza Filtro 2 Estágios",
-      "categoria": "Diversos",
-      "preco": 387.03,
-      "link": "https://meli.la/1eJ14Gs",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/purificador-midea-slimpure-bivolt-cinza-filtro-2-estagios/p/MLB54429015",
-      "precoDe": 579,
-      "pix": true,
-      "parcelas": "R$399 em 8x R$49,88 sem juros",
-      "postado": "2026-11-25T16:39:41.022Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1eJ14Gs.jpg"
     }
   ]
 }
