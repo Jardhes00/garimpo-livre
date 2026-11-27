@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T14:47:03.408Z",
+  "atualizado": "2026-11-27T14:48:18.539Z",
   "ofertas": [
+    {
+      "id": "1HaMSA4",
+      "nome": "Monitor AOC 27\" 4K UHD IPS 125% sRGB 97% DCI-P3 Alto-falantes U27B3A",
+      "categoria": "Tech",
+      "preco": 836.07,
+      "link": "https://meli.la/1HaMSA4",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/monitor-aoc-27-4k-uhd-ips-125-srgb-97-dci-p3-alto-falantes-u27b3a/p/MLB51076311",
+      "precoDe": 1299,
+      "pix": true,
+      "parcelas": "R$899 em 9x R$99,89 sem juros",
+      "postado": "2026-11-27T14:48:18.538Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1HaMSA4.jpg"
+    },
     {
       "id": "29GuKLx",
       "nome": "Sofá Retrátil 2,10m Molas E Espuma D33 Thunder. Cama Inbox",
