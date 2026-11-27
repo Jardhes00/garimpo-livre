@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T15:40:50.233Z",
+  "atualizado": "2026-11-27T15:42:05.024Z",
   "ofertas": [
+    {
+      "id": "1cYk6BU",
+      "nome": "Kit Caixa Grande De Peças Criativas Classic 10698 Com 790 Peças Lego",
+      "categoria": "Diversos",
+      "preco": 319.9,
+      "link": "https://meli.la/1cYk6BU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-caixa-grande-de-pecas-criativas-classic-10698-com-790-pecas-lego/p/MLB17456589",
+      "precoDe": 599.99,
+      "postado": "2026-11-27T15:42:05.022Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1cYk6BU.jpg"
+    },
     {
       "id": "1CvNmTe",
       "nome": "Kit Champú Condicionador E Máscara Nutri Enrich Invigo Wella",
