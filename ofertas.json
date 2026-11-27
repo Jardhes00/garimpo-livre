@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T14:15:47.246Z",
+  "atualizado": "2026-11-27T14:17:01.693Z",
   "ofertas": [
+    {
+      "id": "2d52ohv",
+      "nome": "Cafeteira Espresso Luna Preta - Tres 3 Corações Preto",
+      "categoria": "Casa",
+      "preco": 322.05,
+      "link": "https://meli.la/2d52ohv",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafeteira-espresso-luna-preta-tres-3-coracoes-preto/p/MLB28203040",
+      "precoDe": 720,
+      "pix": true,
+      "parcelas": "R$339 em 6x R$56,50 sem juros",
+      "postado": "2026-11-27T14:17:01.692Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2d52ohv.jpg"
+    },
     {
       "id": "2Sk7KZr",
       "nome": "DJI Neo 2 Standard (Apenas o Drone), Leve e Dobrável, Decolagem e Pouso na",
