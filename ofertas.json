@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T11:38:09.553Z",
+  "atualizado": "2026-11-27T11:39:24.507Z",
   "ofertas": [
+    {
+      "id": "1ZG6bbt",
+      "nome": "Lava-louça Electrolux Inox Com Programa Lava E Seca LS08E Cinza",
+      "categoria": "Diversos",
+      "preco": 1946.55,
+      "link": "https://meli.la/1ZG6bbt",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lava-louca-electrolux-inox-com-programa-lava-e-seca-ls08e-cinza/p/MLB49503931",
+      "precoDe": 3179,
+      "pix": true,
+      "parcelas": "R$2.049 em 10x R$204,90 sem juros",
+      "postado": "2026-11-27T11:39:24.506Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ZG6bbt.jpg"
+    },
     {
       "id": "329kAQF",
       "nome": "Whey protein Growth Supplements 100% Concentrado 900g em pó sabor Chocolate x",
