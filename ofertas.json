@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T15:10:48.944Z",
+  "atualizado": "2026-11-27T15:12:04.059Z",
   "ofertas": [
+    {
+      "id": "1fE3c4R",
+      "nome": "Whey Protein Concentrado 1kg Chocolate Dark Lab",
+      "categoria": "Suplementos",
+      "preco": 108.8,
+      "link": "https://meli.la/1fE3c4R",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-protein-concentrado-1kg-chocolate-dark-lab/p/MLB40182826",
+      "precoDe": 349.9,
+      "cupomAnuncio": "Compre R$187 e ganhe R$20 OFF",
+      "postado": "2026-11-27T15:12:04.058Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1fE3c4R.jpg"
+    },
     {
       "id": "2HJDGXu",
       "nome": "Pisca Pisca Cordão Natal Fixo 30m 300 Leds Branco Quente Fio Verde A Prova",
