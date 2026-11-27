@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T15:55:50.329Z",
+  "atualizado": "2026-11-27T15:57:05.348Z",
   "ofertas": [
+    {
+      "id": "1fbovtc",
+      "nome": "Mini Esmerilhadeira Angular Mt M0901 Turquesa - Makita",
+      "categoria": "Ferramentas",
+      "preco": 237,
+      "link": "https://meli.la/1fbovtc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mini-esmerilhadeira-angular-mt-m0901-turquesa-makita/up/MLBU3772020597",
+      "precoDe": 452.85,
+      "postado": "2026-11-27T15:57:05.345Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1fbovtc.jpg"
+    },
     {
       "id": "1tqoWPy",
       "nome": "Cerveja Corona Extra Lata 350ml - Pack 8 Unidades",
