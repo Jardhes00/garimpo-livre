@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T19:21:52.439Z",
+  "atualizado": "2026-11-27T19:23:07.642Z",
   "ofertas": [
+    {
+      "id": "23eCZdz",
+      "nome": "Máquina de overlock doméstica Singer S0105, cor branca",
+      "categoria": "Diversos",
+      "preco": 1382.98,
+      "link": "https://meli.la/23eCZdz",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquina-de-overlock-domestica-singer-s0105-cor-branca/p/MLB25001626",
+      "precoDe": 1939,
+      "pix": true,
+      "parcelas": "R$1.487,07 em 10x R$148,71 sem juros",
+      "postado": "2026-11-27T19:23:07.641Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-23eCZdz.jpg"
+    },
     {
       "id": "2K3RAUr",
       "nome": "Robô Aspirador Anker eufy C20 3 em 1 Estação Tudo em Um Sucção 7000Pa Corpo",
