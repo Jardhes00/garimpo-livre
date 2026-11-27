@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T15:07:03.801Z",
+  "atualizado": "2026-11-27T15:08:18.690Z",
   "ofertas": [
+    {
+      "id": "1GqcDYp",
+      "nome": "Panificadora Multipane 12P Com Função Timer e Antiaderente Potência de 550W Cor",
+      "categoria": "Diversos",
+      "preco": 449.91,
+      "link": "https://meli.la/1GqcDYp",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/panificadora-multipane-12p-com-funcao-timer-e-antiaderente-potencia-de-550w-cor-preto-britania/p/MLB15278925",
+      "precoDe": 899,
+      "pix": true,
+      "parcelas": "R$499,90 em outros meios",
+      "postado": "2026-11-27T15:08:18.689Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1GqcDYp.jpg"
+    },
     {
       "id": "2YSbYpM",
       "nome": "Limpadora De Pisos Sem Fio Arno X-clean 7 Lxc7 Preto",
