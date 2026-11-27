@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T15:45:50.070Z",
+  "atualizado": "2026-11-27T15:47:05.053Z",
   "ofertas": [
+    {
+      "id": "1UXMFEK",
+      "nome": "Bicicleta Ergométrica Spinning Rmira Conexão Bluetooth 12kg 150kg",
+      "categoria": "Esporte",
+      "preco": 705.39,
+      "link": "https://meli.la/1UXMFEK",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bicicleta-ergometrica-spinning-rmira-conexao-bluetooth-12kg-150kg/p/MLB59135054",
+      "precoDe": 1599,
+      "pix": true,
+      "parcelas": "R$742,52 em 10x R$74,25 sem juros",
+      "postado": "2026-11-27T15:47:05.052Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1UXMFEK.jpg"
+    },
     {
       "id": "1dbJDcS",
       "nome": "Boné Nike Club Swoosh Unissex Cor Preto Tamanho M/g",
