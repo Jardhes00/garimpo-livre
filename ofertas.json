@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T20:40:39.858Z",
+  "atualizado": "2026-11-27T20:41:54.438Z",
   "ofertas": [
+    {
+      "id": "2oEaizJ",
+      "nome": "Cafeteira Elétrica Electrolux Digital 38 Xícaras Experience Programável com",
+      "categoria": "Casa",
+      "preco": 227.92,
+      "link": "https://meli.la/2oEaizJ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafeteira-eletrica-electrolux-digital-38-xicaras-experience-programavel-com-timer-cor-inox-ecm30/p/MLB18723192",
+      "precoDe": 699,
+      "pix": true,
+      "parcelas": "R$207,92 em 6x R$34,65 sem juros",
+      "postado": "2026-11-27T20:41:54.436Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2oEaizJ.jpg"
+    },
     {
       "id": "2CsFpLR",
       "nome": "Cooktop 4 Bocas de Indução Philco Função Turbo PCT40C",
