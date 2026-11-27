@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T11:06:53.619Z",
+  "atualizado": "2026-11-27T11:08:08.658Z",
   "ofertas": [
+    {
+      "id": "2H58b9U",
+      "nome": "Kit Wella Invigo Nutri Enrich Sh, Cond E Válvulas",
+      "categoria": "Beleza",
+      "preco": 251.02,
+      "link": "https://meli.la/2H58b9U",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-wella-invigo-nutri-enrich-sh-cond-e-valvulas/p/MLB2057702965",
+      "precoDe": 469.99,
+      "pix": true,
+      "parcelas": "R$278,91 em outros meios",
+      "cupomAnuncio": "R$215,02 com Cupom",
+      "postado": "2026-11-27T11:08:08.657Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2H58b9U.jpg"
+    },
     {
       "id": "2e3YZPc",
       "nome": "Colchão Casal Emma Original 138x188cm 3 Camadas de Espuma, Embalado à Vácuo",
