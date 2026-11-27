@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T20:05:38.503Z",
+  "atualizado": "2026-11-27T20:06:53.926Z",
   "ofertas": [
+    {
+      "id": "23u5Phb",
+      "nome": "Tablet Zeeno S13 Ultra 11.6\" com Kit Completo 512GB e 16GB RAM",
+      "categoria": "Tech",
+      "preco": 768.55,
+      "link": "https://meli.la/23u5Phb",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tablet-zeeno-s13-ultra-116-com-kit-completo-512gb-e-16gb-ram/p/MLB79642176",
+      "precoDe": 2000,
+      "pix": true,
+      "parcelas": "R$809 em 10x R$80,90 sem juros",
+      "cupomAnuncio": "R$763,80 com Cupom por seguir a loja",
+      "postado": "2026-11-27T20:06:53.924Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-23u5Phb.jpg"
+    },
     {
       "id": "1yF38LM",
       "nome": "Forno Elétrico De Embutir Philco Pfe47e Esmaltado Dupla Resi Cor Aço escovado",
