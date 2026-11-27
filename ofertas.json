@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T12:34:26.469Z",
+  "atualizado": "2026-11-27T12:35:41.304Z",
   "ofertas": [
+    {
+      "id": "1Pk8gK2",
+      "nome": "Patinete Elétrico M365 Motor 350w Sem Escovas Autonomia Até",
+      "categoria": "Esporte",
+      "preco": 965.7,
+      "link": "https://meli.la/1Pk8gK2",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/patinete-eletrico-m365-motor-350w-sem-escovas-autonomia-ate/up/MLBU4861266925",
+      "precoDe": 2288,
+      "pix": true,
+      "parcelas": "R$1.110 em 10x R$111 sem juros",
+      "cupomAnuncio": "R$945,69 com Cupom por seguir a loja",
+      "postado": "2026-11-27T12:35:41.302Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Pk8gK2.jpg"
+    },
     {
       "id": "1SLTEAQ",
       "nome": "Controle Gamesir G7 Pro Trimodo Para Xbox Series S/x, Xbox One, Pc Windows E",
