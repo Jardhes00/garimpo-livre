@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T20:23:08.909Z",
+  "atualizado": "2026-11-27T20:24:24.450Z",
   "ofertas": [
+    {
+      "id": "1BP6CUa",
+      "nome": "Mala de bordo 10kg ABS Rodas 360° Removíveis Londres Swiss Move Vinho",
+      "categoria": "Diversos",
+      "preco": 130.5,
+      "link": "https://meli.la/1BP6CUa",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mala-de-bordo-10kg-abs-rodas-360-removiveis-londres-swiss-move-vinho/p/MLB28059788",
+      "precoDe": 339.83,
+      "pix": true,
+      "parcelas": "R$145 em 4x R$36,25 sem juros",
+      "cupomAnuncio": "Compre R$199 e ganhe 20% OFF",
+      "postado": "2026-11-27T20:24:24.449Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1BP6CUa.jpg"
+    },
     {
       "id": "1KSxxf8",
       "nome": "Fogão De Piso 5 Bocas Itatiaia Electra Glass Plus Acendime Cor Preto",
