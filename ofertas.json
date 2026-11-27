@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T12:04:25.429Z",
+  "atualizado": "2026-11-27T12:05:40.448Z",
   "ofertas": [
+    {
+      "id": "1iJxy16",
+      "nome": "Colchão Casal Emma Duo Comfort 138x188cm, Dupla Face, à Vácuo, Suporte Ideal",
+      "categoria": "Casa",
+      "preco": 1529,
+      "link": "https://meli.la/1iJxy16",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/colchao-casal-emma-duo-comfort-138x188cm-dupla-face-vacuo-suporte-ideal-para-o-corpo-alta-durabilidade-capa-lavavel/p/MLB18088316",
+      "precoDe": 4220,
+      "parcelas": "10x de R$152,90 sem juros",
+      "postado": "2026-11-27T12:05:40.447Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1iJxy16.jpg"
+    },
     {
       "id": "15Zu6PE",
       "nome": "Whey Core 70% Proteína Concentrada Baunilha 900g - 30 Doses",
