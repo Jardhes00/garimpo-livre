@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T18:54:21.532Z",
+  "atualizado": "2026-11-27T18:55:36.567Z",
   "ofertas": [
+    {
+      "id": "2BmrDJS",
+      "nome": "Creatina (250g) Creapure - G.supplements Sabor Sem Sabor",
+      "categoria": "Suplementos",
+      "preco": 99.9,
+      "link": "https://meli.la/2BmrDJS",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/creatina-250g-creapure-gsupplements-sabor-sem-sabor/p/MLB51205377",
+      "precoDe": 139.9,
+      "postado": "2026-11-27T18:55:36.565Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2BmrDJS.jpg"
+    },
     {
       "id": "2FM5ZUt",
       "nome": "Secadora De Piso Mueller MSP13F 13kg Branca Com Sensor De Umidade",
@@ -9034,24 +9050,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-25w3std.jpg"
-    },
-    {
-      "id": "1j6YD8q",
-      "nome": "Caixa de Som Philco Extreme 350W Bluetooth 5.3 Luzes LED PCX4500",
-      "categoria": "Tech",
-      "preco": 367.91,
-      "link": "https://meli.la/1j6YD8q",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-philco-extreme-350w-bluetooth-53-luzes-led-pcx4500/p/MLB47353555",
-      "precoDe": 618.31,
-      "pix": true,
-      "parcelas": "R$399,90 em outros meios",
-      "postado": "2026-11-25T18:54:45.277Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1j6YD8q.jpg"
     }
   ]
 }
