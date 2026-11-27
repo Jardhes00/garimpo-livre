@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T17:15:22.227Z",
+  "atualizado": "2026-11-27T17:16:53.066Z",
   "ofertas": [
+    {
+      "id": "2oppZgT",
+      "nome": "Cafeteira Tres Corações Lov Automática Preta-brilhante",
+      "categoria": "Casa",
+      "preco": 312.55,
+      "link": "https://meli.la/2oppZgT",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB14661562",
+      "precoDe": 630,
+      "pix": true,
+      "parcelas": "R$ 329 em 6x de R$ 54,83 sem juros",
+      "postado": "2026-11-27T17:16:53.064Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2oppZgT.jpg"
+    },
     {
       "id": "2coV3J4",
       "nome": "Tênis Corrida Runfalcon 5 adidas",
@@ -9923,23 +9941,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1G8u5VN.jpg"
-    },
-    {
-      "id": "172gXug",
-      "nome": "Espumante Salton Branco Doce Moscatel 750ml",
-      "categoria": "Diversos",
-      "preco": 28.83,
-      "link": "https://meli.la/172gXug",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/espumante-salton-branco-doce-moscatel-750ml/p/MLB18308589",
-      "precoDe": 42.9,
-      "cupomAnuncio": "Compre R$100 e ganhe 10% OFF",
-      "postado": "2026-11-25T17:15:56.979Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-172gXug.jpg"
     }
   ]
 }
