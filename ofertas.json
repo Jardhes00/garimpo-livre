@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T17:18:07.927Z",
+  "atualizado": "2026-11-27T17:19:22.945Z",
   "ofertas": [
+    {
+      "id": "2n2TZfR",
+      "nome": "Creme Reparador Protetor Avène Cicalfate+ Pele Sensível 100ml",
+      "categoria": "Beleza",
+      "preco": 80.74,
+      "link": "https://meli.la/2n2TZfR",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB24432654",
+      "precoDe": 132.99,
+      "pix": true,
+      "parcelas": "R$ 84,99 em outros meios",
+      "cupomAnuncio": "Compre R$199,90 e ganhe 15% OFF",
+      "postado": "2026-11-27T17:19:22.943Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2n2TZfR.jpg"
+    },
     {
       "id": "2RjMugu",
       "nome": "Torre de Som AIWA T1W-02 1600W 1 Woofer 10\" Bluetooth RGB USB FM DJ",
@@ -9924,24 +9943,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1c6h657.jpg"
-    },
-    {
-      "id": "2Yezpac",
-      "nome": "Camera Wifi 360° Im7 S Full Color Intelbras Ip Externa 1080p",
-      "categoria": "Diversos",
-      "preco": 369.9,
-      "link": "https://meli.la/2Yezpac",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/camera-wifi-360-im7-s-full-color-intelbras-ip-externa-1080p/up/MLBU1989606099",
-      "precoDe": 650,
-      "parcelas": "10x de R$36,99 sem juros",
-      "cupomAnuncio": "R$364,90 com Cupom por seguir a loja",
-      "postado": "2026-11-25T17:18:27.317Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2Yezpac.jpg"
     }
   ]
 }
