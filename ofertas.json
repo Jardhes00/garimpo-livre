@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T15:35:49.997Z",
+  "atualizado": "2026-11-27T15:37:04.816Z",
   "ofertas": [
+    {
+      "id": "1YtTpcT",
+      "nome": "Carrinho de Bebê Infanti Romanzo Travel System Completo com Bebê Conforto e",
+      "categoria": "Bebê",
+      "preco": 1664.28,
+      "link": "https://meli.la/1YtTpcT",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/carrinho-de-bebe-infanti-romanzo-travel-system-completo-com-bebe-conforto-e-base-isofix-preto-e-bronze/p/MLB46537739",
+      "precoDe": 3499,
+      "postado": "2026-11-27T15:37:04.814Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1YtTpcT.jpg"
+    },
     {
       "id": "1F9fbgb",
       "nome": "Amazon Echo Show 11 Grafite ÚLTIMA GERAÇÃO com Alexa+",
