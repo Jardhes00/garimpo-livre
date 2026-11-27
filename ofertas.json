@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T12:58:12.299Z",
+  "atualizado": "2026-11-27T12:59:27.051Z",
   "ofertas": [
+    {
+      "id": "1K97gbr",
+      "nome": "Burigotto Banheira Millenia, Mon Amour",
+      "categoria": "Diversos",
+      "preco": 263.47,
+      "link": "https://meli.la/1K97gbr",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/burigotto-banheira-millenia-mon-amour/p/MLB24652276",
+      "precoDe": 499,
+      "postado": "2026-11-27T12:59:27.049Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1K97gbr.jpg"
+    },
     {
       "id": "2TTqVL8",
       "nome": "Caixa de Som Bluetooth Portátil - JBL Boombox 4 - JBL Pro Sound, AI Sound",
