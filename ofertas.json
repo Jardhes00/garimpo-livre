@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T15:05:49.212Z",
+  "atualizado": "2026-11-27T15:07:03.801Z",
   "ofertas": [
+    {
+      "id": "2YSbYpM",
+      "nome": "Limpadora De Pisos Sem Fio Arno X-clean 7 Lxc7 Preto",
+      "categoria": "Diversos",
+      "preco": 2789.07,
+      "link": "https://meli.la/2YSbYpM",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/limpadora-de-pisos-sem-fio-arno-x-clean-7-lxc7-preto/p/MLB74492379",
+      "precoDe": 3999,
+      "pix": true,
+      "parcelas": "R$2.999 em 10x R$299,90 sem juros",
+      "cupomAnuncio": "R$2.658,87 com Cupom",
+      "postado": "2026-11-27T15:07:03.800Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2YSbYpM.jpg"
+    },
     {
       "id": "2rHProT",
       "nome": "Cooktop 4 Bocas Dako Supreme Com Mesa de Vidro e Tripla Chama Preto Bivolt",
