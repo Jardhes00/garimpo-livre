@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T15:53:20.252Z",
+  "atualizado": "2026-11-27T15:54:35.545Z",
   "ofertas": [
+    {
+      "id": "2aGC6QY",
+      "nome": "Secador Vulcan 2500w Cinza Taiff Cinza",
+      "categoria": "Beleza",
+      "preco": 533.11,
+      "link": "https://meli.la/2aGC6QY",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/secador-vulcan-2500w-cinza-taiff-cinza/p/MLB19512138",
+      "precoDe": 836.25,
+      "pix": true,
+      "parcelas": "R$583,11 em outros meios",
+      "postado": "2026-11-27T15:54:35.542Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2aGC6QY.jpg"
+    },
     {
       "id": "1CLHZ5y",
       "nome": "Fritadeira Airfryer Forno Philips Walita Série 5000 12L Preta - AI551",
