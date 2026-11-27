@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T12:35:41.304Z",
+  "atualizado": "2026-11-27T12:36:56.209Z",
   "ofertas": [
+    {
+      "id": "1HYfUBF",
+      "nome": "Principia Kit 2 Gel De Limpeza Facial Gl-01",
+      "categoria": "Diversos",
+      "preco": 63.99,
+      "link": "https://meli.la/1HYfUBF",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/principia-kit-2-gel-de-limpeza-facial-gl-01/p/MLB65867205",
+      "precoDe": 108,
+      "cupomAnuncio": "R$59,51 com Cupom por seguir a loja",
+      "postado": "2026-11-27T12:36:56.208Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1HYfUBF.jpg"
+    },
     {
       "id": "1Pk8gK2",
       "nome": "Patinete Elétrico M365 Motor 350w Sem Escovas Autonomia Até",
