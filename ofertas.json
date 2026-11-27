@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T15:30:49.444Z",
+  "atualizado": "2026-11-27T15:32:04.558Z",
   "ofertas": [
+    {
+      "id": "2N1tr6f",
+      "nome": "Cadeira De Carro Infantil Reclinável 4 Posições Altura Ajustável 0-36kg Elite 4",
+      "categoria": "Auto",
+      "preco": 400.07,
+      "link": "https://meli.la/2N1tr6f",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-carro-infantil-reclinavel-4-posicoes-altura-ajustavel-0-36kg-elite-4-em-1-maxi-baby/p/MLB29756545",
+      "precoDe": 670.56,
+      "pix": true,
+      "parcelas": "R$454,62 em 9x R$50,51 sem juros",
+      "cupomAnuncio": "R$320,06 com Cupom",
+      "postado": "2026-11-27T15:32:04.556Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2N1tr6f.jpg"
+    },
     {
       "id": "1gxb4Z2",
       "nome": "Climatizador De Ar Oster Portátil 4 Em 1 Cor Branco",
