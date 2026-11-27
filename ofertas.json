@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T14:12:02.028Z",
+  "atualizado": "2026-11-27T14:13:17.471Z",
   "ofertas": [
+    {
+      "id": "2BnuAi3",
+      "nome": "EUCERIN Sérum Facial Daily Booster Ultraleve 30ml, 24h Hidratação",
+      "categoria": "Beleza",
+      "preco": 82.9,
+      "link": "https://meli.la/2BnuAi3",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/eucerin-serum-facial-daily-booster-ultraleve-30ml-24h-hidratacao-fortalecedor-hyaluron-filler-acido-hialuronico-antirrugas-hidratante/p/MLB22074888",
+      "precoDe": 159.9,
+      "postado": "2026-11-27T14:13:17.470Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2BnuAi3.jpg"
+    },
     {
       "id": "1vqqu8u",
       "nome": "Robô Aspirador Wap W96 30w Super Slim Varre E Aspira Cor Preto",
