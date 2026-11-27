@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T15:14:34.690Z",
+  "atualizado": "2026-11-27T15:15:49.207Z",
   "ofertas": [
+    {
+      "id": "1h3G6P1",
+      "nome": "Colchão King Mola Ensacada Guldi Firme (25x193x203) Azul",
+      "categoria": "Casa",
+      "preco": 782.99,
+      "link": "https://meli.la/1h3G6P1",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/colchao-king-mola-ensacada-guldi-firme-25x193x203-azul/p/MLB25469089",
+      "precoDe": 1509.88,
+      "pix": true,
+      "parcelas": "R$869,99 em 10x R$87 sem juros",
+      "postado": "2026-11-27T15:15:49.206Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1h3G6P1.jpg"
+    },
     {
       "id": "21ZtjNs",
       "nome": "Lavadora de Alta Pressão WAP Extreme Turbo 2800 com Aplicador de Detergente",
