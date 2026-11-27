@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T11:30:39.276Z",
+  "atualizado": "2026-11-27T11:31:54.721Z",
   "ofertas": [
+    {
+      "id": "1eBV5JZ",
+      "nome": "Lava-Roupas Pó Omo Todo Ciclo Caixa 2kg Tamanho Família",
+      "categoria": "Diversos",
+      "preco": 17.9,
+      "link": "https://meli.la/1eBV5JZ",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lava-roupas-po-omo-todo-ciclo-caixa-2kg-tamanho-familia/p/MLB78299682",
+      "precoDe": 27.59,
+      "postado": "2026-11-27T11:31:54.719Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1eBV5JZ.jpg"
+    },
     {
       "id": "1tyWQSS",
       "nome": "Máquina de Lavar Roupas 14kg Wave Agitator Branca Midea",
