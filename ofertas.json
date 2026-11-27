@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T19:15:37.219Z",
+  "atualizado": "2026-11-27T19:16:52.173Z",
   "ofertas": [
+    {
+      "id": "2aoGHnU",
+      "nome": "Champan Francês Branco Brut Veuve Clicquot 750ml",
+      "categoria": "Diversos",
+      "preco": 319.99,
+      "link": "https://meli.la/2aoGHnU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/champan-frances-branco-brut-veuve-clicquot-750ml/p/MLB18308700",
+      "precoDe": 499.99,
+      "postado": "2026-11-27T19:16:52.171Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2aoGHnU.jpg"
+    },
     {
       "id": "2dM5KJi",
       "nome": "Protetor Solar Facial Isdin Fusion Water Sem Cor Fps 60 30ml",
@@ -9036,23 +9052,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1fetqGh.jpg"
-    },
-    {
-      "id": "1EQrfqr",
-      "nome": "Mini Aspirador De Pó Portátil Recarregável Soprador Usb Automotivo 3em1 Sem Fio",
-      "categoria": "Casa",
-      "preco": 24.73,
-      "link": "https://meli.la/1EQrfqr",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/mini-aspirador-de-po-portatil-recarregavel-soprador-usb-automotivo-3em1-sem-fio-premium-vacuo-limpeza-carro-multifuncional-casa-dr-hank/p/MLB73198354",
-      "precoDe": 59.99,
-      "cupomAnuncio": "Compre R$50 e ganhe 5% OFF por seguir a loja",
-      "postado": "2026-11-25T19:16:01.042Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1EQrfqr.jpg"
     }
   ]
 }
