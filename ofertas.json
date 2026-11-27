@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T16:48:22.043Z",
+  "atualizado": "2026-11-27T16:49:37.114Z",
   "ofertas": [
+    {
+      "id": "1hY33jZ",
+      "nome": "Colchão King Emma Original 193x203cm 3 Camadas de Espuma Embalado à vácuo, Alta",
+      "categoria": "Casa",
+      "preco": 2987,
+      "link": "https://meli.la/1hY33jZ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/colchao-king-emma-original-193x203cm-3-camadas-de-espuma-embalado-vacuo-alta-respirabilidade-capa-lavavel/p/MLB15810522",
+      "precoDe": 7349,
+      "parcelas": "10x de R$298,70 sem juros",
+      "postado": "2026-11-27T16:49:37.111Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1hY33jZ.jpg"
+    },
     {
       "id": "2d43iPn",
       "nome": "Colchão Casal Luuna Support, Espuma Firme, 10 Anos De Garantia, 18cm",
@@ -9969,23 +9986,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2MZr4mt.jpg"
-    },
-    {
-      "id": "1mY9pGC",
-      "nome": "Secante Para Máquina Lava Louça Finish Abrilhantador 250 ML",
-      "categoria": "Diversos",
-      "preco": 28.46,
-      "link": "https://meli.la/1mY9pGC",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/secante-para-maquina-lava-louca-finish-abrilhantador-250-ml/p/MLB16949090",
-      "precoDe": 54.79,
-      "cupomAnuncio": "Compre R$50 e ganhe 20% OFF",
-      "postado": "2026-11-25T16:48:27.964Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1mY9pGC.jpg"
     }
   ]
 }
