@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T14:23:17.551Z",
+  "atualizado": "2026-11-27T14:24:32.562Z",
   "ofertas": [
+    {
+      "id": "1xQ5Qax",
+      "nome": "Aparelho de Jantar 30 Peças Porto Brasil Bio Latte Grés Off-White",
+      "categoria": "Diversos",
+      "preco": 474.9,
+      "link": "https://meli.la/1xQ5Qax",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aparelho-de-jantar-30-pecas-porto-brasil-bio-latte-gres-off-white/p/MLB40501285",
+      "precoDe": 990.72,
+      "pix": true,
+      "parcelas": "R$499,90 em 9x R$55,54 sem juros",
+      "postado": "2026-11-27T14:24:32.560Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1xQ5Qax.jpg"
+    },
     {
       "id": "18cKEno",
       "nome": "Protetor Solar Facial Sun Pigment Control Fps60 50ml Eucerin",
