@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T20:50:39.976Z",
+  "atualizado": "2026-11-27T20:51:54.760Z",
   "ofertas": [
+    {
+      "id": "1gp13Tk",
+      "nome": "Hidrante Corporal Epidrat Corpo Intensivo Com 450ml Mantecorp",
+      "categoria": "Diversos",
+      "preco": 69.9,
+      "link": "https://meli.la/1gp13Tk",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/hidrante-corporal-epidrat-corpo-intensivo-com-450ml-mantecorp/p/MLB19170804",
+      "precoDe": 129.9,
+      "cupomAnuncio": "Compre R$199 e ganhe 20% OFF",
+      "postado": "2026-11-27T20:51:54.758Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1gp13Tk.jpg"
+    },
     {
       "id": "1H13dmr",
       "nome": "Kit 2 Pneu Pirelli Aro 18 225/55r18 98v Scorpion",
