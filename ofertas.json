@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T16:13:21.030Z",
+  "atualizado": "2026-11-27T16:14:35.964Z",
   "ofertas": [
+    {
+      "id": "2BBKSBC",
+      "nome": "Protetor Solar Corporal Neutrogena Sun Fresh FPS 90, 200ml",
+      "categoria": "Beleza",
+      "preco": 71.98,
+      "link": "https://meli.la/2BBKSBC",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/protetor-solar-corporal-neutrogena-sun-fresh-fps-90-200ml/p/MLB16314064",
+      "precoDe": 142.99,
+      "postado": "2026-11-27T16:14:35.961Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2BBKSBC.jpg"
+    },
     {
       "id": "2vkAEmD",
       "nome": "Whey Concentrado 750g Growth Supplements - Variados Sabores",
@@ -9961,24 +9977,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1Rtm1EE.jpg"
-    },
-    {
-      "id": "1djkkuN",
-      "nome": "Samsung Galaxy Tab S10 Lite 10.9\" 128 GB 6 GB RAM Wi-Fi com S Pen Cinza",
-      "categoria": "Tech",
-      "preco": 2023.49,
-      "link": "https://meli.la/1djkkuN",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/samsung-galaxy-tab-s10-lite-109-128-gb-6-gb-ram-wi-fi-com-s-pen-cinza/p/MLB55467027",
-      "precoDe": 3599,
-      "pix": true,
-      "parcelas": "R$ 2.129,99 em 10x R$ 213 sem juros",
-      "postado": "2026-11-25T16:13:25.600Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1djkkuN.jpg"
     }
   ]
 }
