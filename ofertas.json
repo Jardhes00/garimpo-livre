@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T14:27:02.714Z",
+  "atualizado": "2026-11-27T14:28:17.024Z",
   "ofertas": [
+    {
+      "id": "2CgsvKE",
+      "nome": "Micro-ondas Philco 20L 1100W Limpa Fácil Tira Odor PMO24E",
+      "categoria": "Casa",
+      "preco": 449,
+      "link": "https://meli.la/2CgsvKE",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-philco-20l-1100w-limpa-facil-tira-odor-pmo24e/p/MLB75879865",
+      "precoDe": 649,
+      "parcelas": "8x de R$56,12 sem juros",
+      "postado": "2026-11-27T14:28:17.023Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2CgsvKE.jpg"
+    },
     {
       "id": "2Wdtjpk",
       "nome": "Cafeteira Espresso Lov Automática Vermelha 3 Corações Vermelho",
