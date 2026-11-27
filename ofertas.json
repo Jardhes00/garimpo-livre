@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T19:24:22.515Z",
+  "atualizado": "2026-11-27T19:25:37.631Z",
   "ofertas": [
+    {
+      "id": "2VpsCuv",
+      "nome": "Bicicleta Aro 20 Xgt Infantil Feminina Mariinha Rodas Cesta",
+      "categoria": "Bebê",
+      "preco": 461.18,
+      "link": "https://meli.la/2VpsCuv",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bicicleta-aro-20-xgt-infantil-feminina-mariinha-rodas-cesta/up/MLBU5315234795",
+      "precoDe": 899,
+      "pix": true,
+      "parcelas": "R$512,42 em 10x R$51,24 sem juros",
+      "postado": "2026-11-27T19:25:37.629Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2VpsCuv.jpg"
+    },
     {
       "id": "1PmAXMi",
       "nome": "Shark Cryoglow Máscara Facial De Led Com Resfriamento 4 Em 1 - Lilás 127/220v",
