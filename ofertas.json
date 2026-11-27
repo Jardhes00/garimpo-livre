@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T15:18:19.187Z",
+  "atualizado": "2026-11-27T15:19:34.138Z",
   "ofertas": [
+    {
+      "id": "21Es7yj",
+      "nome": "Bioré Protetor Solar Aqua Rich Watery Essence Fps 50 50 g",
+      "categoria": "Beleza",
+      "preco": 39.15,
+      "link": "https://meli.la/21Es7yj",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/biore-protetor-solar-aqua-rich-watery-essence-fps-50-50-g/p/MLB26894445",
+      "precoDe": 78.9,
+      "postado": "2026-11-27T15:19:34.137Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-21Es7yj.jpg"
+    },
     {
       "id": "2kA2bfd",
       "nome": "Whey Protein Growth Concentrado 1kg – Sabor Baunilha",
