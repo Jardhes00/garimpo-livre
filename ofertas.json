@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T11:44:24.756Z",
+  "atualizado": "2026-11-27T11:45:39.754Z",
   "ofertas": [
+    {
+      "id": "2M6zPuK",
+      "nome": "Bicicleta Spinning Ergométrica U Star Semi Profissional Bike Preto",
+      "categoria": "Esporte",
+      "preco": 358.71,
+      "link": "https://meli.la/2M6zPuK",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bicicleta-spinning-ergometrica-u-star-semi-profissional-bike-preto/p/MLB42156556",
+      "precoDe": 530,
+      "pix": true,
+      "parcelas": "R$389,90 em outros meios",
+      "postado": "2026-11-27T11:45:39.753Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2M6zPuK.jpg"
+    },
     {
       "id": "1ixMMFE",
       "nome": "Ar-condicionado Prime Air Espelhado Inverter 12000btus 12qe",
