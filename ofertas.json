@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T14:42:03.023Z",
+  "atualizado": "2026-11-27T14:43:18.156Z",
   "ofertas": [
+    {
+      "id": "1HvGv9P",
+      "nome": "Lavadora De Alta Pressão Wap Combate Turbo 2600 Com Motor De Indução 1700w",
+      "categoria": "Diversos",
+      "preco": 723.9,
+      "link": "https://meli.la/1HvGv9P",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-wap-combate-turbo-2600-com-motor-de-inducao-1700w-amarelopreto-220v-60-hz/p/MLB18758432",
+      "precoDe": 1142,
+      "postado": "2026-11-27T14:43:18.155Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1HvGv9P.jpg"
+    },
     {
       "id": "2bDQdHx",
       "nome": "Gel de Limpeza Facial Pele Oleosa 3 Ceramidas e Niacinamida CeraVe 454g",
