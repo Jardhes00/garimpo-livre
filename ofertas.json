@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T19:43:08.013Z",
+  "atualizado": "2026-11-27T19:44:22.997Z",
   "ofertas": [
+    {
+      "id": "2Fs2G7c",
+      "nome": "Whisky Bourbon Jim Beam White Kentucky Straight 1L",
+      "categoria": "Diversos",
+      "preco": 69.9,
+      "link": "https://meli.la/2Fs2G7c",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whisky-bourbon-jim-beam-white-kentucky-straight-1l/p/MLB26822654",
+      "precoDe": 99.9,
+      "cupomAnuncio": "Compre R$199 e ganhe 20% OFF",
+      "postado": "2026-11-27T19:44:22.996Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Fs2G7c.jpg"
+    },
     {
       "id": "2DnHSBv",
       "nome": "Sofá Retrátil Reclinável Aconchego 2,30m Bouclê Cinza Liso",
