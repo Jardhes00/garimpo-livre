@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T16:33:21.672Z",
+  "atualizado": "2026-11-27T16:34:36.602Z",
   "ofertas": [
+    {
+      "id": "2cpmRqL",
+      "nome": "Armário de Cozinha Completa Modulada Compacta Madesa Emilly Balcão Rp Cor",
+      "categoria": "Casa",
+      "preco": 799.99,
+      "link": "https://meli.la/2cpmRqL",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/armario-de-cozinha-completa-modulada-compacta-madesa-emilly-balcao-rp-cor-rusticpreto-xagrem2930017k/p/MLB27414752",
+      "precoDe": 1294.1,
+      "pix": true,
+      "parcelas": "R$999,99 em 10x R$100 sem juros",
+      "cupomAnuncio": "R$735,99 com Cupom",
+      "postado": "2026-11-27T16:34:36.600Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2cpmRqL.jpg"
+    },
     {
       "id": "1XWhJL5",
       "nome": "Patinete Elétrico Triciclo Infantil Drift 350w",
@@ -9964,24 +9983,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2Wiy4vZ.jpg"
-    },
-    {
-      "id": "1ctuwZg",
-      "nome": "Cooktop Dako Supreme 5 Bocas de Vidro Temperado com Tripla Chama Preto Bivolt",
-      "categoria": "Diversos",
-      "preco": 551.93,
-      "link": "https://meli.la/1ctuwZg",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cooktop-dako-supreme-5-bocas-de-vidro-temperado-com-tripla-chama-preto-bivolt/p/MLB23202980",
-      "precoDe": 849,
-      "pix": true,
-      "parcelas": "R$569 em 10x R$56,90 sem juros",
-      "postado": "2026-11-25T16:33:25.829Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1ctuwZg.jpg"
     }
   ]
 }
