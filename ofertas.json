@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T16:32:06.640Z",
+  "atualizado": "2026-11-27T16:33:21.672Z",
   "ofertas": [
+    {
+      "id": "1XWhJL5",
+      "nome": "Patinete Elétrico Triciclo Infantil Drift 350w",
+      "categoria": "Bebê",
+      "preco": 927.63,
+      "link": "https://meli.la/1XWhJL5",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/patinete-eletrico-triciclo-infantil-drift-350w/up/MLBU5937004960",
+      "precoDe": 1999,
+      "pix": true,
+      "parcelas": "R$1.008,29 em outros meios",
+      "cupomAnuncio": "R$902,63 com Cupom",
+      "postado": "2026-11-27T16:33:21.671Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1XWhJL5.jpg"
+    },
     {
       "id": "23amzUz",
       "nome": "EUCERIN Creme Facial Anti-idade Firmador Noite 50ml, Elasticity, Pele Madura",
@@ -9963,24 +9982,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1ctuwZg.jpg"
-    },
-    {
-      "id": "25ifdhK",
-      "nome": "Ferro de Passar a Vapor Philips Walita Série 5000 com Base Cerâmica SteamGlide",
-      "categoria": "Diversos",
-      "preco": 274.55,
-      "link": "https://meli.la/25ifdhK",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ferro-de-passar-a-vapor-philips-walita-serie-5000-com-base-ceramica-steamglide-plus/p/MLB22598240",
-      "precoDe": 414.29,
-      "pix": true,
-      "parcelas": "R$289 em outros meios",
-      "postado": "2026-11-25T16:32:10.936Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-25ifdhK.jpg"
     }
   ]
 }
