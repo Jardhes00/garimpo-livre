@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T15:42:05.024Z",
+  "atualizado": "2026-11-27T15:43:20.009Z",
   "ofertas": [
+    {
+      "id": "2MuBAp7",
+      "nome": "Cadeira De Escritório Gamer Nitro Ergonômica Estofado Couro Sintético",
+      "categoria": "Games",
+      "preco": 489.91,
+      "link": "https://meli.la/2MuBAp7",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-escritorio-gamer-nitro-ergonomica-estofado-couro-sintetico-reclinavel-altura-ajustavel-apoio-para-pes-cor-cinza/p/MLB64060677",
+      "precoDe": 899.9,
+      "parcelas": "9x de R$54,43 sem juros",
+      "postado": "2026-11-27T15:43:20.007Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2MuBAp7.jpg"
+    },
     {
       "id": "1cYk6BU",
       "nome": "Kit Caixa Grande De Peças Criativas Classic 10698 Com 790 Peças Lego",
