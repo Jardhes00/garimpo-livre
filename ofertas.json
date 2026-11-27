@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T12:45:41.684Z",
+  "atualizado": "2026-11-27T12:46:56.574Z",
   "ofertas": [
+    {
+      "id": "2LKi1Qj",
+      "nome": "Freezer Horizontal 142l Inverter Bivolt Branco Midea",
+      "categoria": "Diversos",
+      "preco": 1499,
+      "link": "https://meli.la/2LKi1Qj",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/freezer-horizontal-142l-inverter-bivolt-branco-midea/p/MLB65348994",
+      "precoDe": 2023.32,
+      "postado": "2026-11-27T12:46:56.573Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2LKi1Qj.jpg"
+    },
     {
       "id": "2NNZerP",
       "nome": "Monitor Gamer Curvo Samsung Odyssey 34\" G5 165 Hz 1ms Ultrawide Preto",
