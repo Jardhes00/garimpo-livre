@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T20:38:09.598Z",
+  "atualizado": "2026-11-27T20:39:24.384Z",
   "ofertas": [
+    {
+      "id": "1ZE8Axa",
+      "nome": "Protetor Solar Facial com Cor FPS 60, Anthelios Ultra Cover La Roche-Posay, 30g",
+      "categoria": "Beleza",
+      "preco": 65.61,
+      "link": "https://meli.la/1ZE8Axa",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/protetor-solar-facial-com-cor-fps-60-anthelios-ultra-cover-la-roche-posay-30g/p/MLB19801958",
+      "precoDe": 109.9,
+      "pix": true,
+      "parcelas": "R$72,90 em outros meios",
+      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
+      "postado": "2026-11-27T20:39:24.383Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ZE8Axa.jpg"
+    },
     {
       "id": "1PJuCE1",
       "nome": "Chaleira Elétrica Pratic Mondial 1200W CE-06",
