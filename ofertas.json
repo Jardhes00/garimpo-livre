@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T16:03:20.494Z",
+  "atualizado": "2026-11-27T16:04:35.748Z",
   "ofertas": [
+    {
+      "id": "2ox3hU5",
+      "nome": "Tênis Flyer Runner Mesh Bdp Puma",
+      "categoria": "Moda",
+      "preco": 169.19,
+      "link": "https://meli.la/2ox3hU5",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tenis-flyer-runner-mesh-bdp-puma/p/MLB65719614",
+      "precoDe": 349.99,
+      "pix": true,
+      "parcelas": "R$179,99 em 5x R$36 sem juros",
+      "postado": "2026-11-27T16:04:35.746Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ox3hU5.jpg"
+    },
     {
       "id": "1ZHYCkg",
       "nome": "Garrafa Térmica Stanley Quick Flip Rose Quartz 710ml",
