@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T11:18:08.875Z",
+  "atualizado": "2026-11-27T11:19:24.241Z",
   "ofertas": [
+    {
+      "id": "1enELxh",
+      "nome": "Whey Fort 3w Cookies & Cream 900g Vitafor",
+      "categoria": "Suplementos",
+      "preco": 184.8,
+      "link": "https://meli.la/1enELxh",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-fort-3w-cookies-cream-900g-vitafor/p/MLB26683686",
+      "precoDe": 373,
+      "cupomAnuncio": "R$166,32 com Cupom",
+      "postado": "2026-11-27T11:19:24.239Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1enELxh.jpg"
+    },
     {
       "id": "2A7o5Ny",
       "nome": "Máquina de Lavar Midea 16Kg MA512W160A/WK04 Wave Agitator Função Turbo Branca",
