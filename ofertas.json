@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T16:29:36.495Z",
+  "atualizado": "2026-11-27T16:30:51.935Z",
   "ofertas": [
+    {
+      "id": "1JG1xRk",
+      "nome": "Roupa Íntima Descartável Tena Pants Noturna P/M Leve 32 Pague 28 Unidades",
+      "categoria": "Diversos",
+      "preco": 96.88,
+      "link": "https://meli.la/1JG1xRk",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/roupa-intima-descartavel-tena-pants-noturna-pm-leve-32-pague-28-unidades/p/MLB59324559",
+      "precoDe": 152.01,
+      "postado": "2026-11-27T16:30:51.932Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1JG1xRk.jpg"
+    },
     {
       "id": "1Kwcwut",
       "nome": "Cadeira de Bebê Chicco Everone i-Size Giratória 360° e Isofix Preto",
@@ -9965,23 +9981,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-12Muiad.jpg"
-    },
-    {
-      "id": "211chyo",
-      "nome": "Purificador de Água Midea SlimPure Branco Bivolt",
-      "categoria": "Diversos",
-      "preco": 399,
-      "link": "https://meli.la/211chyo",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/purificador-de-agua-midea-slimpure-branco-bivolt/p/MLB54456585",
-      "precoDe": 584.87,
-      "cupomAnuncio": "R$379 com Cupom",
-      "postado": "2026-11-25T16:29:40.677Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-211chyo.jpg"
     }
   ]
 }
