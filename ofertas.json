@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T16:52:07.203Z",
+  "atualizado": "2026-11-27T16:53:22.441Z",
   "ofertas": [
+    {
+      "id": "2oeqgtE",
+      "nome": "Jogo de Panelas Tramontina Mônaco em Alumínio com Revestimento Interno e",
+      "categoria": "Games",
+      "preco": 750.4,
+      "link": "https://meli.la/2oeqgtE",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/jogo-de-panelas-tramontina-monaco-em-aluminio-com-revestimento-interno-e-externo-em-starflon-premium-preto-05-pecas/p/MLB32487864",
+      "precoDe": 1059.32,
+      "pix": true,
+      "parcelas": "R$789,90 em 10x R$78,99 sem juros",
+      "cupomAnuncio": "R$731,40 com Cupom",
+      "postado": "2026-11-27T16:53:22.439Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2oeqgtE.jpg"
+    },
     {
       "id": "2Z3JyuY",
       "nome": "Ar Condicionado Janela Eletrônico Hisense 8500 Btus Branco",
@@ -9968,22 +9987,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-14dBAqR.jpg"
-    },
-    {
-      "id": "17qwrdZ",
-      "nome": "Conversor Fibra Óptica 1000mbps SM Ethernet RJ45 10/100/1000mbps - Gurumania",
-      "categoria": "Diversos",
-      "preco": 68.99,
-      "link": "https://meli.la/17qwrdZ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/conversor-fibra-optica-1000mbps-sm-ethernet-rj45-101001000mbps-gurumania/p/MLB62979211",
-      "precoDe": 99.99,
-      "postado": "2026-11-25T16:52:11.400Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-17qwrdZ.jpg"
     }
   ]
 }
