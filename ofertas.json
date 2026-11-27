@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T15:29:34.487Z",
+  "atualizado": "2026-11-27T15:30:49.444Z",
   "ofertas": [
+    {
+      "id": "1gxb4Z2",
+      "nome": "Climatizador De Ar Oster Portátil 4 Em 1 Cor Branco",
+      "categoria": "Diversos",
+      "preco": 431.91,
+      "link": "https://meli.la/1gxb4Z2",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/climatizador-de-ar-oster-portatil-4-em-1-cor-branco/p/MLB23903360",
+      "precoDe": 899,
+      "pix": true,
+      "parcelas": "R$479,90 em 9x R$53,32 sem juros",
+      "postado": "2026-11-27T15:30:49.442Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1gxb4Z2.jpg"
+    },
     {
       "id": "1phbXtT",
       "nome": "Panificadora Multipane 12 Programações Com Função Timer e Antiaderente Potência",
