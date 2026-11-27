@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T12:39:26.514Z",
+  "atualizado": "2026-11-27T12:40:40.850Z",
   "ofertas": [
+    {
+      "id": "2TWcvR7",
+      "nome": "Colchão Casal Luuna Original, Espuma 24cm com Bloqueio de Movimento, 10 Anos de",
+      "categoria": "Casa",
+      "preco": 1794.55,
+      "link": "https://meli.la/2TWcvR7",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/colchao-casal-luuna-original-espuma-24cm-com-bloqueio-de-movimento-10-anos-de-garantia/p/MLB26697821",
+      "precoDe": 6000,
+      "pix": true,
+      "parcelas": "R$1.889 em 10x R$188,90 sem juros",
+      "postado": "2026-11-27T12:40:40.849Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2TWcvR7.jpg"
+    },
     {
       "id": "2g69F3p",
       "nome": "Filamento Pla Outlet 1kg 1,75mm Cor Sortida Voolt3D",
