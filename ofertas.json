@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T12:30:41.398Z",
+  "atualizado": "2026-11-27T12:31:56.155Z",
   "ofertas": [
+    {
+      "id": "26cnXWr",
+      "nome": "Desinfetante 5L Lysoform Líquido Original Desinfetante Casa para Limpeza Pesada",
+      "categoria": "Diversos",
+      "preco": 36.1,
+      "link": "https://meli.la/26cnXWr",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/desinfetante-5l-lysoform-liquido-original-desinfetante-casa-para-limpeza-pesada/p/MLB23988294",
+      "precoDe": 64.64,
+      "cupomAnuncio": "Compre R$69 e ganhe 20% OFF",
+      "postado": "2026-11-27T12:31:56.154Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-26cnXWr.jpg"
+    },
     {
       "id": "2BqrNiK",
       "nome": "Proteína Growth Supplements Whey concentrado em pó sabor Chocolate x 1kg",
