@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T19:51:53.294Z",
+  "atualizado": "2026-11-27T19:53:08.071Z",
   "ofertas": [
+    {
+      "id": "332Yqya",
+      "nome": "Aspirador de Pó Vertical 1600W Electrolux com cabo 6m portátil de mão 2 em 1",
+      "categoria": "Casa",
+      "preco": 229.9,
+      "link": "https://meli.la/332Yqya",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aspirador-de-po-vertical-1600w-electrolux-com-cabo-6m-portatil-de-mao-2-em-1-potente-com-capacidade-950-ml-filtro-hepa-stk17-azul/p/MLB54407985",
+      "precoDe": 359,
+      "parcelas": "6x de R$38,32 sem juros",
+      "postado": "2026-11-27T19:53:08.069Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-332Yqya.jpg"
+    },
     {
       "id": "21eVB1r",
       "nome": "Monitor Fmaxx 19'' Led Com Hdmi Vga Vesa cor Preto MQ19V",
@@ -9217,24 +9234,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-26xKWv2.jpg"
-    },
-    {
-      "id": "33Ycita",
-      "nome": "Câmera de Segurança iCSee A28B Ali Ron 2026 4K Wi-Fi PTZ com Lente Dupla e Visão Noturna Colorida",
-      "categoria": "Diversos",
-      "preco": 104.39,
-      "link": "https://meli.la/33Ycita",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB64497217",
-      "precoDe": 230,
-      "pix": true,
-      "parcelas": "R$ 119,99 em outros meios",
-      "postado": "2026-11-25T19:52:01.710Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-33Ycita.jpg"
     }
   ]
 }
