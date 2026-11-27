@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T12:43:11.627Z",
+  "atualizado": "2026-11-27T12:44:26.475Z",
   "ofertas": [
+    {
+      "id": "1KDPHAb",
+      "nome": "Whey protein Dux Nutrition FreshWhey em pó sabor Chocolate belga e avelã x 900g",
+      "categoria": "Suplementos",
+      "preco": 279.99,
+      "link": "https://meli.la/1KDPHAb",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-protein-dux-nutrition-freshwhey-em-po-sabor-chocolate-belga-e-avela-x-900g/p/MLB19550288",
+      "precoDe": 407.2,
+      "parcelas": "4x de R$70 sem juros",
+      "postado": "2026-11-27T12:44:26.474Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1KDPHAb.jpg"
+    },
     {
       "id": "1XGFNj5",
       "nome": "Cafeteira Elétrica Dolce Arome Digital, Mondial 800W - C-44-32X-SDI",
