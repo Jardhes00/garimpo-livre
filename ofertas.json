@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T15:22:04.718Z",
+  "atualizado": "2026-11-27T15:23:19.315Z",
   "ofertas": [
+    {
+      "id": "2qrPPvc",
+      "nome": "Caixa de Som LG XBOOM Bounce, Bateria recarregável, IP67, até 30h de",
+      "categoria": "Tech",
+      "preco": 449.1,
+      "link": "https://meli.la/2qrPPvc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-lg-xboom-bounce-bateria-recarregavel-ip67-ate-30h-de-reproducao-bluetooth-53-luzes-multicolor-e-resistencia-militar-bounce/p/MLB63327791",
+      "precoDe": 1049,
+      "pix": true,
+      "parcelas": "R$499 em 9x R$55,44 sem juros",
+      "postado": "2026-11-27T15:23:19.313Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2qrPPvc.jpg"
+    },
     {
       "id": "21iBa8J",
       "nome": "Intercomunicador V6 Plus Bluetooth 5.2 Para Capacete, Pack Com 2 Unidades",
