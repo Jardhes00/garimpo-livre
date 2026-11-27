@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T13:59:31.788Z",
+  "atualizado": "2026-11-27T14:00:46.741Z",
   "ofertas": [
+    {
+      "id": "27ty6j2",
+      "nome": "Kit 3 Camisetas Light Insider",
+      "categoria": "Moda",
+      "preco": 170.1,
+      "link": "https://meli.la/27ty6j2",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-3-camisetas-light-insider/up/MLBU4596080595",
+      "precoDe": 567,
+      "parcelas": "5x de R$34,02 sem juros",
+      "postado": "2026-11-27T14:00:46.740Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-27ty6j2.jpg"
+    },
     {
       "id": "1aVCaoY",
       "nome": "Fritadeira Elétrica Air Fryer Wap Barbecue Wc Ab1090 Smoker Função Defumado E 4",
