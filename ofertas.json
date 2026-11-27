@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T15:15:49.207Z",
+  "atualizado": "2026-11-27T15:17:04.059Z",
   "ofertas": [
+    {
+      "id": "2nXSu6w",
+      "nome": "Caixa de Som Speaker AIWA SP-01 20W Bluetooth 15H IP65 RGB USB TWS",
+      "categoria": "Tech",
+      "preco": 159,
+      "link": "https://meli.la/2nXSu6w",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-speaker-aiwa-sp-01-20w-bluetooth-15h-ip65-rgb-usb-tws/p/MLB26826554",
+      "precoDe": 349.9,
+      "parcelas": "5x de R$31,80 sem juros",
+      "postado": "2026-11-27T15:17:04.058Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2nXSu6w.jpg"
+    },
     {
       "id": "1h3G6P1",
       "nome": "Colchão King Mola Ensacada Guldi Firme (25x193x203) Azul",
