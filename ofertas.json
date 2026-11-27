@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T20:56:55.087Z",
+  "atualizado": "2026-11-27T20:58:10.414Z",
   "ofertas": [
+    {
+      "id": "1GfW4wr",
+      "nome": "ISDIN Creme Hidratante Anti-Idade para Pele Sensível Isdinceutics Hyaluronic",
+      "categoria": "Beleza",
+      "preco": 163,
+      "link": "https://meli.la/1GfW4wr",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/isdin-creme-hidratante-anti-idade-para-pele-sensivel-isdinceutics-hyaluronic-moisture-sensitive-skin-50g/p/MLB24301023",
+      "precoDe": 239.9,
+      "parcelas": "5x de R$32,60 sem juros",
+      "cupomAnuncio": "Compre R$199 e ganhe 20% OFF",
+      "postado": "2026-11-27T20:58:10.413Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1GfW4wr.jpg"
+    },
     {
       "id": "2SVNj5Q",
       "nome": "Panela De Arroz Elétrica Dako 700w Com 4 Litros 10 Xícaras Cinza",
