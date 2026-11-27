@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T11:16:53.891Z",
+  "atualizado": "2026-11-27T11:18:08.875Z",
   "ofertas": [
+    {
+      "id": "2A7o5Ny",
+      "nome": "Máquina de Lavar Midea 16Kg MA512W160A/WK04 Wave Agitator Função Turbo Branca",
+      "categoria": "Diversos",
+      "preco": 1649,
+      "link": "https://meli.la/2A7o5Ny",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquina-de-lavar-midea-16kg-ma512w160awk04-wave-agitator-funcao-turbo-branca/p/MLB75622878",
+      "precoDe": 2459.82,
+      "postado": "2026-11-27T11:18:08.874Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2A7o5Ny.jpg"
+    },
     {
       "id": "1F2Twyz",
       "nome": "Multiprocessador Philco 1700W 9 em 1 Preto PMP1600P",
