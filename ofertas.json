@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T14:09:32.110Z",
+  "atualizado": "2026-11-27T14:10:47.349Z",
   "ofertas": [
+    {
+      "id": "1ydzpDn",
+      "nome": "Campari Aperitivo Bitter 998ml",
+      "categoria": "Diversos",
+      "preco": 46.45,
+      "link": "https://meli.la/1ydzpDn",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/campari-aperitivo-bitter-998ml/p/MLB18308946",
+      "precoDe": 69.9,
+      "postado": "2026-11-27T14:10:47.347Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ydzpDn.jpg"
+    },
     {
       "id": "2icVnWc",
       "nome": "Kérastase, Bain Shampoo, Gloss Absolu, Hydra Glaze, Ação Anti-frizz com Ácido",
