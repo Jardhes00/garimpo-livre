@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T19:10:37.254Z",
+  "atualizado": "2026-11-27T19:11:52.269Z",
   "ofertas": [
+    {
+      "id": "1oYhc6b",
+      "nome": "Notebook Positivo Vision C15M Intel Celeron N4500 Windows 11 Home 4GB RAM 128GB",
+      "categoria": "Tech",
+      "preco": 1709.05,
+      "link": "https://meli.la/1oYhc6b",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/notebook-positivo-vision-c15m-intel-celeron-n4500-windows-11-home-4gb-ram-128gb-emmc-tela-15-full-hd-ips-antirreflexo-minitela-e-tecla-copilot-cinza/p/MLB54103769",
+      "precoDe": 2699,
+      "pix": true,
+      "parcelas": "R$1.799 em 10x R$179,90 sem juros",
+      "cupomAnuncio": "R$1.614,05 com Cupom",
+      "postado": "2026-11-27T19:11:52.268Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1oYhc6b.jpg"
+    },
     {
       "id": "2kYkVnf",
       "nome": "Bicicleta Elétrica Gts Black Fish 500w Aro 14 Sem Cnh",
@@ -9034,24 +9053,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-22aDuQm.jpg"
-    },
-    {
-      "id": "1v6bUaK",
-      "nome": "Capa De Chuva Moto Motoqueiro Impermeável Reforçada Pioneira",
-      "categoria": "Auto",
-      "preco": 89.23,
-      "link": "https://meli.la/1v6bUaK",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/capa-de-chuva-moto-motoqueiro-impermeavel-reforcada-pioneira/up/MLBU2966512100",
-      "precoDe": 144.87,
-      "pix": true,
-      "parcelas": "R$96,99 em outros meios",
-      "postado": "2026-11-25T19:11:00.845Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1v6bUaK.jpg"
     }
   ]
 }
