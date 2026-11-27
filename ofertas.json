@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T19:03:06.957Z",
+  "atualizado": "2026-11-27T19:04:21.871Z",
   "ofertas": [
+    {
+      "id": "19rQrGJ",
+      "nome": "Panela Frigideira Antiaderente Cerâmica Dinda Home Indução Gás Elétrico Linha",
+      "categoria": "Casa",
+      "preco": 42.74,
+      "link": "https://meli.la/19rQrGJ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/panela-frigideira-antiaderente-ceramica-dinda-home-inducao-gas-eletrico-linha-premium/p/MLB53761906",
+      "precoDe": 99.93,
+      "cupomAnuncio": "Compre R$199 e ganhe 20% OFF",
+      "postado": "2026-11-27T19:04:21.868Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-19rQrGJ.jpg"
+    },
     {
       "id": "15pKVqZ",
       "nome": "Cooktop a Gás, 4 Bocas, Mondial Bivolt CTG-01",
@@ -9032,24 +9049,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2Z5jkc8.jpg"
-    },
-    {
-      "id": "1mVLU5j",
-      "nome": "Mala de Viagem de Bordo Rígida Sweet Studio em ABS, com Rodas Giro 360°, Rosa",
-      "categoria": "Diversos",
-      "preco": 166.5,
-      "link": "https://meli.la/1mVLU5j",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/mala-de-viagem-de-bordo-rigida-sweet-studio-em-abs-com-rodas-giro-360-rosa-2075/p/MLB60939427",
-      "precoDe": 311,
-      "pix": true,
-      "parcelas": "R$185 em outros meios",
-      "postado": "2026-11-25T19:03:30.551Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1mVLU5j.jpg"
     }
   ]
 }
