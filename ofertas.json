@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T17:16:53.066Z",
+  "atualizado": "2026-11-27T17:18:07.927Z",
   "ofertas": [
+    {
+      "id": "2RjMugu",
+      "nome": "Torre de Som AIWA T1W-02 1600W 1 Woofer 10\" Bluetooth RGB USB FM DJ",
+      "categoria": "Diversos",
+      "preco": 809.1,
+      "link": "https://meli.la/2RjMugu",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB42931183",
+      "precoDe": 1499,
+      "pix": true,
+      "parcelas": "R$ 899 em 10x de R$ 89,90 sem juros",
+      "postado": "2026-11-27T17:18:07.925Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2RjMugu.jpg"
+    },
     {
       "id": "2oppZgT",
       "nome": "Cafeteira Tres Corações Lov Automática Preta-brilhante",
@@ -9924,23 +9942,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2Yezpac.jpg"
-    },
-    {
-      "id": "1G8u5VN",
-      "nome": "Giratas Bomba Vácuo",
-      "categoria": "Diversos",
-      "preco": 139,
-      "link": "https://meli.la/1G8u5VN",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/giratas-bomba-vacuo/p/MLB73951930",
-      "precoDe": 680.67,
-      "parcelas": "4x de R$34,75 sem juros",
-      "postado": "2026-11-25T17:17:12.213Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1G8u5VN.jpg"
     }
   ]
 }
