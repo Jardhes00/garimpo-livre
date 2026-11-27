@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T11:23:09.186Z",
+  "atualizado": "2026-11-27T11:24:24.137Z",
   "ofertas": [
+    {
+      "id": "1URTBxS",
+      "nome": "Perfume Givenchy Ange Ou Démon Eau De Parfum Feminino",
+      "categoria": "Beleza",
+      "preco": 198.54,
+      "link": "https://meli.la/1URTBxS",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/perfume-givenchy-ange-ou-demon-eau-de-parfum-feminino/up/MLBU5705031587",
+      "precoDe": 441.15,
+      "pix": true,
+      "parcelas": "R$208,99 em 6x R$34,83 sem juros",
+      "postado": "2026-11-27T11:24:24.136Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1URTBxS.jpg"
+    },
     {
       "id": "2TJTL6Z",
       "nome": "Amaciante Downy Concentrado Brisa Suave 3L Rende 12L",
