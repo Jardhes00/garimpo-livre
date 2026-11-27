@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T15:32:04.558Z",
+  "atualizado": "2026-11-27T15:33:19.668Z",
   "ofertas": [
+    {
+      "id": "1egvgAf",
+      "nome": "Bicicleta Pro-x Cross Infantil Aro 20 Freio V-brake Aro Aero Cor Branco - Azul",
+      "categoria": "Bebê",
+      "preco": 399,
+      "link": "https://meli.la/1egvgAf",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bicicleta-pro-x-cross-infantil-aro-20-freio-v-brake-aro-aero-cor-branco-azul-tamanho-do-quadro-s/p/MLB36286022",
+      "precoDe": 799,
+      "pix": true,
+      "parcelas": "R$478 em 9x R$53,11 sem juros",
+      "postado": "2026-11-27T15:33:19.666Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1egvgAf.jpg"
+    },
     {
       "id": "2N1tr6f",
       "nome": "Cadeira De Carro Infantil Reclinável 4 Posições Altura Ajustável 0-36kg Elite 4",
