@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T14:19:32.353Z",
+  "atualizado": "2026-11-27T14:20:47.282Z",
   "ofertas": [
+    {
+      "id": "2Gjyge4",
+      "nome": "Esmerilhadeira Bosch Gws 700, eixo 710w, cor M14, cor azul marinho",
+      "categoria": "Ferramentas",
+      "preco": 207.92,
+      "link": "https://meli.la/2Gjyge4",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/esmerilhadeira-bosch-gws-700-eixo-710w-cor-m14-cor-azul-marinho/p/MLB24526733",
+      "precoDe": 420.09,
+      "pix": true,
+      "parcelas": "R$259,90 em outros meios",
+      "postado": "2026-11-27T14:20:47.281Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Gjyge4.jpg"
+    },
     {
       "id": "31MwGaW",
       "nome": "Forno Elétrico 52L Grand Family II, Mondial 1800W FRN-52-B",
