@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T11:20:39.592Z",
+  "atualizado": "2026-11-27T11:21:54.775Z",
   "ofertas": [
+    {
+      "id": "1FewYd4",
+      "nome": "Máquina de Lavar Electrolux Efficient 12kg Branca Compacta, Econômica e",
+      "categoria": "Diversos",
+      "preco": 1566,
+      "link": "https://meli.la/1FewYd4",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquina-de-lavar-electrolux-efficient-12kg-branca-compacta-economica-e-pre-diluicao-let12/p/MLB78620289",
+      "precoDe": 2249,
+      "postado": "2026-11-27T11:21:54.774Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1FewYd4.jpg"
+    },
     {
       "id": "22jfPWJ",
       "nome": "Creatina Soldiers Nutrition Em Pó Sem Sabor X 1.2kg 2 Un",
