@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T12:41:56.768Z",
+  "atualizado": "2026-11-27T12:43:11.627Z",
   "ofertas": [
+    {
+      "id": "1XGFNj5",
+      "nome": "Cafeteira Elétrica Dolce Arome Digital, Mondial 800W - C-44-32X-SDI",
+      "categoria": "Casa",
+      "preco": 197,
+      "link": "https://meli.la/1XGFNj5",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafeteira-eletrica-dolce-arome-digital-mondial-800w-c-44-32x-sdi/p/MLB28525881",
+      "precoDe": 299.9,
+      "postado": "2026-11-27T12:43:11.625Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1XGFNj5.jpg"
+    },
     {
       "id": "2Ccv8da",
       "nome": "Aspirador de Pó e Água Kärcher WDL 1s 1700W Tanque 12L Alcance de 7,5 m Filtro",
