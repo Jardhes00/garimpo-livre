@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T20:33:09.398Z",
+  "atualizado": "2026-11-27T20:34:24.670Z",
   "ofertas": [
+    {
+      "id": "1T6kTLd",
+      "nome": "Bicicleta Aro 29 Gts Dexter 24 Marchas Freio A Disco Cor Branco Com Preto",
+      "categoria": "Esporte",
+      "preco": 639,
+      "link": "https://meli.la/1T6kTLd",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bicicleta-aro-29-gts-dexter-24-marchas-freio-a-disco-cor-branco-com-preto-tamanho-do-quadro-19/p/MLB54409737",
+      "precoDe": 1413,
+      "pix": true,
+      "parcelas": "R$709 em 10x R$70,90 sem juros",
+      "postado": "2026-11-27T20:34:24.668Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1T6kTLd.jpg"
+    },
     {
       "id": "2ncgFW6",
       "nome": "Creme Antirrugas Estimulador de Colágeno Liftactiv Specialist Vichy 50ml",
