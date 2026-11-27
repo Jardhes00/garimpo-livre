@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T11:31:54.721Z",
+  "atualizado": "2026-11-27T11:33:09.263Z",
   "ofertas": [
+    {
+      "id": "1dGiPsy",
+      "nome": "Purificador Consul Cpb33 Água Gelada E Natural Cor Branco",
+      "categoria": "Diversos",
+      "preco": 499,
+      "link": "https://meli.la/1dGiPsy",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/purificador-consul-cpb33-agua-gelada-e-natural-cor-branco/p/MLB28806741",
+      "precoDe": 699,
+      "parcelas": "9x de R$55,44 sem juros",
+      "postado": "2026-11-27T11:33:09.262Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1dGiPsy.jpg"
+    },
     {
       "id": "1eBV5JZ",
       "nome": "Lava-Roupas Pó Omo Todo Ciclo Caixa 2kg Tamanho Família",
