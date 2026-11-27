@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T14:57:03.487Z",
+  "atualizado": "2026-11-27T14:58:18.721Z",
   "ofertas": [
+    {
+      "id": "1e8K4HK",
+      "nome": "ISDIN Protetor Solar Facial Fusion Water Magic Color FPS 50 – Cor Clara - 50ml",
+      "categoria": "Beleza",
+      "preco": 63.66,
+      "link": "https://meli.la/1e8K4HK",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/isdin-protetor-solar-facial-fusion-water-magic-color-fps-50-cor-clara-50ml/p/MLB19745358",
+      "precoDe": 114.9,
+      "pix": true,
+      "parcelas": "R$74,90 em 3x R$24,97 sem juros",
+      "cupomAnuncio": "Compre R$399,90 e ganhe 20% OFF",
+      "postado": "2026-11-27T14:58:18.720Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1e8K4HK.jpg"
+    },
     {
       "id": "1UQCVZr",
       "nome": "ISDIN Creme Anti-Idade para Contorno dos Olhos Isdinceutics K-Ox Eyes - 15g",
