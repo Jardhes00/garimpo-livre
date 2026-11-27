@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T15:50:50.272Z",
+  "atualizado": "2026-11-27T15:52:05.080Z",
   "ofertas": [
+    {
+      "id": "2kRKPmU",
+      "nome": "Limpadora De Pisos Kärcher Fc 7 Bateria 4 Em 1",
+      "categoria": "Diversos",
+      "preco": 2299,
+      "link": "https://meli.la/2kRKPmU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/limpadora-de-pisos-krcher-fc-7-bateria-4-em-1/p/MLB26530165",
+      "precoDe": 3199.9,
+      "parcelas": "10x de R$229,90 sem juros",
+      "postado": "2026-11-27T15:52:05.078Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2kRKPmU.jpg"
+    },
     {
       "id": "2roFgbd",
       "nome": "Jogo De Panelas 10 Peças Cerâmico Marmorizado Haushop",
