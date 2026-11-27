@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T16:35:51.903Z",
+  "atualizado": "2026-11-27T16:37:07.040Z",
   "ofertas": [
+    {
+      "id": "218gykQ",
+      "nome": "Lavadora De Alta Pressão Profissional Wap 4100 W2 500l/h Motor De Indução",
+      "categoria": "Diversos",
+      "preco": 1459.9,
+      "link": "https://meli.la/218gykQ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-profissional-wap-4100-w2-500lh-motor-de-inducao-2000psi-2200w-220v/p/MLB69340233",
+      "precoDe": 3999,
+      "cupomAnuncio": "R$1.386,90 com Cupom",
+      "postado": "2026-11-27T16:37:07.038Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-218gykQ.jpg"
+    },
     {
       "id": "25BxeA6",
       "nome": "Forno Elétrico De Embutir Dako Supreme 52l Preto",
@@ -9965,24 +9982,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2vaeuXh.jpg"
-    },
-    {
-      "id": "2kmgget",
-      "nome": "Kit 4 Pneus 175/65r14 Goodyear Kelly Edge Touring 2 86h Índice de velocidade H",
-      "categoria": "Auto",
-      "preco": 1169.17,
-      "link": "https://meli.la/2kmgget",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit-4-pneus-17565r14-goodyear-kelly-edge-touring-2-86h-indice-de-velocidade-h/p/MLB34197276",
-      "precoDe": 1714,
-      "pix": true,
-      "parcelas": "R$1.299,08 em outros meios",
-      "postado": "2026-11-25T16:35:56.149Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2kmgget.jpg"
     }
   ]
 }
