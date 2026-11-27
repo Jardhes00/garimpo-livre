@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T16:18:21.012Z",
+  "atualizado": "2026-11-27T16:19:36.414Z",
   "ofertas": [
+    {
+      "id": "1EVKtZt",
+      "nome": "Whey Fort 3w 900g Protein Neutro Sem Sabor - Vitafor",
+      "categoria": "Suplementos",
+      "preco": 199.81,
+      "link": "https://meli.la/1EVKtZt",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-fort-3w-900g-protein-neutro-sem-sabor-vitafor/p/MLB19772623",
+      "precoDe": 373,
+      "cupomAnuncio": "R$179,83 com Cupom",
+      "postado": "2026-11-27T16:19:36.412Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1EVKtZt.jpg"
+    },
     {
       "id": "24u3ZNz",
       "nome": "Freixenet Carta Nevada semi Sec 750 ml",
@@ -9961,24 +9978,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1Qnu3QB.jpg"
-    },
-    {
-      "id": "2r2THLm",
-      "nome": "Kit 2 Pneus 175/65R14 Goodyear Kelly Edge Touring 2 86H",
-      "categoria": "Auto",
-      "preco": 565.17,
-      "link": "https://meli.la/2r2THLm",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit-2-pneus-17565r14-goodyear-kelly-edge-touring-2-86h/p/MLB34197272",
-      "precoDe": 880,
-      "pix": true,
-      "parcelas": "R$ 689,23 em outros meios",
-      "postado": "2026-11-25T16:18:26.081Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2r2THLm.jpg"
     }
   ]
 }
