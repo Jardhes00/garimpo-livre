@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T15:00:49.208Z",
+  "atualizado": "2026-11-27T15:02:03.746Z",
   "ofertas": [
+    {
+      "id": "13Vnb2D",
+      "nome": "Purificador de Água Gelada Fria e Natural Eletrônico IBBL E-due Painel Touch",
+      "categoria": "Diversos",
+      "preco": 399.2,
+      "link": "https://meli.la/13Vnb2D",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/purificador-de-agua-gelada-fria-e-natural-eletronico-ibbl-e-due-painel-touch-grafite/p/MLB40870011",
+      "precoDe": 1000,
+      "pix": true,
+      "parcelas": "R$499 em 9x R$55,44 sem juros",
+      "cupomAnuncio": "R$383,20 com Cupom",
+      "postado": "2026-11-27T15:02:03.745Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-13Vnb2D.jpg"
+    },
     {
       "id": "1s57acY",
       "nome": "Micro-ondas Nn-st55lmruk 27 Litros Prata Panasonic",
