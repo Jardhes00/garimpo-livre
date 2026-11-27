@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T12:01:55.453Z",
+  "atualizado": "2026-11-27T12:03:10.156Z",
   "ofertas": [
+    {
+      "id": "2PSMr7H",
+      "nome": "Espumante Branco Brut Casa Perini 750 ml",
+      "categoria": "Diversos",
+      "preco": 36.27,
+      "link": "https://meli.la/2PSMr7H",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/espumante-branco-brut-casa-perini-750-ml/p/MLB18308304",
+      "precoDe": 84.72,
+      "postado": "2026-11-27T12:03:10.155Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2PSMr7H.jpg"
+    },
     {
       "id": "2ueMoWV",
       "nome": "Kit 3 Camisetas Light T-shirt Insider",
