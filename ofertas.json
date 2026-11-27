@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T12:26:56.032Z",
+  "atualizado": "2026-11-27T12:28:11.360Z",
   "ofertas": [
+    {
+      "id": "2FvapFH",
+      "nome": "Relógio Casio Masculino G-shock Digital Preto Dw-5600bb-1dr",
+      "categoria": "Moda",
+      "preco": 280.8,
+      "link": "https://meli.la/2FvapFH",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/relogio-casio-masculino-g-shock-digital-preto-dw-5600bb-1dr/up/MLBU1431955641",
+      "precoDe": 599,
+      "cupomAnuncio": "Compre R$600 e ganhe 5% OFF por seguir a loja",
+      "postado": "2026-11-27T12:28:11.358Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2FvapFH.jpg"
+    },
     {
       "id": "2AcXcKm",
       "nome": "Smart Tv Aoc Dled 32 Pole Wi-fi Roku Tv Quadcore 32s5155/78g",
