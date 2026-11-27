@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T20:03:10.578Z",
+  "atualizado": "2026-11-27T20:04:23.528Z",
   "ofertas": [
+    {
+      "id": "1UGPuCz",
+      "nome": "Relógio Masculino Boss 1514170 1514170 Prata",
+      "categoria": "Moda",
+      "preco": 473,
+      "link": "https://meli.la/1UGPuCz",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/relogio-masculino-boss-1514170-1514170-prata/p/MLB46089176",
+      "precoDe": 1390,
+      "parcelas": "9x de R$52,56 sem juros",
+      "postado": "2026-11-27T20:04:23.526Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1UGPuCz.jpg"
+    },
     {
       "id": "2gqNh95",
       "nome": "Mochila De Viagem Expansivel Masculina Feminina Preto Liso",
