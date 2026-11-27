@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T20:39:24.384Z",
+  "atualizado": "2026-11-27T20:40:39.858Z",
   "ofertas": [
+    {
+      "id": "2CsFpLR",
+      "nome": "Cooktop 4 Bocas de Indução Philco Função Turbo PCT40C",
+      "categoria": "Diversos",
+      "preco": 999,
+      "link": "https://meli.la/2CsFpLR",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cooktop-4-bocas-de-inducao-philco-funcao-turbo-pct40c/p/MLB77746381",
+      "precoDe": 1399,
+      "parcelas": "10x de R$99,90 sem juros",
+      "cupomAnuncio": "R$939 com Cupom",
+      "postado": "2026-11-27T20:40:39.857Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2CsFpLR.jpg"
+    },
     {
       "id": "1ZE8Axa",
       "nome": "Protetor Solar Facial com Cor FPS 60, Anthelios Ultra Cover La Roche-Posay, 30g",
