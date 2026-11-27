@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T17:10:52.981Z",
+  "atualizado": "2026-11-27T17:12:07.742Z",
   "ofertas": [
+    {
+      "id": "1MSbDnk",
+      "nome": "Coenzima Q10 200mg - 120 Cápsulas Sem Sabor - Vitafor",
+      "categoria": "Diversos",
+      "preco": 148.49,
+      "link": "https://meli.la/1MSbDnk",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB19773507",
+      "precoDe": 330,
+      "parcelas": "12x R$ 14,67 no cartão",
+      "cupomAnuncio": "R$133,64 com Cupom",
+      "postado": "2026-11-27T17:12:07.740Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1MSbDnk.jpg"
+    },
     {
       "id": "2hfVVCU",
       "nome": "Assento Booster Chicco Gofit Plus Para Crianças de 18 a 36 kg Com Latch",
@@ -9954,25 +9972,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1WHVyup.jpg"
-    },
-    {
-      "id": "16kUFvu",
-      "nome": "Guarda Roupa Casal Mônaco Madesa 3 Portas Correr Espelho P Cor Preto",
-      "categoria": "Diversos",
-      "preco": 677.59,
-      "link": "https://meli.la/16kUFvu",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB19493953",
-      "precoDe": 1235.28,
-      "pix": true,
-      "parcelas": "R$ 879,99 em 10x R$ 88 sem juros",
-      "cupomAnuncio": "R$639,09 com Cupom",
-      "postado": "2026-11-25T17:10:56.924Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-16kUFvu.jpg"
     }
   ]
 }
