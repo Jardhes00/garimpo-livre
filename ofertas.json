@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T11:14:24.005Z",
+  "atualizado": "2026-11-27T11:15:38.828Z",
   "ofertas": [
+    {
+      "id": "1f2am4y",
+      "nome": "Micro-ondas Philco 20L 1100W Limpa Fácil Tira Odor PMO24E",
+      "categoria": "Casa",
+      "preco": 449,
+      "link": "https://meli.la/1f2am4y",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-philco-20l-1100w-limpa-facil-tira-odor-pmo24e/p/MLB77252607",
+      "precoDe": 649,
+      "parcelas": "8x de R$56,12 sem juros",
+      "postado": "2026-11-27T11:15:38.825Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1f2am4y.jpg"
+    },
     {
       "id": "2UTDCLH",
       "nome": "Colchão Queen Luuna Original, Espuma 24cm com Bloqueio de Movimento, 10 Anos de",
