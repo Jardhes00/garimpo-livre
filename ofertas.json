@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T11:33:09.263Z",
+  "atualizado": "2026-11-27T11:34:24.503Z",
   "ofertas": [
+    {
+      "id": "2Mx9sY6",
+      "nome": "Lenços Umedecidos Pampers, Aroma de Aloe Vera 12 pacotes em total 576 Unidades",
+      "categoria": "Diversos",
+      "preco": 83.04,
+      "link": "https://meli.la/2Mx9sY6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lencos-umedecidos-pampers-aroma-de-aloe-vera-12-pacotes-em-total-576-unidades/p/MLB27232311",
+      "precoDe": 134.9,
+      "postado": "2026-11-27T11:34:24.501Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Mx9sY6.jpg"
+    },
     {
       "id": "1dGiPsy",
       "nome": "Purificador Consul Cpb33 Água Gelada E Natural Cor Branco",
