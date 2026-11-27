@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T11:39:24.507Z",
+  "atualizado": "2026-11-27T11:40:39.634Z",
   "ofertas": [
+    {
+      "id": "2tdYSXc",
+      "nome": "Lavadora de Alta Pressão Kärcher K5 2100 PSI 380L/h 1900W Motor Indução Com",
+      "categoria": "Diversos",
+      "preco": 743.07,
+      "link": "https://meli.la/2tdYSXc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-krcher-k5-2100-psi-380lh-1900w-motor-inducao-com-jato-turbo-rotativo-e-lanca-leque/p/MLB18611174",
+      "precoDe": 1199,
+      "pix": true,
+      "parcelas": "R$799 em outros meios",
+      "postado": "2026-11-27T11:40:39.633Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2tdYSXc.jpg"
+    },
     {
       "id": "1ZG6bbt",
       "nome": "Lava-louça Electrolux Inox Com Programa Lava E Seca LS08E Cinza",
