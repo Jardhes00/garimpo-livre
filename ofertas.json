@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T19:11:52.269Z",
+  "atualizado": "2026-11-27T19:13:07.382Z",
   "ofertas": [
+    {
+      "id": "2Rt7Xi2",
+      "nome": "Headset Gamer Havit Fuxi H3 2.4g Bluetooth Usb Tipo C 7.1 Pr",
+      "categoria": "Tech",
+      "preco": 114.55,
+      "link": "https://meli.la/2Rt7Xi2",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/headset-gamer-havit-fuxi-h3-24g-bluetooth-usb-tipo-c-71-pr/p/MLB27166077",
+      "precoDe": 249,
+      "pix": true,
+      "parcelas": "R$143,19 em outros meios",
+      "postado": "2026-11-27T19:13:07.380Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Rt7Xi2.jpg"
+    },
     {
       "id": "1oYhc6b",
       "nome": "Notebook Positivo Vision C15M Intel Celeron N4500 Windows 11 Home 4GB RAM 128GB",
@@ -9035,24 +9053,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-182avkB.jpg"
-    },
-    {
-      "id": "22aDuQm",
-      "nome": "Mala De Viagem Média 18KG Sweet Studio Com Zíper Dupla Expansível E Rodas Giro",
-      "categoria": "Diversos",
-      "preco": 179.54,
-      "link": "https://meli.la/22aDuQm",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/mala-de-viagem-media-18kg-sweet-studio-com-ziper-dupla-expansivel-e-rodas-giro-360-removiveis-preto-m285/p/MLB81076248",
-      "precoDe": 395.08,
-      "pix": true,
-      "parcelas": "R$188,99 em 6x R$31,50 sem juros",
-      "postado": "2026-11-25T19:12:16.219Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-22aDuQm.jpg"
     }
   ]
 }
