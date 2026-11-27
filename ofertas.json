@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T15:34:34.523Z",
+  "atualizado": "2026-11-27T15:35:49.997Z",
   "ofertas": [
+    {
+      "id": "1F9fbgb",
+      "nome": "Amazon Echo Show 11 Grafite ÚLTIMA GERAÇÃO com Alexa+",
+      "categoria": "Tech",
+      "preco": 1619.1,
+      "link": "https://meli.la/1F9fbgb",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/amazon-echo-show-11-grafite-ultima-geraco-com-alexa/p/MLB61373020",
+      "precoDe": 2499,
+      "pix": true,
+      "parcelas": "R$1.799 em 10x R$179,90 sem juros",
+      "postado": "2026-11-27T15:35:49.996Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1F9fbgb.jpg"
+    },
     {
       "id": "1NSMqfX",
       "nome": "Fogão 4 Bocas de Embutir Dako Supreme Preto com Mesa de Vidro e Mega Chama",
