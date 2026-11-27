@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T16:02:05.569Z",
+  "atualizado": "2026-11-27T16:03:20.494Z",
   "ofertas": [
+    {
+      "id": "1ZHYCkg",
+      "nome": "Garrafa Térmica Stanley Quick Flip Rose Quartz 710ml",
+      "categoria": "Diversos",
+      "preco": 116.36,
+      "link": "https://meli.la/1ZHYCkg",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/garrafa-termica-stanley-quick-flip-rose-quartz-710ml/p/MLB46076551",
+      "precoDe": 289,
+      "pix": true,
+      "parcelas": "R$136,89 em 4x R$34,22 sem juros",
+      "postado": "2026-11-27T16:03:20.493Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ZHYCkg.jpg"
+    },
     {
       "id": "26YXWB3",
       "nome": "Kérastase Génesis Fondant Reforçador Condicionador Anticaída 200ml",
