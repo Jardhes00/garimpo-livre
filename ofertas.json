@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T13:54:31.619Z",
+  "atualizado": "2026-11-27T13:55:46.790Z",
   "ofertas": [
+    {
+      "id": "2gV3np1",
+      "nome": "Fralda Descartável Pom Pom Proteção de Mãe XG com 38 Unidades",
+      "categoria": "Bebê",
+      "preco": 28,
+      "link": "https://meli.la/2gV3np1",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fralda-descartavel-pom-pom-protecao-de-mae-xg-com-38-unidades/p/MLB18715372",
+      "precoDe": 50.29,
+      "cupomAnuncio": "Compre R$99,90 e ganhe 25% OFF",
+      "postado": "2026-11-27T13:55:46.788Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2gV3np1.jpg"
+    },
     {
       "id": "2pFDNqr",
       "nome": "Secador de Cabelos Britânia 3 Temperaturas 2100W BSC2250 Bivolt",
