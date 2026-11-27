@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T18:31:33.601Z",
+  "atualizado": "2026-11-27T18:34:34.675Z",
   "ofertas": [
+    {
+      "id": "25dGbQ3",
+      "nome": "iPhone 16e (128 GB) - Branco - Distribuidor Autorizado",
+      "categoria": "Tech",
+      "preco": 2969.1,
+      "link": "https://meli.la/25dGbQ3",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/iphone-16e-128-gb-branco-distribuidor-autorizado/p/MLB1046217031",
+      "precoDe": 5799,
+      "pix": true,
+      "parcelas": "R$3.299 em 10x R$329,90 sem juros",
+      "postado": "2026-11-27T18:34:34.671Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-25dGbQ3.jpg"
+    },
     {
       "id": "1JtBni1",
       "nome": "Termo Stanley Classic 950mL preto liso",
@@ -9028,40 +9046,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1BupNZZ.jpg"
-    },
-    {
-      "id": "16m1Fvb",
-      "nome": "Ar Condicionado Portátil 9000 Btus 127v 3 Em 1 Kian Branco",
-      "categoria": "Casa",
-      "preco": 2089.05,
-      "link": "https://meli.la/16m1Fvb",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-portatil-9000-btus-127v-3-em-1-kian-branco/up/MLBU5405637922",
-      "precoDe": 3799,
-      "pix": true,
-      "parcelas": "R$2.199 em 10x R$219,90 sem juros",
-      "postado": "2026-11-25T18:33:29.902Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-16m1Fvb.jpg"
-    },
-    {
-      "id": "1KTHkLc",
-      "nome": "Kit 2 Pneus 195/55R16 Continental PowerContact 2 87H Aro 16",
-      "categoria": "Auto",
-      "preco": 912.85,
-      "link": "https://meli.la/1KTHkLc",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/kit-2-pneus-19555r16-continental-powercontact-2-87h-aro-16/p/MLB37143636",
-      "precoDe": 1471.8,
-      "postado": "2026-11-25T18:32:14.569Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1KTHkLc.jpg"
     }
   ]
 }
