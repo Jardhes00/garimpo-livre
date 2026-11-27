@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T14:59:33.543Z",
+  "atualizado": "2026-11-27T15:00:49.208Z",
   "ofertas": [
+    {
+      "id": "1s57acY",
+      "nome": "Micro-ondas Nn-st55lmruk 27 Litros Prata Panasonic",
+      "categoria": "Casa",
+      "preco": 581.03,
+      "link": "https://meli.la/1s57acY",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-nn-st55lmruk-27-litros-prata-panasonic/p/MLB17944017",
+      "precoDe": 859,
+      "pix": true,
+      "parcelas": "R$599 em 10x R$59,90 sem juros",
+      "postado": "2026-11-27T15:00:49.207Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1s57acY.jpg"
+    },
     {
       "id": "2jsshrL",
       "nome": "Armani Beauty Perfume Masculino Stronger With You Parfum 100ml",
