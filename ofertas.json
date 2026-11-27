@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T14:29:33.014Z",
+  "atualizado": "2026-11-27T14:30:47.688Z",
   "ofertas": [
+    {
+      "id": "2KF2Mmb",
+      "nome": "Micro-Ondas Mondial 1200W MO-01-21-B",
+      "categoria": "Casa",
+      "preco": 429,
+      "link": "https://meli.la/2KF2Mmb",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-mondial-1200w-mo-01-21-b/p/MLB19119113",
+      "precoDe": 636.9,
+      "postado": "2026-11-27T14:30:47.687Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2KF2Mmb.jpg"
+    },
     {
       "id": "1mXRqd7",
       "nome": "Cafeteira Nescafé Dolce Gusto Mini Me Cinza E Preta 110v Cor Preto",
