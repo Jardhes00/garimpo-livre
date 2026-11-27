@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T14:43:18.156Z",
+  "atualizado": "2026-11-27T14:44:33.169Z",
   "ofertas": [
+    {
+      "id": "22qg6MJ",
+      "nome": "Basic Whey 1kg Growth Supplements",
+      "categoria": "Suplementos",
+      "preco": 56.9,
+      "link": "https://meli.la/22qg6MJ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/basic-whey-1kg-growth-supplements/p/MLB79160251",
+      "precoDe": 104.9,
+      "pix": true,
+      "parcelas": "R$59,90 em outros meios",
+      "postado": "2026-11-27T14:44:33.168Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-22qg6MJ.jpg"
+    },
     {
       "id": "1HvGv9P",
       "nome": "Lavadora De Alta Pressão Wap Combate Turbo 2600 Com Motor De Indução 1700w",
