@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T11:36:54.503Z",
+  "atualizado": "2026-11-27T11:38:09.553Z",
   "ofertas": [
+    {
+      "id": "329kAQF",
+      "nome": "Whey protein Growth Supplements 100% Concentrado 900g em pó sabor Chocolate x",
+      "categoria": "Suplementos",
+      "preco": 134.91,
+      "link": "https://meli.la/329kAQF",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-protein-growth-supplements-100-concentrado-900g-em-po-sabor-chocolate-x-900g/p/MLB70371193",
+      "precoDe": 269.9,
+      "pix": true,
+      "parcelas": "R$149,90 em outros meios",
+      "postado": "2026-11-27T11:38:09.552Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-329kAQF.jpg"
+    },
     {
       "id": "2bkSD9V",
       "nome": "Relógio Tommy Hilfiger Th Essentials Masculino Couro Marrom",
