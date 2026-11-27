@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T18:59:21.613Z",
+  "atualizado": "2026-11-27T19:00:36.723Z",
   "ofertas": [
+    {
+      "id": "1H5nbb9",
+      "nome": "EUCERIN Creme de Olhos Clareador de Olheiras 15ml, Anti-Pigment, Antimanchas",
+      "categoria": "Beleza",
+      "preco": 123.28,
+      "link": "https://meli.la/1H5nbb9",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/eucerin-creme-de-olhos-clareador-de-olheiras-15ml-anti-pigment-antimanchas-thiamidol/p/MLB43280634",
+      "precoDe": 279.9,
+      "pix": true,
+      "parcelas": "R$136,98 em 4x R$34,24 sem juros",
+      "cupomAnuncio": "Compre R$199 e ganhe 20% OFF",
+      "postado": "2026-11-27T19:00:36.722Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1H5nbb9.jpg"
+    },
     {
       "id": "1VmskEY",
       "nome": "Computador Completo Intel Core i5, 16GB RAM, SSD 256GB, Monitor 20\" LED",
@@ -9031,22 +9050,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2s8adCK.jpg"
-    },
-    {
-      "id": "1pyLdHD",
-      "nome": "Beef Protein Integralmédica de Carne Bovina Frutas Vermelhas 900g",
-      "categoria": "Diversos",
-      "preco": 120.99,
-      "link": "https://meli.la/1pyLdHD",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/beef-protein-integralmedica-de-carne-bovina-frutas-vermelhas-900g/p/MLB75216729",
-      "precoDe": 239.9,
-      "postado": "2026-11-25T18:59:45.426Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1pyLdHD.jpg"
     }
   ]
 }
