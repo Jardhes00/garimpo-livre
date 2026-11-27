@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T18:50:36.793Z",
+  "atualizado": "2026-11-27T18:51:51.433Z",
   "ofertas": [
+    {
+      "id": "1EsY9pR",
+      "nome": "Ar Condicionado Split Hw 9000 Btu Eco Inverter 3 Elgin",
+      "categoria": "Casa",
+      "preco": 1999.41,
+      "link": "https://meli.la/1EsY9pR",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-split-hw-9000-btu-eco-inverter-3-elgin/p/MLB68444754",
+      "precoDe": 2951.87,
+      "pix": true,
+      "parcelas": "R$2.149,90 em 10x R$214,99 sem juros",
+      "postado": "2026-11-27T18:51:51.431Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1EsY9pR.jpg"
+    },
     {
       "id": "1zd5yep",
       "nome": "Air Fryer Kitchen Art 16l 4 Em 1 Espeto Rotisserie Kaf16a",
@@ -9036,23 +9054,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-26uY3HL.jpg"
-    },
-    {
-      "id": "2BH6dgK",
-      "nome": "Robô Aspirador 36000pa Redroad R11 Max 3 Em 1 Mapeamento App",
-      "categoria": "Casa",
-      "preco": 1726,
-      "link": "https://meli.la/2BH6dgK",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/robo-aspirador-36000pa-redroad-r11-max-3-em-1-mapeamento-app/p/MLB80270765",
-      "precoDe": 2499.99,
-      "parcelas": "10x de R$172,60 sem juros",
-      "postado": "2026-11-25T18:51:00.194Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2BH6dgK.jpg"
     }
   ]
 }
