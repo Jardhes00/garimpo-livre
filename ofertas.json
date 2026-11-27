@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T20:48:10.001Z",
+  "atualizado": "2026-11-27T20:49:24.743Z",
   "ofertas": [
+    {
+      "id": "2aVhbCy",
+      "nome": "Ferro A Vapor Perfectcare Compact Polishop Philips Cor Violeta",
+      "categoria": "Diversos",
+      "preco": 799.9,
+      "link": "https://meli.la/2aVhbCy",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ferro-a-vapor-perfectcare-compact-polishop-philips-cor-violeta/p/MLB23087880",
+      "precoDe": 1553.75,
+      "postado": "2026-11-27T20:49:24.741Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2aVhbCy.jpg"
+    },
     {
       "id": "2WCtFaa",
       "nome": "Proteína bovina isolada Shark Pro Whey Beef Zero Lac 900G em pó sabor Laranja",
