@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T12:53:11.905Z",
+  "atualizado": "2026-11-27T12:54:26.729Z",
   "ofertas": [
+    {
+      "id": "1MrQGQr",
+      "nome": "Escova modeladora philco pec17a Revestimento cerâmica bivolt Preto",
+      "categoria": "Diversos",
+      "preco": 99.9,
+      "link": "https://meli.la/1MrQGQr",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/escova-modeladora-philco-pec17a-revestimento-ceramica-bivolt-preto/p/MLB54247442",
+      "precoDe": 139.9,
+      "postado": "2026-11-27T12:54:26.727Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1MrQGQr.jpg"
+    },
     {
       "id": "1fhZzFK",
       "nome": "Protetor Solar Facial Isdin Fusion Water Fps 60 Sem Cor 50ml",
