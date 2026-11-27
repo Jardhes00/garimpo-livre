@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T15:19:34.138Z",
+  "atualizado": "2026-11-27T15:20:49.858Z",
   "ofertas": [
+    {
+      "id": "1RFkt49",
+      "nome": "Notebook VAIO FE16 AMD Ryzen 3-7330U Linux 8GB RAM 256GB SSD 16\" IPS Full HD",
+      "categoria": "Tech",
+      "preco": 2754.05,
+      "link": "https://meli.la/1RFkt49",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/notebook-vaio-fe16-amd-ryzen-3-7330u-linux-8gb-ram-256gb-ssd-16-ips-full-hd-antirreflexo-permite-expansao-de-ram-e-ssd-cinza-grafite/p/MLB79377679",
+      "precoDe": 3999,
+      "pix": true,
+      "parcelas": "R$2.899 em outros meios",
+      "postado": "2026-11-27T15:20:49.856Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1RFkt49.jpg"
+    },
     {
       "id": "21Es7yj",
       "nome": "Bioré Protetor Solar Aqua Rich Watery Essence Fps 50 50 g",
