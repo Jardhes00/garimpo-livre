@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T12:29:25.974Z",
+  "atualizado": "2026-11-27T12:30:41.398Z",
   "ofertas": [
+    {
+      "id": "2BqrNiK",
+      "nome": "Proteína Growth Supplements Whey concentrado em pó sabor Chocolate x 1kg",
+      "categoria": "Suplementos",
+      "preco": 178.51,
+      "link": "https://meli.la/2BqrNiK",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/proteina-growth-supplements-whey-concentrado-em-po-sabor-chocolate-x-1kg/p/MLB19049038",
+      "precoDe": 279.9,
+      "pix": true,
+      "parcelas": "R$189,90 em outros meios",
+      "postado": "2026-11-27T12:30:41.397Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2BqrNiK.jpg"
+    },
     {
       "id": "2Fxndc6",
       "nome": "Sabão Líquido Omo Lavagem Perfeita 3l",
