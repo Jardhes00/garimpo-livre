@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T19:18:07.438Z",
+  "atualizado": "2026-11-27T19:19:22.208Z",
   "ofertas": [
+    {
+      "id": "21NaKZK",
+      "nome": "Whisky Jack Daniel's Tennesee Honey 1 Litro",
+      "categoria": "Diversos",
+      "preco": 96,
+      "link": "https://meli.la/21NaKZK",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whisky-jack-daniels-tennesee-honey-1-litro/p/MLB17384515",
+      "precoDe": 139.99,
+      "pix": true,
+      "parcelas": "R$104,35 em outros meios",
+      "cupomAnuncio": "Compre R$199 e ganhe 20% OFF",
+      "postado": "2026-11-27T19:19:22.206Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-21NaKZK.jpg"
+    },
     {
       "id": "1gKBLWS",
       "nome": "Bicicleta Ergométrica Spinning Bike Fitness Para Casa Volante Correia",
@@ -9036,22 +9055,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1ETAnWK.jpg"
-    },
-    {
-      "id": "1m6DpSB",
-      "nome": "Guarda Roupa Solteiro 6 Portas 2 Gavetas Capri Poquema Cor Branco",
-      "categoria": "Diversos",
-      "preco": 389.9,
-      "link": "https://meli.la/1m6DpSB",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/guarda-roupa-solteiro-6-portas-2-gavetas-capri-poquema-cor-branco/p/MLB37263240",
-      "precoDe": 960.2,
-      "postado": "2026-11-25T19:18:30.885Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1m6DpSB.jpg"
     }
   ]
 }
