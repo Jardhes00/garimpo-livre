@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T17:24:38.337Z",
+  "atualizado": "2026-11-27T17:26:23.069Z",
   "ofertas": [
+    {
+      "id": "1K9QyKP",
+      "nome": "Sérum Facial Vitamina C Antioleosidade Pure Vitamin C12 La Roche-Posay 15ml",
+      "categoria": "Suplementos",
+      "preco": 133.11,
+      "link": "https://meli.la/1K9QyKP",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB44555566",
+      "precoDe": 235.9,
+      "pix": true,
+      "parcelas": "R$ 147,90 em 4x de R$ 36,98 sem juros",
+      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
+      "postado": "2026-11-27T17:26:23.067Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1K9QyKP.jpg"
+    },
     {
       "id": "11UrxwK",
       "nome": "Kit 12 Potes Herméticos Acrílico Transparente Quadrado Porta Mantimento Livre de BPA",
@@ -9896,41 +9915,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1V9S5P2.jpg"
-    },
-    {
-      "id": "11WFD1m",
-      "nome": "Luva De Látex Descartável Branca Com Pó Tamanho M Caixa 100 Unid",
-      "categoria": "Diversos",
-      "preco": 23.99,
-      "link": "https://meli.la/11WFD1m",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/luva-de-latex-descartavel-branca-com-po-tamanho-m-caixa-100-unid/p/MLB78136170",
-      "precoDe": 69.9,
-      "cupomAnuncio": "Compre R$100 e ganhe 5% OFF por seguir a loja",
-      "postado": "2026-11-25T17:25:57.488Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-11WFD1m.jpg"
-    },
-    {
-      "id": "2LR7wfA",
-      "nome": "Chave de impacto e Parafusadeira 21V INVAS 2800 Rpm A bateria 3000mah",
-      "categoria": "Ferramentas",
-      "preco": 176.83,
-      "link": "https://meli.la/2LR7wfA",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/chave-de-impacto-e-parafusadeira-21v-invas-2800-rpm-a-bateria-3000mah/p/MLB56389269",
-      "precoDe": 305.94,
-      "pix": true,
-      "parcelas": "R$208,03 em outros meios",
-      "postado": "2026-11-25T17:24:42.655Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2LR7wfA.jpg"
     }
   ]
 }
