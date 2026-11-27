@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T14:39:32.750Z",
+  "atualizado": "2026-11-27T14:40:48.083Z",
   "ofertas": [
+    {
+      "id": "1wSBBFD",
+      "nome": "Bicicleta Ergométrica Spinning 20kg Wct Fitness Cor Preto/Verde",
+      "categoria": "Esporte",
+      "preco": 1273,
+      "link": "https://meli.la/1wSBBFD",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bicicleta-ergometrica-spinning-20kg-wct-fitness-cor-pretoverde/p/MLB27935510",
+      "precoDe": 2600.9,
+      "parcelas": "10x de R$127,30 sem juros",
+      "postado": "2026-11-27T14:40:48.082Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1wSBBFD.jpg"
+    },
     {
       "id": "2WdPUon",
       "nome": "Lavadora Midea Wave Agitator 13kg Cor Branco",
