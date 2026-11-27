@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T12:23:10.964Z",
+  "atualizado": "2026-11-27T12:24:25.884Z",
   "ofertas": [
+    {
+      "id": "19snBeZ",
+      "nome": "Licor Ballena 750ml – Bebida Cremosa à Base de Leite",
+      "categoria": "Diversos",
+      "preco": 76.25,
+      "link": "https://meli.la/19snBeZ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/licor-ballena-750ml-bebida-cremosa-base-de-leite/p/MLB19766031",
+      "precoDe": 119.99,
+      "pix": true,
+      "parcelas": "R$92,99 em outros meios",
+      "postado": "2026-11-27T12:24:25.883Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-19snBeZ.jpg"
+    },
     {
       "id": "1J1CEq9",
       "nome": "Lavadora Alta Pressão Portátil Recarregável Sem Fio Bivolt",
