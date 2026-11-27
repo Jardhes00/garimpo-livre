@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T16:34:36.602Z",
+  "atualizado": "2026-11-27T16:35:51.903Z",
   "ofertas": [
+    {
+      "id": "25BxeA6",
+      "nome": "Forno Elétrico De Embutir Dako Supreme 52l Preto",
+      "categoria": "Diversos",
+      "preco": 841.5,
+      "link": "https://meli.la/25BxeA6",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/forno-eletrico-de-embutir-dako-supreme-52l-preto/p/MLB64900813",
+      "precoDe": 2500,
+      "pix": true,
+      "parcelas": "R$935 em 10x R$93,50 sem juros",
+      "postado": "2026-11-27T16:35:51.900Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-25BxeA6.jpg"
+    },
     {
       "id": "2cpmRqL",
       "nome": "Armário de Cozinha Completa Modulada Compacta Madesa Emilly Balcão Rp Cor",
@@ -9965,24 +9983,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2kmgget.jpg"
-    },
-    {
-      "id": "2Wiy4vZ",
-      "nome": "Impressora 3d Bambu Lab Fdm Aberta A1 Cinza",
-      "categoria": "Tech",
-      "preco": 2716.05,
-      "link": "https://meli.la/2Wiy4vZ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/impressora-3d-bambu-lab-fdm-aberta-a1-cinza/p/MLB45248118",
-      "precoDe": 4999,
-      "pix": true,
-      "parcelas": "R$2.859 em 10x R$285,90 sem juros",
-      "postado": "2026-11-25T16:34:40.982Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2Wiy4vZ.jpg"
     }
   ]
 }
