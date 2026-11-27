@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T20:41:54.438Z",
+  "atualizado": "2026-11-27T20:43:09.850Z",
   "ofertas": [
+    {
+      "id": "2ViMdQy",
+      "nome": "Frigobar Philco 47 Litros Compacto Porta Reversível PH50N",
+      "categoria": "Diversos",
+      "preco": 636.4,
+      "link": "https://meli.la/2ViMdQy",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/frigobar-philco-47-litros-compacto-porta-reversivel-ph50n/p/MLB14660268",
+      "precoDe": 1500,
+      "pix": true,
+      "parcelas": "R$669,90 em outros meios",
+      "postado": "2026-11-27T20:43:09.848Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2ViMdQy.jpg"
+    },
     {
       "id": "2oEaizJ",
       "nome": "Cafeteira Elétrica Electrolux Digital 38 Xícaras Experience Programável com",
