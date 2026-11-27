@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T19:58:08.365Z",
+  "atualizado": "2026-11-27T19:59:23.454Z",
   "ofertas": [
+    {
+      "id": "2zFWM4A",
+      "nome": "Óleo Wella Professionals Ultimate Luxe Oil 100ml Reconstrução",
+      "categoria": "Beleza",
+      "preco": 136.71,
+      "link": "https://meli.la/2zFWM4A",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/oleo-wella-professionals-ultimate-luxe-oil-100ml-reconstrucao/p/MLB50382030",
+      "precoDe": 239,
+      "cupomAnuncio": "Compre R$199 e ganhe R$50 OFF",
+      "postado": "2026-11-27T19:59:23.453Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2zFWM4A.jpg"
+    },
     {
       "id": "2Sr6gtT",
       "nome": "Kit de 2 pneus Pirelli Cinturato P1 P 185/60R15 88 H",
@@ -9234,23 +9251,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1ShEbxq.jpg"
-    },
-    {
-      "id": "2K7X7UJ",
-      "nome": "LG Soundbar S60tr 440w Rms, 5.1 Canais, Bluetooth 5.3, Dol Preto 120 Hz",
-      "categoria": "Tech",
-      "preco": 1499,
-      "link": "https://meli.la/2K7X7UJ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB41234257",
-      "precoDe": 2199,
-      "parcelas": "12x R$ 145,52",
-      "postado": "2026-11-25T19:58:46.569Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2K7X7UJ.jpg"
     }
   ]
 }
