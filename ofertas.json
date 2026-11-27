@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T16:37:07.040Z",
+  "atualizado": "2026-11-27T16:38:22.073Z",
   "ofertas": [
+    {
+      "id": "1HmH2t6",
+      "nome": "Perfume Rabanne Invictus Victory Absolu Parfum Intense 100 ml Masculino",
+      "categoria": "Beleza",
+      "preco": 469.9,
+      "link": "https://meli.la/1HmH2t6",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/perfume-rabanne-invictus-victory-absolu-parfum-intense-100-ml-masculino/p/MLB48678589",
+      "precoDe": 948.9,
+      "parcelas": "9x de R$52,21 sem juros",
+      "postado": "2026-11-27T16:38:22.071Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1HmH2t6.jpg"
+    },
     {
       "id": "218gykQ",
       "nome": "Lavadora De Alta Pressão Profissional Wap 4100 W2 500l/h Motor De Indução",
@@ -9964,24 +9981,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1dNWBfu.jpg"
-    },
-    {
-      "id": "2vaeuXh",
-      "nome": "Brother DCP-L2540DW Multifuncional Mono Láser, dúplex Wi-Fi cor Preto",
-      "categoria": "Diversos",
-      "preco": 1873.56,
-      "link": "https://meli.la/2vaeuXh",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/brother-dcp-l2540dw-multifuncional-mono-laser-duplex-wi-fi-cor-preto/p/MLB26986601",
-      "precoDe": 3151.09,
-      "pix": true,
-      "parcelas": "R$2.081,73 em 10x R$208,17 sem juros",
-      "postado": "2026-11-25T16:37:10.914Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2vaeuXh.jpg"
     }
   ]
 }
