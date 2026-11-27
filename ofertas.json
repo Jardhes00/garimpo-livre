@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T12:40:40.850Z",
+  "atualizado": "2026-11-27T12:41:56.768Z",
   "ofertas": [
+    {
+      "id": "2Ccv8da",
+      "nome": "Aspirador de Pó e Água Kärcher WDL 1s 1700W Tanque 12L Alcance de 7,5 m Filtro",
+      "categoria": "Casa",
+      "preco": 299,
+      "link": "https://meli.la/2Ccv8da",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aspirador-de-po-e-agua-krcher-wdl-1s-1700w-tanque-12l-alcance-de-75-m-filtro-hepa-e-funcao-soprador/p/MLB38154749",
+      "precoDe": 539.9,
+      "postado": "2026-11-27T12:41:56.767Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Ccv8da.jpg"
+    },
     {
       "id": "2TWcvR7",
       "nome": "Colchão Casal Luuna Original, Espuma 24cm com Bloqueio de Movimento, 10 Anos de",
