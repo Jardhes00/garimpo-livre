@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T12:10:40.578Z",
+  "atualizado": "2026-11-27T12:11:55.688Z",
   "ofertas": [
+    {
+      "id": "2EHPXXs",
+      "nome": "Perfume Maahir Honor Lattafa Edp 100ml 2026 Premium",
+      "categoria": "Beleza",
+      "preco": 197.99,
+      "link": "https://meli.la/2EHPXXs",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/perfume-maahir-honor-lattafa-edp-100ml-2026-premium/p/MLB69238429",
+      "precoDe": 499.9,
+      "cupomAnuncio": "R$167,99 com Cupom",
+      "postado": "2026-11-27T12:11:55.687Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2EHPXXs.jpg"
+    },
     {
       "id": "1E5xagb",
       "nome": "Bicicleta Ergométrica Spinning Mecanica Roda Inércia 13kg Sprint Odin Fit",
