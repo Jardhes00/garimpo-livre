@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T16:05:51.665Z",
+  "atualizado": "2026-11-27T16:07:05.750Z",
   "ofertas": [
+    {
+      "id": "2KHUqUu",
+      "nome": "Coleira Antiparasitária Scalibor 48cm Cães Pulgas Carrapatos MSD",
+      "categoria": "Diversos",
+      "preco": 35.73,
+      "link": "https://meli.la/2KHUqUu",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/coleira-antiparasitaria-scalibor-48cm-caes-pulgas-carrapatos-msd/p/MLB62110513",
+      "precoDe": 105.8,
+      "cupomAnuncio": "Compre R$109,99 e ganhe 10% OFF",
+      "postado": "2026-11-27T16:07:05.748Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2KHUqUu.jpg"
+    },
     {
       "id": "1tWjn16",
       "nome": "Aspirador Pó e Água Electrolux função Sopro Compacto Líquidos Químicos Inox",
