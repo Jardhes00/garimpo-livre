@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T14:45:48.356Z",
+  "atualizado": "2026-11-27T14:47:03.408Z",
   "ofertas": [
+    {
+      "id": "29GuKLx",
+      "nome": "Sofá Retrátil 2,10m Molas E Espuma D33 Thunder. Cama Inbox",
+      "categoria": "Diversos",
+      "preco": 968.5,
+      "link": "https://meli.la/29GuKLx",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/sofa-retratil-210m-molas-e-espuma-d33-thunder-cama-inbox/up/MLBU3451154096",
+      "precoDe": 2019,
+      "pix": true,
+      "parcelas": "R$1.210,63 em 10x R$121,06 sem juros",
+      "postado": "2026-11-27T14:47:03.406Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-29GuKLx.jpg"
+    },
     {
       "id": "2EDJHkZ",
       "nome": "Sofá Sem Caixa Retrátil 2,00m Soft Bonnie Boucle Cama Inbox Cor Bege Desenho Do",
