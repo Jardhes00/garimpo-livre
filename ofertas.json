@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T20:20:39.348Z",
+  "atualizado": "2026-11-27T20:21:54.083Z",
   "ofertas": [
+    {
+      "id": "168fELm",
+      "nome": "Micro-ondas Philco 20L Preto Painel Mecânico PMO23M",
+      "categoria": "Casa",
+      "preco": 399,
+      "link": "https://meli.la/168fELm",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-philco-20l-preto-painel-mecanico-pmo23m/p/MLB62627613",
+      "precoDe": 579,
+      "postado": "2026-11-27T20:21:54.081Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-168fELm.jpg"
+    },
     {
       "id": "2hCEnY7",
       "nome": "Fogão 5 Bocas Dako Supreme Glass Mesa de Vidro com Timer Touch Titanium Bivolt",
