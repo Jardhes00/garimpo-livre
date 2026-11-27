@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T20:15:39.455Z",
+  "atualizado": "2026-11-27T20:16:54.103Z",
   "ofertas": [
+    {
+      "id": "1ehr2tD",
+      "nome": "Cascata Pisca-pisca 400 LEDs Branco Quente de 10m LuvinCo",
+      "categoria": "Diversos",
+      "preco": 61.65,
+      "link": "https://meli.la/1ehr2tD",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cascata-pisca-pisca-400-leds-branco-quente-de-10m-luvinco/p/MLB62311869",
+      "precoDe": 98.63,
+      "pix": true,
+      "parcelas": "R$64,90 em 3x R$21,63 sem juros",
+      "cupomAnuncio": "Compre R$199 e ganhe 20% OFF",
+      "postado": "2026-11-27T20:16:54.101Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ehr2tD.jpg"
+    },
     {
       "id": "2Qj3ziJ",
       "nome": "Jogo De Panelas Allegra Em Aço Inox 7 Peças Tramontina",
