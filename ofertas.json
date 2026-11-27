@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T20:21:54.083Z",
+  "atualizado": "2026-11-27T20:23:08.909Z",
   "ofertas": [
+    {
+      "id": "1KSxxf8",
+      "nome": "Fogão De Piso 5 Bocas Itatiaia Electra Glass Plus Acendime Cor Preto",
+      "categoria": "Diversos",
+      "preco": 747.94,
+      "link": "https://meli.la/1KSxxf8",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fogao-de-piso-5-bocas-itatiaia-electra-glass-plus-acendime-cor-preto/p/MLB51525038",
+      "precoDe": 1541.33,
+      "pix": true,
+      "parcelas": "R$958,90 em 10x R$95,89 sem juros",
+      "postado": "2026-11-27T20:23:08.908Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1KSxxf8.jpg"
+    },
     {
       "id": "168fELm",
       "nome": "Micro-ondas Philco 20L Preto Painel Mecânico PMO23M",
