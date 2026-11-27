@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T16:23:21.651Z",
+  "atualizado": "2026-11-27T16:24:36.441Z",
   "ofertas": [
+    {
+      "id": "2PaDvY9",
+      "nome": "Mascara Sebastian Penetraitt 500ml",
+      "categoria": "Diversos",
+      "preco": 195.87,
+      "link": "https://meli.la/2PaDvY9",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mascara-sebastian-penetraitt-500ml/up/MLBU3924814735",
+      "precoDe": 361,
+      "postado": "2026-11-27T16:24:36.439Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2PaDvY9.jpg"
+    },
     {
       "id": "1wg3mkd",
       "nome": "Fogão 5q Gás Dako Supreme Glass Preto Mesa De Vidro",
@@ -9961,25 +9977,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1vFyXMS.jpg"
-    },
-    {
-      "id": "2BuFwUe",
-      "nome": "Ar Condicionado Inverter 12k Hisense Eco Plus Ii Frio 220v",
-      "categoria": "Casa",
-      "preco": 1645.88,
-      "link": "https://meli.la/2BuFwUe",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-inverter-12k-hisense-eco-plus-ii-frio-220v/up/MLBU5532422050",
-      "precoDe": 2377,
-      "pix": true,
-      "parcelas": "R$1.789 em 10x R$178,90 sem juros",
-      "cupomAnuncio": "R$1.595,28 com Cupom por seguir a loja",
-      "postado": "2026-11-25T16:23:25.426Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2BuFwUe.jpg"
     }
   ]
 }
