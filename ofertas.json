@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T20:04:23.528Z",
+  "atualizado": "2026-11-27T20:05:38.503Z",
   "ofertas": [
+    {
+      "id": "1yF38LM",
+      "nome": "Forno Elétrico De Embutir Philco Pfe47e Esmaltado Dupla Resi Cor Aço escovado",
+      "categoria": "Diversos",
+      "preco": 737.92,
+      "link": "https://meli.la/1yF38LM",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/forno-eletrico-de-embutir-philco-pfe47e-esmaltado-dupla-resi-cor-aco-escovado/p/MLB24023564",
+      "precoDe": 1299,
+      "pix": true,
+      "parcelas": "R$899,90 em outros meios",
+      "postado": "2026-11-27T20:05:38.501Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1yF38LM.jpg"
+    },
     {
       "id": "1UGPuCz",
       "nome": "Relógio Masculino Boss 1514170 1514170 Prata",
