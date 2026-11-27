@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T15:43:20.009Z",
+  "atualizado": "2026-11-27T15:44:35.275Z",
   "ofertas": [
+    {
+      "id": "2kQnAZk",
+      "nome": "Taiff Black Ion Secador De Cabelo Profissional 2000w Cor Preto",
+      "categoria": "Beleza",
+      "preco": 163.71,
+      "link": "https://meli.la/2kQnAZk",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/taiff-black-ion-secador-de-cabelo-profissional-2000w-cor-preto/p/MLB18580665",
+      "precoDe": 349.88,
+      "pix": true,
+      "parcelas": "R$192,60 em outros meios",
+      "postado": "2026-11-27T15:44:35.274Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2kQnAZk.jpg"
+    },
     {
       "id": "2MuBAp7",
       "nome": "Cadeira De Escritório Gamer Nitro Ergonômica Estofado Couro Sintético",
