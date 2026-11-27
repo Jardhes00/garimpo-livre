@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T17:05:52.652Z",
+  "atualizado": "2026-11-27T17:07:22.604Z",
   "ofertas": [
+    {
+      "id": "1SCMVrN",
+      "nome": "Cooktop De Indução Pctq1 Função Turbo 4 Bocas Philco",
+      "categoria": "Diversos",
+      "preco": 934.06,
+      "link": "https://meli.la/1SCMVrN",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB36753783",
+      "precoDe": 2990,
+      "pix": true,
+      "parcelas": "R$ 1.098,90 em outros meios",
+      "postado": "2026-11-27T17:07:22.602Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1SCMVrN.jpg"
+    },
     {
       "id": "2S9hW3A",
       "nome": "3 Und Wd40 Spray Produto Multiuso Lubrifica Desengripa 300ml",
@@ -9951,39 +9969,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2Q1hTiC.jpg"
-    },
-    {
-      "id": "1odkkeZ",
-      "nome": "Fonte Automotiva 120 a 160 Amperes Smart Charger 120a Carregador De Baterias Inteligente Bivolt 120amperes Taramps",
-      "categoria": "Tech",
-      "preco": 467.53,
-      "link": "https://meli.la/1odkkeZ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB26862302",
-      "precoDe": 732.45,
-      "parcelas": "9x R$ 51,95 sem juros",
-      "postado": "2026-11-25T17:07:11.696Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1odkkeZ.jpg"
-    },
-    {
-      "id": "25KRwBp",
-      "nome": "Jogo 6 Copos Vidro Diamante Grosso Resistente Agua 300ml Branco Ms Variedades",
-      "categoria": "Games",
-      "preco": 25.99,
-      "link": "https://meli.la/25KRwBp",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB64093958",
-      "precoDe": 39.9,
-      "postado": "2026-11-25T17:05:57.920Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-25KRwBp.jpg"
     }
   ]
 }
