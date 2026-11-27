@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T14:03:16.895Z",
+  "atualizado": "2026-11-27T14:04:32.114Z",
   "ofertas": [
+    {
+      "id": "24FBuCN",
+      "nome": "Ar Condicionado Hw Gree G-side Auto Inverter 9k Frio 220v",
+      "categoria": "Casa",
+      "preco": 1655.08,
+      "link": "https://meli.la/24FBuCN",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-hw-gree-g-side-auto-inverter-9k-frio-220v/up/MLBU5240202421",
+      "precoDe": 4992.26,
+      "pix": true,
+      "parcelas": "R$1.799 em outros meios",
+      "postado": "2026-11-27T14:04:32.112Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-24FBuCN.jpg"
+    },
     {
       "id": "2As4Sj7",
       "nome": "Perfume Feminino Eau de Parfum, Fragrância Floral Gourmand Inebriante com Íris",
