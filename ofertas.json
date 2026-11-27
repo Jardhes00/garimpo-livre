@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T11:34:24.503Z",
+  "atualizado": "2026-11-27T11:35:39.551Z",
   "ofertas": [
+    {
+      "id": "32uoV24",
+      "nome": "100% Whey Concentrado 900g Growth Supplements Morango",
+      "categoria": "Suplementos",
+      "preco": 134.91,
+      "link": "https://meli.la/32uoV24",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/100-whey-concentrado-900g-growth-supplements-morango/p/MLB67998627",
+      "precoDe": 269.9,
+      "pix": true,
+      "parcelas": "R$149,90 em outros meios",
+      "postado": "2026-11-27T11:35:39.550Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-32uoV24.jpg"
+    },
     {
       "id": "2Mx9sY6",
       "nome": "Lenços Umedecidos Pampers, Aroma de Aloe Vera 12 pacotes em total 576 Unidades",
