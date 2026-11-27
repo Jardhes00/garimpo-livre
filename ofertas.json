@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T16:54:37.337Z",
+  "atualizado": "2026-11-27T16:55:52.311Z",
   "ofertas": [
+    {
+      "id": "33WWQjk",
+      "nome": "Nutriol Med anticoceira DARROW 390g",
+      "categoria": "Diversos",
+      "preco": 82.9,
+      "link": "https://meli.la/33WWQjk",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/nutriol-med-anticoceira-darrow-390g/p/MLB20677594",
+      "precoDe": 158.99,
+      "parcelas": "3x de R$27,63 sem juros",
+      "cupomAnuncio": "Compre R$199,90 e ganhe 15% OFF",
+      "postado": "2026-11-27T16:55:52.309Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-33WWQjk.jpg"
+    },
     {
       "id": "2YNvY8W",
       "nome": "Papel Higiênico Neutro Folha Dupla Personal 30m Leve 16 Pague 15",
@@ -9967,24 +9985,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1JvLbJZ.jpg"
-    },
-    {
-      "id": "1rbphS7",
-      "nome": "Câmera De Seguraça Externa Wifi Dupla Lente 4mp Hd Bullet + PTZ Youse Cor Branco",
-      "categoria": "Diversos",
-      "preco": 119.59,
-      "link": "https://meli.la/1rbphS7",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/camera-de-seguraca-externa-wifi-dupla-lente-4mp-hd-bullet-ptz-youse-cor-branco/p/MLB75047929",
-      "precoDe": 175.99,
-      "pix": true,
-      "parcelas": "R$125,88 em outros meios",
-      "postado": "2026-11-25T16:54:41.982Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1rbphS7.jpg"
     }
   ]
 }
