@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T14:49:33.337Z",
+  "atualizado": "2026-11-27T14:50:48.331Z",
   "ofertas": [
+    {
+      "id": "2bpsus1",
+      "nome": "EUCERIN Protetor Solar Facial Antimanchas Cor Média FPS 70 50ml, Pigment",
+      "categoria": "Beleza",
+      "preco": 75.02,
+      "link": "https://meli.la/2bpsus1",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/eucerin-protetor-solar-facial-antimanchas-cor-media-fps-70-50ml-pigment-control-protecao-uva-uvb-e-luz-visivel-thiamidol/p/MLB19766897",
+      "precoDe": 129.9,
+      "postado": "2026-11-27T14:50:48.330Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2bpsus1.jpg"
+    },
     {
       "id": "15WAshb",
       "nome": "Colchão Inflável Casal Queen 203*154*44cm C/bomba Bivolt Usb",
