@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T12:36:56.209Z",
+  "atualizado": "2026-11-27T12:38:11.636Z",
   "ofertas": [
+    {
+      "id": "1RMf1wV",
+      "nome": "Cafeteira Nescafé Dolce Gusto Arno Genio S Plus Preto Cápsulas",
+      "categoria": "Casa",
+      "preco": 449.88,
+      "link": "https://meli.la/1RMf1wV",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafeteira-nescafe-dolce-gusto-arno-genio-s-plus-preto-capsulas/p/MLB17003268",
+      "precoDe": 779.9,
+      "pix": true,
+      "parcelas": "R$489 em 9x R$54,33 sem juros",
+      "cupomAnuncio": "Compre R$600 e ganhe 7% OFF",
+      "postado": "2026-11-27T12:38:11.635Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1RMf1wV.jpg"
+    },
     {
       "id": "1HYfUBF",
       "nome": "Principia Kit 2 Gel De Limpeza Facial Gl-01",
