@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T14:53:18.594Z",
+  "atualizado": "2026-11-27T14:54:33.462Z",
   "ofertas": [
+    {
+      "id": "11E7N3S",
+      "nome": "Panificadora Automática Master Bread Mondial 700W NPF-53",
+      "categoria": "Diversos",
+      "preco": 482.98,
+      "link": "https://meli.la/11E7N3S",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/panificadora-automatica-master-bread-mondial-700w-npf-53/p/MLB14333315",
+      "precoDe": 849.9,
+      "pix": true,
+      "parcelas": "R$589 em outros meios",
+      "postado": "2026-11-27T14:54:33.460Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-11E7N3S.jpg"
+    },
     {
       "id": "2RX5uWQ",
       "nome": "Secador Multifuncional 5 em 1 Mondial SM-01-BLDC-SP Roxo",
