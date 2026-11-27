@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T11:04:23.439Z",
+  "atualizado": "2026-11-27T11:05:38.799Z",
   "ofertas": [
+    {
+      "id": "1SUdVsp",
+      "nome": "Relógio masculino Tommy Hilfiger Modern Classic 1710595 Liniers Blue Mesh Blue",
+      "categoria": "Moda",
+      "preco": 364.32,
+      "link": "https://meli.la/1SUdVsp",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/relogio-masculino-tommy-hilfiger-modern-classic-1710595-liniers-blue-mesh-blue-bisel-blue-background/p/MLB36447014",
+      "precoDe": 990,
+      "pix": true,
+      "parcelas": "R$396 em 7x R$56,57 sem juros",
+      "postado": "2026-11-27T11:05:38.798Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1SUdVsp.jpg"
+    },
     {
       "id": "19irsi5",
       "nome": "Ar-condicionado Prime Air Split 9000btus Quente/frio 9qg",
