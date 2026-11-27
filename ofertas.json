@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T13:04:27.149Z",
+  "atualizado": "2026-11-27T13:05:42.278Z",
   "ofertas": [
+    {
+      "id": "2HqLGnm",
+      "nome": "Perfume Árabe Maison Alhambra Philos Pura Eau de Parfum 100ml",
+      "categoria": "Beleza",
+      "preco": 124.66,
+      "link": "https://meli.la/2HqLGnm",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/perfume-arabe-maison-alhambra-philos-pura-eau-de-parfum-100ml/p/MLB23546113",
+      "precoDe": 321.64,
+      "pix": true,
+      "parcelas": "R$135,50 em outros meios",
+      "cupomAnuncio": "R$97,06 com Cupom",
+      "postado": "2026-11-27T13:05:42.277Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2HqLGnm.jpg"
+    },
     {
       "id": "2KYsUPC",
       "nome": "Escova de Dente Elétrica Oral-B Power Pro Precision Clean 1 Unidade",
