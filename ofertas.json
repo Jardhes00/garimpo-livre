@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T12:48:11.632Z",
+  "atualizado": "2026-11-27T12:49:27.115Z",
   "ofertas": [
+    {
+      "id": "1SBf8nn",
+      "nome": "Proteína Adaptogen Science Tasty Whey Gourmet em pó sabor Doce de leite x 900g",
+      "categoria": "Suplementos",
+      "preco": 198.55,
+      "link": "https://meli.la/1SBf8nn",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/proteina-adaptogen-science-tasty-whey-gourmet-em-po-sabor-doce-de-leite-x-900g/p/MLB19592776",
+      "precoDe": 320,
+      "pix": true,
+      "parcelas": "R$209 em outros meios",
+      "postado": "2026-11-27T12:49:27.114Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1SBf8nn.jpg"
+    },
     {
       "id": "2F9WLka",
       "nome": "Mala Viagem Wilson P Bordo 10kg Unitária M 23kg Expansível",
