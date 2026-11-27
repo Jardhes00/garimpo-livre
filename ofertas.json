@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T15:38:20.003Z",
+  "atualizado": "2026-11-27T15:39:35.259Z",
   "ofertas": [
+    {
+      "id": "2HyMSWp",
+      "nome": "Bola Futsal Penalty Rx 500 Xxiii Cor Azul",
+      "categoria": "Esporte",
+      "preco": 59.49,
+      "link": "https://meli.la/2HyMSWp",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/bola-futsal-penalty-rx-500-xxiii-cor-azul/p/MLB25820360",
+      "precoDe": 89.99,
+      "pix": true,
+      "parcelas": "R$69,99 em outros meios",
+      "postado": "2026-11-27T15:39:35.258Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2HyMSWp.jpg"
+    },
     {
       "id": "123brxe",
       "nome": "EUCERIN Dermopure Clinical Gel de Limpeza Gentil 400ml, Redução da oleosidade e",
