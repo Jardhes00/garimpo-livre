@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T19:45:38.043Z",
+  "atualizado": "2026-11-27T19:46:53.272Z",
   "ofertas": [
+    {
+      "id": "2BfZQrx",
+      "nome": "Whey protein Adaptogen Science Tasty Gourmet Tasty 3w Chocomaltine (900g) em pó",
+      "categoria": "Suplementos",
+      "preco": 167.2,
+      "link": "https://meli.la/2BfZQrx",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-protein-adaptogen-science-tasty-gourmet-tasty-3w-chocomaltine-900g-em-po-x-900g/p/MLB22627430",
+      "precoDe": 320,
+      "postado": "2026-11-27T19:46:53.270Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2BfZQrx.jpg"
+    },
     {
       "id": "1z3Ykpp",
       "nome": "Huggies Fralda Pants Roupinha Proteção Acolchoada Xg - 64 Un Extra Grande (Xg)",
@@ -9184,23 +9200,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1g3eEFJ.jpg"
-    },
-    {
-      "id": "1Uc3iVL",
-      "nome": "Headphone sem fio Jbl Tune 730bt Bluetooth Preto",
-      "categoria": "Diversos",
-      "preco": 259,
-      "link": "https://meli.la/1Uc3iVL",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB65843888",
-      "precoDe": 359,
-      "parcelas": "2x R$ 129,50 sem juros",
-      "postado": "2026-11-25T19:46:46.441Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1Uc3iVL.jpg"
     }
   ]
 }
