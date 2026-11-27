@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T13:55:46.790Z",
+  "atualizado": "2026-11-27T13:57:01.666Z",
   "ofertas": [
+    {
+      "id": "148nwtG",
+      "nome": "Cerveja Amstel Ultra Garrafa 275ml Pack 6 Unidades",
+      "categoria": "Diversos",
+      "preco": 27.99,
+      "link": "https://meli.la/148nwtG",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cerveja-amstel-ultra-garrafa-275ml-pack-6-unidades/p/MLB34198124",
+      "precoDe": 39.9,
+      "postado": "2026-11-27T13:57:01.664Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-148nwtG.jpg"
+    },
     {
       "id": "2gV3np1",
       "nome": "Fralda Descartável Pom Pom Proteção de Mãe XG com 38 Unidades",
