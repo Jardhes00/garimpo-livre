@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T20:11:53.901Z",
+  "atualizado": "2026-11-27T20:13:08.766Z",
   "ofertas": [
+    {
+      "id": "2xezPjq",
+      "nome": "Proteína Growth Supplements Whey concentrado em pó sabor Leite em Pó x 1kg",
+      "categoria": "Suplementos",
+      "preco": 189.9,
+      "link": "https://meli.la/2xezPjq",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/proteina-growth-supplements-whey-concentrado-em-po-sabor-leite-em-po-x-1kg/p/MLB19140327",
+      "precoDe": 279.9,
+      "postado": "2026-11-27T20:13:08.765Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2xezPjq.jpg"
+    },
     {
       "id": "2oTNm9S",
       "nome": "Jogo De Toalhas Buddemeyer Bella Extra Soft Banho 4 Grafite/cinza Lisa",
