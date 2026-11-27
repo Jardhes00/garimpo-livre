@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T16:44:36.891Z",
+  "atualizado": "2026-11-27T16:45:52.060Z",
   "ofertas": [
+    {
+      "id": "314J7DH",
+      "nome": "Kit 6 Câmeras Intelbras Vhl 1220b Full Hd Dvr De 8ch 1108-c",
+      "categoria": "Diversos",
+      "preco": 1287,
+      "link": "https://meli.la/314J7DH",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-6-cameras-intelbras-vhl-1220b-full-hd-dvr-de-8ch-1108-c/up/MLBU1742030413",
+      "precoDe": 1944.65,
+      "pix": true,
+      "parcelas": "R$1.432 em 10x R$143,20 sem juros",
+      "postado": "2026-11-27T16:45:52.058Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-314J7DH.jpg"
+    },
     {
       "id": "2DW7KBr",
       "nome": "Sérum de vitamina C 12 pura La Roche-Posay 30ml",
@@ -9967,22 +9985,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2ejH6G6.jpg"
-    },
-    {
-      "id": "1KCTrnL",
-      "nome": "Aspirador de pó vertical 2 em 1 WAP Power Speed 2000W com filtro HEPA 127V",
-      "categoria": "Casa",
-      "preco": 599.99,
-      "link": "https://meli.la/1KCTrnL",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/aspirador-de-po-vertical-2-em-1-wap-power-speed-2000w-com-filtro-hepa-127v/p/MLB14214639",
-      "precoDe": 889.9,
-      "postado": "2026-11-25T16:44:41.396Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1KCTrnL.jpg"
     }
   ]
 }
