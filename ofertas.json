@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T17:01:37.543Z",
+  "atualizado": "2026-11-27T17:02:52.895Z",
   "ofertas": [
+    {
+      "id": "1K6ht35",
+      "nome": "Kit Hidrabene K-glass Sérum Completo Tratamento Facial",
+      "categoria": "Beleza",
+      "preco": 200.59,
+      "link": "https://meli.la/1K6ht35",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB2124293289",
+      "precoDe": 799.6,
+      "pix": true,
+      "parcelas": "R$ 229,59 em outros meios",
+      "postado": "2026-11-27T17:02:52.893Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1K6ht35.jpg"
+    },
     {
       "id": "2zeVYus",
       "nome": "Fone de Ouvido TWS JBL Tune Flex 2, Bluetooth, JBL Pure Bass, Cancelamento Adaptativo de Ruído",
@@ -9966,23 +9984,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2imm7Y4.jpg"
-    },
-    {
-      "id": "2JtvvJ2",
-      "nome": "Whey Protein Concentrado Dux 900g Baunilha 20g de Proteína",
-      "categoria": "Suplementos",
-      "preco": 192.68,
-      "link": "https://meli.la/2JtvvJ2",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB45261442",
-      "precoDe": 344,
-      "parcelas": "12x R$ 19,07",
-      "postado": "2026-11-25T17:02:11.682Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2JtvvJ2.jpg"
     }
   ]
 }
