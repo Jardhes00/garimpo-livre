@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T18:46:51.531Z",
+  "atualizado": "2026-11-27T18:48:15.730Z",
   "ofertas": [
+    {
+      "id": "25Bz1vn",
+      "nome": "Hidratante Facial Epidrat Calm 120ml Mantecorp Skincare Todo Tipo De Pele",
+      "categoria": "Beleza",
+      "preco": 95.92,
+      "link": "https://meli.la/25Bz1vn",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/hidratante-facial-epidrat-calm-120ml-mantecorp-skincare-todo-tipo-de-pele-dianoite/p/MLB28614002",
+      "precoDe": 199.9,
+      "pix": true,
+      "parcelas": "R$119,90 em 4x R$29,98 sem juros",
+      "cupomAnuncio": "Compre R$199 e ganhe 20% OFF",
+      "postado": "2026-11-27T18:48:15.727Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-25Bz1vn.jpg"
+    },
     {
       "id": "2MdQsfc",
       "nome": "Celular Smartphone Realme C73 256gb 8gb Ram Dual Sim 120hz 6000mAh Verde",
@@ -9035,23 +9054,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2QZ8dbd.jpg"
-    },
-    {
-      "id": "1g8bhpc",
-      "nome": "Luva Nitrílica Rosa Descartável Tamanho P 100 Unidades antiderrapantes",
-      "categoria": "Diversos",
-      "preco": 28.65,
-      "link": "https://meli.la/1g8bhpc",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/luva-nitrilica-rosa-descartavel-tamanho-p-100-unidades-antiderrapantes/p/MLB80268657",
-      "precoDe": 69.9,
-      "cupomAnuncio": "Compre R$100 e ganhe 5% OFF por seguir a loja",
-      "postado": "2026-11-25T18:47:14.936Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1g8bhpc.jpg"
     }
   ]
 }
