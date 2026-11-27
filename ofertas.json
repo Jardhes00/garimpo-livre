@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T12:51:57.111Z",
+  "atualizado": "2026-11-27T12:53:11.905Z",
   "ofertas": [
+    {
+      "id": "1fhZzFK",
+      "nome": "Protetor Solar Facial Isdin Fusion Water Fps 60 Sem Cor 50ml",
+      "categoria": "Beleza",
+      "preco": 67.41,
+      "link": "https://meli.la/1fhZzFK",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/protetor-solar-facial-isdin-fusion-water-fps-60-sem-cor-50ml/up/MLBU1096157517",
+      "precoDe": 114.9,
+      "pix": true,
+      "parcelas": "R$74,90 em outros meios",
+      "cupomAnuncio": "Compre R$399,90 e ganhe 20% OFF",
+      "postado": "2026-11-27T12:53:11.903Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1fhZzFK.jpg"
+    },
     {
       "id": "29QZ8Jj",
       "nome": "Fogão 5 Bocas Dako Magister Style Com Frente Espelhada Mesa de Vidro e Tripla",
