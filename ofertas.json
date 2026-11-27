@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T16:04:35.748Z",
+  "atualizado": "2026-11-27T16:05:51.665Z",
   "ofertas": [
+    {
+      "id": "1tWjn16",
+      "nome": "Aspirador Pó e Água Electrolux função Sopro Compacto Líquidos Químicos Inox",
+      "categoria": "Casa",
+      "preco": 334.71,
+      "link": "https://meli.la/1tWjn16",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aspirador-po-e-agua-electrolux-funcao-sopro-compacto-liquidos-quimicos-inox-1800w-20l-total-15l-util-protetor-termico-gt20i/p/MLB19924364",
+      "precoDe": 699,
+      "pix": true,
+      "parcelas": "R$371,90 em outros meios",
+      "postado": "2026-11-27T16:05:51.663Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1tWjn16.jpg"
+    },
     {
       "id": "2ox3hU5",
       "nome": "Tênis Flyer Runner Mesh Bdp Puma",
