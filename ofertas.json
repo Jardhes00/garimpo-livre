@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T18:58:06.682Z",
+  "atualizado": "2026-11-27T18:59:21.613Z",
   "ofertas": [
+    {
+      "id": "1VmskEY",
+      "nome": "Computador Completo Intel Core i5, 16GB RAM, SSD 256GB, Monitor 20\" LED",
+      "categoria": "Tech",
+      "preco": 1047.88,
+      "link": "https://meli.la/1VmskEY",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/computador-completo-intel-core-i5-16gb-ram-ssd-256gb-monitor-20-led-windows-10-pro-bivolt-preto-bluepc-office-cdbp-off100/p/MLB38526875",
+      "precoDe": 1443.33,
+      "parcelas": "10x de R$130,90 sem juros",
+      "postado": "2026-11-27T18:59:21.612Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1VmskEY.jpg"
+    },
     {
       "id": "2LNJJVK",
       "nome": "Ventilador De Mesa Arno Air Force Va46 40cm 6 Pás",
@@ -9030,23 +9047,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1pyLdHD.jpg"
-    },
-    {
-      "id": "2Arv8Xt",
-      "nome": "Coenzima Q10 200mg Pura Alta Concentração 60 Cápsulas - Forged Nutrition Sem",
-      "categoria": "Pet",
-      "preco": 47.53,
-      "link": "https://meli.la/2Arv8Xt",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/coenzima-q10-200mg-pura-alta-concentracao-60-capsulas-forged-nutrition-sem-sabor/p/MLB30465601",
-      "precoDe": 139.9,
-      "cupomAnuncio": "Compre R$69 e ganhe 10% OFF por seguir a loja",
-      "postado": "2026-11-25T18:58:30.949Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2Arv8Xt.jpg"
     }
   ]
 }
