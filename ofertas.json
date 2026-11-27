@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T19:46:53.272Z",
+  "atualizado": "2026-11-27T19:48:08.123Z",
   "ofertas": [
+    {
+      "id": "2grE9g6",
+      "nome": "Tanquinho de Lavar Roupa Mueller Big 20,1kg com Sistema de Drenagem no Painel",
+      "categoria": "Diversos",
+      "preco": 441.98,
+      "link": "https://meli.la/2grE9g6",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/tanquinho-de-lavar-roupa-mueller-big-201kg-com-sistema-de-drenagem-no-painel/p/MLB23067036",
+      "precoDe": 849,
+      "pix": true,
+      "parcelas": "R$539 em 10x R$53,90 sem juros",
+      "postado": "2026-11-27T19:48:08.121Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2grE9g6.jpg"
+    },
     {
       "id": "2BfZQrx",
       "nome": "Whey protein Adaptogen Science Tasty Gourmet Tasty 3w Chocomaltine (900g) em pó",
