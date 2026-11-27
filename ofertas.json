@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T20:36:54.500Z",
+  "atualizado": "2026-11-27T20:38:09.598Z",
   "ofertas": [
+    {
+      "id": "1PJuCE1",
+      "nome": "Chaleira Elétrica Pratic Mondial 1200W CE-06",
+      "categoria": "Diversos",
+      "preco": 77,
+      "link": "https://meli.la/1PJuCE1",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/chaleira-eletrica-pratic-mondial-1200w-ce-06/p/MLB15269564",
+      "precoDe": 169.9,
+      "postado": "2026-11-27T20:38:09.597Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1PJuCE1.jpg"
+    },
     {
       "id": "1BJmtQx",
       "nome": "Furadeira Industrial Impacto Rev 450w Gsb 450 Re Bosch + Kit",
