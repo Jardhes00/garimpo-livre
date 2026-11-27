@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T16:24:36.441Z",
+  "atualizado": "2026-11-27T16:25:51.684Z",
   "ofertas": [
+    {
+      "id": "2bxMQEQ",
+      "nome": "Máscara De Solda Automática Esab Swarm A5 Preto",
+      "categoria": "Diversos",
+      "preco": 89.91,
+      "link": "https://meli.la/2bxMQEQ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mascara-de-solda-automatica-esab-swarm-a5-preto/p/MLB66513216",
+      "precoDe": 249,
+      "pix": true,
+      "parcelas": "R$99,90 em outros meios",
+      "cupomAnuncio": "R$81,81 com Cupom por seguir a loja",
+      "postado": "2026-11-27T16:25:51.682Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2bxMQEQ.jpg"
+    },
     {
       "id": "2PaDvY9",
       "nome": "Mascara Sebastian Penetraitt 500ml",
@@ -9961,22 +9980,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2tTsvmc.jpg"
-    },
-    {
-      "id": "1vFyXMS",
-      "nome": "Par Tweeter Jbl Selenium St 400 Trio 150w Twiter Branco",
-      "categoria": "Diversos",
-      "preco": 426.36,
-      "link": "https://meli.la/1vFyXMS",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/par-tweeter-jbl-selenium-st-400-trio-150w-twiter-branco/p/MLB38509139",
-      "precoDe": 612.5,
-      "postado": "2026-11-25T16:24:40.513Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1vFyXMS.jpg"
     }
   ]
 }
