@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T19:05:36.830Z",
+  "atualizado": "2026-11-27T19:06:52.241Z",
   "ofertas": [
+    {
+      "id": "2VoMyA8",
+      "nome": "Cooktop 5 Bocas Preto Mesa De Vidro Atlas U Top",
+      "categoria": "Diversos",
+      "preco": 474.05,
+      "link": "https://meli.la/2VoMyA8",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cooktop-5-bocas-preto-mesa-de-vidro-atlas-u-top/p/MLB26186701",
+      "precoDe": 739,
+      "pix": true,
+      "parcelas": "R$499 em 9x R$55,44 sem juros",
+      "postado": "2026-11-27T19:06:52.239Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2VoMyA8.jpg"
+    },
     {
       "id": "2t7nFbu",
       "nome": "Robô Aspirador de Pó WAP ROBOT W4000 - Estação Autolimpante, Mapeamento LDS",
@@ -9029,25 +9047,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1UZYBj9.jpg"
-    },
-    {
-      "id": "2LevU4h",
-      "nome": "L'Oréal Paris Revitalift Hialurônico Kit Skincare Anti-Idade, com Sérum",
-      "categoria": "Beleza",
-      "preco": 93.75,
-      "link": "https://meli.la/2LevU4h",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/loreal-paris-revitalift-hialuronico-kit-skincare-anti-idade-com-serum-preenchedor-30ml-creme-facial-noturno-acido-hialuronico-para-hidratacao-e-reducao-de-rugas-49g/p/MLB29900198",
-      "precoDe": 159.9,
-      "pix": true,
-      "parcelas": "R$125 em 4x R$31,25 sem juros",
-      "cupomAnuncio": "R$79,69 com Cupom",
-      "postado": "2026-11-25T19:06:00.616Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2LevU4h.jpg"
     }
   ]
 }
