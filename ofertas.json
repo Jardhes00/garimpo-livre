@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T15:03:18.964Z",
+  "atualizado": "2026-11-27T15:04:33.682Z",
   "ofertas": [
+    {
+      "id": "1FPbqov",
+      "nome": "Caixa De Som LG Xboom Stage 501 Bluetooth",
+      "categoria": "Tech",
+      "preco": 1660.05,
+      "link": "https://meli.la/1FPbqov",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/caixa-de-som-lg-xboom-stage-501-bluetooth/p/MLB80326947",
+      "precoDe": 2599,
+      "pix": true,
+      "parcelas": "R$1.785 em 10x R$178,50 sem juros",
+      "postado": "2026-11-27T15:04:33.680Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1FPbqov.jpg"
+    },
     {
       "id": "2mhgtK5",
       "nome": "Tanquinho Lavadora Semi Automática Colormaq Ecomax Lcs 20kg Cor Prata",
