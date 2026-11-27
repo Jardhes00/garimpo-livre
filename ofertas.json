@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T18:36:50.942Z",
+  "atualizado": "2026-11-27T18:38:05.927Z",
   "ofertas": [
+    {
+      "id": "17S7Uke",
+      "nome": "Smartphone Samsung Galaxy A07 4G 256GB 8GB Preto 6,7\"",
+      "categoria": "Tech",
+      "preco": 929,
+      "link": "https://meli.la/17S7Uke",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smartphone-samsung-galaxy-a07-4g-256gb-8gb-preto-67/p/MLB54961556",
+      "precoDe": 1299,
+      "parcelas": "10x de R$92,90 sem juros",
+      "postado": "2026-11-27T18:38:05.924Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-17S7Uke.jpg"
+    },
     {
       "id": "2Hx3oQt",
       "nome": "Ar Condicionado Inverter 12k Midea Air Volution Lite F 220v",
@@ -9030,22 +9047,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-27D1hsB.jpg"
-    },
-    {
-      "id": "33pWnq7",
-      "nome": "Semáforo Grande Slim 37 Leds Incotel Bivolt Com Nota Fiscal",
-      "categoria": "Diversos",
-      "preco": 392,
-      "link": "https://meli.la/33pWnq7",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/semaforo-grande-slim-37-leds-incotel-bivolt-com-nota-fiscal/up/MLBU1980127854",
-      "precoDe": 635,
-      "postado": "2026-11-25T18:37:14.889Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-33pWnq7.jpg"
     }
   ]
 }
