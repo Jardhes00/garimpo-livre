@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T11:53:09.983Z",
+  "atualizado": "2026-11-27T11:54:24.915Z",
   "ofertas": [
+    {
+      "id": "1bKAYAz",
+      "nome": "Freezer horizontal Electrolux 400L Smart bivolt hi440t cor branco",
+      "categoria": "Diversos",
+      "preco": 2299,
+      "link": "https://meli.la/1bKAYAz",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/freezer-horizontal-electrolux-400l-smart-bivolt-hi440t-cor-branco/p/MLB75491462",
+      "precoDe": 3599,
+      "parcelas": "10x de R$229,90 sem juros",
+      "postado": "2026-11-27T11:54:24.914Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1bKAYAz.jpg"
+    },
     {
       "id": "2k8ZRrD",
       "nome": "Berço Portátil Bebê Acoplado Co-Bed Connect Maxi Baby - CINZA",
