@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T19:26:52.492Z",
+  "atualizado": "2026-11-27T19:28:07.733Z",
   "ofertas": [
+    {
+      "id": "2voXmn4",
+      "nome": "Whey Concentrado 750g Growth Supplements - Variados Sabores Baunilha",
+      "categoria": "Suplementos",
+      "preco": 107.93,
+      "link": "https://meli.la/2voXmn4",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-concentrado-750g-growth-supplements-variados-sabores-baunilha/p/MLB78932687",
+      "precoDe": 279.9,
+      "pix": true,
+      "parcelas": "R$119,92 em outros meios",
+      "postado": "2026-11-27T19:28:07.731Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2voXmn4.jpg"
+    },
     {
       "id": "2v1FXb7",
       "nome": "Kit 4 Travesseiros50x70- Toque De Pluma- Médio- Antialérgico",
@@ -9124,23 +9142,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-26wqdqx.jpg"
-    },
-    {
-      "id": "2XN1RC9",
-      "nome": "Samsung Galaxy Tab A11+ 5g 6gb, 128gb",
-      "categoria": "Tech",
-      "preco": 1479,
-      "link": "https://meli.la/2XN1RC9",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/samsung-galaxy-tab-a11-5g-6gb-128gb/up/MLBU3723976869",
-      "precoDe": 2549,
-      "parcelas": "10x R$ 147,90 sem juros",
-      "postado": "2026-11-25T19:27:45.727Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2XN1RC9.jpg"
     }
   ]
 }
