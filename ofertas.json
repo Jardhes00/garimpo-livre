@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T12:14:25.675Z",
+  "atualizado": "2026-11-27T12:15:40.741Z",
   "ofertas": [
+    {
+      "id": "2WJeRGm",
+      "nome": "Hollyland Microfone Sem Fio Duplo Lark M2 Usb-c Para iPhone Cor Preto",
+      "categoria": "Tech",
+      "preco": 527,
+      "link": "https://meli.la/2WJeRGm",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/hollyland-microfone-sem-fio-duplo-lark-m2-usb-c-para-iphone-cor-preto/p/MLB46342327",
+      "precoDe": 749,
+      "pix": true,
+      "parcelas": "R$620 em outros meios",
+      "postado": "2026-11-27T12:15:40.740Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2WJeRGm.jpg"
+    },
     {
       "id": "2fzuK7w",
       "nome": "Som Automotivo Radio Pioneer Bluetooth Usb Lançamento Mp3",
