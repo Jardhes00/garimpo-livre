@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T03:36:16.770Z",
+  "atualizado": "2026-11-27T11:01:53.747Z",
   "ofertas": [
+    {
+      "id": "2cH1pwL",
+      "nome": "Máquina De Cortar Cabelo Profissional De Ajustável Sem Fio Com Visor Led",
+      "categoria": "Diversos",
+      "preco": 67,
+      "link": "https://meli.la/2cH1pwL",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquina-de-cortar-cabelo-e-barba-inova-sem-fio-com-display-led-e-4-pentes/p/MLB67189809",
+      "precoDe": 112.72,
+      "postado": "2026-11-27T11:01:53.745Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2cH1pwL.jpg"
+    },
     {
       "id": "248uwKB",
       "nome": "Cooktop De Indução 4 Bocas Dako Diplomata com Zona Flexível e Função Turbo Preto",
