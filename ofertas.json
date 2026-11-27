@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T12:15:40.741Z",
+  "atualizado": "2026-11-27T12:16:55.703Z",
   "ofertas": [
+    {
+      "id": "2C85pkN",
+      "nome": "Lava E Seca 11kg Branca Slim Conectada Midea Branco",
+      "categoria": "Diversos",
+      "preco": 2944.9,
+      "link": "https://meli.la/2C85pkN",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lava-e-seca-11kg-branca-slim-conectada-midea-branco/p/MLB50194490",
+      "precoDe": 4658.68,
+      "pix": true,
+      "parcelas": "R$3.099,90 em 10x R$309,99 sem juros",
+      "postado": "2026-11-27T12:16:55.702Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2C85pkN.jpg"
+    },
     {
       "id": "2WJeRGm",
       "nome": "Hollyland Microfone Sem Fio Duplo Lark M2 Usb-c Para iPhone Cor Preto",
