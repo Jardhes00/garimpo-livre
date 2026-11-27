@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T12:24:25.884Z",
+  "atualizado": "2026-11-27T12:25:40.972Z",
   "ofertas": [
+    {
+      "id": "2UEmAge",
+      "nome": "Whisky Ballantine's Finest Blended 1L Escoces",
+      "categoria": "Diversos",
+      "preco": 62.47,
+      "link": "https://meli.la/2UEmAge",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whisky-ballantines-finest-blended-1l-escoces/p/MLB17384486",
+      "precoDe": 94.7,
+      "pix": true,
+      "parcelas": "R$64,40 em outros meios",
+      "postado": "2026-11-27T12:25:40.970Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2UEmAge.jpg"
+    },
     {
       "id": "19snBeZ",
       "nome": "Licor Ballena 750ml – Bebida Cremosa à Base de Leite",
