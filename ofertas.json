@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T17:02:52.895Z",
+  "atualizado": "2026-11-27T17:04:37.616Z",
   "ofertas": [
+    {
+      "id": "1YGfaeq",
+      "nome": "Ventilador de Mesa e Parede Britânia Maxx Force Turbo BVT400 Preto 150W 40cm",
+      "categoria": "Casa",
+      "preco": 111.91,
+      "link": "https://meli.la/1YGfaeq",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB27631235",
+      "precoDe": 300,
+      "pix": true,
+      "parcelas": "R$ 139,89 em outros meios",
+      "postado": "2026-11-27T17:04:37.614Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1YGfaeq.jpg"
+    },
     {
       "id": "1K6ht35",
       "nome": "Kit Hidrabene K-glass Sérum Completo Tratamento Facial",
@@ -9966,24 +9984,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1esSedx.jpg"
-    },
-    {
-      "id": "2imm7Y4",
-      "nome": "Cápsulas De Café Original Nespresso Variados - 50 Cápsulas",
-      "categoria": "Diversos",
-      "preco": 138.74,
-      "link": "https://meli.la/2imm7Y4",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB19930533",
-      "precoDe": 185,
-      "parcelas": "12x R$ 13,71",
-      "cupomAnuncio": "Compre R$229 e ganhe R$50 OFF",
-      "postado": "2026-11-25T17:03:27.234Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2imm7Y4.jpg"
     }
   ]
 }
