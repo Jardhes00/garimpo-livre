@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T20:24:24.450Z",
+  "atualizado": "2026-11-27T20:25:39.242Z",
   "ofertas": [
+    {
+      "id": "28TQkwU",
+      "nome": "Trator Peg Perego John Deere Ground Force cor verde/amarelo 12V",
+      "categoria": "Diversos",
+      "preco": 1899.99,
+      "link": "https://meli.la/28TQkwU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/trator-peg-perego-john-deere-ground-force-cor-verdeamarelo-12v/p/MLB15490028",
+      "precoDe": 3274.68,
+      "parcelas": "10x de R$190 sem juros",
+      "postado": "2026-11-27T20:25:39.240Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-28TQkwU.jpg"
+    },
     {
       "id": "1BP6CUa",
       "nome": "Mala de bordo 10kg ABS Rodas 360° Removíveis Londres Swiss Move Vinho",
