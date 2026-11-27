@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T14:35:47.963Z",
+  "atualizado": "2026-11-27T14:37:02.952Z",
   "ofertas": [
+    {
+      "id": "1BKRJiS",
+      "nome": "Aspirador Robô Kabum! Smart K800 Pro com Esvaziamento Automático e Função Passa",
+      "categoria": "Casa",
+      "preco": 929.99,
+      "link": "https://meli.la/1BKRJiS",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aspirador-robo-kabum-smart-k800-pro-com-esvaziamento-automatico-e-funcao-passa-pano-branco/p/MLB79391607",
+      "precoDe": 1333.32,
+      "pix": true,
+      "parcelas": "R$999,99 em 10x R$100 sem juros",
+      "postado": "2026-11-27T14:37:02.951Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1BKRJiS.jpg"
+    },
     {
       "id": "1oYUX1s",
       "nome": "Bicicleta Ergométrica Spinning Inércia 13kg Fitness Cardio Preto",
