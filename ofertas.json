@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T15:48:20.034Z",
+  "atualizado": "2026-11-27T15:49:35.035Z",
   "ofertas": [
+    {
+      "id": "2qGwnwP",
+      "nome": "Creme Multirreparador Pele Sensível Cicaplast Baume B5+ La Roche-Posay 20ml",
+      "categoria": "Beleza",
+      "preco": 31.57,
+      "link": "https://meli.la/2qGwnwP",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/creme-multirreparador-pele-sensivel-cicaplast-baume-b5-la-roche-posay-20ml/p/MLB25904875",
+      "precoDe": 59.9,
+      "cupomAnuncio": "Compre R$159 e ganhe R$25 OFF",
+      "postado": "2026-11-27T15:49:35.033Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2qGwnwP.jpg"
+    },
     {
       "id": "1NxgFjK",
       "nome": "Bicicleta Infantil Caloi Ceci Aro 20, Quadro Rebaixado, Cestinha, Freio",
