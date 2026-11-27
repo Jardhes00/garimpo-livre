@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T18:49:21.408Z",
+  "atualizado": "2026-11-27T18:50:36.793Z",
   "ofertas": [
+    {
+      "id": "1zd5yep",
+      "nome": "Air Fryer Kitchen Art 16l 4 Em 1 Espeto Rotisserie Kaf16a",
+      "categoria": "Casa",
+      "preco": 408.4,
+      "link": "https://meli.la/1zd5yep",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/air-fryer-kitchen-art-16l-4-em-1-espeto-rotisserie-kaf16a/p/MLB47063674",
+      "precoDe": 620.9,
+      "pix": true,
+      "parcelas": "R$429,90 em 8x R$53,74 sem juros",
+      "postado": "2026-11-27T18:50:36.791Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1zd5yep.jpg"
+    },
     {
       "id": "1LTyo4K",
       "nome": "Bicicleta Ergométrica Bike Spinning 6kg Sensação Inércia Sevenfit Para Cardio",
@@ -9035,25 +9053,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2BH6dgK.jpg"
-    },
-    {
-      "id": "1XAwMSy",
-      "nome": "Travesseiros Cunha Anti Refluxo Encosto Pós Operatório 4pcs",
-      "categoria": "Casa",
-      "preco": 198.55,
-      "link": "https://meli.la/1XAwMSy",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/travesseiros-cunha-anti-refluxo-encosto-pos-operatorio-4pcs/up/MLBU3954364571",
-      "precoDe": 499.98,
-      "pix": true,
-      "parcelas": "R$209 em outros meios",
-      "cupomAnuncio": "Compre R$399 e ganhe R$29 OFF por seguir a loja",
-      "postado": "2026-11-25T18:49:45.165Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1XAwMSy.jpg"
     }
   ]
 }
