@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T15:39:35.259Z",
+  "atualizado": "2026-11-27T15:40:50.233Z",
   "ofertas": [
+    {
+      "id": "1CvNmTe",
+      "nome": "Kit Champú Condicionador E Máscara Nutri Enrich Invigo Wella",
+      "categoria": "Beleza",
+      "preco": 285.34,
+      "link": "https://meli.la/1CvNmTe",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-champu-condicionador-e-mascara-nutri-enrich-invigo-wella/p/MLB34006890",
+      "precoDe": 689.9,
+      "pix": true,
+      "parcelas": "R$335,70 em 6x R$55,95 sem juros",
+      "postado": "2026-11-27T15:40:50.231Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1CvNmTe.jpg"
+    },
     {
       "id": "2HyMSWp",
       "nome": "Bola Futsal Penalty Rx 500 Xxiii Cor Azul",
