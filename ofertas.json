@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T11:45:39.754Z",
+  "atualizado": "2026-11-27T11:46:54.772Z",
   "ofertas": [
+    {
+      "id": "24LZ91d",
+      "nome": "Panela De Pressão Elétrica Ppe-102 6 Litros Kian Preto",
+      "categoria": "Casa",
+      "preco": 262.32,
+      "link": "https://meli.la/24LZ91d",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/panela-de-pressao-eletrica-ppe-102-6-litros-kian-preto/p/MLB47850195",
+      "precoDe": 499,
+      "pix": true,
+      "parcelas": "R$319,90 em outros meios",
+      "postado": "2026-11-27T11:46:54.771Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-24LZ91d.jpg"
+    },
     {
       "id": "2M6zPuK",
       "nome": "Bicicleta Spinning Ergométrica U Star Semi Profissional Bike Preto",
