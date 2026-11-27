@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T17:09:22.810Z",
+  "atualizado": "2026-11-27T17:10:52.981Z",
   "ofertas": [
+    {
+      "id": "2hfVVCU",
+      "nome": "Assento Booster Chicco Gofit Plus Para Crianças de 18 a 36 kg Com Latch",
+      "categoria": "Diversos",
+      "preco": 329.22,
+      "link": "https://meli.la/2hfVVCU",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB75364411",
+      "precoDe": 899,
+      "pix": true,
+      "parcelas": "R$ 339,40 em 9x de R$ 37,71 sem juros",
+      "extra": "R$304,97 com Cupom",
+      "postado": "2026-11-27T17:10:52.979Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2hfVVCU.jpg"
+    },
     {
       "id": "2pK43Zd",
       "nome": "Câmera Inteligente Compatível com Alexa iM3 C Intelbras",
@@ -9954,23 +9973,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-16kUFvu.jpg"
-    },
-    {
-      "id": "1va6Fe7",
-      "nome": "Micro-ondas Philco Pmo39s Prateado 33l 1400w",
-      "categoria": "Casa",
-      "preco": 599,
-      "link": "https://meli.la/1va6Fe7",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB75045450",
-      "precoDe": 819,
-      "parcelas": "10x R$ 59,90 sem juros",
-      "postado": "2026-11-25T17:09:42.306Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1va6Fe7.jpg"
     }
   ]
 }
