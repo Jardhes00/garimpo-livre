@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T20:49:24.743Z",
+  "atualizado": "2026-11-27T20:50:39.976Z",
   "ofertas": [
+    {
+      "id": "1H13dmr",
+      "nome": "Kit 2 Pneu Pirelli Aro 18 225/55r18 98v Scorpion",
+      "categoria": "Auto",
+      "preco": 1302.5,
+      "link": "https://meli.la/1H13dmr",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-2-pneu-pirelli-aro-18-22555r18-98v-scorpion/p/MLB35060373",
+      "precoDe": 2375,
+      "pix": true,
+      "parcelas": "R$1.447,50 em outros meios",
+      "cupomAnuncio": "R$1.242,50 com Cupom",
+      "postado": "2026-11-27T20:50:39.975Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1H13dmr.jpg"
+    },
     {
       "id": "2aVhbCy",
       "nome": "Ferro A Vapor Perfectcare Compact Polishop Philips Cor Violeta",
