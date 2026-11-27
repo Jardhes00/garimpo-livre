@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T20:18:08.766Z",
+  "atualizado": "2026-11-27T20:19:24.354Z",
   "ofertas": [
+    {
+      "id": "2nWtG1G",
+      "nome": "Carro Elétrico Infantil Controle Remoto Bateria 6v Marcha Frente/Ré Bluetooth",
+      "categoria": "Games",
+      "preco": 486.94,
+      "link": "https://meli.la/2nWtG1G",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/carro-eletrico-infantil-controle-remoto-bateria-6v-marcha-frentere-bluetooth-som-luz-urban-maxi-toys-vermelho/p/MLB78624329",
+      "precoDe": 899.9,
+      "pix": true,
+      "parcelas": "R$559,70 em outros meios",
+      "postado": "2026-11-27T20:19:24.352Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2nWtG1G.jpg"
+    },
     {
       "id": "2VEW1YR",
       "nome": "Roborock Q10 VF+ Robô Aspirador e Passa Pano 10000 Pa Base Autoesvaziável Wi-Fi",
