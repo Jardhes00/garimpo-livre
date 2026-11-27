@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T11:59:25.236Z",
+  "atualizado": "2026-11-27T12:00:40.272Z",
   "ofertas": [
+    {
+      "id": "1vmR2V5",
+      "nome": "Impressora Multifuncional HP Smart Tank 724 Tanque de Tinta Colorida Wi-Fi",
+      "categoria": "Tech",
+      "preco": 949.05,
+      "link": "https://meli.la/1vmR2V5",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/impressora-multifuncional-hp-smart-tank-724-tanque-de-tinta-colorida-wi-fi-scanner-duplex-funcoes-imprimir-copiar-digitalizar-cor-branco-2g9q2a/p/MLB23443207",
+      "precoDe": 1649,
+      "pix": true,
+      "parcelas": "R$999 em 10x R$99,90 sem juros",
+      "postado": "2026-11-27T12:00:40.271Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1vmR2V5.jpg"
+    },
     {
       "id": "2evQiv3",
       "nome": "Cafeteira Espresso Luna Preta - TRES 3 Corações",
