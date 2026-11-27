@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T20:29:24.248Z",
+  "atualizado": "2026-11-27T20:30:39.287Z",
   "ofertas": [
+    {
+      "id": "16xXYQy",
+      "nome": "Mantecorp Hidratante Facial Epidrat Calm Restaurador - 40g",
+      "categoria": "Beleza",
+      "preco": 55.71,
+      "link": "https://meli.la/16xXYQy",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mantecorp-hidratante-facial-epidrat-calm-restaurador-40g/p/MLB18390996",
+      "precoDe": 104.9,
+      "pix": true,
+      "parcelas": "R$59,90 em outros meios",
+      "cupomAnuncio": "Compre R$199 e ganhe 20% OFF",
+      "postado": "2026-11-27T20:30:39.286Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-16xXYQy.jpg"
+    },
     {
       "id": "2szBe9j",
       "nome": "Suplemento em pó Growth Supplements Whey Protein Concentrado sabor Morango 1 kg",
