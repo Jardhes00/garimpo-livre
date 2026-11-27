@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T14:55:48.467Z",
+  "atualizado": "2026-11-27T14:57:03.487Z",
   "ofertas": [
+    {
+      "id": "1UQCVZr",
+      "nome": "ISDIN Creme Anti-Idade para Contorno dos Olhos Isdinceutics K-Ox Eyes - 15g",
+      "categoria": "Beleza",
+      "preco": 138.46,
+      "link": "https://meli.la/1UQCVZr",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/isdin-creme-anti-idade-para-contorno-dos-olhos-isdinceutics-k-ox-eyes-15g/p/MLB18957835",
+      "precoDe": 272.8,
+      "pix": true,
+      "parcelas": "R$162,90 em outros meios",
+      "cupomAnuncio": "Compre R$399,90 e ganhe 20% OFF",
+      "postado": "2026-11-27T14:57:03.486Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1UQCVZr.jpg"
+    },
     {
       "id": "1SuaACZ",
       "nome": "Aspirador de Pó e Água WAP GTW Inox 15 Barril 1700W com Bocal de Sopro e",
