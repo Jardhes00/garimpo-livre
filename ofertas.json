@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T12:25:40.972Z",
+  "atualizado": "2026-11-27T12:26:56.032Z",
   "ofertas": [
+    {
+      "id": "2AcXcKm",
+      "nome": "Smart Tv Aoc Dled 32 Pole Wi-fi Roku Tv Quadcore 32s5155/78g",
+      "categoria": "Tech",
+      "preco": 855.51,
+      "link": "https://meli.la/2AcXcKm",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/smart-tv-aoc-dled-32-pole-wi-fi-roku-tv-quadcore-32s515578g/up/MLBU3430183470",
+      "precoDe": 1260.9,
+      "pix": true,
+      "parcelas": "R$929,90 em outros meios",
+      "postado": "2026-11-27T12:26:56.030Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2AcXcKm.jpg"
+    },
     {
       "id": "2UEmAge",
       "nome": "Whisky Ballantine's Finest Blended 1L Escoces",
