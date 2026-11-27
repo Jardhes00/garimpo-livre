@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T15:57:05.348Z",
+  "atualizado": "2026-11-27T15:58:20.527Z",
   "ofertas": [
+    {
+      "id": "2MsRsnw",
+      "nome": "Whisky Johnnie Walker Red Label 750ml",
+      "categoria": "Diversos",
+      "preco": 49.99,
+      "link": "https://meli.la/2MsRsnw",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whisky-johnnie-walker-red-label-750ml/p/MLB17384504",
+      "precoDe": 92.9,
+      "cupomAnuncio": "Compre R$199,99 e ganhe 10% OFF",
+      "postado": "2026-11-27T15:58:20.525Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2MsRsnw.jpg"
+    },
     {
       "id": "1fbovtc",
       "nome": "Mini Esmerilhadeira Angular Mt M0901 Turquesa - Makita",
