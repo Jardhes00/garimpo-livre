@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T20:00:38.493Z",
+  "atualizado": "2026-11-27T20:01:53.835Z",
   "ofertas": [
+    {
+      "id": "1ANbeF8",
+      "nome": "Air Fryer Oven Philco 12L 4 em 1 1800W PFR2200P",
+      "categoria": "Casa",
+      "preco": 348,
+      "link": "https://meli.la/1ANbeF8",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/air-fryer-oven-philco-12l-4-em-1-1800w-pfr2200p/p/MLB26755777",
+      "precoDe": 769.41,
+      "pix": true,
+      "parcelas": "R$435 em outros meios",
+      "postado": "2026-11-27T20:01:53.833Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ANbeF8.jpg"
+    },
     {
       "id": "1tJvV4r",
       "nome": "Óleo De Banho Higiene Hidratante Diária Atoderm 1l Bioderma",
