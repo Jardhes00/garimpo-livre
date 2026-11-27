@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T13:00:42.004Z",
+  "atualizado": "2026-11-27T13:01:56.991Z",
   "ofertas": [
+    {
+      "id": "17ahRYs",
+      "nome": "Perfume Carolina Herrera Good Girl Eau de Parfum 30 ml feminino",
+      "categoria": "Beleza",
+      "preco": 310.25,
+      "link": "https://meli.la/17ahRYs",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/perfume-carolina-herrera-good-girl-eau-de-parfum-30-ml-feminino/p/MLB6271498",
+      "precoDe": 526.9,
+      "pix": true,
+      "parcelas": "R$365 em 7x R$52,14 sem juros",
+      "postado": "2026-11-27T13:01:56.990Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-17ahRYs.jpg"
+    },
     {
       "id": "31DmTFM",
       "nome": "Purificador de Água Colormaq Premium Compressor Cor Branco Purpr",
