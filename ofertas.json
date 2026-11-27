@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T14:48:18.539Z",
+  "atualizado": "2026-11-27T14:49:33.337Z",
   "ofertas": [
+    {
+      "id": "15WAshb",
+      "nome": "Colchão Inflável Casal Queen 203*154*44cm C/bomba Bivolt Usb",
+      "categoria": "Casa",
+      "preco": 271.57,
+      "link": "https://meli.la/15WAshb",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/colchao-inflavel-casal-queen-20315444cm-cbomba-bivolt-usb/up/MLBU2898196910",
+      "precoDe": 719.98,
+      "pix": true,
+      "parcelas": "R$295,19 em outros meios",
+      "postado": "2026-11-27T14:49:33.335Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-15WAshb.jpg"
+    },
     {
       "id": "1HaMSA4",
       "nome": "Monitor AOC 27\" 4K UHD IPS 125% sRGB 97% DCI-P3 Alto-falantes U27B3A",
