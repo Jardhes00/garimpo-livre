@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T15:37:04.816Z",
+  "atualizado": "2026-11-27T15:38:20.003Z",
   "ofertas": [
+    {
+      "id": "123brxe",
+      "nome": "EUCERIN Dermopure Clinical Gel de Limpeza Gentil 400ml, Redução da oleosidade e",
+      "categoria": "Diversos",
+      "preco": 51.39,
+      "link": "https://meli.la/123brxe",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/eucerin-dermopure-clinical-gel-de-limpeza-gentil-400ml-reducao-da-oleosidade-e-acne-desobstrui-os-poros/p/MLB47134246",
+      "precoDe": 99.9,
+      "cupomAnuncio": "Compre R$79 e ganhe 20% OFF",
+      "postado": "2026-11-27T15:38:20.002Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-123brxe.jpg"
+    },
     {
       "id": "1YtTpcT",
       "nome": "Carrinho de Bebê Infanti Romanzo Travel System Completo com Bebê Conforto e",
