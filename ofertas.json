@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T11:43:09.730Z",
+  "atualizado": "2026-11-27T11:44:24.756Z",
   "ofertas": [
+    {
+      "id": "1ixMMFE",
+      "nome": "Ar-condicionado Prime Air Espelhado Inverter 12000btus 12qe",
+      "categoria": "Casa",
+      "preco": 1949.9,
+      "link": "https://meli.la/1ixMMFE",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-prime-air-espelhado-inverter-12000btus-12qe/up/MLBU5764098464",
+      "precoDe": 3449.9,
+      "parcelas": "10x de R$194,99 sem juros",
+      "cupomAnuncio": "R$1.869,90 com Cupom",
+      "postado": "2026-11-27T11:44:24.755Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ixMMFE.jpg"
+    },
     {
       "id": "14Nk9vR",
       "nome": "Smart TV LG UHD AI UA75 50 polegadas HDR10 Pro Processador α7 AI Ger8 webOS 25",
