@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T15:04:33.682Z",
+  "atualizado": "2026-11-27T15:05:49.212Z",
   "ofertas": [
+    {
+      "id": "2rHProT",
+      "nome": "Cooktop 4 Bocas Dako Supreme Com Mesa de Vidro e Tripla Chama Preto Bivolt",
+      "categoria": "Diversos",
+      "preco": 398.05,
+      "link": "https://meli.la/2rHProT",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cooktop-4-bocas-dako-supreme-com-mesa-de-vidro-e-tripla-chama-preto-bivolt/p/MLB23455094",
+      "precoDe": 739,
+      "pix": true,
+      "parcelas": "R$419 em outros meios",
+      "postado": "2026-11-27T15:05:49.210Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2rHProT.jpg"
+    },
     {
       "id": "1FPbqov",
       "nome": "Caixa De Som LG Xboom Stage 501 Bluetooth",
