@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T15:23:19.315Z",
+  "atualizado": "2026-11-27T15:24:34.346Z",
   "ofertas": [
+    {
+      "id": "253yvYR",
+      "nome": "Cafeteira elétrica Electrolux inox filtro permanente removivel corta pingos",
+      "categoria": "Casa",
+      "preco": 101.55,
+      "link": "https://meli.la/253yvYR",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cafeteira-eletrica-electrolux-inox-filtro-permanente-removivel-corta-pingos-capacidade-600ml-15-xicaras-funcao-manter-aquecido-sistema-ecm10/p/MLB18927373",
+      "precoDe": 223.84,
+      "pix": true,
+      "parcelas": "R$106,90 em outros meios",
+      "postado": "2026-11-27T15:24:34.344Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-253yvYR.jpg"
+    },
     {
       "id": "2qrPPvc",
       "nome": "Caixa de Som LG XBOOM Bounce, Bateria recarregável, IP67, até 30h de",
