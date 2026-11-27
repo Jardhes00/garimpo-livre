@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T17:26:23.069Z",
+  "atualizado": "2026-11-27T17:28:08.241Z",
   "ofertas": [
+    {
+      "id": "31wVA7u",
+      "nome": "Extratora WAP Home Cleaner 1600W 6 Litros Para Limpeza De Estofados E Tapetes 220V",
+      "categoria": "Casa",
+      "preco": 764.91,
+      "link": "https://meli.la/31wVA7u",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB6339954",
+      "precoDe": 1903.75,
+      "pix": true,
+      "parcelas": "R$ 899,90 em outros meios",
+      "cupomAnuncio": "R$688,42 com Cupom",
+      "postado": "2026-11-27T17:28:08.238Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-31wVA7u.jpg"
+    },
     {
       "id": "1K9QyKP",
       "nome": "Sérum Facial Vitamina C Antioleosidade Pure Vitamin C12 La Roche-Posay 15ml",
@@ -9898,23 +9917,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1nZDXXE.jpg"
-    },
-    {
-      "id": "1V9S5P2",
-      "nome": "Ração Whiskas Carne Gatos Adultos 2,7 kg",
-      "categoria": "Pet",
-      "preco": 24.11,
-      "link": "https://meli.la/1V9S5P2",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/racao-whiskas-carne-gatos-adultos-27-kg/p/MLB21503941",
-      "precoDe": 49.9,
-      "cupomAnuncio": "Compre R$99,99 e ganhe 10% OFF",
-      "postado": "2026-11-25T17:27:12.362Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1V9S5P2.jpg"
     }
   ]
 }
