@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T19:13:07.382Z",
+  "atualizado": "2026-11-27T19:14:22.216Z",
   "ofertas": [
+    {
+      "id": "1H87K4a",
+      "nome": "Pneu 205/55r16 91v Powercontact 2 Original Mercedes Classe B",
+      "categoria": "Auto",
+      "preco": 322.2,
+      "link": "https://meli.la/1H87K4a",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/pneu-20555r16-91v-powercontact-2-original-mercedes-classe-b/up/MLBU1510945293",
+      "precoDe": 477.9,
+      "pix": true,
+      "parcelas": "R$358 em 7x R$51,14 sem juros",
+      "cupomAnuncio": "R$268,20 com Cupom",
+      "postado": "2026-11-27T19:14:22.214Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1H87K4a.jpg"
+    },
     {
       "id": "2Rt7Xi2",
       "nome": "Headset Gamer Havit Fuxi H3 2.4g Bluetooth Usb Tipo C 7.1 Pr",
@@ -9035,24 +9054,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-22J95By.jpg"
-    },
-    {
-      "id": "182avkB",
-      "nome": "Ventilador Osc Coluna Turbo 6p 50cm Bronze Premium Cor da estrutura Preto",
-      "categoria": "Casa",
-      "preco": 236.28,
-      "link": "https://meli.la/182avkB",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ventilador-osc-coluna-turbo-6p-50cm-bronze-premium-cor-da-estrutura-preto/p/MLB14434781",
-      "precoDe": 339.7,
-      "pix": true,
-      "parcelas": "R$256,83 em outros meios",
-      "postado": "2026-11-25T19:13:30.901Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-182avkB.jpg"
     }
   ]
 }
