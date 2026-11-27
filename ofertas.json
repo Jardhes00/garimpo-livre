@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T16:47:07.431Z",
+  "atualizado": "2026-11-27T16:48:22.043Z",
   "ofertas": [
+    {
+      "id": "2d43iPn",
+      "nome": "Colchão Casal Luuna Support, Espuma Firme, 10 Anos De Garantia, 18cm",
+      "categoria": "Casa",
+      "preco": 1114.35,
+      "link": "https://meli.la/2d43iPn",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/colchao-casal-luuna-support-espuma-firme-10-anos-de-garantia-18cm-ortopedico-com-suporte-coluna/p/MLB26056654",
+      "precoDe": 1692.5,
+      "pix": true,
+      "parcelas": "R$1.173 em 10x R$117,30 sem juros",
+      "cupomAnuncio": "R$1.089,35 com Cupom extra",
+      "postado": "2026-11-27T16:48:22.041Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2d43iPn.jpg"
+    },
     {
       "id": "27CpGbM",
       "nome": "Bicicleta Ergométrica Bike Spinning Magnética Roda Inércia 13kg Bluetooth",
@@ -9967,22 +9986,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1mY9pGC.jpg"
-    },
-    {
-      "id": "2cgGajG",
-      "nome": "Mini Chocotone Bauducco 80g Caixa C/24 Unidades Chocolate",
-      "categoria": "Diversos",
-      "preco": 197.99,
-      "link": "https://meli.la/2cgGajG",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/mini-chocotone-bauducco-80g-caixa-c24-unidades-chocolate/p/MLB61626191",
-      "precoDe": 299.98,
-      "postado": "2026-11-25T16:47:11.704Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2cgGajG.jpg"
     }
   ]
 }
