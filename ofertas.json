@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T14:37:02.952Z",
+  "atualizado": "2026-11-27T14:38:18.040Z",
   "ofertas": [
+    {
+      "id": "1dZjDvF",
+      "nome": "Parafusadeira Furadeira 48v Profissional 2 Baterias Sem Fio",
+      "categoria": "Ferramentas",
+      "preco": 73.34,
+      "link": "https://meli.la/1dZjDvF",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/parafusadeira-furadeira-48v-profissional-2-baterias-sem-fio/up/MLBU3231994785",
+      "precoDe": 179.9,
+      "pix": true,
+      "parcelas": "R$91,67 em outros meios",
+      "postado": "2026-11-27T14:38:18.039Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1dZjDvF.jpg"
+    },
     {
       "id": "1BKRJiS",
       "nome": "Aspirador Robô Kabum! Smart K800 Pro com Esvaziamento Automático e Função Passa",
