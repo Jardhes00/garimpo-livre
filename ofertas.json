@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T11:28:09.293Z",
+  "atualizado": "2026-11-27T11:29:24.488Z",
   "ofertas": [
+    {
+      "id": "2SyZNG5",
+      "nome": "Red Bull Energético, Energy Drink, 250ml, 4 latas",
+      "categoria": "Diversos",
+      "preco": 29.96,
+      "link": "https://meli.la/2SyZNG5",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/red-bull-energetico-energy-drink-250ml-4-latas/p/MLB18308564",
+      "precoDe": 41.96,
+      "postado": "2026-11-27T11:29:24.486Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2SyZNG5.jpg"
+    },
     {
       "id": "2HZYJWD",
       "nome": "Panela de Pressão Tramontina 4,5L Vancouver Effect Preto 20591/420",
