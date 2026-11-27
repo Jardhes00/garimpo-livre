@@ -1,6 +1,42 @@
 {
-  "atualizado": "2026-11-27T18:34:34.675Z",
+  "atualizado": "2026-11-27T18:36:50.942Z",
   "ofertas": [
+    {
+      "id": "2Hx3oQt",
+      "nome": "Ar Condicionado Inverter 12k Midea Air Volution Lite F 220v",
+      "categoria": "Casa",
+      "preco": 1803.27,
+      "link": "https://meli.la/2Hx3oQt",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ar-condicionado-inverter-12k-midea-air-volution-lite-f-220v/up/MLBU5040290575",
+      "precoDe": 2624,
+      "pix": true,
+      "parcelas": "R$1.939 em 10x R$193,90 sem juros",
+      "postado": "2026-11-27T18:36:50.940Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Hx3oQt.jpg"
+    },
+    {
+      "id": "1pdujec",
+      "nome": "Robô Aspirador KABUM! smart K800 Pro Mapeamento Laser Autolimpante 13000Pa Preto",
+      "categoria": "Casa",
+      "preco": 951.38,
+      "link": "https://meli.la/1pdujec",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/robo-aspirador-kabum-smart-k800-pro-mapeamento-laser-autolimpante-13000pa-preto/p/MLB79373299",
+      "precoDe": 1333.32,
+      "pix": true,
+      "parcelas": "R$1.022,99 em 10x R$102,30 sem juros",
+      "postado": "2026-11-27T18:35:49.400Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1pdujec.jpg"
+    },
     {
       "id": "25dGbQ3",
       "nome": "iPhone 16e (128 GB) - Branco - Distribuidor Autorizado",
@@ -9010,42 +9046,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-33pWnq7.jpg"
-    },
-    {
-      "id": "1mxRW62",
-      "nome": "Árvore de Natal Pinheiro 210 cm Com 1200 Galhos Realistas e 9 Bolas Vermelhas",
-      "categoria": "Esporte",
-      "preco": 279.33,
-      "link": "https://meli.la/1mxRW62",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/arvore-de-natal-pinheiro-210-cm-com-1200-galhos-realistas-e-9-bolas-vermelhas-greycom/p/MLB81084047",
-      "precoDe": 700,
-      "cupomAnuncio": "R$275,33 com Cupom por seguir a loja",
-      "postado": "2026-11-25T18:35:59.683Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1mxRW62.jpg"
-    },
-    {
-      "id": "1BupNZZ",
-      "nome": "Perfume Feminino Eau de Parfum Fragrância Floral Gourmand Inebriante com Notas",
-      "categoria": "Beleza",
-      "preco": 404.99,
-      "link": "https://meli.la/1BupNZZ",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/perfume-feminino-eau-de-parfum-fragrancia-floral-gourmand-inebriante-com-notas-de-iris-nobre-baunilha-e-praline-la-vie-est-belle-lancome-frasco-com-50ml/p/MLB6092973",
-      "precoDe": 829,
-      "pix": true,
-      "parcelas": "R$449,99 em outros meios",
-      "cupomAnuncio": "Compre R$599 e ganhe 5% OFF",
-      "postado": "2026-11-25T18:34:44.731Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1BupNZZ.jpg"
     }
   ]
 }
