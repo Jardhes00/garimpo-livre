@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T12:31:56.155Z",
+  "atualizado": "2026-11-27T12:33:11.614Z",
   "ofertas": [
+    {
+      "id": "1BUgJSn",
+      "nome": "Cooktop 5 Bocas Dako Pratiko com Mesa de Vidro Acendimento Super Automático e",
+      "categoria": "Diversos",
+      "preco": 445.55,
+      "link": "https://meli.la/1BUgJSn",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cooktop-5-bocas-dako-pratiko-com-mesa-de-vidro-acendimento-super-automatico-e-mega-chama-preto-bivolt/p/MLB64968279",
+      "precoDe": 889,
+      "pix": true,
+      "parcelas": "R$469 em outros meios",
+      "postado": "2026-11-27T12:33:11.612Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1BUgJSn.jpg"
+    },
     {
       "id": "26cnXWr",
       "nome": "Desinfetante 5L Lysoform Líquido Original Desinfetante Casa para Limpeza Pesada",
