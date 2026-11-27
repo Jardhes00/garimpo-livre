@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T16:25:51.684Z",
+  "atualizado": "2026-11-27T16:27:06.446Z",
   "ofertas": [
+    {
+      "id": "2Kn3Z5T",
+      "nome": "Ômega 3 Epa Dha 120 Cápsulas Sem Sabor - Vitafor",
+      "categoria": "Diversos",
+      "preco": 87.17,
+      "link": "https://meli.la/2Kn3Z5T",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mega-3-epa-dha-120-capsulas-sem-sabor-vitafor/p/MLB12630467",
+      "precoDe": 168,
+      "cupomAnuncio": "Compre R$99 e ganhe 10% OFF",
+      "postado": "2026-11-27T16:27:06.444Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Kn3Z5T.jpg"
+    },
     {
       "id": "2bxMQEQ",
       "nome": "Máscara De Solda Automática Esab Swarm A5 Preto",
@@ -9963,23 +9980,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1M7utTv.jpg"
-    },
-    {
-      "id": "2tTsvmc",
-      "nome": "Monitor Gamer Samsung Odyssey G5, 32 ,qhd, 165hz,1ms,hdmi,dp Preto",
-      "categoria": "Tech",
-      "preco": 1160.37,
-      "link": "https://meli.la/2tTsvmc",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/monitor-gamer-samsung-odyssey-g5-32-qhd-165hz1mshdmidp-preto/p/MLB46196451",
-      "precoDe": 1699,
-      "parcelas": "10x de R$116,04 sem juros",
-      "postado": "2026-11-25T16:25:55.556Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2tTsvmc.jpg"
     }
   ]
 }
