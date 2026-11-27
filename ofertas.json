@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T14:24:32.562Z",
+  "atualizado": "2026-11-27T14:25:47.668Z",
   "ofertas": [
+    {
+      "id": "27WQBwW",
+      "nome": "Cama Box Baú Casal Colchão Gazin Molas Flora Bege 138x188x63cm",
+      "categoria": "Casa",
+      "preco": 767.2,
+      "link": "https://meli.la/27WQBwW",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cama-box-bau-casal-colchao-gazin-molas-flora-bege-138x188x63cm/p/MLB26886277",
+      "precoDe": 1554.45,
+      "pix": true,
+      "parcelas": "R$959 em 10x R$95,90 sem juros",
+      "postado": "2026-11-27T14:25:47.667Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-27WQBwW.jpg"
+    },
     {
       "id": "1xQ5Qax",
       "nome": "Aparelho de Jantar 30 Peças Porto Brasil Bio Latte Grés Off-White",
