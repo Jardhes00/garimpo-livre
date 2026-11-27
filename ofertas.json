@@ -1,6 +1,42 @@
 {
-  "atualizado": "2026-11-27T16:58:22.304Z",
+  "atualizado": "2026-11-27T17:00:22.492Z",
   "ofertas": [
+    {
+      "id": "2UDEcM1",
+      "nome": "Panela de Pressão Brinox Vanilla 5.4 L De Indução Com Revestimento Cerâmico",
+      "categoria": "Casa",
+      "preco": 188.44,
+      "link": "https://meli.la/2UDEcM1",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB43789420",
+      "precoDe": 539.99,
+      "pix": true,
+      "parcelas": "R$ 229,80 em outros meios",
+      "postado": "2026-11-27T17:00:22.490Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2UDEcM1.jpg"
+    },
+    {
+      "id": "2uSnyJy",
+      "nome": "Micro-ondas Mondial 1400W MO-02-34-B",
+      "categoria": "Casa",
+      "preco": 493.05,
+      "link": "https://meli.la/2uSnyJy",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-mondial-1400w-mo-02-34-b/p/MLB38944487",
+      "precoDe": 764.9,
+      "pix": true,
+      "parcelas": "R$519 em 10x R$51,90 sem juros",
+      "postado": "2026-11-27T16:59:37.369Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2uSnyJy.jpg"
+    },
     {
       "id": "1eDDEei",
       "nome": "Panela De Pressão Elétrica Fmaxx Kitchen Chef 4 Litros 800w 60hz",
@@ -9948,41 +9984,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1Y2aSqU.jpg"
-    },
-    {
-      "id": "2FXM2fL",
-      "nome": "Proteína New Millen Premium Whey Isolado Isolate em pó sabor Chocolate x 900g",
-      "categoria": "Suplementos",
-      "preco": 138,
-      "link": "https://meli.la/2FXM2fL",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/proteina-new-millen-premium-whey-isolado-isolate-em-po-sabor-chocolate-x-900g/p/MLB50222672",
-      "precoDe": 289.9,
-      "parcelas": "12x R$ 13,64",
-      "postado": "2026-11-25T16:59:41.560Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2FXM2fL.jpg"
-    },
-    {
-      "id": "2eFbC6L",
-      "nome": "Esteira Elétrica Ergométrica Dobravel e Inclinação com Controle Remoto para Treinos Fitness, Corridas e Caminhadas Residencial até 100kg - Bivolt 110/220v - APFER",
-      "categoria": "Games",
-      "preco": 594.91,
-      "link": "https://meli.la/2eFbC6L",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/esteira-eletrica-ergometrica-dobravel-e-inclinacao-com-controle-remoto-para-treinos-fitness-corridas-e-caminhadas-residencial-ate-100kg-bivolt-110220v-apfer/p/MLB77671293",
-      "precoDe": 1599,
-      "pix": true,
-      "parcelas": "R$ 699,90 em 10x R$ 69,99 sem juros",
-      "postado": "2026-11-25T16:58:26.639Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2eFbC6L.jpg"
     }
   ]
 }
