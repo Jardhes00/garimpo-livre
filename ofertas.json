@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T19:56:53.404Z",
+  "atualizado": "2026-11-27T19:58:08.365Z",
   "ofertas": [
+    {
+      "id": "2Sr6gtT",
+      "nome": "Kit de 2 pneus Pirelli Cinturato P1 P 185/60R15 88 H",
+      "categoria": "Auto",
+      "preco": 789.91,
+      "link": "https://meli.la/2Sr6gtT",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kit-de-2-pneus-pirelli-cinturato-p1-p-18560r15-88-h/p/MLB34283279",
+      "precoDe": 1142.64,
+      "pix": true,
+      "parcelas": "R$934,91 em 10x R$93,49 sem juros",
+      "cupomAnuncio": "R$729,91 com Cupom",
+      "postado": "2026-11-27T19:58:08.363Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Sr6gtT.jpg"
+    },
     {
       "id": "2v1ff8S",
       "nome": "Ventilador De Mesa Arno Air Force Va46 40cm 6 Pás",
@@ -9232,24 +9251,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2K7X7UJ.jpg"
-    },
-    {
-      "id": "1GkcDfk",
-      "nome": "Kit 2 Pneus 175/70r13 Kelly Edge Touring Goodyear 82t",
-      "categoria": "Auto",
-      "preco": 576.5,
-      "link": "https://meli.la/1GkcDfk",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB34078616",
-      "precoDe": 881.91,
-      "pix": true,
-      "parcelas": "R$ 662,64 em outros meios",
-      "postado": "2026-11-25T19:57:16.714Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1GkcDfk.jpg"
     }
   ]
 }
