@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T11:13:08.851Z",
+  "atualizado": "2026-11-27T11:14:24.005Z",
   "ofertas": [
+    {
+      "id": "2UTDCLH",
+      "nome": "Colchão Queen Luuna Original, Espuma 24cm com Bloqueio de Movimento, 10 Anos de",
+      "categoria": "Casa",
+      "preco": 2165.05,
+      "link": "https://meli.la/2UTDCLH",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/colchao-queen-luuna-original-espuma-24cm-com-bloqueio-de-movimento-10-anos-de-garantia/p/MLB26697820",
+      "precoDe": 5000,
+      "pix": true,
+      "parcelas": "R$2.279 em 10x R$227,90 sem juros",
+      "postado": "2026-11-27T11:14:24.003Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2UTDCLH.jpg"
+    },
     {
       "id": "1YaSM6F",
       "nome": "L'Oréal Paris Elseve Óleo Extraordinário 100ml - Leave In Anti Frizz Protetor",
