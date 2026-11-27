@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T15:33:19.668Z",
+  "atualizado": "2026-11-27T15:34:34.523Z",
   "ofertas": [
+    {
+      "id": "1NSMqfX",
+      "nome": "Fogão 4 Bocas de Embutir Dako Supreme Preto com Mesa de Vidro e Mega Chama",
+      "categoria": "Diversos",
+      "preco": 1176.68,
+      "link": "https://meli.la/1NSMqfX",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/fogao-4-bocas-de-embutir-dako-supreme-preto-com-mesa-de-vidro-e-mega-chama-bivolt/p/MLB27729352",
+      "precoDe": 2259,
+      "pix": true,
+      "parcelas": "R$1.279 em outros meios",
+      "cupomAnuncio": "R$1.151,68 com Cupom",
+      "postado": "2026-11-27T15:34:34.522Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1NSMqfX.jpg"
+    },
     {
       "id": "1egvgAf",
       "nome": "Bicicleta Pro-x Cross Infantil Aro 20 Freio V-brake Aro Aero Cor Branco - Azul",
