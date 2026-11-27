@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T11:10:38.709Z",
+  "atualizado": "2026-11-27T11:11:53.760Z",
   "ofertas": [
+    {
+      "id": "2HUBy42",
+      "nome": "Forno Elétrico Britânia 44L Preto Dupla Resistência 1500W BFE44P 127V",
+      "categoria": "Diversos",
+      "preco": 279,
+      "link": "https://meli.la/2HUBy42",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/forno-eletrico-britania-44l-preto-dupla-resistencia-1500w-bfe44p-127v/p/MLB40535137",
+      "precoDe": 399,
+      "postado": "2026-11-27T11:11:53.759Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2HUBy42.jpg"
+    },
     {
       "id": "2keooH6",
       "nome": "Relógio Tommy Hilfiger Toc Masculino em Couro Preto 1791819",
