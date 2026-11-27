@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T17:28:08.241Z",
+  "atualizado": "2026-11-27T17:29:23.334Z",
   "ofertas": [
+    {
+      "id": "2SPgram",
+      "nome": "Caixa Para Ferramentas Tramontina Master Sanfonada 43800/005 Azul 5 Gavetas",
+      "categoria": "Ferramentas",
+      "preco": 98.58,
+      "link": "https://meli.la/2SPgram",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/p/MLB22367713",
+      "precoDe": 149.9,
+      "pix": true,
+      "parcelas": "R$ 106 em outros meios",
+      "postado": "2026-11-27T17:29:23.332Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2SPgram.jpg"
+    },
     {
       "id": "31wVA7u",
       "nome": "Extratora WAP Home Cleaner 1600W 6 Litros Para Limpeza De Estofados E Tapetes 220V",
@@ -9901,22 +9919,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-22fG5VB.jpg"
-    },
-    {
-      "id": "1nZDXXE",
-      "nome": "Ventilador de Teto,Luz Do Ventilador Do Teto Led Com Controle Remoto, Fácil",
-      "categoria": "Games",
-      "preco": 43.79,
-      "link": "https://meli.la/1nZDXXE",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-tetoluz-do-ventilador-do-teto-led-com-controle-remoto-facil-baseada-em-e26e27-branco-plastico-6-folhas-42-cm/p/MLB79390741",
-      "precoDe": 68,
-      "postado": "2026-11-25T17:28:27.845Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1nZDXXE.jpg"
     }
   ]
 }
