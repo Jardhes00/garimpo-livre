@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T16:53:22.441Z",
+  "atualizado": "2026-11-27T16:54:37.337Z",
   "ofertas": [
+    {
+      "id": "2YNvY8W",
+      "nome": "Papel Higiênico Neutro Folha Dupla Personal 30m Leve 16 Pague 15",
+      "categoria": "Diversos",
+      "preco": 17.91,
+      "link": "https://meli.la/2YNvY8W",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/papel-higienico-neutro-folha-dupla-personal-30m-leve-16-pague-15/p/MLB23561155",
+      "precoDe": 25.77,
+      "postado": "2026-11-27T16:54:37.335Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2YNvY8W.jpg"
+    },
     {
       "id": "2oeqgtE",
       "nome": "Jogo de Panelas Tramontina Mônaco em Alumínio com Revestimento Interno e",
@@ -9969,24 +9985,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1rbphS7.jpg"
-    },
-    {
-      "id": "14dBAqR",
-      "nome": "Ventilador De Teto Elluz Inverter Bivolt Branco/cinza Com Controle Ventisol",
-      "categoria": "Games",
-      "preco": 230.34,
-      "link": "https://meli.la/14dBAqR",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-teto-elluz-inverter-bivolt-brancocinza-com-controle-ventisol/p/MLB29861556",
-      "precoDe": 559,
-      "pix": true,
-      "parcelas": "R$270,99 em outros meios",
-      "postado": "2026-11-25T16:53:26.287Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-14dBAqR.jpg"
     }
   ]
 }
