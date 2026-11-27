@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T14:18:17.144Z",
+  "atualizado": "2026-11-27T14:19:32.353Z",
   "ofertas": [
+    {
+      "id": "31MwGaW",
+      "nome": "Forno Elétrico 52L Grand Family II, Mondial 1800W FRN-52-B",
+      "categoria": "Diversos",
+      "preco": 359.92,
+      "link": "https://meli.la/31MwGaW",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/forno-eletrico-52l-grand-family-ii-mondial-1800w-frn-52-b/p/MLB53802029",
+      "precoDe": 549.9,
+      "pix": true,
+      "parcelas": "R$449,90 em 8x R$56,24 sem juros",
+      "postado": "2026-11-27T14:19:32.352Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-31MwGaW.jpg"
+    },
     {
       "id": "33ddhCN",
       "nome": "Drone DJI Lito 1 Standard Combo, com câmera e vídeo 4K, imagem 8K, fácil de",
