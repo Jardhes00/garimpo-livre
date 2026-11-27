@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T20:16:54.103Z",
+  "atualizado": "2026-11-27T20:18:08.766Z",
   "ofertas": [
+    {
+      "id": "2VEW1YR",
+      "nome": "Roborock Q10 VF+ Robô Aspirador e Passa Pano 10000 Pa Base Autoesvaziável Wi-Fi",
+      "categoria": "Casa",
+      "preco": 2439,
+      "link": "https://meli.la/2VEW1YR",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/roborock-q10-vf-robo-aspirador-e-passa-pano-10000-pa-base-autoesvaziavel-wi-fi-branco/p/MLB53418806",
+      "precoDe": 3889,
+      "parcelas": "10x de R$243,90 sem juros",
+      "postado": "2026-11-27T20:18:08.764Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2VEW1YR.jpg"
+    },
     {
       "id": "1ehr2tD",
       "nome": "Cascata Pisca-pisca 400 LEDs Branco Quente de 10m LuvinCo",
