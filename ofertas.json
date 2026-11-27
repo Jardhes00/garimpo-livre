@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T14:04:32.114Z",
+  "atualizado": "2026-11-27T14:05:47.069Z",
   "ofertas": [
+    {
+      "id": "1uxe71i",
+      "nome": "Ômega 3 Omegafor Plus 240 Cápsulas Óleo de peixe - Vitafor",
+      "categoria": "Diversos",
+      "preco": 190.89,
+      "link": "https://meli.la/1uxe71i",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/mega-3-omegafor-plus-240-capsulas-oleo-de-peixe-vitafor/p/MLB21961481",
+      "precoDe": 416,
+      "cupomAnuncio": "R$152,71 com Cupom",
+      "postado": "2026-11-27T14:05:47.068Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1uxe71i.jpg"
+    },
     {
       "id": "24FBuCN",
       "nome": "Ar Condicionado Hw Gree G-side Auto Inverter 9k Frio 220v",
