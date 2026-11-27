@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T11:49:24.859Z",
+  "atualizado": "2026-11-27T11:50:40.239Z",
   "ofertas": [
+    {
+      "id": "2qB33AC",
+      "nome": "Shampoo Kérastase Chronologiste Bain Régénérant",
+      "categoria": "Beleza",
+      "preco": 182.75,
+      "link": "https://meli.la/2qB33AC",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/shampoo-kerastase-chronologiste-bain-regenerant/p/MLB19506481",
+      "precoDe": 299.9,
+      "pix": true,
+      "parcelas": "R$215 em 6x R$35,83 sem juros",
+      "cupomAnuncio": "Compre R$799 e ganhe R$100 OFF",
+      "postado": "2026-11-27T11:50:40.238Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2qB33AC.jpg"
+    },
     {
       "id": "2ciXfG3",
       "nome": "Caixa de som Boombox Philco Extreme Bluetooth V.5.4 300W PBX01",
