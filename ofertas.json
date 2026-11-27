@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T15:20:49.858Z",
+  "atualizado": "2026-11-27T15:22:04.718Z",
   "ofertas": [
+    {
+      "id": "21iBa8J",
+      "nome": "Intercomunicador V6 Plus Bluetooth 5.2 Para Capacete, Pack Com 2 Unidades",
+      "categoria": "Diversos",
+      "preco": 196.78,
+      "link": "https://meli.la/21iBa8J",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/intercomunicador-v6-plus-bluetooth-52-para-capacete-pack-com-2-unidades/p/MLB79151280",
+      "precoDe": 299.98,
+      "pix": true,
+      "parcelas": "R$245,98 em outros meios",
+      "postado": "2026-11-27T15:22:04.716Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-21iBa8J.jpg"
+    },
     {
       "id": "1RFkt49",
       "nome": "Notebook VAIO FE16 AMD Ryzen 3-7330U Linux 8GB RAM 256GB SSD 16\" IPS Full HD",
