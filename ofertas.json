@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T14:08:17.003Z",
+  "atualizado": "2026-11-27T14:09:32.110Z",
   "ofertas": [
+    {
+      "id": "2icVnWc",
+      "nome": "Kérastase, Bain Shampoo, Gloss Absolu, Hydra Glaze, Ação Anti-frizz com Ácido",
+      "categoria": "Beleza",
+      "preco": 159.15,
+      "link": "https://meli.la/2icVnWc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/kerastase-bain-shampoo-gloss-absolu-hydra-glaze-acao-anti-frizz-com-acido-hialuronico-acido-glicolico-e-oleo-de-rosa-silvestre-potencializa-o-brilho-250ml/p/MLB50123845",
+      "precoDe": 259.9,
+      "pix": true,
+      "parcelas": "R$187,24 em 6x R$31,21 sem juros",
+      "postado": "2026-11-27T14:09:32.109Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2icVnWc.jpg"
+    },
     {
       "id": "2hmPYrp",
       "nome": "Kit 2 Pneus 175/70R14 Firestone F-600 84T Aro 14",
