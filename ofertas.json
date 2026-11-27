@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T18:44:21.255Z",
+  "atualizado": "2026-11-27T18:45:36.340Z",
   "ofertas": [
+    {
+      "id": "2zZxWKH",
+      "nome": "Notebook Acer 15.3\" IPS - Processador Intel Core 5 120U (Substituto do Core",
+      "categoria": "Tech",
+      "preco": 2947.1,
+      "link": "https://meli.la/2zZxWKH",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/notebook-acer-153-ips-processador-intel-core-5-120u-substituto-do-core-i5-memoria-8gb-ddr5-ssd-256gb-nvme-pcie-40-2-usb-c-wifi-6-bluetooth-cinza-aspire-go-15-ag15-51p-58fy/p/MLB80110561",
+      "precoDe": 5299.9,
+      "pix": true,
+      "parcelas": "R$3.348,98 em 10x R$334,90 sem juros",
+      "postado": "2026-11-27T18:45:36.338Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2zZxWKH.jpg"
+    },
     {
       "id": "1mWJcdB",
       "nome": "Impressora multifuncional Wi-Fi Epson Ecotank L3250 Mod C11CJ67301",
@@ -9034,24 +9052,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1yVgp81.jpg"
-    },
-    {
-      "id": "1AEUhxK",
-      "nome": "Bomba Submersa Caneta Palito 1/2hp 0,50cv 54m Poço Artesiano Caixa Cisterna 3",
-      "categoria": "Diversos",
-      "preco": 446.79,
-      "link": "https://meli.la/1AEUhxK",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/bomba-submersa-caneta-palito-12hp-050cv-54m-poco-artesiano-caixa-cisterna-3-pol-cano-100mm-submersivel-chacara-sitio-rancho-fazenda/p/MLB58932586",
-      "precoDe": 808.69,
-      "pix": true,
-      "parcelas": "R$525,64 em 10x R$52,56 sem juros",
-      "postado": "2026-11-25T18:44:45.230Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1AEUhxK.jpg"
     }
   ]
 }
