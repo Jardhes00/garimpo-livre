@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T11:11:53.760Z",
+  "atualizado": "2026-11-27T11:13:08.851Z",
   "ofertas": [
+    {
+      "id": "1YaSM6F",
+      "nome": "L'Oréal Paris Elseve Óleo Extraordinário 100ml - Leave In Anti Frizz Protetor",
+      "categoria": "Diversos",
+      "preco": 29.9,
+      "link": "https://meli.la/1YaSM6F",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/loreal-paris-elseve-oleo-extraordinario-100ml-leave-in-anti-frizz-protetor-termico-tratamento-reconstrutor-para-todos-os-tipos-de-cabelo/p/MLB26080271",
+      "precoDe": 64.19,
+      "postado": "2026-11-27T11:13:08.849Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1YaSM6F.jpg"
+    },
     {
       "id": "2HUBy42",
       "nome": "Forno Elétrico Britânia 44L Preto Dupla Resistência 1500W BFE44P 127V",
