@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T19:40:37.260Z",
+  "atualizado": "2026-11-27T19:41:52.999Z",
   "ofertas": [
+    {
+      "id": "1rrWWLs",
+      "nome": "Robô Aspirador De Pó Inteligente Passa Pano Mapeamento Ekaza Preto",
+      "categoria": "Casa",
+      "preco": 609.99,
+      "link": "https://meli.la/1rrWWLs",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/robo-aspirador-de-po-inteligente-passa-pano-mapeamento-ekaza-preto/p/MLB61991863",
+      "precoDe": 989.99,
+      "parcelas": "10x de R$61 sem juros",
+      "postado": "2026-11-27T19:41:52.997Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1rrWWLs.jpg"
+    },
     {
       "id": "2kUrGHP",
       "nome": "Ventilador de Coluna 40cm Super Power VSP40C 6 Pás 3 Velocidades Mondial",
@@ -9169,24 +9186,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2A3eN6x.jpg"
-    },
-    {
-      "id": "1jhmR8y",
-      "nome": "Bicicleta Ergométrica Spinning Bike Ergométrica It's X11",
-      "categoria": "Esporte",
-      "preco": 414.2,
-      "link": "https://meli.la/1jhmR8y",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/bicicleta-ergometrica-spinning-bike-ergometrica-its-x11/up/MLBU4558536627",
-      "precoDe": 1399,
-      "pix": true,
-      "parcelas": "R$ 436 em outros meios",
-      "postado": "2026-11-25T19:41:01.170Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1jhmR8y.jpg"
     }
   ]
 }
