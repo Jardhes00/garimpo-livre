@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T20:10:38.884Z",
+  "atualizado": "2026-11-27T20:11:53.901Z",
   "ofertas": [
+    {
+      "id": "2oTNm9S",
+      "nome": "Jogo De Toalhas Buddemeyer Bella Extra Soft Banho 4 Grafite/cinza Lisa",
+      "categoria": "Games",
+      "preco": 127.42,
+      "link": "https://meli.la/2oTNm9S",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/jogo-de-toalhas-buddemeyer-bella-extra-soft-banho-4-grafitecinza-lisa/p/MLB48810551",
+      "precoDe": 229.9,
+      "pix": true,
+      "parcelas": "R$169,90 em 5x R$33,98 sem juros",
+      "cupomAnuncio": "R$112,42 com Cupom",
+      "postado": "2026-11-27T20:11:53.899Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2oTNm9S.jpg"
+    },
     {
       "id": "2DqChSp",
       "nome": "Cadeira De Escritório Ergonômica Elements Siggy Preta Preto Mesh Premium Nr17",
