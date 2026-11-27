@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T16:15:51.188Z",
+  "atualizado": "2026-11-27T16:17:06.084Z",
   "ofertas": [
+    {
+      "id": "2JiS3ji",
+      "nome": "Projetor Bettdow Ac1099 1200ansi Equipado Sistemavidaa Dolby",
+      "categoria": "Diversos",
+      "preco": 1659,
+      "link": "https://meli.la/2JiS3ji",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/projetor-bettdow-ac1099-1200ansi-equipado-sistemavidaa-dolby/up/MLBU5608169443",
+      "precoDe": 2599,
+      "parcelas": "10x de R$165,90 sem juros",
+      "cupomAnuncio": "R$1.634 com Cupom",
+      "postado": "2026-11-27T16:17:06.082Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2JiS3ji.jpg"
+    },
     {
       "id": "1nR3hzC",
       "nome": "Relógio oficial Casio G Shock Gbd-200",
@@ -9959,24 +9977,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1qRZ3cb.jpg"
-    },
-    {
-      "id": "2bKhHmV",
-      "nome": "Cuba Gourmet para Cozinha Aço Inox 201 50x40cm Nawa Prata - Pingoo.casa",
-      "categoria": "Casa",
-      "preco": 98.51,
-      "link": "https://meli.la/2bKhHmV",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/cuba-gourmet-para-cozinha-aco-inox-201-50x40cm-nawa-prata-pingoocasa/p/MLB26853781",
-      "precoDe": 219.9,
-      "pix": true,
-      "parcelas": "R$ 115,90 em outros meios",
-      "postado": "2026-11-25T16:15:55.208Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2bKhHmV.jpg"
     }
   ]
 }
