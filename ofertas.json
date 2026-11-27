@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T19:49:23.075Z",
+  "atualizado": "2026-11-27T19:50:38.134Z",
   "ofertas": [
+    {
+      "id": "2gj7sen",
+      "nome": "Micro-ondas LG 30L Branco Limpa Fácil - 127V",
+      "categoria": "Casa",
+      "preco": 519,
+      "link": "https://meli.la/2gj7sen",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/micro-ondas-lg-30l-branco-limpa-facil-127v/p/MLB15782426",
+      "precoDe": 799,
+      "parcelas": "10x de R$51,90 sem juros",
+      "postado": "2026-11-27T19:50:38.131Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2gj7sen.jpg"
+    },
     {
       "id": "2guKqCZ",
       "nome": "Micro-ondas Electrolux Efficient 34L Branco Função Descongelar e Receitas",
@@ -9201,24 +9218,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-33Ycita.jpg"
-    },
-    {
-      "id": "24TivPs",
-      "nome": "Smartphone Motorola Moto G67 5g - 256gb 4gb Ram + 8gb Ram Boost, Camera 50mp Sony Lytia 600, Tela 1.5k Extreme Amoled 120hz, Ultrarresistente - Chumbo",
-      "categoria": "Tech",
-      "preco": 1553.34,
-      "link": "https://meli.la/24TivPs",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/p/MLB65319819",
-      "precoDe": 2099,
-      "pix": true,
-      "parcelas": "R$ 1.725,93 em 2x de R$ 862,96 sem juros",
-      "postado": "2026-11-25T19:50:16.407Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-24TivPs.jpg"
     }
   ]
 }
