@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T20:53:10.363Z",
+  "atualizado": "2026-11-27T20:54:25.117Z",
   "ofertas": [
+    {
+      "id": "1ERLNRV",
+      "nome": "Pré-treino Evolution 300G Termogênico Blueberry - Soldiers Nutrition",
+      "categoria": "Suplementos",
+      "preco": 37.9,
+      "link": "https://meli.la/1ERLNRV",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/pre-treino-evolution-300g-termogenico-blueberry-soldiers-nutrition/p/MLB29220995",
+      "precoDe": 99.9,
+      "cupomAnuncio": "Compre R$150 e ganhe R$10 OFF",
+      "postado": "2026-11-27T20:54:25.116Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1ERLNRV.jpg"
+    },
     {
       "id": "2fJPDuE",
       "nome": "Forno De Bancada Elétrico Dako Pratiko 70 L Com Grill Preto Preto",
