@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T12:49:27.115Z",
+  "atualizado": "2026-11-27T12:50:42.096Z",
   "ofertas": [
+    {
+      "id": "2sUUqxr",
+      "nome": "Lava-Roupas Líquido Brilhante Limpeza Total 3L",
+      "categoria": "Diversos",
+      "preco": 22.24,
+      "link": "https://meli.la/2sUUqxr",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/lava-roupas-liquido-brilhante-limpeza-total-3l/p/MLB17000921",
+      "precoDe": 31.49,
+      "postado": "2026-11-27T12:50:42.095Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2sUUqxr.jpg"
+    },
     {
       "id": "1SBf8nn",
       "nome": "Proteína Adaptogen Science Tasty Whey Gourmet em pó sabor Doce de leite x 900g",
