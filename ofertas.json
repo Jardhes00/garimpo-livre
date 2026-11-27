@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T20:13:08.766Z",
+  "atualizado": "2026-11-27T20:14:23.756Z",
   "ofertas": [
+    {
+      "id": "14xooFx",
+      "nome": "Proteína Growth Supplements Whey concentrado em pó sabor Milkshake de chocolate",
+      "categoria": "Suplementos",
+      "preco": 189.9,
+      "link": "https://meli.la/14xooFx",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/proteina-growth-supplements-whey-concentrado-em-po-sabor-milkshake-de-chocolate-x-1kg/p/MLB19049048",
+      "precoDe": 279.9,
+      "postado": "2026-11-27T20:14:23.754Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-14xooFx.jpg"
+    },
     {
       "id": "2xezPjq",
       "nome": "Proteína Growth Supplements Whey concentrado em pó sabor Leite em Pó x 1kg",
