@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T11:08:08.658Z",
+  "atualizado": "2026-11-27T11:09:23.711Z",
   "ofertas": [
+    {
+      "id": "1dT61Nc",
+      "nome": "Controle Microsoft Wireless Carbon Black para Xbox Series X|S e PC",
+      "categoria": "Games",
+      "preco": 329.99,
+      "link": "https://meli.la/1dT61Nc",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/controle-microsoft-wireless-carbon-black-para-xbox-series-xs-e-pc/p/MLB16268160",
+      "precoDe": 550,
+      "parcelas": "7x de R$52,71 sem juros",
+      "postado": "2026-11-27T11:09:23.709Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1dT61Nc.jpg"
+    },
     {
       "id": "2H58b9U",
       "nome": "Kit Wella Invigo Nutri Enrich Sh, Cond E Válvulas",
