@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T20:30:39.287Z",
+  "atualizado": "2026-11-27T20:31:54.289Z",
   "ofertas": [
+    {
+      "id": "15yf3jD",
+      "nome": "Relógio Life Formatura Feminino de Aço Dourado e Prateado",
+      "categoria": "Moda",
+      "preco": 230.4,
+      "link": "https://meli.la/15yf3jD",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/relogio-life-formatura-feminino-de-aco-dourado-e-prateado/p/MLB69778335",
+      "precoDe": 750,
+      "parcelas": "6x de R$38,40 sem juros",
+      "postado": "2026-11-27T20:31:54.287Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-15yf3jD.jpg"
+    },
     {
       "id": "16xXYQy",
       "nome": "Mantecorp Hidratante Facial Epidrat Calm Restaurador - 40g",
