@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T20:44:24.923Z",
+  "atualizado": "2026-11-27T20:45:39.864Z",
   "ofertas": [
+    {
+      "id": "2PZEfe5",
+      "nome": "Computador Completo Intel Core I5, 8gb Ram, Ssd 240gb, Monitor 19 Led, Windows",
+      "categoria": "Tech",
+      "preco": 929.9,
+      "link": "https://meli.la/2PZEfe5",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/computador-completo-intel-core-i5-8gb-ram-ssd-240gb-monitor-19-led-windows-10-pro-bluepc-plus-cdbp-plu101/p/MLB71909304",
+      "precoDe": 1899,
+      "parcelas": "10x de R$101,99 sem juros",
+      "postado": "2026-11-27T20:45:39.862Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2PZEfe5.jpg"
+    },
     {
       "id": "2sSM94U",
       "nome": "Kit 10 Pendentes Pelúcia Enfeite Árvore Natal Pingentes Papai Noel Grande 16cm",
