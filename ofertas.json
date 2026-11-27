@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T18:43:06.249Z",
+  "atualizado": "2026-11-27T18:44:21.255Z",
   "ofertas": [
+    {
+      "id": "1mWJcdB",
+      "nome": "Impressora multifuncional Wi-Fi Epson Ecotank L3250 Mod C11CJ67301",
+      "categoria": "Tech",
+      "preco": 852.51,
+      "link": "https://meli.la/1mWJcdB",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/impressora-multifuncional-wi-fi-epson-ecotank-l3250-mod-c11cj67301/p/MLB18446928",
+      "precoDe": 1499,
+      "pix": true,
+      "parcelas": "R$1.089,90 em 10x R$108,99 sem juros",
+      "postado": "2026-11-27T18:44:21.253Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1mWJcdB.jpg"
+    },
     {
       "id": "2e2QDhC",
       "nome": "Smartphone Motorola Moto G17 4g - 128gb 4gb Ram + 8gb Ram Boost, Camera 50mp",
@@ -9034,24 +9052,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1AEUhxK.jpg"
-    },
-    {
-      "id": "2ooKai8",
-      "nome": "Travel System Cosco Kids, Reverse Duo, 0 a 15kg, Preto Bronze",
-      "categoria": "Diversos",
-      "preco": 664.9,
-      "link": "https://meli.la/2ooKai8",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/travel-system-cosco-kids-reverse-duo-0-a-15kg-preto-bronze/p/MLB37112508",
-      "precoDe": 999,
-      "pix": true,
-      "parcelas": "R$699,90 em 12x R$58,32 sem juros",
-      "postado": "2026-11-25T18:43:30.026Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2ooKai8.jpg"
     }
   ]
 }
