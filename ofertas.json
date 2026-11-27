@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T14:58:18.721Z",
+  "atualizado": "2026-11-27T14:59:33.543Z",
   "ofertas": [
+    {
+      "id": "2jsshrL",
+      "nome": "Armani Beauty Perfume Masculino Stronger With You Parfum 100ml",
+      "categoria": "Beleza",
+      "preco": 499.99,
+      "link": "https://meli.la/2jsshrL",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/armani-beauty-perfume-masculino-stronger-with-you-parfum-100ml/p/MLB46401428",
+      "precoDe": 929,
+      "cupomAnuncio": "Compre R$599 e ganhe 5% OFF",
+      "postado": "2026-11-27T14:59:33.542Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2jsshrL.jpg"
+    },
     {
       "id": "1e8K4HK",
       "nome": "ISDIN Protetor Solar Facial Fusion Water Magic Color FPS 50 – Cor Clara - 50ml",
