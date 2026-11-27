@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T15:08:18.690Z",
+  "atualizado": "2026-11-27T15:09:34.032Z",
   "ofertas": [
+    {
+      "id": "1RDp7te",
+      "nome": "ISDIN Clareador Facial Foto Ultra Active Unify Color FPS 99 - 50ml",
+      "categoria": "Diversos",
+      "preco": 76.63,
+      "link": "https://meli.la/1RDp7te",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/isdin-clareador-facial-foto-ultra-active-unify-color-fps-99-50ml/p/MLB24528173",
+      "precoDe": 149.9,
+      "pix": true,
+      "parcelas": "R$90,15 em outros meios",
+      "cupomAnuncio": "Compre R$399,90 e ganhe 20% OFF",
+      "postado": "2026-11-27T15:09:34.031Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1RDp7te.jpg"
+    },
     {
       "id": "1GqcDYp",
       "nome": "Panificadora Multipane 12P Com Função Timer e Antiaderente Potência de 550W Cor",
