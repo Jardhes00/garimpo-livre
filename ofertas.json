@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T12:16:55.703Z",
+  "atualizado": "2026-11-27T12:18:11.099Z",
   "ofertas": [
+    {
+      "id": "27kNQYL",
+      "nome": "ISDIN Creme Corporal Woman Antiestrias Apto para Grávidas - 245g",
+      "categoria": "Beleza",
+      "preco": 83.61,
+      "link": "https://meli.la/27kNQYL",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/isdin-creme-corporal-woman-antiestrias-apto-para-gravidas-245g/p/MLB19510151",
+      "precoDe": 159.9,
+      "pix": true,
+      "parcelas": "R$92,90 em outros meios",
+      "cupomAnuncio": "Compre R$399,90 e ganhe 20% OFF",
+      "postado": "2026-11-27T12:18:11.098Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-27kNQYL.jpg"
+    },
     {
       "id": "2C85pkN",
       "nome": "Lava E Seca 11kg Branca Slim Conectada Midea Branco",
