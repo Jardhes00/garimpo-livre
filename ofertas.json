@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T20:45:39.864Z",
+  "atualizado": "2026-11-27T20:46:54.818Z",
   "ofertas": [
+    {
+      "id": "1MUjdHZ",
+      "nome": "Sofá Retrátil Reclinável Zurique 2,50m Suede Velut Cinza Molas no Assento",
+      "categoria": "Diversos",
+      "preco": 1747.08,
+      "link": "https://meli.la/1MUjdHZ",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/sofa-retratil-reclinavel-zurique-250m-suede-velut-cinza-molas-no-assento-king-house/p/MLB26120857",
+      "precoDe": 2859.89,
+      "pix": true,
+      "parcelas": "R$1.899 em 10x R$189,90 sem juros",
+      "cupomAnuncio": "R$1.609,08 com Cupom",
+      "postado": "2026-11-27T20:46:54.816Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1MUjdHZ.jpg"
+    },
     {
       "id": "2PZEfe5",
       "nome": "Computador Completo Intel Core I5, 8gb Ram, Ssd 240gb, Monitor 19 Led, Windows",
