@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T19:55:38.154Z",
+  "atualizado": "2026-11-27T19:56:53.404Z",
   "ofertas": [
+    {
+      "id": "2v1ff8S",
+      "nome": "Ventilador De Mesa Arno Air Force Va46 40cm 6 Pás",
+      "categoria": "Casa",
+      "preco": 199.2,
+      "link": "https://meli.la/2v1ff8S",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-mesa-arno-air-force-va46-40cm-6-pas/p/MLB61323368",
+      "precoDe": 309.99,
+      "parcelas": "6x de R$33,20 sem juros",
+      "postado": "2026-11-27T19:56:53.403Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2v1ff8S.jpg"
+    },
     {
       "id": "23fhd54",
       "nome": "Sérum Ultra Concentrado La Roche Posay Effaclar noite para pele grasa de 30mL",
