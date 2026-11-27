@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T16:43:21.964Z",
+  "atualizado": "2026-11-27T16:44:36.891Z",
   "ofertas": [
+    {
+      "id": "2DW7KBr",
+      "nome": "Sérum de vitamina C 12 pura La Roche-Posay 30ml",
+      "categoria": "Suplementos",
+      "preco": 188.46,
+      "link": "https://meli.la/2DW7KBr",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/serum-de-vitamina-c-12-pura-la-roche-posay-30ml/p/MLB47223033",
+      "precoDe": 329.9,
+      "parcelas": "6x de R$31,41 sem juros",
+      "cupomAnuncio": "Compre R$299,90 e ganhe 15% OFF",
+      "postado": "2026-11-27T16:44:36.889Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2DW7KBr.jpg"
+    },
     {
       "id": "2YQqKop",
       "nome": "Jogo De 6 Pratos Rasos 27,5cm Ryo Maresia Cor Marrom Off White Oxford",
@@ -9965,22 +9983,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-1KCTrnL.jpg"
-    },
-    {
-      "id": "2TLECKa",
-      "nome": "Ventilador de parede Wap Rajada Pro 60 turbo com 5 pás",
-      "categoria": "Casa",
-      "preco": 262.99,
-      "link": "https://meli.la/2TLECKa",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/ventilador-de-parede-wap-rajada-pro-60-turbo-com-5-pas/p/MLB21814864",
-      "precoDe": 649.99,
-      "postado": "2026-11-25T16:43:26.282Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2TLECKa.jpg"
     }
   ]
 }
