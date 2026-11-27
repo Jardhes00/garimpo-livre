@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T12:54:26.729Z",
+  "atualizado": "2026-11-27T12:55:42.341Z",
   "ofertas": [
+    {
+      "id": "2zuAAmZ",
+      "nome": "Red Bull Energético, Sugar Free, Sem Açúcar, 250ml, 24 latas",
+      "categoria": "Diversos",
+      "preco": 178.8,
+      "link": "https://meli.la/2zuAAmZ",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/red-bull-energetico-sugar-free-sem-acucar-250ml-24-latas/p/MLB21619809",
+      "precoDe": 251.76,
+      "cupomAnuncio": "R$151,98 com Cupom",
+      "postado": "2026-11-27T12:55:42.338Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2zuAAmZ.jpg"
+    },
     {
       "id": "1MrQGQr",
       "nome": "Escova modeladora philco pec17a Revestimento cerâmica bivolt Preto",
