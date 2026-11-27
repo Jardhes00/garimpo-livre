@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T18:38:05.927Z",
+  "atualizado": "2026-11-27T18:39:21.265Z",
   "ofertas": [
+    {
+      "id": "2wAwc15",
+      "nome": "Robô Aspirador KABUM! smart K800 Pro Mapeamento Laser Autolimpante 13000Pa Preto",
+      "categoria": "Casa",
+      "preco": 951.38,
+      "link": "https://meli.la/2wAwc15",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/robo-aspirador-kabum-smart-k800-pro-mapeamento-laser-autolimpante-13000pa-preto/p/MLB79373075",
+      "precoDe": 1333.32,
+      "pix": true,
+      "parcelas": "R$1.022,99 em 10x R$102,30 sem juros",
+      "postado": "2026-11-27T18:39:21.263Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2wAwc15.jpg"
+    },
     {
       "id": "17S7Uke",
       "nome": "Smartphone Samsung Galaxy A07 4G 256GB 8GB Preto 6,7\"",
@@ -9029,24 +9047,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2HoCK2q.jpg"
-    },
-    {
-      "id": "27D1hsB",
-      "nome": "Colchão Queen Luuna Blue, Espuma 20 cm com Bloqueio de Movimento, 10 Anos de",
-      "categoria": "Casa",
-      "preco": 1637.8,
-      "link": "https://meli.la/27D1hsB",
-      "frete": false,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/colchao-queen-luuna-blue-espuma-20-cm-com-bloqueio-de-movimento-10-anos-de-garantia/p/MLB25810851",
-      "precoDe": 3280,
-      "pix": true,
-      "parcelas": "R$1.724 em 10x R$172,40 sem juros",
-      "postado": "2026-11-25T18:38:30.178Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-27D1hsB.jpg"
     }
   ]
 }
