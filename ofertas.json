@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T15:17:04.059Z",
+  "atualizado": "2026-11-27T15:18:19.187Z",
   "ofertas": [
+    {
+      "id": "2kA2bfd",
+      "nome": "Whey Protein Growth Concentrado 1kg – Sabor Baunilha",
+      "categoria": "Suplementos",
+      "preco": 174.71,
+      "link": "https://meli.la/2kA2bfd",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/whey-protein-growth-concentrado-1kg-sabor-baunilha/p/MLB18953093",
+      "precoDe": 279.9,
+      "pix": true,
+      "parcelas": "R$189,90 em outros meios",
+      "postado": "2026-11-27T15:18:19.185Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2kA2bfd.jpg"
+    },
     {
       "id": "2nXSu6w",
       "nome": "Caixa de Som Speaker AIWA SP-01 20W Bluetooth 15H IP65 RGB USB TWS",
