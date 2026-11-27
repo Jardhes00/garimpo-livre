@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T12:28:11.360Z",
+  "atualizado": "2026-11-27T12:29:25.974Z",
   "ofertas": [
+    {
+      "id": "2Fxndc6",
+      "nome": "Sabão Líquido Omo Lavagem Perfeita 3l",
+      "categoria": "Diversos",
+      "preco": 30.39,
+      "link": "https://meli.la/2Fxndc6",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/sabao-liquido-omo-lavagem-perfeita-3l/p/MLB17001015",
+      "precoDe": 42.55,
+      "postado": "2026-11-27T12:29:25.973Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2Fxndc6.jpg"
+    },
     {
       "id": "2FvapFH",
       "nome": "Relógio Casio Masculino G-shock Digital Preto Dw-5600bb-1dr",
