@@ -1,6 +1,22 @@
 {
-  "atualizado": "2026-11-27T16:57:07.749Z",
+  "atualizado": "2026-11-27T16:58:22.304Z",
   "ofertas": [
+    {
+      "id": "1eDDEei",
+      "nome": "Panela De Pressão Elétrica Fmaxx Kitchen Chef 4 Litros 800w 60hz",
+      "categoria": "Casa",
+      "preco": 184.9,
+      "link": "https://meli.la/1eDDEei",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/panela-de-pressao-eletrica-fmaxx-kitchen-chef-4-litros-800w-60hz/p/MLB66160197",
+      "precoDe": 499,
+      "postado": "2026-11-27T16:58:22.301Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1eDDEei.jpg"
+    },
     {
       "id": "1AsF87G",
       "nome": "Babá Eletrônica Monitor 2.4 Sem Fio Zoom Baby On Maxi Baby",
@@ -9967,24 +9983,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-2eFbC6L.jpg"
-    },
-    {
-      "id": "1tbGY3V",
-      "nome": "Controle GameSir G7 Pro Tri-Mode Xbox Series X e S One PC Android Hall Effect TMR Wireless Base Carregadora Edição Dragon's Dogma 2",
-      "categoria": "Tech",
-      "preco": 395.41,
-      "link": "https://meli.la/1tbGY3V",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/controle-gamesir-g7-pro-tri-mode-xbox-series-x-e-s-one-pc-android-hall-effect-tmr-wireless-base-carregadora-edicao-dragons-dogma-2/p/MLB70107397",
-      "precoDe": 999,
-      "pix": true,
-      "parcelas": "R$ 439,34 em outros meios",
-      "postado": "2026-11-25T16:57:11.930Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-1tbGY3V.jpg"
     }
   ]
 }
