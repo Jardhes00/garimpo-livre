@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T19:50:38.134Z",
+  "atualizado": "2026-11-27T19:51:53.294Z",
   "ofertas": [
+    {
+      "id": "21eVB1r",
+      "nome": "Monitor Fmaxx 19'' Led Com Hdmi Vga Vesa cor Preto MQ19V",
+      "categoria": "Tech",
+      "preco": 189.9,
+      "link": "https://meli.la/21eVB1r",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/monitor-fmaxx-19-led-com-hdmi-vga-vesa-cor-preto-mq19v/p/MLB29902763",
+      "precoDe": 379.99,
+      "cupomAnuncio": "Compre R$199 e ganhe 20% OFF",
+      "postado": "2026-11-27T19:51:53.292Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-21eVB1r.jpg"
+    },
     {
       "id": "2gj7sen",
       "nome": "Micro-ondas LG 30L Branco Limpa Fácil - 127V",
