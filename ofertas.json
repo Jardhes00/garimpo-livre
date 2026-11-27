@@ -1,6 +1,23 @@
 {
-  "atualizado": "2026-11-27T16:28:21.415Z",
+  "atualizado": "2026-11-27T16:29:36.495Z",
   "ofertas": [
+    {
+      "id": "1Kwcwut",
+      "nome": "Cadeira de Bebê Chicco Everone i-Size Giratória 360° e Isofix Preto",
+      "categoria": "Bebê",
+      "preco": 1068.09,
+      "link": "https://meli.la/1Kwcwut",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/cadeira-de-bebe-chicco-everone-i-size-giratoria-360-e-isofix-preto/p/MLB67412367",
+      "precoDe": 3199,
+      "parcelas": "10x de R$106,81 sem juros",
+      "postado": "2026-11-27T16:29:36.492Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1Kwcwut.jpg"
+    },
     {
       "id": "2UKi2Gp",
       "nome": "Oleo Para Motores A Diesel 15w40 Disel Óleo Lubrificante X1",
@@ -9965,23 +9982,6 @@
       "origem": "grupo",
       "autor": "bot",
       "imagem": "img/wa-211chyo.jpg"
-    },
-    {
-      "id": "2Bq7Ysa",
-      "nome": "Seringa Insulina 100ui Agulha Fixa 8x0,30mm 100 Unidades Sr 1 Ml",
-      "categoria": "Diversos",
-      "preco": 103.99,
-      "link": "https://meli.la/2Bq7Ysa",
-      "frete": true,
-      "afiliado": true,
-      "anuncio": "https://www.mercadolivre.com.br/seringa-insulina-100ui-agulha-fixa-8x030mm-100-unidades-sr-1-ml/p/MLB65462457",
-      "precoDe": 249.9,
-      "cupomAnuncio": "Compre R$119 e ganhe R$8 OFF por seguir a loja",
-      "postado": "2026-11-25T16:28:25.896Z",
-      "conferido": "2026-11-25",
-      "origem": "grupo",
-      "autor": "bot",
-      "imagem": "img/wa-2Bq7Ysa.jpg"
     }
   ]
 }
