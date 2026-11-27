@@ -1,6 +1,25 @@
 {
-  "atualizado": "2026-11-27T20:08:08.652Z",
+  "atualizado": "2026-11-27T20:09:23.711Z",
   "ofertas": [
+    {
+      "id": "2RwWBpx",
+      "nome": "Máquina De Solda Mig Esab Bantam Mig Inversora Bivolt 110/220v",
+      "categoria": "Auto",
+      "preco": 575.91,
+      "link": "https://meli.la/2RwWBpx",
+      "frete": true,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/maquina-de-solda-mig-esab-bantam-mig-inversora-bivolt-110220v/p/MLB54109453",
+      "precoDe": 819,
+      "pix": true,
+      "parcelas": "R$639,90 em outros meios",
+      "cupomAnuncio": "R$567,81 com Cupom por seguir a loja",
+      "postado": "2026-11-27T20:09:23.709Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-2RwWBpx.jpg"
+    },
     {
       "id": "1vNVk8V",
       "nome": "Bicicleta Aro 29 Gts Dexter 24 Marchas Freio A Disco Cor Grafite Com Preto",
