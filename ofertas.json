@@ -1,6 +1,24 @@
 {
-  "atualizado": "2026-11-27T14:54:33.462Z",
+  "atualizado": "2026-11-27T14:55:48.467Z",
   "ofertas": [
+    {
+      "id": "1SuaACZ",
+      "nome": "Aspirador de Pó e Água WAP GTW Inox 15 Barril 1700W com Bocal de Sopro e",
+      "categoria": "Casa",
+      "preco": 324,
+      "link": "https://meli.la/1SuaACZ",
+      "frete": false,
+      "afiliado": true,
+      "anuncio": "https://www.mercadolivre.com.br/aspirador-de-po-e-agua-wap-gtw-inox-15-barril-1700w-com-bocal-de-sopro-e-acessorios/p/MLB20862597",
+      "precoDe": 469,
+      "pix": true,
+      "parcelas": "R$405 em 8x R$50,62 sem juros",
+      "postado": "2026-11-27T14:55:48.465Z",
+      "conferido": "2026-11-27",
+      "origem": "grupo",
+      "autor": "bot",
+      "imagem": "img/wa-1SuaACZ.jpg"
+    },
     {
       "id": "11E7N3S",
       "nome": "Panificadora Automática Master Bread Mondial 700W NPF-53",
